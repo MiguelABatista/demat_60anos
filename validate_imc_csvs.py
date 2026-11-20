@@ -64,6 +64,16 @@ def validate_year(year: int) -> list[str]:
         samples = empty_univ[["Pos", "Full name", "Sum", "Prize"]].head(5).to_dict("records")
         issues.append(f"{len(empty_univ)} linhas com University vazio: {samples}")
 
+    # 1b. Checagem de vazamento de letras entre células adjacentes (ex: 'rUniversity', 'aUniversity')
+    bad_u = df[df["University"].str.match(r"^[a-z]{1,4}[A-Z]")]
+    bad_f = df[df["Family name"].str.match(r"^[a-z]{1,4}[A-Z]")]
+    if len(bad_u):
+        samples = bad_u[["Pos", "Full name", "University"]].head(5).to_dict("records")
+        issues.append(f"{len(bad_u)} linhas com possível bleed em University: {samples}")
+    if len(bad_f):
+        samples = bad_f[["Pos", "First name", "Family name"]].head(5).to_dict("records")
+        issues.append(f"{len(bad_f)} linhas com possível bleed em Family name: {samples}")
+
     # 2. Prize
     empty_prize = df[df["Prize"].str.strip() == ""]
     if len(empty_prize):

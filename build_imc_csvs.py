@@ -395,101 +395,398 @@ def parse_2002() -> list[dict[str, Any]]:
 
 
 # ---------------------------------------------------------------------------
-# 2003 - 2007: PDFs com tabelas pdfplumber de 20/22/23 colunas
+# Helper unificado para PDFs tabulares horizontais (2003-2008, 2013, 2014):
+# usa geometria (linhas/colunas) do pdfplumber + spans não-clippados do PyMuPDF
+# para evitar 100% de intercalação de texto quando uma célula transborda!
+# ---------------------------------------------------------------------------
+def _split_chars_at_boundary(chars: list[dict[str, Any]], boundary_x: float) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    """Divide uma lista de chars em torno de boundary_x, evitando cortar a última letra
+    minúscula antes de uma maiúscula quando duas células se encostam sem espaço."""
+    split_i = len(chars)
+    for i, ch in enumerate(chars):
+        cxc = (ch["bbox"][0] + ch["bbox"][2]) / 2.0
+        if cxc >= boundary_x - 1.0:
+            split_i = i
+            break
+    if 0 < split_i < len(chars) and chars[split_i]["c"].islower():
+        for j in range(split_i, min(len(chars), split_i + 5)):
+            if chars[j]["c"] == " ":
+                split_i = j + 1
+                break
+            if chars[j]["c"].isupper() and j > 0 and chars[j - 1]["c"].islower():
+                split_i = j
+                break
+    return chars[:split_i], chars[split_i:]
+
+
+def _join_col_spans(items: list[tuple[float, float, float, str]], join_hyphen: bool = False) -> str:
+    """Concatena spans da mesma coluna preservando quebras de linha e unindo sem espaço
+    fragmentos colados na mesma linha (ex: 'Micha' + 'ł' + 'ek' -> 'Michałek')."""
+    if not items:
+        return ""
+    items = sorted(items, key=lambda s: (s[1], s[0]))
+    lines: list[list[tuple[float, float, float, str]]] = []
+    for sp in items:
+        if not lines or abs(sp[1] - lines[-1][0][1]) > 4.0:
+            lines.append([sp])
+        else:
+            lines[-1].append(sp)
+    line_strs: list[str] = []
+    for ln in lines:
+        ln.sort(key=lambda s: s[0])
+        out = ""
+        prev_x1: float | None = None
+        for x0, _, x1, txt in ln:
+            if prev_x1 is not None and (x0 - prev_x1) >= 1.2 and not out.endswith(" ") and not txt.startswith(" "):
+                out += " "
+            out += txt
+            prev_x1 = x1
+        line_strs.append(out.strip())
+    sep = "\n" if join_hyphen else " "
+    return clean_text(sep.join(line_strs), join_hyphen=join_hyphen)
+
+
+def extract_pdf_table_unclipped(
+    pdf_path: Path,
+    year: int,
+    col_names: list[str],
+    col_offset: int = 0,
+    join_hyphen: bool = False,
+) -> list[dict[str, Any]]:
+    n_cols = len(col_names)
+    num_start_idx = next(
+        (i for i, name in enumerate(col_names) if name in {"Code_D1", "D1_P1", "Sum"}),
+        n_cols,
+    )
+    univ_idx = col_names.index("University") if "University" in col_names else -1
+    prize_idx = col_names.index("Prize_raw") if "Prize_raw" in col_names else -1
+
+    flags = pymupdf.TEXTFLAGS_DICT & ~pymupdf.TEXT_CLIP
+    rows: list[dict[str, Any]] = []
+    doc = pymupdf.open(pdf_path)
+
+    with pdfplumber.open(pdf_path) as pdf:
+        for ppage, mpage in zip(pdf.pages, doc):
+            tables = ppage.find_tables()
+            if not tables:
+                continue
+            tbl = max(tables, key=lambda t: len(t.rows))
+            if len(tbl.columns) < col_offset + n_cols:
+                continue
+
+            col_xs: list[tuple[float, float]] = []
+            for c_idx in range(col_offset, col_offset + n_cols):
+                col_cells = [cell for cell in tbl.columns[c_idx].cells if cell is not None]
+                narrowest = min(col_cells, key=lambda c: c[2] - c[0])
+                col_xs.append((narrowest[0], narrowest[2]))
+
+            def col_idx_for_x(x: float) -> int:
+                if prize_idx >= 0 and x >= col_xs[prize_idx][0] - 1.5:
+                    return prize_idx
+                for idx, (cx0, cx1) in enumerate(col_xs):
+                    if cx0 - 1.5 <= x < cx1 - 0.5:
+                        return idx
+                return min(range(n_cols), key=lambda i: abs(x - col_xs[i][0]))
+
+            raw_spans = []
+            for b in mpage.get_text("rawdict", flags=flags)["blocks"]:
+                for l in b.get("lines", []):
+                    for s in l["spans"]:
+                        chars = s.get("chars", [])
+                        non_ws = [ch for ch in chars if not ch["c"].isspace()]
+                        if not non_ws:
+                            continue
+                        # Recorta espaços das pontas para usar o bbox real do texto visível
+                        first_i = chars.index(non_ws[0])
+                        last_i = len(chars) - 1 - list(reversed(chars)).index(non_ws[-1])
+                        trimmed = chars[first_i : last_i + 1]
+                        txt = "".join(ch["c"] for ch in trimmed)
+                        x0 = trimmed[0]["bbox"][0]
+                        x1 = trimmed[-1]["bbox"][2]
+                        y0, y1 = s["bbox"][1], s["bbox"][3]
+                        raw_spans.append((x0, (y0 + y1) / 2.0, x1, txt, trimmed))
+
+            for r_obj in tbl.rows:
+                c0 = r_obj.cells[col_offset] if len(r_obj.cells) > col_offset else None
+                if c0 is None:
+                    continue
+                ry0, ry1 = c0[1], c0[3]
+                if (ry1 - ry0) > 80:
+                    continue
+
+                # Estritamente dentro de [ry0, ry1) evita pegar spans da linha adjacente
+                row_spans = [sp for sp in raw_spans if ry0 <= sp[1] < ry1]
+                if not row_spans:
+                    continue
+
+                rec: dict[str, list[tuple[float, float, float, str]]] = {}
+                overflow_candidates: list[tuple[int, float, float, float, list[dict[str, Any]]]] = []
+
+                for x0, yc, x1, txt, chars in sorted(row_spans, key=lambda s: (round(s[1], 1), s[0])):
+                    start_idx = col_idx_for_x(x0)
+
+                    # Prize_raw: manter span inteiro
+                    if start_idx == prize_idx:
+                        rec.setdefault("Prize_raw", []).append((x0, yc, x1, txt))
+                        continue
+
+                    # Pos: pode vir grudado com First name (ex: '2 Przemyslaw', '279Elizaveta', '8 Béla András')
+                    if start_idx == 0:
+                        if x1 > col_xs[0][1] + 2.0:
+                            m = re.match(r"^(\d+)\s*(.+)$", txt)
+                            if m and not m.group(2).isdigit():
+                                rec.setdefault("Pos", []).append((x0, yc, col_xs[0][1], m.group(1)))
+                                rec.setdefault(col_names[1], []).append((col_xs[1][0], yc, x1, m.group(2)))
+                                continue
+                        rec.setdefault("Pos", []).append((x0, yc, x1, txt))
+                        continue
+
+                    # University: pode transbordar texto à direita OU encostar em dígitos da próxima coluna
+                    if start_idx == univ_idx:
+                        if num_start_idx < n_cols and x1 > col_xs[num_start_idx][0]:
+                            split_at = len(chars)
+                            i = len(chars) - 1
+                            while (
+                                i >= 0
+                                and chars[i]["c"] in "0123456789 "
+                                and ((chars[i]["bbox"][0] + chars[i]["bbox"][2]) / 2.0) >= col_xs[num_start_idx][0] - 1.0
+                            ):
+                                split_at = i
+                                i -= 1
+                            univ_part = "".join(ch["c"] for ch in chars[:split_at]).strip()
+                            if univ_part:
+                                rec.setdefault("University", []).append((x0, yc, x1, univ_part))
+                            tail_chars = chars[split_at:]
+                            if tail_chars:
+                                by_c: dict[int, list[dict[str, Any]]] = {}
+                                for ch in tail_chars:
+                                    cxc = (ch["bbox"][0] + ch["bbox"][2]) / 2.0
+                                    ci = col_idx_for_x(cxc)
+                                    by_c.setdefault(ci, []).append(ch)
+                                for ci, chs in by_c.items():
+                                    part = "".join(c["c"] for c in chs).strip()
+                                    if part:
+                                        rec.setdefault(col_names[ci], []).append((chs[0]["bbox"][0], yc, chs[-1]["bbox"][2], part))
+                        else:
+                            rec.setdefault("University", []).append((x0, yc, x1, txt))
+                        continue
+
+                    # Colunas numéricas: se um span cruzou a borda direita (ex: '142 20'), separa por char
+                    if start_idx >= num_start_idx and x1 > col_xs[start_idx][1] + 1.5:
+                        by_c = {}
+                        for ch in chars:
+                            cxc = (ch["bbox"][0] + ch["bbox"][2]) / 2.0
+                            ci = col_idx_for_x(cxc)
+                            by_c.setdefault(ci, []).append(ch)
+                        for ci, chs in by_c.items():
+                            part = "".join(c["c"] for c in chs).strip()
+                            if part:
+                                rec.setdefault(col_names[ci], []).append((chs[0]["bbox"][0], yc, chs[-1]["bbox"][2], part))
+                        continue
+
+                    # Colunas de texto (First name, Family name, Team)
+                    rec.setdefault(col_names[start_idx], []).append((x0, yc, x1, txt))
+                    if start_idx + 1 < num_start_idx and x1 > col_xs[start_idx + 1][0] + 2.0:
+                        overflow_candidates.append((start_idx, x0, yc, x1, chars))
+
+                # Divide spans de texto que fundiram 2 ou mais colunas consecutivas quando a coluna vizinha ficou vazia
+                for start_idx, x0, yc, x1, chars in overflow_candidates:
+                    cur_idx = start_idx
+                    cur_chars = chars
+                    orig_txt = "".join(ch["c"] for ch in chars).strip()
+                    did_split = False
+                    pieces: list[tuple[int, str]] = []
+                    while cur_idx + 1 < num_start_idx and not rec.get(col_names[cur_idx + 1]):
+                        if not cur_chars or cur_chars[-1]["bbox"][2] <= col_xs[cur_idx + 1][0] + 2.0:
+                            break
+                        left_c, right_c = _split_chars_at_boundary(cur_chars, col_xs[cur_idx + 1][0])
+                        left_s = "".join(ch["c"] for ch in left_c).strip()
+                        right_s = "".join(ch["c"] for ch in right_c).strip()
+                        if not right_s:
+                            break
+                        did_split = True
+                        pieces.append((cur_idx, left_s))
+                        cur_idx += 1
+                        cur_chars = right_c
+                    if did_split:
+                        pieces.append((cur_idx, "".join(ch["c"] for ch in cur_chars).strip()))
+                        # Remove o span original de start_idx e insere as partes separadas
+                        rec[col_names[start_idx]] = [
+                            sp for sp in rec.get(col_names[start_idx], []) if sp[3] != orig_txt
+                        ]
+                        for pi, ps in pieces:
+                            if ps:
+                                rec.setdefault(col_names[pi], []).append((col_xs[pi][0], yc, col_xs[pi][1], ps))
+
+                pos = _join_col_spans(rec.get("Pos", []), join_hyphen=False)
+                if not pos or not re.fullmatch(r"\d+", pos):
+                    continue
+                joined = {k: _join_col_spans(v, join_hyphen=join_hyphen) for k, v in rec.items()}
+                rows.append(make_row(year, **joined))
+    return rows
+
+
+# ---------------------------------------------------------------------------
+# 2003 - 2008: PDFs tabulares horizontais
 # ---------------------------------------------------------------------------
 def parse_2003() -> list[dict[str, Any]]:
-    rows: list[dict[str, Any]] = []
-    with pdfplumber.open(PDF_DIR / "IMC_2003_Results.pdf") as pdf:
-        for page in pdf.pages:
-            t = max(page.extract_tables(), key=len)
-            for c in t:
-                c = [clean_text(x) for x in c]
-                if len(c) < 20:
-                    continue
-                if not c[0] or not re.match(r"^\d", c[0]):
-                    continue
-                rows.append(
-                    make_row(
-                        2003,
-                        **{
-                            "Pos": c[0],
-                            "First name": c[1],
-                            "Family name": c[2],
-                            "University": c[3],
-                            "D1_P1": c[4], "D1_P2": c[5], "D1_P3": c[6], "D1_P4": c[7], "D1_P5": c[8], "D1_P6": c[9],
-                            "Day1": c[10],
-                            "D2_P1": c[11], "D2_P2": c[12], "D2_P3": c[13], "D2_P4": c[14], "D2_P5": c[15], "D2_P6": c[16],
-                            "Day2": c[17],
-                            "Sum": c[18],
-                            "Prize_raw": c[19],
-                        },
-                    )
-                )
-    return rows
+    cols = [
+        "Pos", "First name", "Family name", "University",
+        "D1_P1", "D1_P2", "D1_P3", "D1_P4", "D1_P5", "D1_P6", "Day1",
+        "D2_P1", "D2_P2", "D2_P3", "D2_P4", "D2_P5", "D2_P6", "Day2",
+        "Sum", "Prize_raw",
+    ]
+    return extract_pdf_table_unclipped(PDF_DIR / "IMC_2003_Results.pdf", 2003, cols)
 
 
-def parse_2004_2007(year: int) -> list[dict[str, Any]]:
-    rows: list[dict[str, Any]] = []
+def parse_2004_2008(year: int) -> list[dict[str, Any]]:
+    cols = [
+        "Pos", "First name", "Family name", "University",
+        "Code_D1", "D1_P1", "D1_P2", "D1_P3", "D1_P4", "D1_P5", "D1_P6", "Day1",
+        "Code_D2", "D2_P1", "D2_P2", "D2_P3", "D2_P4", "D2_P5", "D2_P6", "Day2",
+        "Sum", "Prize_raw",
+    ]
     offset = 1 if year == 2005 else 0
-    with pdfplumber.open(PDF_DIR / f"IMC_{year}_Results.pdf") as pdf:
-        for page in pdf.pages:
-            t = max(page.extract_tables(), key=len)
-            for raw_c in t:
-                c = [clean_text(x) for x in raw_c[offset:]]
-                if len(c) < 22:
-                    continue
-                if not c[0] or not re.match(r"^\d", c[0]):
-                    continue
-                rows.append(
-                    make_row(
-                        year,
-                        **{
-                            "Pos": c[0],
-                            "First name": c[1],
-                            "Family name": c[2],
-                            "University": c[3],
-                            "Code_D1": c[4],
-                            "D1_P1": c[5], "D1_P2": c[6], "D1_P3": c[7], "D1_P4": c[8], "D1_P5": c[9], "D1_P6": c[10],
-                            "Day1": c[11],
-                            "Code_D2": c[12],
-                            "D2_P1": c[13], "D2_P2": c[14], "D2_P3": c[15], "D2_P4": c[16], "D2_P5": c[17], "D2_P6": c[18],
-                            "Day2": c[19],
-                            "Sum": c[20],
-                            "Prize_raw": c[21],
-                        },
-                    )
-                )
+    return extract_pdf_table_unclipped(PDF_DIR / f"IMC_{year}_Results.pdf", year, cols, col_offset=offset)
+
+
+# ---------------------------------------------------------------------------
+# 2009: PDF rotacionado 90° com spans não-clippados PyMuPDF + fix de glifos
+# ---------------------------------------------------------------------------
+GLYPH_MAP_2009 = {
+    "\x01": "ă",
+    "\x02": "ě",
+    "\x03": "ć",
+    "\x04": "ș",
+    "\x05": "ă",
+    "\x06": "ł",
+    "\x07": "ő",
+    "\x08": "ù",
+    "\x09": "č",
+    "\x8a": "Š",
+    "\x8e": "Ž",
+    "\x96": "–",
+    "\x9a": "š",
+    "\x9e": "ž",
+}
+
+
+def fix_2009_text(s: str) -> str:
+    for k, v in GLYPH_MAP_2009.items():
+        s = s.replace(k, v)
+    # Remove espaços indevidos criados em volta de acento que veio como span separado (ex: "B ă nic ă" -> manter juntando sem espaço!)
+    return s
+
+
+def parse_2009() -> list[dict[str, Any]]:
+    # Em 2009 (rot=90): linha = centro (x0+x1)/2, coluna = y1 (visual left, decrescente)
+    col_ranges = [
+        ("Pos", 781.35, 999.0),
+        ("First name", 706.0, 781.35),
+        ("Family name", 611.0, 706.0),
+        ("University", 435.0, 611.0),
+        ("Code_D1", 411.0, 435.0),
+        ("D1_P1", 390.0, 411.0),
+        ("D1_P2", 370.0, 390.0),
+        ("D1_P3", 351.0, 370.0),
+        ("D1_P4", 332.0, 351.0),
+        ("D1_P5", 313.0, 332.0),
+        ("Day1", 292.0, 313.0),
+        ("Code_D2", 268.0, 292.0),
+        ("D2_P1", 250.0, 268.0),
+        ("D2_P2", 230.0, 250.0),
+        ("D2_P3", 211.0, 230.0),
+        ("D2_P4", 191.0, 211.0),
+        ("D2_P5", 172.0, 191.0),
+        ("Day2", 147.0, 172.0),
+        ("Sum", 120.0, 147.0),
+        ("Prize_raw", 0.0, 120.0),
+    ]
+
+    def assign_col(y1: float) -> str:
+        for name, lo, hi in col_ranges:
+            if lo <= y1 < hi:
+                return name
+        return "Prize_raw"
+
+    flags = pymupdf.TEXTFLAGS_DICT & ~pymupdf.TEXT_CLIP
+    rows: list[dict[str, Any]] = []
+    doc = pymupdf.open(PDF_DIR / "IMC_2009_Results.pdf")
+    for page in doc:
+        spans: list[tuple[float, float, float, str]] = []
+        for b in page.get_text("dict", flags=flags)["blocks"]:
+            for l in b.get("lines", []):
+                for s in l["spans"]:
+                    txt = s["text"]
+                    if not txt.strip():
+                        continue
+                    x0, y0, x1, y1 = s["bbox"]
+                    # Usar x_bot (x1) como âncora da linha (alinhamento pela base do texto: ~97.1 vs ~96.1 -> diff 1pt!)
+                    spans.append((x1, y1, y0, txt))
+        spans.sort(key=lambda item: (item[0], -item[1]))
+        grouped: list[tuple[float, list[tuple[float, float, float, str]]]] = []
+        for sp in spans:
+            if not grouped or abs(sp[0] - grouped[-1][0]) > 4.5:
+                grouped.append((sp[0], [sp]))
+            else:
+                grouped[-1][1].append(sp)
+
+        for _, lspans in grouped:
+            rec: dict[str, list[tuple[float, float, str]]] = {}
+            for _, y1, y0, txt in sorted(lspans, key=lambda s: -s[1]):
+                col = assign_col(y1)
+                rec.setdefault(col, []).append((y1, y0, txt))
+            joined: dict[str, str] = {}
+            for col, parts in rec.items():
+                # Concatenar spans da mesma coluna respeitando proximidade visual (y0 do anterior vs y1 do próximo)
+                parts.sort(key=lambda p: -p[0])
+                out = ""
+                prev_y0 = None
+                for y1, y0, txt in parts:
+                    t = fix_2009_text(txt)
+                    if prev_y0 is not None and (prev_y0 - y1) > 1.8 and not out.endswith(" ") and not t.startswith(" "):
+                        out += " "
+                    out += t
+                    prev_y0 = y0
+                joined[col] = clean_text(out)
+            pos = joined.get("Pos", "")
+            # Às vezes Pos e First name vêm no mesmo span ('86 Micha\x06')
+            m = re.match(r"^(\d+)\s+(.+)$", pos)
+            if m:
+                joined["Pos"] = m.group(1)
+                joined["First name"] = (m.group(2) + " " + joined.get("First name", "")).strip()
+                pos = joined["Pos"]
+            if not pos or not re.fullmatch(r"\d+", pos):
+                continue
+            rows.append(make_row(2009, **joined))
     return rows
 
 
 # ---------------------------------------------------------------------------
-# 2008: PDF com spans PyMuPDF (evita overflow de University sobre Nr/P1..P3)
+# 2010: PDF com spans não-clippados PyMuPDF (rot=0, sem overflow de University)
 # ---------------------------------------------------------------------------
-def parse_2008() -> list[dict[str, Any]]:
-    # Limites x0 calibrados a partir das colunas exatas do PDF de 2008
+def parse_2010() -> list[dict[str, Any]]:
     col_bounds = [
-        ("Pos", 0, 39.5),
-        ("First name", 39.5, 90.0),
-        ("Family name", 90.0, 151.5),
-        ("University", 151.5, 274.5),
-        ("Code_D1", 274.5, 289.5),
-        ("D1_P1", 289.5, 300.5),
-        ("D1_P2", 300.5, 311.0),
-        ("D1_P3", 311.0, 321.5),
-        ("D1_P4", 321.5, 332.0),
-        ("D1_P5", 332.0, 342.5),
-        ("D1_P6", 342.5, 353.0),
-        ("Day1", 353.0, 366.5),
-        ("Code_D2", 366.5, 381.5),
-        ("D2_P1", 381.5, 392.5),
-        ("D2_P2", 392.5, 403.0),
-        ("D2_P3", 403.0, 413.5),
-        ("D2_P4", 413.5, 424.0),
-        ("D2_P5", 424.0, 434.5),
-        ("D2_P6", 434.5, 445.5),
-        ("Day2", 445.5, 462.5),
-        ("Sum", 462.5, 479.0),
-        ("Prize_raw", 479.0, 999.0),
+        ("Pos", 0.0, 49.0),
+        ("First name", 49.0, 138.0),
+        ("Family name", 138.0, 246.0),
+        ("University", 246.0, 405.0),
+        ("Code_D1", 405.0, 428.0),
+        ("D1_P1", 428.0, 446.5),
+        ("D1_P2", 446.5, 465.0),
+        ("D1_P3", 465.0, 484.0),
+        ("D1_P4", 484.0, 502.0),
+        ("D1_P5", 502.0, 520.0),
+        ("Day1", 520.0, 541.0),
+        ("Code_D2", 541.0, 563.0),
+        ("D2_P1", 563.0, 582.0),
+        ("D2_P2", 582.0, 600.5),
+        ("D2_P3", 600.5, 619.0),
+        ("D2_P4", 619.0, 637.5),
+        ("D2_P5", 637.5, 656.5),
+        ("Day2", 656.5, 680.0),
+        ("Sum", 680.0, 708.0),
+        ("Prize_raw", 708.0, 999.0),
     ]
 
     def assign_col(x0: float) -> str:
@@ -498,172 +795,98 @@ def parse_2008() -> list[dict[str, Any]]:
                 return name
         return "Prize_raw"
 
+    flags = pymupdf.TEXTFLAGS_DICT & ~pymupdf.TEXT_CLIP
     rows: list[dict[str, Any]] = []
-    doc = pymupdf.open(PDF_DIR / "IMC_2008_Results.pdf")
+    doc = pymupdf.open(PDF_DIR / "IMC_2010_Results.pdf")
     for page in doc:
-        # Coleta todos os spans sem clipping
         spans = []
-        for b in page.get_text("dict", flags=0)["blocks"]:
+        for b in page.get_text("dict", flags=flags)["blocks"]:
             for l in b.get("lines", []):
                 for s in l["spans"]:
                     txt = s["text"].strip()
                     if not txt:
                         continue
                     spans.append((s["bbox"][0], s["bbox"][1], txt))
-        # Agrupa spans por linha y (tolerância 3pt)
         spans.sort(key=lambda item: (item[1], item[0]))
-        lines_grouped: list[tuple[float, list[tuple[float, float, str]]]] = []
+        grouped: list[tuple[float, list[tuple[float, float, str]]]] = []
         for sp in spans:
-            if not lines_grouped or abs(sp[1] - lines_grouped[-1][0]) > 3.5:
-                lines_grouped.append((sp[1], [sp]))
+            if not grouped or abs(sp[1] - grouped[-1][0]) > 4.5:
+                grouped.append((sp[1], [sp]))
             else:
-                lines_grouped[-1][1].append(sp)
-
-        for _, lspans in lines_grouped:
+                grouped[-1][1].append(sp)
+        for _, lspans in grouped:
             rec: dict[str, list[str]] = {}
             for x0, _, txt in sorted(lspans, key=lambda s: s[0]):
                 col = assign_col(x0)
-                # Em 2008 às vezes Pos e First name vêm grudados no mesmo span (ex: '279Elizaveta')
-                if col == "Pos":
-                    m = re.match(r"^(\d+)\s*(.+)$", txt)
-                    if m and not m.group(2).isdigit():
-                        rec.setdefault("Pos", []).append(m.group(1))
-                        rec.setdefault("First name", []).append(m.group(2))
-                        continue
                 rec.setdefault(col, []).append(txt)
             pos = " ".join(rec.get("Pos", [])).strip()
             if not pos or not re.fullmatch(r"\d+", pos):
                 continue
             joined = {k: " ".join(v).strip() for k, v in rec.items()}
-            rows.append(make_row(2008, **joined))
+            rows.append(make_row(2010, **joined))
     return rows
 
 
 # ---------------------------------------------------------------------------
-# 2009 - 2010: PDFs pdfplumber (19 cols) + Prize à direita via bbox da linha
-# ---------------------------------------------------------------------------
-def parse_2009_2010(year: int) -> list[dict[str, Any]]:
-    rows: list[dict[str, Any]] = []
-    with pdfplumber.open(PDF_DIR / f"IMC_{year}_Results.pdf") as pdf:
-        for page in pdf.pages:
-            tables = page.find_tables()
-            if not tables:
-                continue
-            tbl = max(tables, key=lambda t: len(t.rows))
-            extracted = tbl.extract()
-            right_x = tbl.bbox[2]
-            words = page.extract_words(use_text_flow=False, keep_blank_chars=False)
-            right_words = [w for w in words if w["x0"] >= right_x - 3]
-
-            for r_obj, cells in zip(tbl.rows, extracted):
-                c = [clean_text(x) for x in cells]
-                if len(c) < 19:
-                    continue
-                if not c[0] or not re.match(r"^\d", c[0]):
-                    continue
-                y0, y1 = r_obj.bbox[1], r_obj.bbox[3]
-                p_words = [
-                    w for w in right_words
-                    if (y0 - 2) <= ((w["top"] + w["bottom"]) / 2.0) <= (y1 + 2)
-                ]
-                p_words.sort(key=lambda w: (round(w["top"], 1), w["x0"]))
-                prize_raw = " ".join(w["text"] for w in p_words).strip()
-
-                rows.append(
-                    make_row(
-                        year,
-                        **{
-                            "Pos": c[0],
-                            "First name": c[1],
-                            "Family name": c[2],
-                            "University": c[3],
-                            "Code_D1": c[4],
-                            "D1_P1": c[5], "D1_P2": c[6], "D1_P3": c[7], "D1_P4": c[8], "D1_P5": c[9],
-                            "Day1": c[10],
-                            "Code_D2": c[11],
-                            "D2_P1": c[12], "D2_P2": c[13], "D2_P3": c[14], "D2_P4": c[15], "D2_P5": c[16],
-                            "Day2": c[17],
-                            "Sum": c[18],
-                            "Prize_raw": prize_raw,
-                        },
-                    )
-                )
-    return rows
-
-
-# ---------------------------------------------------------------------------
-# 2011 e 2013: PDFs de 6 colunas via pdfplumber
+# 2011: PDF de 6 colunas via spans não-clippados PyMuPDF (evita overflow!)
 # ---------------------------------------------------------------------------
 def parse_2011() -> list[dict[str, Any]]:
+    col_bounds = [
+        ("Pos", 0.0, 104.0),
+        ("First name", 104.0, 237.0),
+        ("Family name", 237.0, 391.0),
+        ("University", 391.0, 588.0),
+        ("Sum", 588.0, 609.5),
+        ("Prize_raw", 609.5, 999.0),
+    ]
+
+    def assign_col(x0: float) -> str:
+        for name, lo, hi in col_bounds:
+            if lo <= x0 < hi:
+                return name
+        return "Prize_raw"
+
+    flags = pymupdf.TEXTFLAGS_DICT & ~pymupdf.TEXT_CLIP
     rows: list[dict[str, Any]] = []
-    with pdfplumber.open(PDF_DIR / "IMC_2011_Results.pdf") as pdf:
-        for page in pdf.pages:
-            t = max(page.extract_tables(), key=len)
-            for raw_c in t:
-                c = [clean_text(x) for x in raw_c]
-                if len(c) < 6 or not c[0] or not re.match(r"^\d", c[0]):
-                    continue
-                rows.append(
-                    make_row(
-                        2011,
-                        **{
-                            "Pos": c[0],
-                            "First name": c[1],
-                            "Family name": c[2],
-                            "University": c[3],
-                            "Sum": c[4],
-                            "Prize_raw": c[5],
-                        },
-                    )
-                )
+    doc = pymupdf.open(PDF_DIR / "IMC_2011_Results.pdf")
+    for page in doc:
+        spans = []
+        for b in page.get_text("dict", flags=flags)["blocks"]:
+            for l in b.get("lines", []):
+                for s in l["spans"]:
+                    txt = s["text"].strip()
+                    if not txt:
+                        continue
+                    spans.append((s["bbox"][0], s["bbox"][1], txt))
+        spans.sort(key=lambda item: (item[1], item[0]))
+        grouped: list[tuple[float, list[tuple[float, float, str]]]] = []
+        for sp in spans:
+            if not grouped or abs(sp[1] - grouped[-1][0]) > 4.5:
+                grouped.append((sp[1], [sp]))
+            else:
+                grouped[-1][1].append(sp)
+        for _, lspans in grouped:
+            rec: dict[str, list[str]] = {}
+            for x0, _, txt in sorted(lspans, key=lambda s: s[0]):
+                col = assign_col(x0)
+                rec.setdefault(col, []).append(txt)
+            pos = " ".join(rec.get("Pos", [])).strip()
+            if not pos or not re.fullmatch(r"\d+", pos):
+                continue
+            joined = {k: " ".join(v).strip() for k, v in rec.items()}
+            rows.append(make_row(2011, **joined))
     return rows
 
 
 def parse_2013() -> list[dict[str, Any]]:
-    rows: list[dict[str, Any]] = []
-    with pdfplumber.open(PDF_DIR / "IMC_2013_Results.pdf") as pdf:
-        for page in pdf.pages:
-            t = max(page.extract_tables(), key=len)
-            for raw_c in t:
-                c = [clean_text(x) for x in raw_c]
-                if len(c) < 6 or not c[0] or not re.match(r"^\d", c[0]):
-                    continue
-                rows.append(
-                    make_row(
-                        2013,
-                        **{
-                            "Pos": c[0],
-                            "First name": c[1],
-                            "Family name": c[2],
-                            "University": c[3],
-                            "Team": c[4],
-                            "Prize_raw": c[5],
-                        },
-                    )
-                )
-    return rows
+    cols = ["Pos", "First name", "Family name", "University", "Team", "Prize_raw"]
+    return extract_pdf_table_unclipped(PDF_DIR / "IMC_2013_Results.pdf", 2013, cols)
 
 
 # ---------------------------------------------------------------------------
-# 2012: PDF rotacionado 90° com spans não-clippados (PyMuPDF flags=0)
+# 2012: PDF rotacionado 90° com spans não-clippados (PyMuPDF flags)
 # ---------------------------------------------------------------------------
 def parse_2012() -> list[dict[str, Any]]:
-    # No PDF rotacionado 90° de 2012:
-    # - bbox[0] (raw x0) identifica a LINHA da tabela (cresce de cima para baixo)
-    # - bbox[3] (raw y1, início visual da célula) identifica a COLUNA (decresce da esquerda para a direita!)
-    # Calibrado a partir dos spans de cabeçalho/dados de 2012:
-    #   Pos: y1 >= 726
-    #   First name: 649 <= y1 < 726
-    #   Family name: 552 <= y1 < 649
-    #   University: 445.5 <= y1 < 552 (mesmo quando transborda à direita, seu y1 inicial é ~550.5!)
-    #   Code_D1: 427 <= y1 < 445.5
-    #   D1_P1..P5: ~422, ~402, ~383, ~363, ~343
-    #   Day1: ~325
-    #   Code_D2: ~306
-    #   D2_P1..P5: ~284, ~265, ~245, ~225, ~205
-    #   Day2: ~187
-    #   Sum: ~160
-    #   Prize: y1 < 142
     col_ranges = [
         ("Pos", 726.0, 999.0),
         ("First name", 649.0, 726.0),
@@ -693,35 +916,50 @@ def parse_2012() -> list[dict[str, Any]]:
                 return name
         return "Prize_raw"
 
+    flags = pymupdf.TEXTFLAGS_DICT & ~pymupdf.TEXT_CLIP
     rows: list[dict[str, Any]] = []
     doc = pymupdf.open(PDF_DIR / "IMC_2012_Results.pdf")
     for page in doc:
         spans = []
-        for b in page.get_text("dict", flags=0)["blocks"]:
+        for b in page.get_text("dict", flags=flags)["blocks"]:
             for l in b.get("lines", []):
                 for s in l["spans"]:
                     txt = s["text"].strip()
                     if not txt:
                         continue
-                    # bbox = (x0, y0, x1, y1); row coord = x0, visual-left = y1
-                    spans.append((s["bbox"][0], s["bbox"][3], txt))
+                    spans.append((s["bbox"][0], s["bbox"][3], s["bbox"][1], txt))
         spans.sort(key=lambda item: (item[0], -item[1]))
-        grouped: list[tuple[float, list[tuple[float, float, str]]]] = []
+        grouped: list[tuple[float, list[tuple[float, float, float, str]]]] = []
         for sp in spans:
             if not grouped or abs(sp[0] - grouped[-1][0]) > 4.5:
                 grouped.append((sp[0], [sp]))
             else:
                 grouped[-1][1].append(sp)
 
-        for _, lspans in grouped:
+        for rx, lspans in grouped:
             rec: dict[str, list[str]] = {}
-            for _, y1, txt in sorted(lspans, key=lambda s: -s[1]):
+            for _, y1, y0, txt in sorted(lspans, key=lambda s: -s[1]):
                 col = assign_col(y1)
                 rec.setdefault(col, []).append(txt)
             pos = " ".join(rec.get("Pos", [])).strip()
             if not pos or not re.fullmatch(r"\d+", pos):
                 continue
             joined = {k: " ".join(v).strip() for k, v in rec.items()}
+            # Caso especial (linha 136): Family name encostou em University no mesmo span
+            if not joined.get("University"):
+                fam_chars, univ_chars = [], []
+                for b in page.get_text("rawdict", flags=flags)["blocks"]:
+                    for l in b.get("lines", []):
+                        for s in l["spans"]:
+                            if abs(s["bbox"][0] - rx) <= 4.5 and 552.0 <= s["bbox"][3] < 649.0:
+                                for ch in s.get("chars", []):
+                                    if ch["bbox"][3] >= 551.0:
+                                        fam_chars.append(ch["c"])
+                                    else:
+                                        univ_chars.append(ch["c"])
+                if univ_chars:
+                    joined["Family name"] = "".join(fam_chars).strip()
+                    joined["University"] = "".join(univ_chars).strip()
             rows.append(make_row(2012, **joined))
     return rows
 
@@ -831,41 +1069,19 @@ def parse_2020_2025(year: int) -> list[dict[str, Any]]:
 
 
 # ---------------------------------------------------------------------------
-# 2026: PDF geométrico usando linhas horizontais pretas + cortes x exatos
+# 2026: PDF geométrico usando hlines + vlines por faixa (100% adaptável por bloco)
 # ---------------------------------------------------------------------------
 def parse_2026() -> list[dict[str, Any]]:
-    col_bounds = [
-        ("Pos", 0.0, 74.5),
-        ("First name", 74.5, 179.5),
-        ("Family name", 179.5, 287.5),
-        ("University", 287.5, 413.5),
-        ("City", 413.5, 491.5),
-        ("D1_P1", 491.5, 507.0),
-        ("D1_P2", 507.0, 522.2),
-        ("D1_P3", 522.2, 537.4),
-        ("D1_P4", 537.4, 552.8),
-        ("D1_P5", 552.8, 568.2),
-        ("Day1", 568.2, 596.2),
-        ("D2_P1", 596.2, 611.5),
-        ("D2_P2", 611.5, 626.6),
-        ("D2_P3", 626.6, 641.8),
-        ("D2_P4", 641.8, 657.2),
-        ("D2_P5", 657.2, 678.9),
-        ("Day2", 678.9, 706.8),
-        ("Sum", 706.8, 731.5),
-        ("Prize_raw", 731.5, 999.0),
+    col_names = [
+        "Pos", "First name", "Family name", "University", "City",
+        "D1_P1", "D1_P2", "D1_P3", "D1_P4", "D1_P5", "Day1",
+        "D2_P1", "D2_P2", "D2_P3", "D2_P4", "D2_P5", "Day2",
+        "Sum", "Prize_raw",
     ]
-
-    def assign_col(xc: float) -> str:
-        for name, lo, hi in col_bounds:
-            if lo <= xc < hi:
-                return name
-        return "Prize_raw"
 
     def join_cell_words(wlist: list[dict[str, Any]], col: str) -> str:
         if not wlist:
             return ""
-        # Agrupa por linha visual dentro da célula
         wlist = sorted(wlist, key=lambda w: (w["top"], w["x0"]))
         lines: list[list[dict[str, Any]]] = []
         for w in wlist:
@@ -875,16 +1091,12 @@ def parse_2026() -> list[dict[str, Any]]:
                 lines[-1].append(w)
         line_strs = [" ".join(w["text"] for w in sorted(ln, key=lambda w: w["x0"])) for ln in lines]
         if col == "Pos":
-            # "10–" + "12." -> "10–12."
-            joined = "".join(line_strs)
-            return clean_text(joined)
-        # Juntar com \n e deixar clean_text(join_hyphen=True) unir hífens de quebra de linha
+            return clean_text("".join(line_strs))
         return clean_text("\n".join(line_strs), join_hyphen=True)
 
     rows: list[dict[str, Any]] = []
     with pdfplumber.open(PDF_DIR / "IMC_2026_Results.pdf") as pdf:
         for page in pdf.pages:
-            # Linhas horizontais pretas definem exatamente cada faixa de linha
             hlines = sorted(
                 set(
                     round(r["top"], 1)
@@ -892,13 +1104,35 @@ def parse_2026() -> list[dict[str, Any]]:
                     if r["height"] <= 1.5 and r["width"] > 50 and r.get("non_stroking_color") == 0.0
                 )
             )
-            # Deduplicar hlines muito próximas (< 4pt)
-            dedup: list[float] = []
+            dedup_h: list[float] = []
             for y in hlines:
-                if not dedup or y - dedup[-1] > 4.0:
-                    dedup.append(y)
+                if not dedup_h or y - dedup_h[-1] > 4.0:
+                    dedup_h.append(y)
+
+            v_rects = [
+                r for r in page.rects
+                if r["width"] <= 1.5 and r["height"] > 8 and r.get("non_stroking_color") == 0.0
+            ]
             words = page.extract_words(use_text_flow=False, keep_blank_chars=False)
-            for y_top, y_bot in zip(dedup[:-1], dedup[1:]):
+
+            for y_top, y_bot in zip(dedup_h[:-1], dedup_h[1:]):
+                band_h = y_bot - y_top
+                # Coleta as bordas verticais pretas desta faixa específica
+                vs = sorted(
+                    set(
+                        round(r["x0"], 1)
+                        for r in v_rects
+                        if r["top"] <= y_top + 4.0 and r["bottom"] >= y_bot - 4.0
+                        or (r["height"] >= band_h * 0.4 and r["top"] >= y_top - 3.0 and r["bottom"] <= y_bot + 3.0)
+                    )
+                )
+                dedup_v: list[float] = []
+                for x in vs:
+                    if not dedup_v or x - dedup_v[-1] > 4.0:
+                        dedup_v.append(x)
+                if len(dedup_v) != 20:
+                    continue
+
                 band_words = [
                     w for w in words
                     if y_top <= ((w["top"] + w["bottom"]) / 2.0) <= y_bot
@@ -908,12 +1142,17 @@ def parse_2026() -> list[dict[str, Any]]:
                 by_col: dict[str, list[dict[str, Any]]] = {}
                 for w in band_words:
                     xc = (w["x0"] + w["x1"]) / 2.0
-                    col = assign_col(xc)
-                    by_col.setdefault(col, []).append(w)
+                    for idx in range(19):
+                        if dedup_v[idx] - 1.5 <= xc < dedup_v[idx + 1] + 1.5:
+                            by_col.setdefault(col_names[idx], []).append(w)
+                            break
                 pos = join_cell_words(by_col.get("Pos", []), "Pos")
                 if not pos or pos.lower() == "pos" or not re.match(r"^\d", pos):
                     continue
                 rec = {col: join_cell_words(wlist, col) for col, wlist in by_col.items()}
+                # Ignora linha fantasma do PDF de 2026 (pág. 15) que só tem Pos '204–214.' sem nenhum outro dado
+                if not any(rec.get(k) for k in ("First name", "Family name", "University", "Sum", "Prize_raw")):
+                    continue
                 rows.append(make_row(2026, **rec))
     return rows
 
@@ -933,12 +1172,12 @@ def parse_year(year: int) -> list[dict[str, Any]]:
         return parse_2002()
     if year == 2003:
         return parse_2003()
-    if 2004 <= year <= 2007:
-        return parse_2004_2007(year)
-    if year == 2008:
-        return parse_2008()
-    if year in {2009, 2010}:
-        return parse_2009_2010(year)
+    if 2004 <= year <= 2008:
+        return parse_2004_2008(year)
+    if year == 2009:
+        return parse_2009()
+    if year == 2010:
+        return parse_2010()
     if year == 2011:
         return parse_2011()
     if year == 2012:
