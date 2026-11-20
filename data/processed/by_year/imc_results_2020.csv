@@ -1,0 +1,547 @@
+Year,Pos,First name,Family name,Full name,University,Team,City,Country,Code_D1,D1_P1,D1_P2,D1_P3,D1_P4,D1_P5,D1_P6,Day1,Code_D2,D2_P1,D2_P2,D2_P3,D2_P4,D2_P5,D2_P6,Day2,Sum,Prize,Prize_raw
+2020,1,Stanislav,Krymskii,Stanislav Krymskii,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,10,5,,,35,,8,10,10,10,,,38,73,Grand Grand First Prize,grand grand first prize
+2020,2,Shvo,Regavim,Shvo Regavim,Tel Aviv University,,Tel Aviv,Israel,,10,10,0,10,,,30,,10,10,10,1,,,31,61,Grand First Prize,grand first prize
+2020,3–5,Mikhail,Ivanov,Mikhail Ivanov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,10,0,,,30,,10,10,10,0,,,30,60,Grand First Prize,grand first prize
+2020,3–5,Noam,Ta Shma,Noam Ta Shma,Tel Aviv University,,Tel Aviv,Israel,,10,10,0,10,,,30,,10,10,10,0,,,30,60,Grand First Prize,grand first prize
+2020,3–5,Edward,Wan,Edward Wan,Massachusetts Institute of Technology,,Cambridge,USA,,10,10,0,10,,,30,,10,10,10,0,,,30,60,Grand First Prize,grand first prize
+2020,6–7,Oleksandra,Kozachok,Oleksandra Kozachok,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,9,10,0,10,,,29,,10,10,10,0,,,30,59,Grand First Prize,grand first prize
+2020,6–7,Ohad Maor,Sheinfeld,Ohad Maor Sheinfeld,Bar Ilan University,,Ramat Gan,Israel,,10,10,0,9,,,29,,10,10,10,0,,,30,59,Grand First Prize,grand first prize
+2020,8,Nikita,Karagodin,Nikita Karagodin,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,3,10,,,33,,5,10,10,0,,,25,58,Grand First Prize,grand first prize
+2020,9,Roee,Sinai,Roee Sinai,Tel Aviv University,,Tel Aviv,Israel,,10,10,0,8,,,28,,10,9,10,0,,,29,57,Grand First Prize,grand first prize
+2020,10,Viet Hoang,Tran,Viet Hoang Tran,Vietnam National University – University of Science,,Hanoi,Vietnam,,10,10,0,10,,,30,,10,10,0,4,,,24,54,Grand First Prize,grand first prize
+2020,11,Egor,Baitenov,Egor Baitenov,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,10,,,30,,9,3,10,0,,,22,52,First Prize,first prize
+2020,12–15,Andrei-Robert,Bâra,Andrei-Robert Bâra,University of Bucharest,,Bucharest,Romania,,10,10,0,10,,,30,,10,10,1,0,,,21,51,First Prize,first prize
+2020,12–15,Nikita,Dobronravov,Nikita Dobronravov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,5,9,,,34,,7,0,10,0,,,17,51,First Prize,first prize
+2020,12–15,Stanislav,Grishin,Stanislav Grishin,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,1,0,10,,,21,,10,10,10,0,,,30,51,First Prize,first prize
+2020,12–15,Kirill,Tyshchuk,Kirill Tyshchuk,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,1,0,,,21,,10,10,10,0,,,30,51,First Prize,first prize
+2020,16–21,Attila,Gáspár,Attila Gáspár,Loránd Eötvös University,,Budapest,Hungary,,10,10,0,10,,,30,,10,0,10,0,,,20,50,First Prize,first prize
+2020,16–21,Alexandr,Grebennikov,Alexandr Grebennikov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,0,0,,,20,,10,10,10,0,,,30,50,First Prize,first prize
+2020,16–21,Aitor,Iribar López,Aitor Iribar López,Universidad Complutense de Madrid,,Madrid,Spain,,10,10,0,0,,,20,,10,10,10,0,,,30,50,First Prize,first prize
+2020,16–21,Thiago,Landim de Souza Leão,Thiago Landim de Souza Leão,Universidade Federal de Pernambuco,,Recife,Brazil,,10,10,0,0,,,20,,10,10,10,0,,,30,50,First Prize,first prize
+2020,16–21,Jonas,Walter,Jonas Walter,Rheinische Friedrich-Wilhelms-Universität Bonn,,Bonn,Germany,,10,10,0,0,,,20,,10,10,10,0,,,30,50,First Prize,first prize
+2020,16–21,Vladyslav,Zveryk,Vladyslav Zveryk,Jagiellonian University,,Krakow,Poland,,10,10,0,0,,,20,,10,10,10,0,,,30,50,First Prize,first prize
+2020,22,Lior,Hadassi,Lior Hadassi,Tel Aviv University,,Tel Aviv,Israel,,9,9,3,1,,,22,,10,7,10,0,,,27,49,First Prize,first prize
+2020,23,Márton,Borbényi,Márton Borbényi,Loránd Eötvös University,,Budapest,Hungary,,10,10,0,0,,,20,,10,10,8,0,,,28,48,First Prize,first prize
+2020,24,Amir,Iagudin,Amir Iagudin,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,10,10,7,0,,,27,47,First Prize,first prize
+2020,25–27,Arsen,Hambardzumyan,Arsen Hambardzumyan,Yerevan State University,,Yerevan,Armenia,,10,10,0,0,,,20,,10,10,5,0,,,25,45,First Prize,first prize
+2020,25–27,Dragoș,Manea,Dragoș Manea,University of Bucharest,,Bucharest,Romania,,10,10,0,10,,,30,,10,0,5,0,,,15,45,First Prize,first prize
+2020,25–27,Kyprianos-Iason,Prodromidis,Kyprianos-Iason Prodromidis,National and Kapodestian University of Athens,,Athens,Greece,,10,10,0,0,,,20,,10,10,5,0,,,25,45,First Prize,first prize
+2020,28–29,Dimitrios Chrysovalantis,Melas,Dimitrios Chrysovalantis Melas,National and Kapodestian University of Athens,,Athens,Greece,,10,10,0,0,,,20,,10,10,0,4,,,24,44,First Prize,first prize
+2020,28–29,Reinier,Schmiermann,Reinier Schmiermann,University of Utrecht,,Utrecht,Netherlands,,10,2,0,2,,,14,,10,10,10,0,,,30,44,First Prize,first prize
+2020,30–31,Ignat,Sokolov,Ignat Sokolov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,0,0,,,20,,9,10,0,4,,,23,43,First Prize,first prize
+2020,30–31,Szymon,Zwara,Szymon Zwara,University of Warsaw,,Warsaw,Poland,,10,10,0,10,,,30,,10,2,1,0,,,13,43,First Prize,first prize
+2020,32,Vladislav,Epifanov,Vladislav Epifanov,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,10,9,0,0,,,19,,10,3,10,0,,,23,42,First Prize,first prize
+2020,33–36,Abdushukur,Akhadov,Abdushukur Akhadov,Gulistan State University,,Gulistan,Uzbekistan,,10,10,0,10,,,30,,6,0,5,0,,,11,41,First Prize,first prize
+2020,33–36,Rafael,Filipe dos Santos,Rafael Filipe dos Santos,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,10,0,1,,,21,,10,10,0,0,,,20,41,First Prize,first prize
+2020,33–36,Tomasz,Kiełbasa,Tomasz Kiełbasa,University of Warsaw,,Warsaw,Poland,,10,10,0,1,,,21,,10,10,0,0,,,20,41,First Prize,first prize
+2020,33–36,Daniel Isaac,Puignau Chacón,Daniel Isaac Puignau Chacón,Universidad Autonoma de Madrid,,Madrid,Spain,,10,10,0,1,,,21,,1,9,10,0,,,20,41,First Prize,first prize
+2020,37–52,Damian,Burczyk,Damian Burczyk,University of Warsaw,,Warsaw,Poland,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2020,37–52,Juan Sebastian,Diaz Serrano,Juan Sebastian Diaz Serrano,Olimpiadas Colombianas de Matematicas,,Bogota,Colombia,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2020,37–52,Jan,Fornal,Jan Fornal,Jagiellonian University,,Krakow,Poland,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2020,37–52,Daniil,Glukhovskiy,Daniil Glukhovskiy,New York University,,New York,USA,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2020,37–52,Guilherme,Goulart Kowalczuk,Guilherme Goulart Kowalczuk,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2020,37–52,Nuno,Hultberg,Nuno Hultberg,Rheinische Friedrich-Wilhelms-Universität Bonn,,Bonn,Germany,,10,10,0,0,,,20,,10,0,10,0,,,20,40,First Prize,first prize
+2020,37–52,Dmitrii,Kolupaev,Dmitrii Kolupaev,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,10,0,10,0,,,20,40,First Prize,first prize
+2020,37–52,Vahan,Martirosyan,Vahan Martirosyan,Yerevan State University,,Yerevan,Armenia,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2020,37–52,Erik,Metz,Erik Metz,University of Maryland,,College Park,USA,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2020,37–52,Sebastian,Meyer,Sebastian Meyer,Rheinische Friedrich-Wilhelms-Universität Bonn,,Bonn,Germany,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2020,37–52,Ivan,Novak,Ivan Novak,University of Zagreb,,Zagreb,Croatia,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2020,37–52,Volodymyr,Riabov,Volodymyr Riabov,V. N. Karazin Kharkiv National University,,Kharkiv,Ukraine,,10,10,0,10,,,30,,10,0,0,0,,,10,40,First Prize,first prize
+2020,37–52,Alexander,Shlimovich,Alexander Shlimovich,Higher School of Economics,,Moscow,Russia,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2020,37–52,Kristóf,Szabó,Kristóf Szabó,Loránd Eötvös University,,Budapest,Hungary,,10,9,0,0,,,19,,10,10,0,1,,,21,40,First Prize,first prize
+2020,37–52,Nikola,Velov,Nikola Velov,University of Belgrade,,Belgrade,Serbia,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2020,37–52,Azur,Đonlagić,Azur Đonlagić,Jagiellonian University,,Krakow,Poland,,8,10,0,7,,,25,,5,0,10,0,,,15,40,First Prize,first prize
+2020,53–54,Andrey,Jhen Shan Chen,Andrey Jhen Shan Chen,Universidade Estadual de Campinas,,São Paulo,Brazil,,10,10,0,10,,,30,,6,2,1,0,,,9,39,First Prize,first prize
+2020,53–54,Semen,Słobodianiuk,Semen Słobodianiuk,University of Warsaw,,Warsaw,Poland,,10,9,0,0,,,19,,10,10,0,0,,,20,39,First Prize,first prize
+2020,55–60,Omer,Bojan,Omer Bojan,Tel Aviv University,,Tel Aviv,Israel,,10,8,6,0,,,24,,5,8,1,0,,,14,38,First Prize,first prize
+2020,55–60,Thomas,Chen,Thomas Chen,Universiteit Leiden,,Leiden,Netherlands,,10,10,0,10,,,30,,0,2,6,0,,,8,38,First Prize,first prize
+2020,55–60,Egor,Dobronravov,Egor Dobronravov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,9,10,0,9,,,28,,10,0,0,0,,,10,38,First Prize,first prize
+2020,55–60,Yauheni,Minau,Yauheni Minau,Belarusian State University of Informatics and Radioelectronics,,Minsk,Belarus,,10,10,0,10,,,30,,8,0,0,0,,,8,38,First Prize,first prize
+2020,55–60,Anatoli,Shatsila,Anatoli Shatsila,Jagiellonian University,,Krakow,Poland,,10,10,0,0,,,20,,10,8,0,0,,,18,38,First Prize,first prize
+2020,55–60,Borna,Šimić,Borna Šimić,University of Zagreb,,Zagreb,Croatia,,10,10,0,0,,,20,,10,8,0,0,,,18,38,First Prize,first prize
+2020,61–62,Volodymyr,Fedynyak,Volodymyr Fedynyak,Ukrainian Catholic University,,Lviv,Ukraine,,10,0,0,7,,,17,,10,10,0,0,,,20,37,First Prize,first prize
+2020,61–62,Rafah,Hajjar Munoz,Rafah Hajjar Munoz,BarcelonaTech,,Barcelona,Spain,,10,10,0,0,,,20,,7,10,0,0,,,17,37,First Prize,first prize
+2020,63–68,Radomił,Baran,Radomił Baran,Jagiellonian University,,Krakow,Poland,,10,10,0,0,,,20,,5,10,0,0,,,15,35,First Prize,first prize
+2020,63–68,Pavel,Gubkin,Pavel Gubkin,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,0,0,,,20,,10,5,0,0,,,15,35,First Prize,first prize
+2020,63–68,Igor,Melnikov,Igor Melnikov,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,5,10,0,0,,,15,35,First Prize,first prize
+2020,63–68,Daniel Kacper,Murawski,Daniel Kacper Murawski,University of Warsaw,,Warsaw,Poland,,10,1,10,0,,,21,,10,3,1,0,,,14,35,First Prize,first prize
+2020,63–68,Aliaksei,Vasileuski,Aliaksei Vasileuski,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,5,10,0,0,,,15,35,First Prize,first prize
+2020,63–68,Ferdinand,Wagner,Ferdinand Wagner,Rheinische Friedrich-Wilhelms-Universität Bonn,,Bonn,Germany,,10,10,0,1,,,21,,10,3,1,0,,,14,35,First Prize,first prize
+2020,69–70,Reinier,Sorgdrager,Reinier Sorgdrager,University of Amsterdam,,Amsterdam,Netherlands,,10,10,0,0,,,20,,4,10,0,0,,,14,34,First Prize,first prize
+2020,69–70,Gabriel,Tostes Messias Pereira,Gabriel Tostes Messias Pereira,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,10,0,9,,,29,,4,1,0,0,,,5,34,First Prize,first prize
+2020,71–75,Zsolt,Baja,Zsolt Baja,Babeș-Bolyai University,,Cluj-Napoca,Romania,,10,10,0,0,,,20,,3,10,0,0,,,13,33,First Prize,first prize
+2020,71–75,Bekarys,Bekmaganbetov,Bekarys Bekmaganbetov,Kazakhstan Branch of Lomonosov Moscow State University,,Astana,Kazakhstan,,10,10,0,0,,,20,,10,1,1,1,,,13,33,First Prize,first prize
+2020,71–75,Bruno,Costa Alves Freire,Bruno Costa Alves Freire,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,10,0,0,,,20,,10,3,0,0,,,13,33,First Prize,first prize
+2020,71–75,Sergey,Kudrya,Sergey Kudrya,Moscow Institute of Physics and Technology,,Moscow,Russia,,9,10,0,0,,,19,,4,10,0,0,,,14,33,First Prize,first prize
+2020,71–75,Robin,Simoens,Robin Simoens,Ghent University,,Ghent,Belgium,,10,10,0,0,,,20,,7,0,6,0,,,13,33,First Prize,first prize
+2020,76–88,Sebastian,Bürger,Sebastian Bürger,Universität Leipzig,,Leipzig,Germany,,10,10,0,0,,,20,,10,2,0,0,,,12,32,First Prize,first prize
+2020,76–88,Dijia,Chen,Dijia Chen,University College London,,London,UK,,10,10,0,0,,,20,,2,0,10,0,,,12,32,First Prize,first prize
+2020,76–88,András,Imolay,András Imolay,Loránd Eötvös University,,Budapest,Hungary,,10,10,0,0,,,20,,10,2,0,0,,,12,32,First Prize,first prize
+2020,76–88,Nikita,Kalinin,Nikita Kalinin,Higher School of Economics,,Moscow,Russia,,10,10,0,0,,,20,,10,2,0,0,,,12,32,First Prize,first prize
+2020,76–88,Alireza,Masaeli,Alireza Masaeli,Amirkabir University of Technology,,Tehran,Iran,,10,10,0,0,,,20,,2,10,0,0,,,12,32,First Prize,first prize
+2020,76–88,Dávid,Matolcsi,Dávid Matolcsi,Loránd Eötvös University,,Budapest,Hungary,,10,3,0,0,,,13,,10,9,0,0,,,19,32,First Prize,first prize
+2020,76–88,Martin,Melicher,Martin Melicher,Charles University,,Prague,Czech Republic,,10,1,0,1,,,12,,10,10,0,0,,,20,32,First Prize,first prize
+2020,76–88,Filip,Munteanu,Filip Munteanu,Babeș-Bolyai University,,Cluj-Napoca,Romania,,10,10,0,0,,,20,,8,4,0,0,,,12,32,First Prize,first prize
+2020,76–88,Miquel,Ortega Sanchez-Colomer,Miquel Ortega Sanchez-Colomer,BarcelonaTech,,Barcelona,Spain,,10,10,0,0,,,20,,10,2,0,0,,,12,32,First Prize,first prize
+2020,76–88,Maximiliano,Sánchez Garza,Maximiliano Sánchez Garza,Universidad Autónoma de Nuevo León,,Nuevo León,México,,10,10,0,0,,,20,,2,10,0,0,,,12,32,First Prize,first prize
+2020,76–88,Pablo,Soto Martín,Pablo Soto Martín,Universidad Autonoma de Madrid,,Madrid,Spain,,9,10,0,0,,,19,,10,3,0,0,,,13,32,First Prize,first prize
+2020,76–88,José Ramon,Tuiran Rangel,José Ramon Tuiran Rangel,Universidad Nacional Autónoma de México,,Mexico City,Mexico,,10,10,0,0,,,20,,9,3,0,0,,,12,32,First Prize,first prize
+2020,76–88,Maksim,Urmanov,Maksim Urmanov,Higher School of Economics,,Moscow,Russia,,10,10,0,0,,,20,,10,2,0,0,,,12,32,First Prize,first prize
+2020,89–103,Vahagn,Altunyan,Vahagn Altunyan,Yerevan State University,,Yerevan,Armenia,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2020,89–103,Andrei-Vlad,Cataron,Andrei-Vlad Cataron,University of Bucharest,,Bucharest,Romania,,10,10,0,0,,,20,,10,0,1,0,,,11,31,First Prize,first prize
+2020,89–103,Iris,Hebbeker,Iris Hebbeker,Rheinische Friedrich-Wilhelms-Universität Bonn,,Bonn,Germany,,10,10,0,0,,,20,,1,0,10,0,,,11,31,First Prize,first prize
+2020,89–103,Daniil Ivanovich,Ivanik,Daniil Ivanovich Ivanik,Higher School of Economics,,Moscow,Russia,,10,10,0,10,,,30,,1,0,0,0,,,1,31,First Prize,first prize
+2020,89–103,Steppan,Konoplev,Steppan Konoplev,University of Maryland,,College Park,USA,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2020,89–103,Shokhzod,Kurokboev,Shokhzod Kurokboev,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,10,0,1,,,21,,10,0,0,0,,,10,31,First Prize,first prize
+2020,89–103,Eirini,Miliori,Eirini Miliori,National Technical University of Athens,,Athens,Greece,,7,10,0,0,,,17,,4,10,0,0,,,14,31,First Prize,first prize
+2020,89–103,Panagiotis,Misiakos,Panagiotis Misiakos,National Technical University of Athens,,Athens,Greece,,10,10,0,0,,,20,,6,0,5,0,,,11,31,First Prize,first prize
+2020,89–103,Madalin Gabriel,Mitrofan,Madalin Gabriel Mitrofan,Babeș-Bolyai University,,Cluj-Napoca,Romania,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2020,89–103,Bruno Johannes,Perreaux,Bruno Johannes Perreaux,Universität Wien,,Vienna,Austria,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2020,89–103,Markus,Reibnegger,Markus Reibnegger,Universität Wien,,Vienna,Austria,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2020,89–103,Jordi,Rodriguez Manso,Jordi Rodriguez Manso,BarcelonaTech,,Barcelona,Spain,,10,10,0,5,,,25,,6,0,0,0,,,6,31,First Prize,first prize
+2020,89–103,Ivan,Sinčić,Ivan Sinčić,University of Zagreb,,Zagreb,Croatia,,10,10,0,0,,,20,,10,0,0,1,,,11,31,First Prize,first prize
+2020,89–103,Hoang Anh,Tran,Hoang Anh Tran,Loránd Eötvös University,,Budapest,Hungary,,10,9,0,0,,,19,,10,2,0,0,,,12,31,First Prize,first prize
+2020,89–103,Lammert,Westerdijk,Lammert Westerdijk,University of Utrecht,,Utrecht,Netherlands,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2020,104–117,Sevak,Abrahamyan,Sevak Abrahamyan,Yerevan State University,,Yerevan,Armenia,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2020,104–117,João Pedro,de Abreu Marciano,João Pedro de Abreu Marciano,Fundação Getulio Vargas,,Rio de Janeiro,Brazil,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2020,104–117,Joaquín,Domínguez de Tena,Joaquín Domínguez de Tena,Universidad Complutense de Madrid,,Madrid,Spain,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2020,104–117,Ishkhan,Elazyan,Ishkhan Elazyan,Yerevan State University,,Yerevan,Armenia,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2020,104–117,Martín,Gómez Abejón,Martín Gómez Abejón,Universidad Complutense de Madrid,,Madrid,Spain,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2020,104–117,Heorhii,Ivanchyk,Heorhii Ivanchyk,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,7,0,7,,,24,,5,1,0,0,,,6,30,First Prize,first prize
+2020,104–117,Juraj,Marušić,Juraj Marušić,University of Zagreb,,Zagreb,Croatia,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2020,104–117,Fabiano,Menezes e Sousa,Fabiano Menezes e Sousa,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2020,104–117,Tudor,Popescu,Tudor Popescu,Carnegie Mellon University,,Pittsburgh,USA,,10,10,0,0,,,20,,0,10,0,0,,,10,30,First Prize,first prize
+2020,104–117,Maksym,Protsyk,Maksym Protsyk,Ukrainian Catholic University,,Lviv,Ukraine,,10,0,0,0,,,10,,10,10,0,0,,,20,30,First Prize,first prize
+2020,104–117,Arman,Shirdel,Arman Shirdel,University of Tabriz,,Tabriz,Iran,,10,10,0,0,,,20,,9,0,1,0,,,10,30,First Prize,first prize
+2020,104–117,Ricky,The Ising,Ricky The Ising,Universitas Gadjah Mada,,Yogyakarta,Indonesia,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2020,104–117,Dmitry,Tsarev,Dmitry Tsarev,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,0,0,10,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2020,104–117,Tähvend,Uustalu,Tähvend Uustalu,University of Tartu,,Tartu,Estonia,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2020,118–123,Cristian-Anton,Calin,Cristian-Anton Calin,Imperial College London,,London,UK,,10,10,0,0,,,20,,9,0,0,0,,,9,29,Second Prize,second prize
+2020,118–123,Adriaan Andries,de Clercq,Adriaan Andries de Clercq,University of Pretoria,,Pretoria,South Africa,,10,9,0,0,,,19,,10,0,0,0,,,10,29,Second Prize,second prize
+2020,118–123,Tolibjon,Ismoilov,Tolibjon Ismoilov,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,10,0,0,,,20,,9,0,0,0,,,9,29,Second Prize,second prize
+2020,118–123,Pratik,Rathore,Pratik Rathore,University of Maryland,,College Park,USA,,10,10,0,0,,,20,,7,2,0,0,,,9,29,Second Prize,second prize
+2020,118–123,Nikolay,Sheshko,Nikolay Sheshko,Jagiellonian University,,Krakow,Poland,,10,0,0,10,,,20,,7,2,0,0,,,9,29,Second Prize,second prize
+2020,118–123,Călin-Daniel,Spiridon,Călin-Daniel Spiridon,University of Bucharest,,Bucharest,Romania,,10,9,0,0,,,19,,10,0,0,0,,,10,29,Second Prize,second prize
+2020,124–133,Nikita,Andreev,Nikita Andreev,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,10,10,0,0,,,20,,8,0,0,0,,,8,28,Second Prize,second prize
+2020,124–133,George Lucas,Diniz Alencar,George Lucas Diniz Alencar,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,10,3,0,0,,,13,,5,10,0,0,,,15,28,Second Prize,second prize
+2020,124–133,Dan,Dumitrescu,Dan Dumitrescu,University of Bucharest,,Bucharest,Romania,,10,10,0,0,,,20,,7,1,0,0,,,8,28,Second Prize,second prize
+2020,124–133,Rein,Janssen Groesbeek,Rein Janssen Groesbeek,University of Utrecht,,Utrecht,Netherlands,,10,10,0,0,,,20,,7,0,1,0,,,8,28,Second Prize,second prize
+2020,124–133,Muhammad Harun Ali,Khan,Muhammad Harun Ali Khan,Imperial College London,,London,UK,,10,10,0,0,,,20,,0,8,0,0,,,8,28,Second Prize,second prize
+2020,124–133,Davi,Sena,Davi Sena,University of Waterloo,,Waterloo,Canada,,10,2,0,0,,,12,,7,9,0,0,,,16,28,Second Prize,second prize
+2020,124–133,Franciszek,Szarwacki,Franciszek Szarwacki,University of Warsaw,,Warsaw,Poland,,10,10,0,0,,,20,,6,1,1,0,,,8,28,Second Prize,second prize
+2020,124–133,Mateus,Thimóteo,Mateus Thimóteo,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,4,0,0,,,14,,4,10,0,0,,,14,28,Second Prize,second prize
+2020,124–133,Aleksandr,Trufanov,Aleksandr Trufanov,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,8,0,0,0,,,8,28,Second Prize,second prize
+2020,124–133,Maciej,Wojtala,Maciej Wojtala,University of Warsaw,,Warsaw,Poland,,10,10,0,0,,,20,,5,2,1,0,,,8,28,Second Prize,second prize
+2020,134–142,Aya,Bouzidi,Aya Bouzidi,Université Pierre et Marie Curie,,Paris,France,,7,10,0,0,,,17,,10,0,0,0,,,10,27,Second Prize,second prize
+2020,134–142,Danilo,Fernandes,Danilo Fernandes,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,10,0,0,,,20,,7,0,0,0,,,7,27,Second Prize,second prize
+2020,134–142,Vahe,Karagulyan,Vahe Karagulyan,Yerevan State University,,Yerevan,Armenia,,10,4,0,3,,,17,,10,0,0,0,,,10,27,Second Prize,second prize
+2020,134–142,Bakdauren,Narbayev,Bakdauren Narbayev,Nazarbayev University,,Astana,Kazakhstan,,10,10,0,0,,,20,,7,0,0,0,,,7,27,Second Prize,second prize
+2020,134–142,Saúl,Rodríguez Martín,Saúl Rodríguez Martín,Universidad Complutense de Madrid,,Madrid,Spain,,9,1,0,0,,,10,,10,2,5,0,,,17,27,Second Prize,second prize
+2020,134–142,Maftuna,Samatboyeva,Maftuna Samatboyeva,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,6,0,0,,,16,,10,0,1,0,,,11,27,Second Prize,second prize
+2020,134–142,Ádám,Schweitzer,Ádám Schweitzer,Loránd Eötvös University,,Budapest,Hungary,,8,10,0,0,,,18,,9,0,0,0,,,9,27,Second Prize,second prize
+2020,134–142,Gyorgy,Totos,Gyorgy Totos,Babeș-Bolyai University,,Cluj-Napoca,Romania,,10,10,0,0,,,20,,7,0,0,0,,,7,27,Second Prize,second prize
+2020,134–142,Jahongir,Turayev,Jahongir Turayev,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,9,0,0,,,19,,8,0,0,0,,,8,27,Second Prize,second prize
+2020,143–150,Ana Teodora,Bercaru,Ana Teodora Bercaru,University of Manchester,,Manchester,UK,,8,8,0,0,,,16,,10,0,0,0,,,10,26,Second Prize,second prize
+2020,143–150,Long,Do Xuan,Long Do Xuan,Nanyang Technological University,,Jurong West,Singapore,,10,6,0,0,,,16,,8,2,0,0,,,10,26,Second Prize,second prize
+2020,143–150,Oles,Holembovskyy,Oles Holembovskyy,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,2,0,0,,,12,,8,0,6,0,,,14,26,Second Prize,second prize
+2020,143–150,Danila,Ivanov,Danila Ivanov,Higher School of Economics,,Moscow,Russia,,10,10,0,0,,,20,,4,2,0,0,,,6,26,Second Prize,second prize
+2020,143–150,Ahmadreza,Khazaeipoul,Ahmadreza Khazaeipoul,Amirkabir University of Technology,,Tehran,Iran,,10,10,0,0,,,20,,4,2,0,0,,,6,26,Second Prize,second prize
+2020,143–150,Vadym,Koval,Vadym Koval,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,2,0,0,,,12,,10,4,0,0,,,14,26,Second Prize,second prize
+2020,143–150,Louis,Olyslager,Louis Olyslager,Ghent University,,Ghent,Belgium,,7,10,0,0,,,17,,9,0,0,0,,,9,26,Second Prize,second prize
+2020,143–150,Eduardo,Sodré,Eduardo Sodré,Universidade de São Paulo,,São Paulo,Brazil,,10,4,0,0,,,14,,4,8,0,0,,,12,26,Second Prize,second prize
+2020,151–158,Arman,Bayramyan,Arman Bayramyan,Yerevan State University,,Yerevan,Armenia,,10,10,0,0,,,20,,5,0,0,0,,,5,25,Second Prize,second prize
+2020,151–158,Sergio David,Cía Luvecce,Sergio David Cía Luvecce,Universidad de Zaragoza,,Zaragoza,Spain,,10,10,0,0,,,20,,3,2,0,0,,,5,25,Second Prize,second prize
+2020,151–158,Kevin Gabriel,Coto Mora,Kevin Gabriel Coto Mora,Universidad de Costa Rica,,San Pedro Montes de Oca,Costa Rica,,10,0,0,0,,,10,,5,10,0,0,,,15,25,Second Prize,second prize
+2020,151–158,Caio Augusto,de Carvalho Costa,Caio Augusto de Carvalho Costa,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,10,0,0,,,20,,5,0,0,0,,,5,25,Second Prize,second prize
+2020,151–158,André Yuji,Hisatsuga,André Yuji Hisatsuga,Universidade de São Paulo,,São Paulo,Brazil,,10,4,0,0,,,14,,10,1,0,0,,,11,25,Second Prize,second prize
+2020,151–158,Fiton,Hoxha,Fiton Hoxha,"University of Prishtina ""Hasan Prishtina""",,Prishtina,Kosovo,,10,4,0,0,,,14,,10,0,1,0,,,11,25,Second Prize,second prize
+2020,151–158,Adel,Khalilov,Adel Khalilov,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,4,1,0,0,,,5,25,Second Prize,second prize
+2020,151–158,Felipe,Martins Gomes,Felipe Martins Gomes,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,10,0,0,,,20,,4,1,0,0,,,5,25,Second Prize,second prize
+2020,159–169,Eugenia,Akhmedova,Eugenia Akhmedova,Higher School of Economics,,Moscow,Russia,,10,2,0,0,,,12,,10,2,0,0,,,12,24,Second Prize,second prize
+2020,159–169,Cristian José,Alvarez Bran,Cristian José Alvarez Bran,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,10,10,0,0,,,20,,4,0,0,0,,,4,24,Second Prize,second prize
+2020,159–169,Benedek,Kovács,Benedek Kovács,University of Cambridge,,Cambridge,UK,,10,10,0,0,,,20,,3,0,1,0,,,4,24,Second Prize,second prize
+2020,159–169,Cosmin,Manea,Cosmin Manea,Eindhoven University of Technology,,Eindhoven,Netherlands,,10,10,0,0,,,20,,4,0,0,0,,,4,24,Second Prize,second prize
+2020,159–169,Sam,Pattison,Sam Pattison,University of Warwick,,Warwick,UK,,10,3,0,0,,,13,,10,1,0,0,,,11,24,Second Prize,second prize
+2020,159–169,Marián,Poturnay,Marián Poturnay,"Comenius University, Bratislava",,Bratislava,Slovakia,,10,10,0,0,,,20,,1,3,0,0,,,4,24,Second Prize,second prize
+2020,159–169,Soroush,Rezaei,Soroush Rezaei,Sharif University of Technology,,Tehran,Iran,,10,1,0,0,,,11,,10,3,0,0,,,13,24,Second Prize,second prize
+2020,159–169,Olha,Shevchenko,Olha Shevchenko,V. N. Karazin Kharkiv National University,,Kharkiv,Ukraine,,10,3,0,0,,,13,,10,0,1,0,,,11,24,Second Prize,second prize
+2020,159–169,Alexandr,Snadin,Alexandr Snadin,Novosibirsk State University,,Novosibirsk,Russia,,4,10,0,0,,,14,,10,0,0,0,,,10,24,Second Prize,second prize
+2020,159–169,Robert,Szafarczyk,Robert Szafarczyk,University of Warsaw,,Warsaw,Poland,,10,10,0,0,,,20,,4,0,0,0,,,4,24,Second Prize,second prize
+2020,159–169,Renata,Valieva,Renata Valieva,Higher School of Economics,,Moscow,Russia,,10,10,0,0,,,20,,4,0,0,0,,,4,24,Second Prize,second prize
+2020,170–178,Emil,Alkin,Emil Alkin,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,9,0,0,,,19,,2,2,0,0,,,4,23,Second Prize,second prize
+2020,170–178,Denys,Cherhykalo,Denys Cherhykalo,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,9,0,0,,,19,,4,0,0,0,,,4,23,Second Prize,second prize
+2020,170–178,David,Farré,David Farré,University of Barcelona,,Barcelona,Spain,,10,1,0,0,,,11,,7,2,3,0,,,12,23,Second Prize,second prize
+2020,170–178,Erfran,Masoumi,Erfran Masoumi,University of Tabriz,,Tabriz,Iran,,10,10,0,0,,,20,,2,1,0,0,,,3,23,Second Prize,second prize
+2020,170–178,Maksym,Pushkar,Maksym Pushkar,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,6,7,0,0,,,13,,10,0,0,0,,,10,23,Second Prize,second prize
+2020,170–178,Martin,Raška,Martin Raška,Charles University,,Prague,Czech Republic,,10,1,0,0,,,11,,10,2,0,0,,,12,23,Second Prize,second prize
+2020,170–178,Branislav,Sobot,Branislav Sobot,University of Novi Sad,,Novi Sad,Serbia,,10,1,0,0,,,11,,10,2,0,0,,,12,23,Second Prize,second prize
+2020,170–178,Maksim,Surkov,Maksim Surkov,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,8,10,0,0,,,18,,3,2,0,0,,,5,23,Second Prize,second prize
+2020,170–178,Siebe,Verheijen,Siebe Verheijen,University of Amsterdam,,Amsterdam,Netherlands,,5,7,0,0,,,12,,10,0,1,0,,,11,23,Second Prize,second prize
+2020,179–193,Tímea,Csahók,Tímea Csahók,Loránd Eötvös University,,Budapest,Hungary,,10,1,0,0,,,11,,5,2,4,0,,,11,22,Second Prize,second prize
+2020,179–193,Nicolas,De la Hoz Fernandez,Nicolas De la Hoz Fernandez,Olimpiadas Colombianas de Matematicas,,Bogota,Colombia,,10,6,0,0,,,16,,6,0,0,0,,,6,22,Second Prize,second prize
+2020,179–193,Maria Clara,de Lacerda Werneck,Maria Clara de Lacerda Werneck,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,10,2,0,0,,,12,,0,10,0,0,,,10,22,Second Prize,second prize
+2020,179–193,Iulian,Giliazev,Iulian Giliazev,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,1,1,0,0,,,2,22,Second Prize,second prize
+2020,179–193,Oscar Armando,Hidalgo Arevalo,Oscar Armando Hidalgo Arevalo,University of Leeds,,Leeds,UK,,10,10,0,0,,,20,,2,0,0,0,,,2,22,Second Prize,second prize
+2020,179–193,Jasurbek,Imomov,Jasurbek Imomov,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,10,0,0,,,20,,0,2,0,0,,,2,22,Second Prize,second prize
+2020,179–193,Izat,Khamiyev,Izat Khamiyev,Nazarbayev University,,Astana,Kazakhstan,,10,10,0,0,,,20,,2,0,0,0,,,2,22,Second Prize,second prize
+2020,179–193,Chavdar,Lalov,Chavdar Lalov,Stanford University,,Stanford,USA,,10,10,0,0,,,20,,2,0,0,0,,,2,22,Second Prize,second prize
+2020,179–193,Felix,Moreno Penarrubia,Felix Moreno Penarrubia,BarcelonaTech,,Barcelona,Spain,,10,10,0,0,,,20,,2,0,0,0,,,2,22,Second Prize,second prize
+2020,179–193,Leo,Schäfer,Leo Schäfer,Georg-August-Universität Göttingen,,Göttingen,Germany,,10,10,0,0,,,20,,2,0,0,0,,,2,22,Second Prize,second prize
+2020,179–193,Resul,Shamuhammedov,Resul Shamuhammedov,Magtymguly Turkmen State University,,Ashgabat,Turkmenistan,,10,10,0,0,,,20,,2,0,0,0,,,2,22,Second Prize,second prize
+2020,179–193,Hau Tian,Teo,Hau Tian Teo,Nanyang Technological University,,Jurong West,Singapore,,10,5,0,0,,,15,,7,0,0,0,,,7,22,Second Prize,second prize
+2020,179–193,Simona,Veselá,Simona Veselá,"Comenius University, Bratislava",,Bratislava,Slovakia,,10,10,0,0,,,20,,2,0,0,0,,,2,22,Second Prize,second prize
+2020,179–193,Maximilian,von Consbruch,Maximilian von Consbruch,Georg-August-Universität Göttingen,,Göttingen,Germany,,10,10,0,0,,,20,,2,0,0,0,,,2,22,Second Prize,second prize
+2020,179–193,Rodion,Zaytsev,Rodion Zaytsev,Higher School of Economics,,Moscow,Russia,,10,10,0,0,,,20,,2,0,0,0,,,2,22,Second Prize,second prize
+2020,194–208,Sobir,Boymurodov,Sobir Boymurodov,Bukhara State University,,Bukhara,Uzbekistan,,10,1,0,0,,,11,,10,0,0,0,,,10,21,Second Prize,second prize
+2020,194–208,Daniel Enrique,Caceres Mateus,Daniel Enrique Caceres Mateus,Olimpiadas Colombianas de Matematicas,,Bogota,Colombia,,10,1,0,0,,,11,,0,10,0,0,,,10,21,Second Prize,second prize
+2020,194–208,Gergely,Csáji,Gergely Csáji,Loránd Eötvös University,,Budapest,Hungary,,10,1,0,0,,,11,,10,0,0,0,,,10,21,Second Prize,second prize
+2020,194–208,Nikolaos,Gkoumas,Nikolaos Gkoumas,National and Kapodestian University of Athens,,Athens,Greece,,10,10,0,1,,,21,,0,0,0,0,,,0,21,Second Prize,second prize
+2020,194–208,Male,Hesse,Male Hesse,Georg-August-Universität Göttingen,,Göttingen,Germany,,10,1,0,0,,,11,,10,0,0,0,,,10,21,Second Prize,second prize
+2020,194–208,Pablo,Hidalgo Palencia,Pablo Hidalgo Palencia,Universidad Complutense de Madrid,,Madrid,Spain,,9,9,0,0,,,18,,3,0,0,0,,,3,21,Second Prize,second prize
+2020,194–208,Sahan Manodya,Karawita,Sahan Manodya Karawita,University of Colombo,,Colombo,Sri Lanka,,10,0,0,0,,,10,,8,0,0,3,,,11,21,Second Prize,second prize
+2020,194–208,Florian,Lang,Florian Lang,Universität Wien,,Vienna,Austria,,10,1,0,0,,,11,,10,0,0,0,,,10,21,Second Prize,second prize
+2020,194–208,James Murray,Louw,James Murray Louw,University of Pretoria,,Pretoria,South Africa,,10,1,0,0,,,11,,10,0,0,0,,,10,21,Second Prize,second prize
+2020,194–208,Kostiantyn,Lutsenko,Kostiantyn Lutsenko,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,1,0,0,,,11,,10,0,0,0,,,10,21,Second Prize,second prize
+2020,194–208,Oleksandr,Mishyn,Oleksandr Mishyn,Igor Sikorsky Kyiv Polytechnic Institute,,Kyiv,Ukraine,,10,10,0,0,,,20,,1,0,0,0,,,1,21,Second Prize,second prize
+2020,194–208,Sina,Naserian,Sina Naserian,University of Tehran,,Tehran,Iran,,10,10,0,0,,,20,,0,1,0,0,,,1,21,Second Prize,second prize
+2020,194–208,Matyas,Parrag,Matyas Parrag,University of Warwick,,Warwick,UK,,10,2,0,0,,,12,,8,1,0,0,,,9,21,Second Prize,second prize
+2020,194–208,Jose,Perez Cano,Jose Perez Cano,BarcelonaTech,,Barcelona,Spain,,10,8,0,0,,,18,,3,0,0,0,,,3,21,Second Prize,second prize
+2020,194–208,Wojciech,Przybyszewski,Wojciech Przybyszewski,University of Warsaw,,Warsaw,Poland,,7,1,0,0,,,8,,10,3,0,0,,,13,21,Second Prize,second prize
+2020,209–230,Vasily,Alferov,Vasily Alferov,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,10,0,0,0,,,10,,10,0,0,0,,,10,20,Third Prize,third prize
+2020,209–230,Sotirios,Armeniakos,Sotirios Armeniakos,National and Kapodestian University of Athens,,Athens,Greece,,0,10,0,0,,,10,,10,0,0,0,,,10,20,Third Prize,third prize
+2020,209–230,Lucas,de Moura Herlin,Lucas de Moura Herlin,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,10,0,0,,,20,,0,0,0,0,,,0,20,Third Prize,third prize
+2020,209–230,Martin,Drees,Martin Drees,Rheinische Friedrich-Wilhelms-Universität Bonn,,Bonn,Germany,,10,10,0,0,,,20,,0,0,0,0,,,0,20,Third Prize,third prize
+2020,209–230,Anouk,Eggink,Anouk Eggink,University of Utrecht,,Utrecht,Netherlands,,10,2,0,0,,,12,,5,2,1,0,,,8,20,Third Prize,third prize
+2020,209–230,Marcos,Escartin Ferrer,Marcos Escartin Ferrer,Universidad de Zaragoza,,Zaragoza,Spain,,10,10,0,0,,,20,,0,0,0,0,,,0,20,Third Prize,third prize
+2020,209–230,Erion,Hamiti,Erion Hamiti,"University of Prishtina ""Hasan Prishtina""",,Prishtina,Kosovo,,10,10,0,0,,,20,,0,0,0,0,,,0,20,Third Prize,third prize
+2020,209–230,Lucas Hiroshi,Hanke Harada,Lucas Hiroshi Hanke Harada,Universidade de São Paulo,,São Paulo,Brazil,,10,0,0,0,,,10,,10,0,0,0,,,10,20,Third Prize,third prize
+2020,209–230,Joan,Hernanz Ibanez,Joan Hernanz Ibanez,BarcelonaTech,,Barcelona,Spain,,10,10,0,0,,,20,,0,0,0,0,,,0,20,Third Prize,third prize
+2020,209–230,Bakytzhan,Kurmanbek,Bakytzhan Kurmanbek,Nazarbayev University,,Astana,Kazakhstan,,10,2,0,0,,,12,,8,0,0,0,,,8,20,Third Prize,third prize
+2020,209–230,Thomas,Luo,Thomas Luo,University of Maryland,,College Park,USA,,10,3,0,7,,,20,,0,0,0,0,,,0,20,Third Prize,third prize
+2020,209–230,Bruno,Luz,Bruno Luz,Fundação Getulio Vargas,,Rio de Janeiro,Brazil,,10,0,0,0,,,10,,10,0,0,0,,,10,20,Third Prize,third prize
+2020,209–230,Lugo,Mihovilic,Lugo Mihovilic,University of Zagreb,,Zagreb,Croatia,,10,2,0,0,,,12,,8,0,0,0,,,8,20,Third Prize,third prize
+2020,209–230,Oliver,Nisumaa,Oliver Nisumaa,University of Tartu,,Tartu,Estonia,,10,0,0,0,,,10,,10,0,0,0,,,10,20,Third Prize,third prize
+2020,209–230,Nilufar,Rajabova,Nilufar Rajabova,National University of Uzbekistan,,Tashkent,Uzbekistan,,0,10,0,0,,,10,,10,0,0,0,,,10,20,Third Prize,third prize
+2020,209–230,Wesley,Rodrigues Machado,Wesley Rodrigues Machado,École Polytechnique,,Paris,France,,0,10,0,0,,,10,,10,0,0,0,,,10,20,Third Prize,third prize
+2020,209–230,Mateo,Rodriguez Polo,Mateo Rodriguez Polo,Universidad Autonoma de Madrid,,Madrid,Spain,,10,0,0,0,,,10,,10,0,0,0,,,10,20,Third Prize,third prize
+2020,209–230,Małgorzata Maria,Rojek,Małgorzata Maria Rojek,University of Warsaw,,Warsaw,Poland,,10,10,0,0,,,20,,0,0,0,0,,,0,20,Third Prize,third prize
+2020,209–230,Karim,Shamazov,Karim Shamazov,Higher School of Economics,,Moscow,Russia,,10,0,0,0,,,10,,10,0,0,0,,,10,20,Third Prize,third prize
+2020,209–230,Tadej Petar,Tukara,Tadej Petar Tukara,University of Zagreb,,Zagreb,Croatia,,10,10,0,0,,,20,,0,0,0,0,,,0,20,Third Prize,third prize
+2020,209–230,Doniyor,Yazdonov,Doniyor Yazdonov,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,5,0,0,,,15,,5,0,0,0,,,5,20,Third Prize,third prize
+2020,209–230,Kristóf,Zólomy,Kristóf Zólomy,Loránd Eötvös University,,Budapest,Hungary,,10,0,0,0,,,10,,10,0,0,0,,,10,20,Third Prize,third prize
+2020,231–242,Danila,Belousov,Danila Belousov,Novosibirsk State University,,Novosibirsk,Russia,,10,4,0,0,,,14,,5,0,0,0,,,5,19,Third Prize,third prize
+2020,231–242,Juraj,Bodík,Juraj Bodík,Charles University,,Prague,Czech Republic,,7,9,0,0,,,16,,3,0,0,0,,,3,19,Third Prize,third prize
+2020,231–242,Alberto,Cerezo Cid,Alberto Cerezo Cid,University of Seville,,Sevilla,Spain,,10,6,0,0,,,16,,2,1,0,0,,,3,19,Third Prize,third prize
+2020,231–242,Gabriel Vinícius,de Souza Silva,Gabriel Vinícius de Souza Silva,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,0,0,0,,,10,,9,0,0,0,,,9,19,Third Prize,third prize
+2020,231–242,Joshue R,Galvan Chavez,Joshue R Galvan Chavez,Universidad Autónoma de Chihuahua,,Chihuahua,Mexico,,10,2,0,0,,,12,,7,0,0,0,,,7,19,Third Prize,third prize
+2020,231–242,Sergio,Herrero Vila,Sergio Herrero Vila,Universidade de Santiago de Compostela,,Santiago de Compostela,Spain,,0,9,0,0,,,9,,9,0,1,0,,,10,19,Third Prize,third prize
+2020,231–242,Alexander,Kharchenko,Alexander Kharchenko,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,9,8,0,0,,,17,,0,2,0,0,,,2,19,Third Prize,third prize
+2020,231–242,Nikita,Leo,Nikita Leo,University of Tartu,,Tartu,Estonia,,7,0,0,10,,,17,,2,0,0,0,,,2,19,Third Prize,third prize
+2020,231–242,Vladislav,Mosin,Vladislav Mosin,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,10,1,0,0,,,11,,8,0,0,0,,,8,19,Third Prize,third prize
+2020,231–242,Svyatoslav,Novikov,Svyatoslav Novikov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,8,1,0,0,,,9,,10,0,0,0,,,10,19,Third Prize,third prize
+2020,231–242,Vladyslav,Shashkov,Vladyslav Shashkov,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,6,3,0,0,,,9,,10,0,0,0,,,10,19,Third Prize,third prize
+2020,231–242,Jean Carlos,Villegas Morales,Jean Carlos Villegas Morales,Universidad de Costa Rica,,San Pedro Montes de Oca,Costa Rica,,3,9,0,0,,,12,,7,0,0,0,,,7,19,Third Prize,third prize
+2020,243–248,Mehdi,Khoshtinat,Mehdi Khoshtinat,University of Tehran,,Tehran,Iran,,10,0,0,0,,,10,,0,8,0,0,,,8,18,Third Prize,third prize
+2020,243–248,Antonio,Navas Orozco,Antonio Navas Orozco,University of Seville,,Sevilla,Spain,,3,10,0,0,,,13,,5,0,0,0,,,5,18,Third Prize,third prize
+2020,243–248,Huangyuan,Su,Huangyuan Su,Nanyang Technological University,,Jurong West,Singapore,,3,9,0,0,,,12,,6,0,0,0,,,6,18,Third Prize,third prize
+2020,243–248,Panagiotis,Theodoropoulos,Panagiotis Theodoropoulos,National and Kapodestian University of Athens,,Athens,Greece,,2,10,0,0,,,12,,5,1,0,0,,,6,18,Third Prize,third prize
+2020,243–248,Jozef Johannus,Wittebol,Jozef Johannus Wittebol,University of Amsterdam,,Amsterdam,Netherlands,,10,4,0,0,,,14,,4,0,0,0,,,4,18,Third Prize,third prize
+2020,243–248,Mathieu Wolfgang,Wydra,Mathieu Wolfgang Wydra,University College London,,London,UK,,3,10,0,0,,,13,,0,0,1,4,,,5,18,Third Prize,third prize
+2020,249–259,Ivan,Alexeev,Ivan Alexeev,Saint-Petersburg State University,,Saint-Petersburg,Russia,,3,10,0,0,,,13,,4,0,0,0,,,4,17,Third Prize,third prize
+2020,249–259,Oriol,Baeza Guasch,Oriol Baeza Guasch,BarcelonaTech,,Barcelona,Spain,,10,1,0,0,,,11,,4,2,0,0,,,6,17,Third Prize,third prize
+2020,249–259,Sahar,Bakhshande nezhad,Sahar Bakhshande nezhad,Ferdowsi University of Mashhad,,Mashhad,Iran,,10,0,0,0,,,10,,5,2,0,0,,,7,17,Third Prize,third prize
+2020,249–259,Chethana Chathuprabha,Belpa Godage,Chethana Chathuprabha Belpa Godage,University of Colombo,,Colombo,Sri Lanka,,10,0,0,0,,,10,,7,0,0,0,,,7,17,Third Prize,third prize
+2020,249–259,Gustavo Roque,Collado Romero,Gustavo Roque Collado Romero,University of Seville,,Sevilla,Spain,,7,0,0,0,,,7,,10,0,0,0,,,10,17,Third Prize,third prize
+2020,249–259,Jarah Che,Fluxman,Jarah Che Fluxman,University of the Witwatersrand,,Johannesburg,South Africa,,7,10,0,0,,,17,,0,0,0,0,,,0,17,Third Prize,third prize
+2020,249–259,Yujeong,Han,Yujeong Han,University of Cambridge,,Cambridge,UK,,10,3,0,0,,,13,,4,0,0,0,,,4,17,Third Prize,third prize
+2020,249–259,Egor,Kravchenko,Egor Kravchenko,Saint-Petersburg State University,,Saint-Petersburg,Russia,,9,3,0,0,,,12,,5,0,0,0,,,5,17,Third Prize,third prize
+2020,249–259,Urmas,Luhaäär,Urmas Luhaäär,University of Tartu,,Tartu,Estonia,,10,1,0,0,,,11,,6,0,0,0,,,6,17,Third Prize,third prize
+2020,249–259,Davrbek,Oltiboev,Davrbek Oltiboev,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,0,0,0,,,10,,5,2,0,0,,,7,17,Third Prize,third prize
+2020,249–259,Márcio,Peixoto,Márcio Peixoto,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,10,3,0,0,,,13,,4,0,0,0,,,4,17,Third Prize,third prize
+2020,260–276,Alisher,Aikyn,Alisher Aikyn,Kazakhstan Branch of Lomonosov Moscow State University,,Astana,Kazakhstan,,0,10,0,0,,,10,,6,0,0,0,,,6,16,Third Prize,third prize
+2020,260–276,Yevhenii,Azarov,Yevhenii Azarov,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,1,0,0,,,11,,5,0,0,0,,,5,16,Third Prize,third prize
+2020,260–276,Felipe,Chen Wu,Felipe Chen Wu,Universidade Federal do Rio de Janeiro,,Rio de Janeiro,Brazil,,10,1,0,0,,,11,,4,1,0,0,,,5,16,Third Prize,third prize
+2020,260–276,Armando Benjamin,Cruz Hinojosa,Armando Benjamin Cruz Hinojosa,Universidad Nacional Autónoma de México,,Mexico City,Mexico,,10,1,0,0,,,11,,5,0,0,0,,,5,16,Third Prize,third prize
+2020,260–276,Guilherme Zeus,Dantas e Moura,Guilherme Zeus Dantas e Moura,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,10,2,0,0,,,12,,4,0,0,0,,,4,16,Third Prize,third prize
+2020,260–276,Lautaro,Decara,Lautaro Decara,Universidad de Buenos Aires,,Buenos Aires,Argentina,,10,3,0,0,,,13,,1,2,0,0,,,3,16,Third Prize,third prize
+2020,260–276,Filipp,Denissov,Filipp Denissov,Kazakhstan Branch of Lomonosov Moscow State University,,Astana,Kazakhstan,,3,10,0,0,,,13,,3,0,0,0,,,3,16,Third Prize,third prize
+2020,260–276,Amir Hosein,Eskandani,Amir Hosein Eskandani,Ferdowsi University of Mashhad,,Mashhad,Iran,,3,0,0,0,,,3,,3,10,0,0,,,13,16,Third Prize,third prize
+2020,260–276,Pavlo,Hlukhovskyi,Pavlo Hlukhovskyi,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,6,0,0,0,,,6,,10,0,0,0,,,10,16,Third Prize,third prize
+2020,260–276,Roman,Isaev,Roman Isaev,Lomonosov Moscow State University,,Moscow,Russia,,10,0,0,0,,,10,,6,0,0,0,,,6,16,Third Prize,third prize
+2020,260–276,Xinwei,Jia,Xinwei Jia,University of Warwick,,Warwick,UK,,8,0,0,0,,,8,,8,0,0,0,,,8,16,Third Prize,third prize
+2020,260–276,Denis,Nabokov,Denis Nabokov,Bauman Moscow State Technical University,,Moscow,Russia,,6,0,0,0,,,6,,0,10,0,0,,,10,16,Third Prize,third prize
+2020,260–276,Davin,Park,Davin Park,University of Maryland,,College Park,USA,,10,2,0,0,,,12,,2,2,0,0,,,4,16,Third Prize,third prize
+2020,260–276,Oriol Andreu,Sole Pi,Oriol Andreu Sole Pi,Universidad Nacional Autónoma de México,,Mexico City,Mexico,,10,3,1,0,,,14,,1,1,0,0,,,2,16,Third Prize,third prize
+2020,260–276,Ioan-Adrian,Tofan,Ioan-Adrian Tofan,Babeș-Bolyai University,,Cluj-Napoca,Romania,,0,8,0,0,,,8,,8,0,0,0,,,8,16,Third Prize,third prize
+2020,260–276,Wenminqi,Zhang,Wenminqi Zhang,University of Chicago,,Chicago,USA,,3,7,0,0,,,10,,0,0,0,6,,,6,16,Third Prize,third prize
+2020,260–276,Yingbo,Zhou,Yingbo Zhou,University of Warwick,,Warwick,UK,,10,4,0,0,,,14,,0,2,0,0,,,2,16,Third Prize,third prize
+2020,277–292,Pedro Henrique,Alencar Costa,Pedro Henrique Alencar Costa,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,1,0,0,,,11,,4,0,0,0,,,4,15,Third Prize,third prize
+2020,277–292,Rodrigo,Fontenele Brilhante,Rodrigo Fontenele Brilhante,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,0,0,0,,,10,,4,1,0,0,,,5,15,Third Prize,third prize
+2020,277–292,Luan Arjuna,Fraga Ramires,Luan Arjuna Fraga Ramires,Universidade de São Paulo,,São Paulo,Brazil,,10,0,0,0,,,10,,5,0,0,0,,,5,15,Third Prize,third prize
+2020,277–292,Caio,Graça Gomes,Caio Graça Gomes,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,1,0,0,,,11,,4,0,0,0,,,4,15,Third Prize,third prize
+2020,277–292,Shota,Kobakhidze,Shota Kobakhidze,Free University,,Tbilisi,Georgia,,10,1,0,0,,,11,,4,0,0,0,,,4,15,Third Prize,third prize
+2020,277–292,Sergiu-Florentin,Megieșan,Sergiu-Florentin Megieșan,Babeș-Bolyai University,,Cluj-Napoca,Romania,,3,10,0,0,,,13,,2,0,0,0,,,2,15,Third Prize,third prize
+2020,277–292,Yehor,Panchenko,Yehor Panchenko,Igor Sikorsky Kyiv Polytechnic Institute,,Kyiv,Ukraine,,10,0,0,0,,,10,,5,0,0,0,,,5,15,Third Prize,third prize
+2020,277–292,Christos,Pandis,Christos Pandis,National and Kapodestian University of Athens,,Athens,Greece,,0,10,0,0,,,10,,5,0,0,0,,,5,15,Third Prize,third prize
+2020,277–292,Rodrigo,Ribeiro da Silva,Rodrigo Ribeiro da Silva,Fundação Getulio Vargas,,Rio de Janeiro,Brazil,,10,0,0,0,,,10,,3,2,0,0,,,5,15,Third Prize,third prize
+2020,277–292,Alba Vika,Sánchez,Alba Vika Sánchez,University of Barcelona,,Barcelona,Spain,,10,1,0,0,,,11,,3,0,1,0,,,4,15,Third Prize,third prize
+2020,277–292,João Pedro,Sedeu Godoi,João Pedro Sedeu Godoi,Universidade de São Paulo,,São Paulo,Brazil,,10,4,0,0,,,14,,1,0,0,0,,,1,15,Third Prize,third prize
+2020,277–292,Talant,Talipov,Talant Talipov,Kazakhstan Branch of Lomonosov Moscow State University,,Astana,Kazakhstan,,2,3,0,0,,,5,,10,0,0,0,,,10,15,Third Prize,third prize
+2020,277–292,Orestis,Tsatalmpasidis,Orestis Tsatalmpasidis,Rice University,,Houston,USA,,4,7,0,0,,,11,,4,0,0,0,,,4,15,Third Prize,third prize
+2020,277–292,Georgios Stylianos,Tseligkas,Georgios Stylianos Tseligkas,National Technical University of Athens,,Athens,Greece,,10,1,0,0,,,11,,4,0,0,0,,,4,15,Third Prize,third prize
+2020,277–292,Alexey,Zelenetskiy,Alexey Zelenetskiy,Bauman Moscow State Technical University,,Moscow,Russia,,3,2,0,0,,,5,,0,10,0,0,,,10,15,Third Prize,third prize
+2020,277–292,Hao,Zhang,Hao Zhang,University of Sheffield,,Sheffield,UK,,3,10,0,0,,,13,,2,0,0,0,,,2,15,Third Prize,third prize
+2020,293–312,Angel Alejandro,Aleman Alegre,Angel Alejandro Aleman Alegre,Universidad Autónoma de Nuevo León,,Nuevo León,México,,10,0,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,Arber,Avdullahu,Arber Avdullahu,University of Primorska,,Primorska,Slovenia,,10,1,0,0,,,11,,3,0,0,0,,,3,14,Honourable Mention,honourable mention
+2020,293–312,Felipe,Buzato França Costa,Felipe Buzato França Costa,École Polytechnique,,Paris,France,,10,0,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,Renjie,Cui,Renjie Cui,University College London,,London,UK,,10,0,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,Ismael,El Yassini,Ismael El Yassini,University of Sherbrooke,,Sherbrooke,Canada,,10,0,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,Pietro,Geronimi,Pietro Geronimi,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,0,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,Roberto,Gesteira Miñarro,Roberto Gesteira Miñarro,Pontificia Comillas,,Madrid,Spain,,0,10,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,Javier,Guillán Rial,Javier Guillán Rial,Universidade de Santiago de Compostela,,Santiago de Compostela,Spain,,0,10,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,Jacek,Jakimiuk,Jacek Jakimiuk,University of Warsaw,,Warsaw,Poland,,10,1,0,0,,,11,,2,1,0,0,,,3,14,Honourable Mention,honourable mention
+2020,293–312,luka,khizanishvili,luka khizanishvili,Free University,,Tbilisi,Georgia,,2,10,0,0,,,12,,0,2,0,0,,,2,14,Honourable Mention,honourable mention
+2020,293–312,Radek Emanuel,Kusek,Radek Emanuel Kusek,Jagiellonian University,,Krakow,Poland,,10,2,0,0,,,12,,2,0,0,0,,,2,14,Honourable Mention,honourable mention
+2020,293–312,Gabriel,Laurentino Silva Henriques,Gabriel Laurentino Silva Henriques,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,2,0,0,,,12,,1,0,1,0,,,2,14,Honourable Mention,honourable mention
+2020,293–312,Vasileios,Makridis,Vasileios Makridis,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,10,0,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,Arthur,Melo,Arthur Melo,Universidade Federal do Rio Grande do Norte,,Natal,Brazil,,9,1,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,José,Menéndez,José Menéndez,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,4,10,0,0,,,14,,0,0,0,0,,,0,14,Honourable Mention,honourable mention
+2020,293–312,Michal,Mráz,Michal Mráz,University of Warwick,,Warwick,UK,,10,0,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,Ruwimal Yasantha,Pathiraja,Ruwimal Yasantha Pathiraja,University of Colombo,,Colombo,Sri Lanka,,10,0,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,Yaroslav,Romanus,Yaroslav Romanus,Ukrainian Catholic University,,Lviv,Ukraine,,10,0,0,0,,,10,,4,0,0,0,,,4,14,Honourable Mention,honourable mention
+2020,293–312,Irakli,Shalibashvili,Irakli Shalibashvili,Free University,,Tbilisi,Georgia,,10,1,0,0,,,11,,3,0,0,0,,,3,14,Honourable Mention,honourable mention
+2020,293–312,Jahongir,Tursunboyev,Jahongir Tursunboyev,National University of Uzbekistan,,Tashkent,Uzbekistan,,0,9,0,0,,,9,,5,0,0,0,,,5,14,Honourable Mention,honourable mention
+2020,313–324,Abdumalik,Abdukayumov,Abdumalik Abdukayumov,Tashkent State University of Economics,,Tashkent,Uzbekistan,,10,1,0,0,,,11,,2,0,0,0,,,2,13,Honourable Mention,honourable mention
+2020,313–324,Jaime,Benabent Guerrero,Jaime Benabent Guerrero,University of Seville,,Sevilla,Spain,,10,1,0,0,,,11,,0,2,0,0,,,2,13,Honourable Mention,honourable mention
+2020,313–324,Victor Antonio,Domínguez Silva,Victor Antonio Domínguez Silva,Universidad Autónoma de Nuevo León,,Nuevo León,México,,10,0,0,0,,,10,,0,3,0,0,,,3,13,Honourable Mention,honourable mention
+2020,313–324,Maksim,Geniman,Maksim Geniman,Novosibirsk State University,,Novosibirsk,Russia,,0,4,0,0,,,4,,9,0,0,0,,,9,13,Honourable Mention,honourable mention
+2020,313–324,Zurab,Jashi,Zurab Jashi,New York University Abu Dhabi,,Abu Dhabi,United Arab Emirates,,2,1,0,0,,,3,,10,0,0,0,,,10,13,Honourable Mention,honourable mention
+2020,313–324,Linde,Lambrecht,Linde Lambrecht,Ghent University,,Ghent,Belgium,,7,0,0,0,,,7,,2,0,4,0,,,6,13,Honourable Mention,honourable mention
+2020,313–324,Nicolás,López Funes,Nicolás López Funes,University of Granada,,Granada,Spain,,10,1,0,0,,,11,,2,0,0,0,,,2,13,Honourable Mention,honourable mention
+2020,313–324,Luka,Milačić,Luka Milačić,University of Zagreb,,Zagreb,Croatia,,3,0,0,0,,,3,,10,0,0,0,,,10,13,Honourable Mention,honourable mention
+2020,313–324,Marvin,Randig,Marvin Randig,Universität Leipzig,,Leipzig,Germany,,10,0,0,0,,,10,,1,2,0,0,,,3,13,Honourable Mention,honourable mention
+2020,313–324,Pedro,Soares da Costa Mota e Souza,Pedro Soares da Costa Mota e Souza,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,1,0,0,,,11,,2,0,0,0,,,2,13,Honourable Mention,honourable mention
+2020,313–324,Dimitrios,Tsintsilidas,Dimitrios Tsintsilidas,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,10,1,0,0,,,11,,2,0,0,0,,,2,13,Honourable Mention,honourable mention
+2020,313–324,Richard,Wols,Richard Wols,University of Utrecht,,Utrecht,Netherlands,,10,2,0,0,,,12,,1,0,0,0,,,1,13,Honourable Mention,honourable mention
+2020,325–337,Monika,Bunjaku,Monika Bunjaku,"University of Prishtina ""Hasan Prishtina""",,Prishtina,Kosovo,,6,3,0,0,,,9,,3,0,0,0,,,3,12,Honourable Mention,honourable mention
+2020,325–337,Eduardo Alejandro,Castillo Aguilar,Eduardo Alejandro Castillo Aguilar,Universidad Autónoma de Nuevo León,,Nuevo León,México,,0,10,0,0,,,10,,2,0,0,0,,,2,12,Honourable Mention,honourable mention
+2020,325–337,Alex,Colling,Alex Colling,Universiteit Leiden,,Leiden,Netherlands,,10,0,0,0,,,10,,2,0,0,0,,,2,12,Honourable Mention,honourable mention
+2020,325–337,Maarten,De Coen,Maarten De Coen,Ghent University,,Ghent,Belgium,,2,10,0,0,,,12,,0,0,0,0,,,0,12,Honourable Mention,honourable mention
+2020,325–337,Iurii,Efremenko,Iurii Efremenko,Novosibirsk State University,,Novosibirsk,Russia,,0,10,0,0,,,10,,2,0,0,0,,,2,12,Honourable Mention,honourable mention
+2020,325–337,Justus,Greve-Kramer,Justus Greve-Kramer,Georg-August-Universität Göttingen,,Göttingen,Germany,,10,1,0,0,,,11,,1,0,0,0,,,1,12,Honourable Mention,honourable mention
+2020,325–337,Muyan,Jiang,Muyan Jiang,New York University Abu Dhabi,,Abu Dhabi,United Arab Emirates,,0,10,0,0,,,10,,2,0,0,0,,,2,12,Honourable Mention,honourable mention
+2020,325–337,Dong Lin,Loo,Dong Lin Loo,Nanyang Technological University,,Jurong West,Singapore,,10,0,0,0,,,10,,2,0,0,0,,,2,12,Honourable Mention,honourable mention
+2020,325–337,José Luis,Narbona Valiente,José Luis Narbona Valiente,Imperial College London,,London,UK,,10,1,0,0,,,11,,1,0,0,0,,,1,12,Honourable Mention,honourable mention
+2020,325–337,Matias,Riveros,Matias Riveros,ULPGc,,Las palmas,Spain,,10,0,0,0,,,10,,2,0,0,0,,,2,12,Honourable Mention,honourable mention
+2020,325–337,Kevin Alexander,Rojas Cisneros,Kevin Alexander Rojas Cisneros,Universidad de Costa Rica,,San Pedro Montes de Oca,Costa Rica,,10,2,0,0,,,12,,0,0,0,0,,,0,12,Honourable Mention,honourable mention
+2020,325–337,Ioannis,Tzachristas,Ioannis Tzachristas,National Technical University of Athens,,Athens,Greece,,8,4,0,0,,,12,,0,0,0,0,,,0,12,Honourable Mention,honourable mention
+2020,325–337,Kirill,Ufimtsev,Kirill Ufimtsev,Novosibirsk State University,,Novosibirsk,Russia,,1,10,0,0,,,11,,1,0,0,0,,,1,12,Honourable Mention,honourable mention
+2020,338–355,Roman,Agureev,Roman Agureev,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,1,0,0,,,11,,0,0,0,0,,,0,11,Honourable Mention,honourable mention
+2020,338–355,Nartay,Aikyn,Nartay Aikyn,Nazarbayev University,,Astana,Kazakhstan,,9,2,0,0,,,11,,0,0,0,0,,,0,11,Honourable Mention,honourable mention
+2020,338–355,Erfan,Aliannezhadi,Erfan Aliannezhadi,Ferdowsi University of Mashhad,,Mashhad,Iran,,3,8,0,0,,,11,,0,0,0,0,,,0,11,Honourable Mention,honourable mention
+2020,338–355,Marcin,Baranek,Marcin Baranek,AGH University of Science and Technology,,Krakow,Poland,,10,1,0,0,,,11,,0,0,0,0,,,0,11,Honourable Mention,honourable mention
+2020,338–355,Yauheni,Bayak,Yauheni Bayak,Belarusian State University of Informatics and Radioelectronics,,Minsk,Belarus,,10,0,0,0,,,10,,1,0,0,0,,,1,11,Honourable Mention,honourable mention
+2020,338–355,Ana Karoline,Borges Carneiro,Ana Karoline Borges Carneiro,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,0,0,0,,,10,,1,0,0,0,,,1,11,Honourable Mention,honourable mention
+2020,338–355,Cicero,Calheiros,Cicero Calheiros,Universidade Federal de Alagoas,,Maceió,Brazil,,0,10,0,0,,,10,,1,0,0,0,,,1,11,Honourable Mention,honourable mention
+2020,338–355,Lluis,Carmona,Lluis Carmona,University of Barcelona,,Barcelona,Spain,,0,0,0,0,,,0,,1,10,0,0,,,11,11,Honourable Mention,honourable mention
+2020,338–355,Ehsan,Kafshdar Goharshady,Ehsan Kafshdar Goharshady,Ferdowsi University of Mashhad,,Mashhad,Iran,,10,1,0,0,,,11,,0,0,0,0,,,0,11,Honourable Mention,honourable mention
+2020,338–355,Mateusz,Kamyczura,Mateusz Kamyczura,AGH University of Science and Technology,,Krakow,Poland,,0,7,0,0,,,7,,4,0,0,0,,,4,11,Honourable Mention,honourable mention
+2020,338–355,Kevyn,Lacerda,Kevyn Lacerda,Universidade Estadual de Campinas,,São Paulo,Brazil,,10,0,0,0,,,10,,1,0,0,0,,,1,11,Honourable Mention,honourable mention
+2020,338–355,Alexander,Latyshev,Alexander Latyshev,Higher School of Economics,,Moscow,Russia,,10,1,0,0,,,11,,0,0,0,0,,,0,11,Honourable Mention,honourable mention
+2020,338–355,Luis Eduardo,Mack Alvizures,Luis Eduardo Mack Alvizures,Universidad de San Carlos de Guatemala,,Guatemala,Guatemala,,7,4,0,0,,,11,,0,0,0,0,,,0,11,Honourable Mention,honourable mention
+2020,338–355,Mateo,Matijasevick,Mateo Matijasevick,Olimpiadas Colombianas de Matematicas,,Bogota,Colombia,,8,0,0,0,,,8,,2,1,0,0,,,3,11,Honourable Mention,honourable mention
+2020,338–355,Julia,Perdigão Saltiel,Julia Perdigão Saltiel,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,1,0,0,,,11,,0,0,0,0,,,0,11,Honourable Mention,honourable mention
+2020,338–355,Matheus Fernandes Vivas,Silva,Matheus Fernandes Vivas Silva,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,1,0,0,,,11,,0,0,0,0,,,0,11,Honourable Mention,honourable mention
+2020,338–355,Nian,Vorster,Nian Vorster,University of Pretoria,,Pretoria,South Africa,,10,0,0,0,,,10,,0,0,1,0,,,1,11,Honourable Mention,honourable mention
+2020,338–355,Tony,Wang,Tony Wang,Imperial College London,,London,UK,,10,1,0,0,,,11,,0,0,0,0,,,0,11,Honourable Mention,honourable mention
+2020,356–377,Fatemeh,Alimirzaei,Fatemeh Alimirzaei,Ferdowsi University of Mashhad,,Mashhad,Iran,,0,10,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Muhammad Thoriq,Aripin,Muhammad Thoriq Aripin,Universitas Pendidikan Indonesia,,Bandung,Indonesia,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Michael Coenraad,Beukman,Michael Coenraad Beukman,University of the Witwatersrand,,Johannesburg,South Africa,,0,10,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Rofiud,Darojad,Rofiud Darojad,Universitas Negeri Malang,,Malang,Indonesia,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Florian,Esser,Florian Esser,Georg-August-Universität Göttingen,,Göttingen,Germany,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Franciszek,Gala,Franciszek Gala,AGH University of Science and Technology,,Krakow,Poland,,2,0,0,0,,,2,,8,0,0,0,,,8,10,Honourable Mention,honourable mention
+2020,356–377,Johan Fernando,Guillén Meza,Johan Fernando Guillén Meza,Instituto Tecnológico de Costa Rica,,Cartago,Costa Rica,,3,4,0,0,,,7,,3,0,0,0,,,3,10,Honourable Mention,honourable mention
+2020,356–377,Saman,Hallajian,Saman Hallajian,Amirkabir University of Technology,,Tehran,Iran,,3,1,0,0,,,4,,6,0,0,0,,,6,10,Honourable Mention,honourable mention
+2020,356–377,Seyed Amir,Hosseini,Seyed Amir Hosseini,Amirkabir University of Technology,,Tehran,Iran,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Nicolas,Ihlo,Nicolas Ihlo,Georg-August-Universität Göttingen,,Göttingen,Germany,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Olimjon,Jalilov,Olimjon Jalilov,Gulistan State University,,Gulistan,Uzbekistan,,0,2,0,0,,,2,,8,0,0,0,,,8,10,Honourable Mention,honourable mention
+2020,356–377,Lenka,Kopfová,Lenka Kopfová,Charles University,,Prague,Czech Republic,,9,1,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Lucas,Lawrence,Lucas Lawrence,Nanyang Technological University,,Jurong West,Singapore,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Karyna,Nechyporuk,Karyna Nechyporuk,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Dang Khai Hoan,Nguyen,Dang Khai Hoan Nguyen,Universiteit Leiden,,Leiden,Netherlands,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,William,Rodrigues Machado,William Rodrigues Machado,École Polytechnique,,Paris,France,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Dovlet,Rozyyev,Dovlet Rozyyev,International University for the Humanities and Development,,Ashgabat,Turkmenistan,,0,10,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Victoria,Uvaricheva,Victoria Uvaricheva,Bauman Moscow State Technical University,,Moscow,Russia,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Trang Thi Thu,Vu,Trang Thi Thu Vu,Montgomery College,,Rockville,USA,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,David Lloyd,Wright,David Lloyd Wright,University of the Witwatersrand,,Johannesburg,South Africa,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,356–377,Haotian,Xiao,Haotian Xiao,University of Birmingham,,Birmingham,UK,,8,1,0,0,,,9,,1,0,0,0,,,1,10,Honourable Mention,honourable mention
+2020,356–377,Artur,Yakauleu,Artur Yakauleu,Belarusian State University of Informatics and Radioelectronics,,Minsk,Belarus,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Honourable Mention,honourable mention
+2020,378–380,Floris,Cnossen,Floris Cnossen,University of Amsterdam,,Amsterdam,Netherlands,,3,1,0,0,,,4,,5,0,0,0,,,5,9,Honourable Mention,honourable mention
+2020,378–380,Duart,Nishefci,Duart Nishefci,"University of Prishtina ""Hasan Prishtina""",,Prishtina,Kosovo,,0,1,0,0,,,1,,8,0,0,0,,,8,9,Honourable Mention,honourable mention
+2020,378–380,Besfort,Shala,Besfort Shala,University of Primorska,,Primorska,Slovenia,,3,2,0,0,,,5,,4,0,0,0,,,4,9,Honourable Mention,honourable mention
+2020,381–389,Qiming,Cui,Qiming Cui,University of Liverpool,,Liverpool,UK,,3,1,0,0,,,4,,4,0,0,0,,,4,8,Honourable Mention,honourable mention
+2020,381–389,Carlos Javier,Guerra Peralta,Carlos Javier Guerra Peralta,Universidad de San Carlos de Guatemala,,Guatemala,Guatemala,,0,0,0,0,,,0,,8,0,0,0,,,8,8,Honourable Mention,honourable mention
+2020,381–389,Omar,Kallas,Omar Kallas,New York University Abu Dhabi,,Abu Dhabi,United Arab Emirates,,8,0,0,0,,,8,,0,0,0,0,,,0,8,Honourable Mention,honourable mention
+2020,381–389,Maxim,Korotkov,Maxim Korotkov,Financial University under the Government of the Russian Federation,,Moscow,Russia,,3,0,0,0,,,3,,5,0,0,0,,,5,8,Honourable Mention,honourable mention
+2020,381–389,Nabil,Mahatir,Nabil Mahatir,Universitas Pendidikan Indonesia,,Bandung,Indonesia,,3,3,0,0,,,6,,2,0,0,0,,,2,8,Honourable Mention,honourable mention
+2020,381–389,Vyacheslav,Paskanov,Vyacheslav Paskanov,Financial University under the Government of the Russian Federation,,Moscow,Russia,,3,0,0,0,,,3,,5,0,0,0,,,5,8,Honourable Mention,honourable mention
+2020,381–389,Nikolai,Sibiriakov,Nikolai Sibiriakov,Novosibirsk State University,,Novosibirsk,Russia,,3,2,0,0,,,5,,3,0,0,0,,,3,8,Honourable Mention,honourable mention
+2020,381–389,Daniel Basilis,Tsepele,Daniel Basilis Tsepele,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,3,5,0,0,,,8,,0,0,0,0,,,0,8,Honourable Mention,honourable mention
+2020,381–389,Khurshid,Turgunboev,Khurshid Turgunboev,National University of Uzbekistan,,Tashkent,Uzbekistan,,0,0,0,0,,,0,,8,0,0,0,,,8,8,Honourable Mention,honourable mention
+2020,390–404,Abel,Atarés de Sus,Abel Atarés de Sus,Universidad de Zaragoza,,Zaragoza,Spain,,2,1,0,0,,,3,,4,0,0,0,,,4,7,Honourable Mention,honourable mention
+2020,390–404,Gabriel,Collado Valverde,Gabriel Collado Valverde,Universidad de Costa Rica,,San Pedro Montes de Oca,Costa Rica,,3,2,0,0,,,5,,2,0,0,0,,,2,7,Honourable Mention,honourable mention
+2020,390–404,Lucas,Dantas de Oliveira,Lucas Dantas de Oliveira,Universidade Estadual de Campinas,,São Paulo,Brazil,,3,2,0,0,,,5,,2,0,0,0,,,2,7,Honourable Mention,honourable mention
+2020,390–404,Byron Abel Raul,Hernández Pacay,Byron Abel Raul Hernández Pacay,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,0,2,0,0,,,2,,5,0,0,0,,,5,7,Honourable Mention,honourable mention
+2020,390–404,Bethany Elise,Holmes,Bethany Elise Holmes,University of Sheffield,,Sheffield,UK,,5,0,0,0,,,5,,2,0,0,0,,,2,7,Honourable Mention,honourable mention
+2020,390–404,Jaagup,Kirme,Jaagup Kirme,University of Tartu,,Tartu,Estonia,,3,0,0,0,,,3,,4,0,0,0,,,4,7,Honourable Mention,honourable mention
+2020,390–404,Luka,Macharashvili,Luka Macharashvili,Free University,,Tbilisi,Georgia,,0,3,0,0,,,3,,4,0,0,0,,,4,7,Honourable Mention,honourable mention
+2020,390–404,Jônatas,Marinho Santos Júnior,Jônatas Marinho Santos Júnior,Universidade Federal de Alagoas,,Maceió,Brazil,,3,2,0,0,,,5,,1,1,0,0,,,2,7,Honourable Mention,honourable mention
+2020,390–404,Namitha Mary,Philip,Namitha Mary Philip,University of Sheffield,,Sheffield,UK,,7,0,0,0,,,7,,0,0,0,0,,,0,7,Honourable Mention,honourable mention
+2020,390–404,Miguel,Picos Maiztegui,Miguel Picos Maiztegui,Universidade de Santiago de Compostela,,Santiago de Compostela,Spain,,7,0,0,0,,,7,,0,0,0,0,,,0,7,Honourable Mention,honourable mention
+2020,390–404,Valeriy,Ponamaryov,Valeriy Ponamaryov,Kazakhstan Branch of Lomonosov Moscow State University,,Astana,Kazakhstan,,3,2,0,0,,,5,,2,0,0,0,,,2,7,Honourable Mention,honourable mention
+2020,390–404,Martin,Puškin,Martin Puškin,University of Tartu,,Tartu,Estonia,,7,0,0,0,,,7,,0,0,0,0,,,0,7,Honourable Mention,honourable mention
+2020,390–404,Diana,Sokhashvili,Diana Sokhashvili,Free University,,Tbilisi,Georgia,,3,0,0,0,,,3,,4,0,0,0,,,4,7,Honourable Mention,honourable mention
+2020,390–404,Karolina,Tammemaa,Karolina Tammemaa,University of Tartu,,Tartu,Estonia,,3,0,0,0,,,3,,4,0,0,0,,,4,7,Honourable Mention,honourable mention
+2020,390–404,Elika,Teimoori Barakoohi,Elika Teimoori Barakoohi,Ferdowsi University of Mashhad,,Mashhad,Iran,,7,0,0,0,,,7,,0,0,0,0,,,0,7,Honourable Mention,honourable mention
+2020,405–410,Chamanthe Isuru Abeyratne,Attanayake Mudiyanselage,Chamanthe Isuru Abeyratne Attanayake Mudiyanselage,University of Colombo,,Colombo,Sri Lanka,,0,0,0,0,,,0,,6,0,0,0,,,6,6,Honourable Mention,honourable mention
+2020,405–410,Victor Hugo,de Souza Daniel,Victor Hugo de Souza Daniel,Universidade de São Paulo,,São Paulo,Brazil,,5,1,0,0,,,6,,0,0,0,0,,,0,6,Honourable Mention,honourable mention
+2020,405–410,Muchamad Syaiful,Faristyan,Muchamad Syaiful Faristyan,Universitas Negeri Malang,,Malang,Indonesia,,0,4,0,0,,,4,,2,0,0,0,,,2,6,Honourable Mention,honourable mention
+2020,405–410,Chathumini Navodya,Kondasinghe,Chathumini Navodya Kondasinghe,University of Colombo,,Colombo,Sri Lanka,,3,0,0,0,,,3,,3,0,0,0,,,3,6,Honourable Mention,honourable mention
+2020,405–410,Buddika,Rasanjana,Buddika Rasanjana,University of Colombo,,Colombo,Sri Lanka,,3,0,0,0,,,3,,3,0,0,0,,,3,6,Honourable Mention,honourable mention
+2020,405–410,Kadirbek,Sharau,Kadirbek Sharau,Nazarbayev University,,Astana,Kazakhstan,,6,0,0,0,,,6,,0,0,0,0,,,0,6,Honourable Mention,honourable mention
+2020,411–420,Lucas Henrique,Azevedo dos Santos,Lucas Henrique Azevedo dos Santos,Universidade Federal de Pernambuco,,Recife,Brazil,,0,0,0,0,,,0,,5,0,0,0,,,5,5,Honourable Mention,honourable mention
+2020,411–420,Jiaming,Chen,Jiaming Chen,New York University,,New York,USA,,0,1,0,0,,,1,,3,0,1,0,,,4,5,Honourable Mention,honourable mention
+2020,411–420,Alejandro,Fernández Jiménez,Alejandro Fernández Jiménez,Universidad Autonoma de Madrid,,Madrid,Spain,,0,0,0,0,,,0,,4,1,0,0,,,5,5,Honourable Mention,honourable mention
+2020,411–420,Florian,Fürnsinn,Florian Fürnsinn,Universität Wien,,Vienna,Austria,,3,0,0,0,,,3,,0,2,0,0,,,2,5,Honourable Mention,honourable mention
+2020,411–420,César,Herrera Garro,César Herrera Garro,Universidad de Costa Rica,,San Pedro Montes de Oca,Costa Rica,,3,2,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honourable mention
+2020,411–420,Jaan Kristjan,Kaasik,Jaan Kristjan Kaasik,University of Tartu,,Tartu,Estonia,,4,0,0,0,,,4,,1,0,0,0,,,1,5,Honourable Mention,honourable mention
+2020,411–420,Nikolaos,Liouliakis,Nikolaos Liouliakis,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,3,0,0,0,,,3,,2,0,0,0,,,2,5,Honourable Mention,honourable mention
+2020,411–420,Javier,Rández Ibáñez,Javier Rández Ibáñez,Universidad de La Rioja,,Logroño,Spain,,3,1,0,0,,,4,,0,0,1,0,,,1,5,Honourable Mention,honourable mention
+2020,411–420,Daniel Estuardo,Tobar López,Daniel Estuardo Tobar López,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,3,2,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honourable mention
+2020,411–420,Katja,Varjačić,Katja Varjačić,University of Zagreb,,Zagreb,Croatia,,3,2,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honourable mention
+2020,421–435,Thieshanthan,Arulmolivarman,Thieshanthan Arulmolivarman,University of Moratuwa,,Moratuwa,Sri Lanka,,0,0,0,0,,,0,,4,0,0,0,,,4,4,Certificate,certificate
+2020,421–435,Breno,Azevedo Marot,Breno Azevedo Marot,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,0,4,0,0,,,4,,0,0,0,0,,,0,4,Certificate,certificate
+2020,421–435,Serhii,Cholovskyi,Serhii Cholovskyi,Igor Sikorsky Kyiv Polytechnic Institute,,Kyiv,Ukraine,,0,0,0,0,,,0,,4,0,0,0,,,4,4,Certificate,certificate
+2020,421–435,Timo Gerald,Hofmann,Timo Gerald Hofmann,Universität Leipzig,,Leipzig,Germany,,3,1,0,0,,,4,,0,0,0,0,,,0,4,Certificate,certificate
+2020,421–435,Callan,Kotzen,Callan Kotzen,University of the Witwatersrand,,Johannesburg,South Africa,,3,0,0,0,,,3,,1,0,0,0,,,1,4,Certificate,certificate
+2020,421–435,Shengzhi,Luo,Shengzhi Luo,University of Sheffield,,Sheffield,UK,,3,1,0,0,,,4,,0,0,0,0,,,0,4,Certificate,certificate
+2020,421–435,Ioannis,Nakos,Ioannis Nakos,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,0,0,0,0,,,0,,4,0,0,0,,,4,4,Certificate,certificate
+2020,421–435,Felipe,Oliveira,Felipe Oliveira,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,0,3,0,0,,,3,,1,0,0,0,,,1,4,Certificate,certificate
+2020,421–435,Astrit,Osmani,Astrit Osmani,"University of Prishtina ""Hasan Prishtina""",,Prishtina,Kosovo,,0,0,0,0,,,0,,4,0,0,0,,,4,4,Certificate,certificate
+2020,421–435,Ziyi,Ou,Ziyi Ou,University of Sheffield,,Sheffield,UK,,0,0,0,0,,,0,,4,0,0,0,,,4,4,Certificate,certificate
+2020,421–435,Gift,Rakobela,Gift Rakobela,University of the Witwatersrand,,Johannesburg,South Africa,,0,0,0,0,,,0,,4,0,0,0,,,4,4,Certificate,certificate
+2020,421–435,Ajla,Šehović,Ajla Šehović,University of Primorska,,Primorska,Slovenia,,3,1,0,0,,,4,,0,0,0,0,,,0,4,Certificate,certificate
+2020,421–435,Alexandros,Themelis,Alexandros Themelis,National and Kapodestian University of Athens,,Athens,Greece,,0,0,0,0,,,0,,4,0,0,0,,,4,4,Certificate,certificate
+2020,421–435,Bi Hong,Tiang,Bi Hong Tiang,Nanyang Technological University,,Jurong West,Singapore,,3,1,0,0,,,4,,0,0,0,0,,,0,4,Certificate,certificate
+2020,421–435,Liyanage Tharindu Nirmal,Wickremasinghe,Liyanage Tharindu Nirmal Wickremasinghe,University of Moratuwa,,Moratuwa,Sri Lanka,,0,0,0,0,,,0,,4,0,0,0,,,4,4,Certificate,certificate
+2020,436–453,Muhammad,Arinal Haq,Muhammad Arinal Haq,Universitas Gadjah Mada,,Yogyakarta,Indonesia,,0,3,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2020,436–453,Tomas,Bosschieter,Tomas Bosschieter,University of Amsterdam,,Amsterdam,Netherlands,,0,2,0,0,,,2,,1,0,0,0,,,1,3,Certificate,certificate
+2020,436–453,Matheus,Carneiro Leão Nasi,Matheus Carneiro Leão Nasi,Universidade Federal de Pernambuco,,Recife,Brazil,,1,0,0,0,,,1,,2,0,0,0,,,2,3,Certificate,certificate
+2020,436–453,Mariajosé,Chinchilla Morán,Mariajosé Chinchilla Morán,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,3,0,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2020,436–453,Leonardo,de Araujo Duarte,Leonardo de Araujo Duarte,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,0,0,0,0,,,0,,3,0,0,0,,,3,3,Certificate,certificate
+2020,436–453,Noah,Fischer,Noah Fischer,Ulm University,,Ulm,Germany,,2,0,0,0,,,2,,0,0,1,0,,,1,3,Certificate,certificate
+2020,436–453,Sanaa,Ghandi,Sanaa Ghandi,IMT Atlantique,,Brest,France,,3,0,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2020,436–453,Dimitrios,Konstantinidis,Dimitrios Konstantinidis,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,3,0,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2020,436–453,Mikhail,Kudinov,Mikhail Kudinov,Bauman Moscow State Technical University,,Moscow,Russia,,3,0,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2020,436–453,Bautista,Pértica Cabrera,Bautista Pértica Cabrera,Universidad Nacional Autónoma de México,,Mexico City,Mexico,,2,0,0,0,,,2,,1,0,0,0,,,1,3,Certificate,certificate
+2020,436–453,Nickolay,Prudkovskiy,Nickolay Prudkovskiy,Bauman Moscow State Technical University,,Moscow,Russia,,3,0,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2020,436–453,Rubí Esmeralda,Ramírez Milián,Rubí Esmeralda Ramírez Milián,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,0,1,0,0,,,1,,2,0,0,0,,,2,3,Certificate,certificate
+2020,436–453,mohammadreza,rezaie feyzabadie,mohammadreza rezaie feyzabadie,University of Tehran,,Tehran,Iran,,2,0,0,0,,,2,,0,0,1,0,,,1,3,Certificate,certificate
+2020,436–453,Vladyslava,Shmonko,Vladyslava Shmonko,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,3,0,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2020,436–453,Hazael,Soledade de Araujo Jumonji,Hazael Soledade de Araujo Jumonji,Universidade de São Paulo,,São Paulo,Brazil,,0,1,0,0,,,1,,2,0,0,0,,,2,3,Certificate,certificate
+2020,436–453,Luis,Varona Ramírez,Luis Varona Ramírez,Universidad de La Rioja,,Logroño,Spain,,3,0,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2020,436–453,Wiktor,Włodarski,Wiktor Włodarski,AGH University of Science and Technology,,Krakow,Poland,,2,1,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2020,436–453,Yunwei,Zhang,Yunwei Zhang,University College London,,London,UK,,3,0,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2020,454–474,Dinmukhammed,Akpan,Dinmukhammed Akpan,Kazakhstan Branch of Lomonosov Moscow State University,,Astana,Kazakhstan,,0,0,0,0,,,0,,2,0,0,0,,,2,2,Certificate,certificate
+2020,454–474,Jamba,Batgerel,Jamba Batgerel,New Mongol Institute of Technology,,Ulaanbaatar,Mongolia,,0,2,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2020,454–474,Mingqin,Chen,Mingqin Chen,University College London,,London,UK,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2020,454–474,Joy,Cheng,Joy Cheng,University College London,,London,UK,,0,0,0,0,,,0,,0,2,0,0,,,2,2,Certificate,certificate
+2020,454–474,Kefentse Freddy,Dipudi,Kefentse Freddy Dipudi,University of Pretoria,,Pretoria,South Africa,,0,2,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2020,454–474,ziad,fakhoury,ziad fakhoury,University of Warwick,,Warwick,UK,,0,2,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2020,454–474,murman,gurgenidze,murman gurgenidze,Free University,,Tbilisi,Georgia,,0,1,0,0,,,1,,0,0,1,0,,,1,2,Certificate,certificate
+2020,454–474,Abdulmalik,Hamroev,Abdulmalik Hamroev,Bukhara State University,,Bukhara,Uzbekistan,,0,0,0,0,,,0,,2,0,0,0,,,2,2,Certificate,certificate
+2020,454–474,Philip,Kmentt,Philip Kmentt,University of Sheffield,,Sheffield,UK,,1,1,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2020,454–474,Anjana Vimukthi,Kodikara,Anjana Vimukthi Kodikara,University of Colombo,,Colombo,Sri Lanka,,0,2,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2020,454–474,Lael,Lima,Lael Lima,Universidade Estadual de Campinas,,São Paulo,Brazil,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2020,454–474,Sina,Mirzaei,Sina Mirzaei,University of Tehran,,Tehran,Iran,,0,0,0,0,,,0,,2,0,0,0,,,2,2,Certificate,certificate
+2020,454–474,Lluis,Pastor,Lluis Pastor,University of Barcelona,,Barcelona,Spain,,0,2,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2020,454–474,Jason,Pillay,Jason Pillay,University of Pretoria,,Pretoria,South Africa,,0,1,0,0,,,1,,1,0,0,0,,,1,2,Certificate,certificate
+2020,454–474,Vinícius,Pinheiro Bento,Vinícius Pinheiro Bento,Universidade Federal de Minas Gerais,,Minas Gerais,Brazil,,0,0,0,0,,,0,,0,2,0,0,,,2,2,Certificate,certificate
+2020,454–474,Diana,Prudkovskaia,Diana Prudkovskaia,Bauman Moscow State Technical University,,Moscow,Russia,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2020,454–474,Lasitha,Senarathne,Lasitha Senarathne,University of Colombo,,Colombo,Sri Lanka,,0,0,0,0,,,0,,2,0,0,0,,,2,2,Certificate,certificate
+2020,454–474,Shunan,Sheng,Shunan Sheng,Nanyang Technological University,,Jurong West,Singapore,,1,1,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2020,454–474,Alan,Vagner,Alan Vagner,Kazakhstan Branch of Lomonosov Moscow State University,,Astana,Kazakhstan,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2020,454–474,Javier,Villar Ortega,Javier Villar Ortega,Universidad de La Rioja,,Logroño,Spain,,0,0,0,0,,,0,,2,0,0,0,,,2,2,Certificate,certificate
+2020,454–474,Linqianyu,Zhang,Linqianyu Zhang,New York University,,New York,USA,,0,0,0,0,,,0,,2,0,0,0,,,2,2,Certificate,certificate
+2020,475–488,Jeremiah,Adedoyin,Jeremiah Adedoyin,University of Lagos,,Lagos,Nigeria,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2020,475–488,Ilirjan,Aliu,Ilirjan Aliu,"University of Prishtina ""Hasan Prishtina""",,Prishtina,Kosovo,,0,0,0,0,,,0,,1,0,0,0,,,1,1,Certificate,certificate
+2020,475–488,Joan,Arnalot,Joan Arnalot,University of Barcelona,,Barcelona,Spain,,0,0,0,0,,,0,,1,0,0,0,,,1,1,Certificate,certificate
+2020,475–488,Liwen,Fan,Liwen Fan,Imperial College London,,London,UK,,0,0,0,0,,,0,,0,0,1,0,,,1,1,Certificate,certificate
+2020,475–488,Pablo,García Fernández,Pablo García Fernández,Universidad Autonoma de Madrid,,Madrid,Spain,,0,1,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2020,475–488,Emad,Izadifar,Emad Izadifar,Ferdowsi University of Mashhad,,Mashhad,Iran,,0,1,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2020,475–488,Asrorbek,Jabborov,Asrorbek Jabborov,Karshi State University,,Karshi,Uzbekistan,,0,1,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2020,475–488,Hiruja Hirusara,Mahagedara,Hiruja Hirusara Mahagedara,University of Colombo,,Colombo,Sri Lanka,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2020,475–488,Justyna,Porzycka,Justyna Porzycka,AGH University of Science and Technology,,Krakow,Poland,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2020,475–488,Arman,Sanaei nik,Arman Sanaei nik,K. N. Toosi University of Technology,,Tehran,Iran,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2020,475–488,Álvaro,Sánchez Hernández,Álvaro Sánchez Hernández,Universidad Complutense de Madrid,,Madrid,Spain,,0,1,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2020,475–488,Maksym,Shumakov,Maksym Shumakov,Ukrainian Catholic University,,Lviv,Ukraine,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2020,475–488,Noah,van der Meer,Noah van der Meer,Eindhoven University of Technology,,Eindhoven,Netherlands,,0,1,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2020,475–488,Shizhe,Xu,Shizhe Xu,University College London,,London,UK,,0,0,0,0,,,0,,1,0,0,0,,,1,1,Certificate,certificate
+2020,489–546,Hashim,Abdull-Radha,Hashim Abdull-Radha,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Mohamed,Afham,Mohamed Afham,University of Moratuwa,,Moratuwa,Sri Lanka,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Farhan,Aghnoum,Farhan Aghnoum,Ferdowsi University of Mashhad,,Mashhad,Iran,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Muhammad Nur,Alamsyah,Muhammad Nur Alamsyah,Universitas Negeri Malang,,Malang,Indonesia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Mohamad,Amiri,Mohamad Amiri,K. N. Toosi University of Technology,,Tehran,Iran,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Kehinde. Hussein,Babalola,Kehinde. Hussein Babalola,University of Lagos,,Lagos,Nigeria,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Aygul,Begenjova,Aygul Begenjova,International University for the Humanities and Development,,Ashgabat,Turkmenistan,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Josh,Borrett,Josh Borrett,Université Paris-Dauphine,,Paris,France,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Enos,Carvalho Mota,Enos Carvalho Mota,Universidade Estadual de Campinas,,São Paulo,Brazil,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Elizabeth Bo-Yan,Chung,Elizabeth Bo-Yan Chung,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Manuel,Cuetos Piñon,Manuel Cuetos Piñon,Universidad de Oviedo,,Oviedo,Spain,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Francisco,de Mello Calderaro,Francisco de Mello Calderaro,Universidade Estadual de Campinas,,São Paulo,Brazil,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Murat,Delibas,Murat Delibas,University of Sheffield,,Sheffield,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Pubudika Gimhani,Gunasekara,Pubudika Gimhani Gunasekara,University of Colombo,,Colombo,Sri Lanka,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Artyom,Guryanov,Artyom Guryanov,Kazakhstan Branch of Lomonosov Moscow State University,,Astana,Kazakhstan,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Kuwwatmammet,Hajiyev,Kuwwatmammet Hajiyev,International University for the Humanities and Development,,Ashgabat,Turkmenistan,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Yuxin,Hu,Yuxin Hu,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Yiming,Huang,Yiming Huang,King's College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Yousra,Idichchou,Yousra Idichchou,University of Greenwich,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Osanda Abhiru,Illeperuma,Osanda Abhiru Illeperuma,University of Colombo,,Colombo,Sri Lanka,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Michelle,Jacobs,Michelle Jacobs,University of Pretoria,,Pretoria,South Africa,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Xinyu,Jiang,Xinyu Jiang,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Md Raihan,Khan,Md Raihan Khan,Khulna University of Engineering & Technology,,Khulna,Bangladesh,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Maxat,Kozhakhmetov,Maxat Kozhakhmetov,University of Wollongong in Dubai,,Dubai,United Arab Emirates,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Dinglin,Liu,Dinglin Liu,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Zayd,Maradni,Zayd Maradni,New York University Abu Dhabi,,Abu Dhabi,United Arab Emirates,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Eva,Martane,Eva Martane,Durham University,,Durham,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,José Ernesto,Mayorga Méndez,José Ernesto Mayorga Méndez,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Milan,Milivojčević,Milan Milivojčević,University of Primorska,,Primorska,Slovenia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Lunezo,Molosi,Lunezo Molosi,University of the Witwatersrand,,Johannesburg,South Africa,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Ángel,Morcillo Gómez,Ángel Morcillo Gómez,Universidade de Santiago de Compostela,,Santiago de Compostela,Spain,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Dia Ayu,Nazihah,Dia Ayu Nazihah,State University of Malang,,Malang,Indonesia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Malwande,Nkonyane,Malwande Nkonyane,University of the Witwatersrand,,Johannesburg,South Africa,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Berné Lourize,Nortier,Berné Lourize Nortier,University of Pretoria,,Pretoria,South Africa,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Amanuel,Oli,Amanuel Oli,École Polytechnique,,Paris,France,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Gabriel,Oliveira,Gabriel Oliveira,Universidade Federal de Alagoas,,Maceió,Brazil,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,John,Parry,John Parry,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Ioannis,Patmanidis,Ioannis Patmanidis,University of the Aegean,,Karlovasi,Greece,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Akja,Potdyyeva,Akja Potdyyeva,International University for the Humanities and Development,,Ashgabat,Turkmenistan,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Pradipta Swiantana,Prayoga,Pradipta Swiantana Prayoga,Universitas Pendidikan Indonesia,,Bandung,Indonesia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Sandushan Chamantha,Ranaweera,Sandushan Chamantha Ranaweera,University of Moratuwa,,Moratuwa,Sri Lanka,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Tumelo,Ranoto,Tumelo Ranoto,University of the Witwatersrand,,Johannesburg,South Africa,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Jana,Ristovska,Jana Ristovska,University of Primorska,,Primorska,Slovenia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Dwi,Roudhotillah,Dwi Roudhotillah,Universitas Negeri Malang,,Malang,Indonesia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Pablo,Sanz Galarreta,Pablo Sanz Galarreta,Universidad de La Rioja,,Logroño,Spain,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,LUOZI,SHI,LUOZI SHI,Nanyang Technological University,,Jurong West,Singapore,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Tianle,Shi,Tianle Shi,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Sofia,Sultanova,Sofia Sultanova,I. I. Mechnikov National University,,Odessa,Ukraine,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Prastya,Susanto,Prastya Susanto,Universitas Gadjah Mada,,Yogyakarta,Indonesia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Muhammad,Syafiq,Muhammad Syafiq,Universitas Negeri Malang,,Malang,Indonesia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Lawan Abhishake,Wijayasooriya,Lawan Abhishake Wijayasooriya,University of Colombo,,Colombo,Sri Lanka,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Aymaral,Yazmyradova,Aymaral Yazmyradova,International University for the Humanities and Development,,Ashgabat,Turkmenistan,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Yue,Ye,Yue Ye,University of Sheffield,,Sheffield,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,HyunBin,Yoo,HyunBin Yoo,University of Rochester,,Rochester,USA,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Xizi,Yuan,Xizi Yuan,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Xina,Zhang,Xina Zhang,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Pengji,Zhao,Pengji Zhao,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2020,489–546,Wenjie,Zhong,Wenjie Zhong,University of Sheffield,,Sheffield,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate

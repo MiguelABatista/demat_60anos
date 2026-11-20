@@ -1,0 +1,88 @@
+Year,Pos,First name,Family name,Full name,University,Team,City,Country,Code_D1,D1_P1,D1_P2,D1_P3,D1_P4,D1_P5,D1_P6,Day1,Code_D2,D2_P1,D2_P2,D2_P3,D2_P4,D2_P5,D2_P6,Day2,Sum,Prize,Prize_raw
+1999,1,Eaman,Eftekhary,Eaman Eftekhary,Sharif University of Technology,,,,,20,20,20,20,20,0,100,,20,20,20,20,3,20,103,203,Grand First Prize,GRAND FIRST PRIZE
+1999,2,Djordje,Milicevic,Djordje Milicevic,Belgrade University,,,,,20,20,19,20,20,8,107,,20,20,20,20,2,4,86,193,Grand First Prize,GRAND FIRST PRIZE
+1999,3,Sergiy,Shklyar,Sergiy Shklyar,Kyiv Taras Shevchenko Univ,,,,,19,20,20,20,19,0,98,,20,20,20,20,7,0,87,185,First Prize,FIRST PRIZE
+1999,4,Burcsi,Péter,Burcsi Péter,"Eötvös University , Budapest",,,,,20,20,20,19,20,0,99,,20,20,20,20,1,4,85,184,First Prize,FIRST PRIZE
+1999,5,Giedrius,Alkauskas,Giedrius Alkauskas,Vilnius University Lithuania,,,,,20,20,20,16,18,0,94,,20,20,20,8,1,20,89,183,First Prize,FIRST PRIZE
+1999,6,Hadi,Salmasian,Hadi Salmasian,Sharif University of Technology,,,,,20,20,20,20,20,0,100,,20,19,20,20,4,0,83,183,First Prize,FIRST PRIZE
+1999,7,G.,S.,G. S.,Kyiv Taras Shevchenko Univ,,,,,20,20,20,20,20,0,100,,20,20,20,20,0,0,80,180,First Prize,FIRST PRIZE
+1999,8,Marcin,Stefaniak,Marcin Stefaniak,Warsaw University,,,,,20,18,20,18,20,0,96,,20,20,20,20,0,4,84,180,First Prize,FIRST PRIZE
+1999,9,Anton,Mellit,Anton Mellit,Kiev Polytechnic Institute,,,,,20,19,20,20,20,0,99,,20,20,20,20,0,0,80,179,First Prize,FIRST PRIZE
+1999,10,Pavel,Podbrdsky,Pavel Podbrdsky,Charles University Prague,,,,,15,20,20,20,20,0,95,,20,20,20,20,4,0,84,179,First Prize,FIRST PRIZE
+1999,11,Naiden,Kambushev,Naiden Kambushev,Sofia University,,,,,12,20,20,20,18,0,90,,20,20,20,20,4,0,84,174,First Prize,FIRST PRIZE
+1999,12,David,Pavlica,David Pavlica,Charles University Prague,,,,,20,20,20,12,20,0,92,,20,20,20,20,0,0,80,172,First Prize,FIRST PRIZE
+1999,13,Florian,Herzig,Florian Herzig,Cambridge University,,,,,20,20,20,20,19,0,99,,20,20,2,20,8,0,70,169,First Prize,FIRST PRIZE
+1999,14,Robert,Samal,Robert Samal,Charles University Prague,,,,,15,18,20,12,20,0,85,,20,20,20,20,1,2,83,168,First Prize,FIRST PRIZE
+1999,15,Michal,Benes,Michal Benes,Charles University Prague,,,,,8,19,20,18,18,3,86,,20,20,15,20,0,4,79,165,First Prize,FIRST PRIZE
+1999,16,Mohsen,Bahramgiri,Mohsen Bahramgiri,Sharif University of Technology,,,,,20,20,20,20,20,0,100,,20,1,19,20,0,0,60,160,First Prize,FIRST PRIZE
+1999,17,Mihály,Bárász,Mihály Bárász,"Eötvös University , Budapest",,,,,6,20,20,19,20,4,89,,20,19,6,20,0,0,65,154,Second Prize,SECOND PRIZE
+1999,18,Gábor,Lippner,Gábor Lippner,"Eötvös University , Budapest",,,,,20,20,20,17,20,0,97,,0,20,16,20,1,0,57,154,Second Prize,SECOND PRIZE
+1999,19,Volodymyr,Braiman,Volodymyr Braiman,Kyiv Taras Shevchenko Univ,,,,,20,20,20,20,15,0,95,,5,19,7,20,0,0,51,146,Second Prize,SECOND PRIZE
+1999,20,Marcin,Mucha,Marcin Mucha,Warsaw University,,,,,10,20,20,6,20,0,76,,20,20,7,20,3,0,70,146,Second Prize,SECOND PRIZE
+1999,21,Gábor,Kun,Gábor Kun,"Eötvös University , Budapest",,,,,6,18,20,19,12,0,75,,20,20,15,14,1,0,70,145,Second Prize,SECOND PRIZE
+1999,22,Németh,Zoltán,Németh Zoltán,"Technical University, Budapest",,,,,6,20,20,20,20,0,86,,20,20,15,0,0,0,55,141,Second Prize,SECOND PRIZE
+1999,23,Marko,Stosic,Marko Stosic,Belgrade University,,,,,8,10,20,7,15,0,60,,20,20,20,20,0,1,81,141,Second Prize,SECOND PRIZE
+1999,24,Rafal,Lochowski,Rafal Lochowski,Warsaw University,,,,,20,14,20,4,0,0,58,,20,19,20,20,0,0,79,137,Second Prize,SECOND PRIZE
+1999,25,Rezso,Lovas,Rezso Lovas,University of Debrecen,,,,,6,10,20,20,18,0,74,,20,20,20,0,0,0,60,134,Second Prize,SECOND PRIZE
+1999,26,Adam,Timar,Adam Timar,Szeged University,,,,,10,20,20,18,20,0,88,,20,18,5,2,0,0,45,133,Second Prize,SECOND PRIZE
+1999,27,Dmytry,Borysyuk,Dmytry Borysyuk,Kiev Polytechnic Institute,,,,,5,20,20,2,18,0,65,,19,20,6,20,0,0,65,130,Second Prize,SECOND PRIZE
+1999,28,Tuomas,Korppi,Tuomas Korppi,University of Helsinki,,,,,6,20,20,20,19,0,85,,20,12,0,2,0,0,34,119,Second Prize,SECOND PRIZE
+1999,29,Julian,Arndts,Julian Arndts,Humboldt University Berlin,,,,,20,14,0,4,20,0,58,,20,10,20,10,0,0,60,118,Second Prize,SECOND PRIZE
+1999,30,Julien,Bean,Julien Bean,Cambridge University,,,,,20,12,0,20,18,0,70,,20,20,1,3,0,0,44,114,Second Prize,SECOND PRIZE
+1999,31,Andrzej,Nagorko,Andrzej Nagorko,Warsaw University,,,,,5,20,20,3,20,0,68,,20,20,5,0,0,0,45,113,Second Prize,SECOND PRIZE
+1999,32,Jernej,Tonejc,Jernej Tonejc,Ljubljana University,,,,,20,1,20,12,18,0,71,,20,12,1,1,6,2,42,113,Second Prize,SECOND PRIZE
+1999,33,Gergely,Röst,Gergely Röst,Szeged University,,,,,8,20,20,2,3,0,53,,20,18,0,20,1,0,59,112,Second Prize,SECOND PRIZE
+1999,34,Meelis,Kull,Meelis Kull,University of Tartu,,,,,8,20,20,2,18,0,68,,20,20,0,2,1,0,43,111,Second Prize,SECOND PRIZE
+1999,35,Vaidas,Gasiunas,Vaidas Gasiunas,Vilnius UniversityLithuania,,,,,4,19,20,11,18,0,72,,0,18,20,0,0,0,38,110,Second Prize,SECOND PRIZE
+1999,36,Remigijus,Jodelis,Remigijus Jodelis,Vilnius University Lithuania,,,,,20,0,20,20,18,0,78,,5,0,6,20,0,0,31,109,Second Prize,SECOND PRIZE
+1999,37,Tapani,Raiko,Tapani Raiko,Helsinki Univ of Technology,,,,,6,20,20,5,20,0,71,,0,20,15,2,0,0,37,108,Second Prize,SECOND PRIZE
+1999,38,Vladimir,Brankov,Vladimir Brankov,University of Nis,,,,,6,2,20,2,16,0,46,,20,20,0,20,0,0,60,106,Second Prize,SECOND PRIZE
+1999,39,Egmont,Koblinger,Egmont Koblinger,"Technical University, Budapest",,,,,6,20,20,15,20,0,81,,0,20,0,3,0,0,23,104,Second Prize,SECOND PRIZE
+1999,40,Nikolai,Ivanov,Nikolai Ivanov,Sofia University,,,,,3,17,0,20,5,0,45,,20,20,15,2,0,0,57,102,Second Prize,SECOND PRIZE
+1999,41,Adam,Toth,Adam Toth,"Eötvös University , Budapest",,,,,6,20,20,10,1,0,57,,20,0,0,20,0,0,40,97,Third Prize,THIRD PRIZE
+1999,42,Matjaz,Konvalinka,Matjaz Konvalinka,Ljubljana University,,,,,20,20,20,3,0,0,63,,20,10,0,0,3,0,33,96,Third Prize,THIRD PRIZE
+1999,43,Mikko,Vepsäläinen,Mikko Vepsäläinen,Helsinki Univ of Technology,,,,,14,17,20,2,0,0,53,,20,0,20,3,0,0,43,96,Third Prize,THIRD PRIZE
+1999,44,Dániel,Marx,Dániel Marx,"Technical University, Budapest",,,,,8,0,20,5,20,0,53,,0,20,0,20,0,0,40,93,Third Prize,THIRD PRIZE
+1999,45,Alexandru,Simoniuc,Alexandru Simoniuc,Babes-Bolyai University,,,,,20,6,8,15,0,0,49,,20,20,0,2,0,0,42,91,Third Prize,THIRD PRIZE
+1999,46,Radu,Ignat,Radu Ignat,Babes-Bolyai University,,,,,20,2,20,4,3,0,49,,20,15,2,3,0,0,40,89,Third Prize,THIRD PRIZE
+1999,47,Dmitry,Tseluiko,Dmitry Tseluiko,University of Tartu,,,,,20,20,20,3,0,0,63,,20,0,0,3,1,0,24,87,Third Prize,THIRD PRIZE
+1999,48,Igor,Klep,Igor Klep,Ljubljana University,,,,,20,1,2,2,16,0,41,,20,0,20,3,0,0,43,84,Third Prize,THIRD PRIZE
+1999,49,Peter,Hästö,Peter Hästö,University of Helsinki,,,,,8,14,0,18,10,0,50,,18,0,3,12,1,0,34,84,Third Prize,THIRD PRIZE
+1999,50,Péter,Mester,Péter Mester,University of Szeged,,,,,8,20,20,0,0,0,48,,20,6,0,9,0,0,35,83,Third Prize,THIRD PRIZE
+1999,51,Attila,Bernáth,Attila Bernáth,"Eötvös University , Budapest",,,,,20,0,20,1,19,0,60,,20,0,0,2,0,0,22,82,Third Prize,THIRD PRIZE
+1999,52,Banjamin,Himpel,Banjamin Himpel,Free University Berlin,,,,,8,0,20,0,19,0,47,,20,6,0,2,0,3,31,78,Third Prize,THIRD PRIZE
+1999,53,Fekete,Zsolt,Fekete Zsolt,"Eötvös University , Budapest",,,,,15,0,0,7,15,0,37,,20,20,0,0,0,0,40,77,Third Prize,THIRD PRIZE
+1999,54,Fatemeh,Rizi,Fatemeh Rizi,Sharif University of Technology,,,,,20,0,10,3,20,0,53,,20,0,0,3,0,0,23,76,Third Prize,THIRD PRIZE
+1999,55,Mircea-Dan,Rus,Mircea-Dan Rus,Babes-Bolyai University,,,,,18,5,12,6,0,0,41,,20,6,5,3,0,0,34,75,Third Prize,THIRD PRIZE
+1999,56,Kalin,Kostadinov,Kalin Kostadinov,Sofia University,,,,,8,20,0,1,0,0,29,,20,3,20,3,0,0,46,75,Third Prize,THIRD PRIZE
+1999,57,Stefan,Baranczuk,Stefan Baranczuk,Adam Mickiewicz University,,,,,9,15,20,5,0,2,51,,15,6,0,1,0,0,22,73,Third Prize,THIRD PRIZE
+1999,58,Mykola,Gryshchenko,Mykola Gryshchenko,Kyiv Taras Shevchenko Univ,,,,,5,17,0,17,10,0,49,,20,0,0,3,0,0,23,72,Third Prize,THIRD PRIZE
+1999,59,Andrew,Lobb,Andrew Lobb,Oxford University,,,,,20,20,0,2,20,0,62,,0,9,0,1,0,0,10,72,Third Prize,THIRD PRIZE
+1999,60,Britta,Broser,Britta Broser,Free University Berlin,,,,,8,0,20,1,0,0,29,,20,20,0,2,0,0,42,71,Third Prize,THIRD PRIZE
+1999,61,Henry,Segerman,Henry Segerman,Oxford University,,,,,6,20,0,1,12,0,39,,20,6,0,3,0,0,29,68,Third Prize,THIRD PRIZE
+1999,62,Paul,Waller,Paul Waller,Oxford University,,,,,6,0,20,2,12,0,40,,20,6,0,2,0,0,28,68,Third Prize,THIRD PRIZE
+1999,63,Milos,Milosavljevic,Milos Milosavljevic,University of Nis,,,,,8,10,0,1,0,0,19,,18,20,7,2,0,0,47,66,Third Prize,THIRD PRIZE
+1999,64,Dejan,Veluscek,Dejan Veluscek,Ljubljana University,,,,,20,0,20,0,0,0,40,,20,1,0,2,0,0,23,63,Third Prize,THIRD PRIZE
+1999,65,Marco,Schmidt,Marco Schmidt,Free University Berlin,,,,,8,0,20,2,4,0,34,,20,0,2,3,0,0,25,59,Third Prize,THIRD PRIZE
+1999,66,Richárd,Karádi,Richárd Karádi,"Technical University, Budapest",,,,,6,0,0,1,20,0,27,,0,20,0,0,1,4,25,52,Honourable Mention,HONOURABLE MENTION
+1999,67,Gábor,Nyul,Gábor Nyul,University of Debrecen,,,,,8,0,0,0,0,0,8,,0,20,20,3,0,0,43,51,Honourable Mention,HONOURABLE MENTION
+1999,68,Chia,Tan,Chia Tan,University College London,,,,,6,1,4,3,9,0,23,,20,0,2,6,0,0,28,51,Honourable Mention,HONOURABLE MENTION
+1999,69,Gábor,Ivánka,Gábor Ivánka,"Eötvös University, Budapest",,,,,6,0,20,2,0,0,28,,20,0,0,2,0,0,22,50,Honourable Mention,HONOURABLE MENTION
+1999,70,István,Járási,István Járási,University of Debrecen,,,,,8,0,20,0,0,0,28,,20,0,0,2,0,0,22,50,Honourable Mention,HONOURABLE MENTION
+1999,71,Marlena,Beda,Marlena Beda,Adam Mickiewicz University,,,,,5,0,0,0,9,0,14,,20,5,0,6,0,0,31,45,Honourable Mention,HONOURABLE MENTION
+1999,72,Trendafil,Trifonov,Trendafil Trifonov,Veliko Turnovo University,,,,,2,0,0,1,0,0,3,,20,20,0,0,0,0,40,43,Honourable Mention,HONOURABLE MENTION
+1999,73,Béla,Nagy,Béla Nagy,University of Szeged,,,,,0,6,10,3,18,0,37,,0,3,0,0,0,0,3,40,Honourable Mention,HONOURABLE MENTION
+1999,74,Henry,Liu,Henry Liu,University College London,,,,,8,0,0,2,6,0,16,,20,0,0,0,1,0,21,37,Honourable Mention,HONOURABLE MENTION
+1999,75,András,Serény,András Serény,"Eötvös University , Budapest",,,,,7,1,0,2,2,0,12,,20,0,2,2,0,0,24,36,Honourable Mention,HONOURABLE MENTION
+1999,76,John,McDarby,John McDarby,University College London,,,,,6,1,1,1,1,0,10,,20,0,2,2,0,0,24,34,Honourable Mention,HONOURABLE MENTION
+1999,77,Gregor,Schulmeister,Gregor Schulmeister,Humboldt University Berlin,,,,,8,0,20,2,0,0,30,,0,0,0,0,0,0,0,30,Honourable Mention,HONOURABLE MENTION
+1999,78,Peter,Wiesing,Peter Wiesing,Humboldt University Berlin,,,,,0,0,0,0,0,0,0,,0,0,20,0,0,0,20,20,Certificate,CERTIFICATE
+1999,79,Adrian,Lydke,Adrian Lydke,Adam Mickiewicz University,,,,,6,2,0,1,0,0,9,,0,0,5,0,0,0,5,14,Certificate,CERTIFICATE
+1999,80,Alexander,Adamescu,Alexander Adamescu,Humboldt University Berlin,,,,,8,0,0,1,1,0,10,,0,0,0,3,0,0,3,13,Certificate,CERTIFICATE
+1999,81,Krisan,Haria,Krisan Haria,University College London,,,,,0,0,0,1,1,0,2,,10,0,0,0,0,0,10,12,Certificate,CERTIFICATE
+1999,82,Kenneth,Shackleton,Kenneth Shackleton,Oxford University,,,,,0,3,0,1,0,0,4,,0,6,0,0,0,0,6,10,Certificate,CERTIFICATE
+1999,83,Csaba,Erdei,Csaba Erdei,"Bessenyei College, Nyíregyháza",,,,,4,0,1,1,0,0,6,,0,0,0,2,0,0,2,8,Certificate,CERTIFICATE
+1999,84,Nadja,Weihmann,Nadja Weihmann,Free University Berlin,,,,,6,0,0,1,0,0,7,,0,0,0,0,0,0,0,7,Certificate,CERTIFICATE
+1999,85,Alexander,Kasprzyk,Alexander Kasprzyk,Oxford University,,,,,0,2,0,1,0,0,3,,0,0,0,3,0,0,3,6,Certificate,CERTIFICATE
+1999,86,Emília,Nyeste,Emília Nyeste,"Bessenyei College, Nyíregyháza",,,,,0,0,1,2,3,0,6,,0,0,0,0,0,0,0,6,Certificate,CERTIFICATE
+1999,87,Hartej,Singh,Hartej Singh,University College London,,,,,6,0,0,0,0,0,6,,0,0,0,0,0,0,0,6,Certificate,CERTIFICATE

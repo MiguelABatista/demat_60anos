@@ -1,13 +1,14 @@
 """Baixa os PDFs oficiais de resultados da IMC (1994-2026) do site reestruturado.
 
-Salva em files/imc/pdf/IMC_{year}_Results.pdf (pulando arquivos já baixados).
+Salva em data/raw/pdf/IMC_{year}_Results.pdf (pulando arquivos já baixados).
 """
 
 from pathlib import Path
 import time
 import requests
 
-PDF_DIR = Path("files/imc/pdf")
+ROOT_DIR = Path(__file__).resolve().parent.parent
+PDF_DIR = ROOT_DIR / "data" / "raw" / "pdf"
 
 # No site reestruturado, quase todos os anos seguem /archive/results/{year}/IMC_{year}_Results.pdf
 SPECIAL_PATHS = {

@@ -1,0 +1,435 @@
+Pos,Unnamed: 1,First name,Family name,University,City,P1,P2,P3,P4,P5,Day1,P6,P7,P8,P9,P10,Day2,Sum,Prize,Year
+1.,,Maksim,Turevskii,Saint-Petersburg State University,Saint-Petersburg,10.0,10.0,10.0,10.0,10.0,50.0,10.0,10.0,10.0,10.0,10.0,50.0,100.0,Grand Grand First Prize,2025
+2.,,Łukasz Marek,Orski,Jagiellonian University,Krakow,10.0,10.0,8.0,10.0,10.0,48.0,10.0,10.0,10.0,10.0,10.0,50.0,98.0,Grand Grand First Prize,2025
+3.,,Huu An,Phan,Nanyang Technological University,Jurong West,9.0,10.0,10.0,10.0,5.0,44.0,10.0,9.0,10.0,10.0,10.0,49.0,93.0,Grand First Prize,2025
+4.,,Roman,Kuznetsov,Saint-Petersburg State University,Saint-Petersburg,10.0,10.0,10.0,10.0,10.0,50.0,10.0,10.0,10.0,10.0,,40.0,90.0,Grand First Prize,2025
+5.,,Quy Dang,Ngo,Ecole Normale Supérieure,Paris,10.0,10.0,10.0,10.0,10.0,50.0,2.0,10.0,10.0,10.0,7.0,39.0,89.0,Grand First Prize,2025
+6.,,Pavel,Prozorov,Saint-Petersburg State University,Saint-Petersburg,10.0,10.0,8.0,10.0,10.0,48.0,10.0,10.0,10.0,10.0,,40.0,88.0,Grand First Prize,2025
+7–9.,,Samuel,Meyer,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,10.0,10.0,10.0,9.0,9.0,48.0,10.0,10.0,10.0,8.0,0.0,38.0,86.0,Grand First Prize,2025
+7–9.,,Konstantin,Myasnikov,EPFL,Lausanne,10.0,4.0,10.0,10.0,3.0,37.0,10.0,10.0,10.0,10.0,9.0,49.0,86.0,Grand First Prize,2025
+7–9.,,Henrik,Schlüter,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,10.0,9.0,10.0,10.0,10.0,49.0,10.0,10.0,7.0,10.0,0.0,37.0,86.0,Grand First Prize,2025
+10–11.,,Juri,Kaganskiy,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,10.0,9.0,8.0,8.0,10.0,45.0,10.0,10.0,10.0,10.0,0.0,40.0,85.0,Grand First Prize,2025
+10–11.,,Milos,Milicev,University of Belgrade,Belgrade,10.0,10.0,10.0,10.0,3.0,43.0,10.0,10.0,10.0,10.0,2.0,42.0,85.0,Grand First Prize,2025
+12.,,Raz,Dvora,Open University,Ra'anana,9.0,10.0,10.0,9.0,10.0,48.0,10.0,10.0,10.0,3.0,2.0,35.0,83.0,Grand First Prize,2025
+13–15.,,Yackov,Bogdanov,Moscow Institute of Physics and Technology,Moscow,10.0,9.0,9.0,10.0,10.0,48.0,10.0,10.0,10.0,3.0,,33.0,81.0,First Prize,2025
+13–15.,,Alexander,Khudiakov,Lomonosov Moscow State University,Moscow,10.0,10.0,8.0,10.0,10.0,48.0,10.0,10.0,10.0,3.0,0.0,33.0,81.0,First Prize,2025
+13–15.,,Orestis,Lignos,National and Kapodistrian University of Athens,Athens,10.0,10.0,10.0,10.0,0.0,40.0,10.0,10.0,10.0,10.0,1.0,41.0,81.0,First Prize,2025
+16–18.,,Boris,Chervonenkis,Moscow Institute of Physics and Technology,Moscow,10.0,10.0,10.0,10.0,5.0,45.0,10.0,10.0,10.0,5.0,0.0,35.0,80.0,First Prize,2025
+16–18.,,Leonardo,Costa,BarcelonaTech,Barcelona,10.0,10.0,10.0,10.0,7.0,47.0,10.0,10.0,10.0,3.0,0.0,33.0,80.0,First Prize,2025
+16–18.,,Adam Łukasz,Naskręcki,University of Warsaw,Warsaw,10.0,10.0,10.0,10.0,,40.0,10.0,10.0,10.0,10.0,0.0,40.0,80.0,First Prize,2025
+19.,,Eldar,Khisamutdinov,Saint-Petersburg State University,Saint-Petersburg,9.0,10.0,10.0,10.0,2.0,41.0,10.0,10.0,10.0,8.0,0.0,38.0,79.0,First Prize,2025
+20.,,Avner,Spira,Tel Aviv University,Tel Aviv,10.0,10.0,10.0,3.0,10.0,43.0,10.0,10.0,10.0,4.0,1.0,35.0,78.0,First Prize,2025
+21–22.,,Ofer,Bogoslavsky,Tel Aviv University,Tel Aviv,9.0,10.0,10.0,10.0,3.0,42.0,10.0,10.0,10.0,3.0,2.0,35.0,77.0,First Prize,2025
+21–22.,,Casper,Madlener,Universiteit Leiden,Leiden,10.0,1.0,10.0,10.0,3.0,34.0,10.0,10.0,10.0,3.0,10.0,43.0,77.0,First Prize,2025
+23.,,Matouš,Šafránek,Charles University,Prague,10.0,5.0,10.0,10.0,1.0,36.0,10.0,10.0,10.0,10.0,0.0,40.0,76.0,First Prize,2025
+24–25.,,Aleksei,Bilous,Saint-Petersburg State University,Saint-Petersburg,10.0,10.0,10.0,6.0,2.0,38.0,10.0,10.0,10.0,7.0,,37.0,75.0,First Prize,2025
+24–25.,,Itamar,Nir,Tel Aviv University,Tel Aviv,10.0,1.0,10.0,10.0,10.0,41.0,10.0,10.0,10.0,3.0,1.0,34.0,75.0,First Prize,2025
+26–28.,,Bartłomiej Stanisław,Bychawski,Jagiellonian University,Krakow,10.0,3.0,10.0,4.0,10.0,37.0,10.0,10.0,7.0,10.0,,37.0,74.0,First Prize,2025
+26–28.,,Roger,Lidón,BarcelonaTech,Barcelona,10.0,9.0,9.0,10.0,4.0,42.0,10.0,9.0,10.0,2.0,1.0,32.0,74.0,First Prize,2025
+26–28.,,Hayim David,Shamir,Tel Aviv University,Tel Aviv,10.0,8.0,10.0,10.0,3.0,41.0,10.0,10.0,10.0,3.0,,33.0,74.0,First Prize,2025
+29–30.,,Kosma,Kasprzak,Jagiellonian University,Krakow,10.0,4.0,10.0,10.0,4.0,38.0,10.0,10.0,10.0,2.0,3.0,35.0,73.0,First Prize,2025
+29–30.,,Luca,Pana,EPFL,Lausanne,10.0,9.0,10.0,10.0,3.0,42.0,10.0,10.0,10.0,1.0,0.0,31.0,73.0,First Prize,2025
+31.,,Semen,Kuleshov,Moscow Institute of Physics and Technology,Moscow,10.0,10.0,10.0,8.0,3.0,41.0,10.0,10.0,10.0,1.0,0.0,31.0,72.0,First Prize,2025
+32–36.,,Maksim,Dudkin,Saint-Petersburg State University,Saint-Petersburg,10.0,0.0,10.0,10.0,,30.0,10.0,10.0,10.0,10.0,0.0,40.0,70.0,First Prize,2025
+32–36.,,Lennart Christian,Grabbel,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,10.0,10.0,8.0,1.0,9.0,38.0,10.0,10.0,10.0,2.0,0.0,32.0,70.0,First Prize,2025
+32–36.,,Konstanty,Smolira,Jagiellonian University,Krakow,8.0,10.0,10.0,7.0,5.0,40.0,7.0,10.0,10.0,2.0,1.0,30.0,70.0,First Prize,2025
+32–36.,,Luka,Urbanc,University of Ljubljana,Ljubljana,6.0,10.0,10.0,10.0,2.0,38.0,10.0,10.0,10.0,2.0,,32.0,70.0,First Prize,2025
+32–36.,,Matej,Vasky,Charles University,Prague,10.0,,10.0,10.0,3.0,33.0,10.0,10.0,10.0,7.0,,37.0,70.0,First Prize,2025
+37–38.,,Gabriela-Mădălina,Pîrvulescu,University of Bucharest,Bucharest,10.0,10.0,9.0,10.0,,39.0,10.0,10.0,10.0,0.0,0.0,30.0,69.0,First Prize,2025
+37–38.,,Luka,Sebbag,UGhent and ULiege,Ghent and Liege,10.0,4.0,10.0,10.0,1.0,35.0,10.0,10.0,10.0,1.0,3.0,34.0,69.0,First Prize,2025
+39–43.,,Aleksandr,Klimchuk,Higher School of Economics,Moscow,3.0,2.0,10.0,8.0,4.0,27.0,10.0,10.0,10.0,10.0,1.0,41.0,68.0,First Prize,2025
+39–43.,,Aliaksei,Mamonau,Jagiellonian University,Krakow,10.0,1.0,8.0,10.0,8.0,37.0,10.0,10.0,10.0,1.0,,31.0,68.0,First Prize,2025
+39–43.,,Boldizsár Ábel,Mann,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,9.0,10.0,10.0,10.0,1.0,40.0,10.0,10.0,,0.0,8.0,28.0,68.0,First Prize,2025
+39–43.,,Gregory,Solnyshkin,Neapolis University Pafos,Paphos,10.0,,10.0,9.0,10.0,39.0,9.0,10.0,10.0,,,29.0,68.0,First Prize,2025
+39–43.,,Leonid,Tyulenev,University of Bristol,Bristol,10.0,9.0,10.0,7.0,,36.0,10.0,10.0,8.0,4.0,,32.0,68.0,First Prize,2025
+44–45.,,Spas,Dimitrov,ETH Zurich,Zürich,10.0,10.0,10.0,10.0,3.0,43.0,2.0,10.0,10.0,2.0,,24.0,67.0,First Prize,2025
+44–45.,,Stanislav,Elovatskii,Novosibirsk State University,Novosibirsk,10.0,10.0,6.0,9.0,2.0,37.0,10.0,10.0,10.0,0.0,0.0,30.0,67.0,First Prize,2025
+46–47.,,Luís Felipe,Pestana Giglio,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,10.0,2.0,10.0,10.0,3.0,35.0,7.0,10.0,10.0,2.0,2.0,31.0,66.0,First Prize,2025
+46–47.,,Nurtas,Shyntas,New York University Abu Dhabi,Abu Dhabi,10.0,10.0,8.0,1.0,3.0,32.0,10.0,10.0,10.0,2.0,2.0,34.0,66.0,First Prize,2025
+48–49.,,Mikita,Shutro,Belarusian State University,Minsk,10.0,3.0,8.0,10.0,2.0,33.0,10.0,10.0,2.0,10.0,0.0,32.0,65.0,First Prize,2025
+48–49.,,Matvey,Vylegzhanin,Belarusian State University,Minsk,10.0,2.0,10.0,8.0,5.0,35.0,10.0,8.0,10.0,2.0,0.0,30.0,65.0,First Prize,2025
+50–53.,,Ruben,Hambardzumyan,Yerevan State University,Yerevan,10.0,10.0,10.0,1.0,,31.0,10.0,10.0,10.0,3.0,,33.0,64.0,First Prize,2025
+50–53.,,Mounir,Lbath,Ecole Polytechnique,Palaiseau,10.0,2.0,10.0,10.0,,32.0,10.0,10.0,10.0,2.0,,32.0,64.0,First Prize,2025
+50–53.,,Adrien,Philippart de Foy,Univ. of Liège,Liège,10.0,5.0,10.0,8.0,0.0,33.0,10.0,8.0,10.0,2.0,1.0,31.0,64.0,First Prize,2025
+50–53.,,Georgios,Vaos,National Technical University of Athens,Athens,10.0,10.0,10.0,8.0,0.0,38.0,10.0,4.0,10.0,2.0,,26.0,64.0,First Prize,2025
+54–57.,,Iustinian Cristian,Constantinescu,EPFL,Lausanne,5.0,9.0,10.0,8.0,10.0,42.0,2.0,7.0,10.0,2.0,,21.0,63.0,First Prize,2025
+54–57.,,Ivan,Frolov,Novosibirsk State University,Novosibirsk,10.0,3.0,7.0,10.0,,30.0,10.0,10.0,10.0,3.0,,33.0,63.0,First Prize,2025
+54–57.,,Demetre,Gelashvili,Free University,Tbilisi,10.0,1.0,10.0,10.0,2.0,33.0,10.0,10.0,10.0,0.0,,30.0,63.0,First Prize,2025
+54–57.,,Amitai,Levy,Tel Aviv University,Tel Aviv,10.0,1.0,10.0,10.0,0.0,31.0,9.0,10.0,10.0,3.0,0.0,32.0,63.0,First Prize,2025
+58–60.,,Artemii,Bakaev,Higher School of Economics,Moscow,10.0,0.0,10.0,2.0,,22.0,10.0,10.0,10.0,10.0,0.0,40.0,62.0,First Prize,2025
+58–60.,,Christian,Kraftsik,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,10.0,0.0,10.0,10.0,4.0,34.0,7.0,8.0,10.0,3.0,,28.0,62.0,First Prize,2025
+58–60.,,Michał,Warmuz,AGH University of Science and Technology,Krakow,9.0,10.0,10.0,10.0,,39.0,3.0,7.0,10.0,3.0,,23.0,62.0,First Prize,2025
+61–65.,,Bastiaan Benjamin,Capel,University of Utrecht,Utrecht,10.0,,10.0,10.0,,30.0,10.0,10.0,10.0,1.0,,31.0,61.0,First Prize,2025
+61–65.,,Medine,Odayeva,International University for the Humanities and Development,Ashgabat,8.0,10.0,9.0,10.0,,37.0,10.0,3.0,10.0,1.0,,24.0,61.0,First Prize,2025
+61–65.,,Tudor Constantin,Paisanu,Ecole Polytechnique,Palaiseau,10.0,7.0,10.0,3.0,2.0,32.0,10.0,7.0,10.0,2.0,,29.0,61.0,First Prize,2025
+61–65.,,Arthur Henrique,Paixão Santos,Universidade de São Paulo,São Paulo,10.0,,10.0,10.0,,30.0,10.0,10.0,10.0,1.0,,31.0,61.0,First Prize,2025
+61–65.,,Vladyslav,Shashkov,EPFL,Lausanne,10.0,1.0,10.0,7.0,,28.0,10.0,10.0,10.0,3.0,0.0,33.0,61.0,First Prize,2025
+66–72.,,Laurin,Geyer,TU Berlin,Berlin,10.0,9.0,8.0,1.0,,28.0,9.0,10.0,10.0,3.0,0.0,32.0,60.0,First Prize,2025
+66–72.,,Vseslav,Krasnenko,Belarusian State University,Minsk,10.0,6.0,10.0,,3.0,29.0,10.0,10.0,10.0,1.0,,31.0,60.0,First Prize,2025
+66–72.,,Ivan,Lialinov,Saint-Petersburg State University,Saint-Petersburg,5.0,1.0,5.0,1.0,7.0,19.0,10.0,10.0,9.0,10.0,2.0,41.0,60.0,First Prize,2025
+66–72.,,Korneliusz,Obarski,University of Warsaw,Warsaw,9.0,0.0,10.0,0.0,2.0,21.0,10.0,10.0,10.0,9.0,0.0,39.0,60.0,First Prize,2025
+66–72.,,Anastasios,Pastos,National and Kapodistrian University of Athens,Athens,10.0,10.0,10.0,0.0,0.0,30.0,10.0,10.0,10.0,,,30.0,60.0,First Prize,2025
+66–72.,,Luka,Ponikvar,University of Ljubljana,Ljubljana,10.0,0.0,10.0,7.0,2.0,29.0,10.0,10.0,9.0,2.0,0.0,31.0,60.0,First Prize,2025
+66–72.,,Maksim,Shevkoplias,Neapolis University Pafos,Paphos,10.0,1.0,8.0,10.0,,29.0,9.0,10.0,10.0,2.0,,31.0,60.0,First Prize,2025
+73–80.,,João Pedro,Arroyo,Universidade de São Paulo,São Paulo,10.0,10.0,10.0,,,30.0,10.0,9.0,10.0,0.0,,29.0,59.0,First Prize,2025
+73–80.,,Lyuben,Baltadzhiev,"Sofia University ""St. Kliment Ohridski""",Sofia,10.0,10.0,7.0,10.0,,37.0,10.0,2.0,8.0,2.0,0.0,22.0,59.0,First Prize,2025
+73–80.,,Viktor,Khamzin,Saint-Petersburg State University,Saint-Petersburg,10.0,0.0,10.0,9.0,,29.0,10.0,10.0,8.0,2.0,,30.0,59.0,First Prize,2025
+73–80.,,Maksim,Levitskii,Neapolis University Pafos,Paphos,10.0,10.0,10.0,1.0,,31.0,10.0,7.0,10.0,1.0,,28.0,59.0,First Prize,2025
+73–80.,,Arthur,Moreira Martins Vieira,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,10.0,10.0,10.0,8.0,,38.0,10.0,1.0,10.0,,,21.0,59.0,First Prize,2025
+73–80.,,Mohamed Taha,Ramlaoui,Ecole Polytechnique,Palaiseau,10.0,2.0,10.0,10.0,,32.0,10.0,6.0,10.0,1.0,,27.0,59.0,First Prize,2025
+73–80.,,Jakub,Šošovička,Charles University,Prague,9.0,,10.0,10.0,0.0,29.0,10.0,10.0,10.0,,0.0,30.0,59.0,First Prize,2025
+73–80.,,Ruixiao,Zeng,Nanyang Technological University,Jurong West,10.0,10.0,10.0,10.0,3.0,43.0,10.0,3.0,2.0,0.0,1.0,16.0,59.0,First Prize,2025
+81–84.,,Nurmyrat,Atayev,International University for the Humanities and Development,Ashgabat,10.0,10.0,8.0,,,28.0,10.0,10.0,10.0,,,30.0,58.0,First Prize,2025
+81–84.,,Jordi,Ferré,BarcelonaTech,Barcelona,10.0,1.0,8.0,10.0,3.0,32.0,10.0,4.0,10.0,2.0,,26.0,58.0,First Prize,2025
+81–84.,,Christoffer,Grøndal Tryggestad,Norwegian University of Science and Technology,Trondheim,10.0,,7.0,10.0,2.0,29.0,9.0,7.0,10.0,3.0,,29.0,58.0,First Prize,2025
+81–84.,,Ivane,Kuljanishvili,New York University Abu Dhabi,Abu Dhabi,10.0,10.0,8.0,8.0,,36.0,10.0,10.0,2.0,,,22.0,58.0,First Prize,2025
+85–91.,,Sergei,Arkhipov,Saint-Petersburg State University,Saint-Petersburg,10.0,0.0,10.0,10.0,3.0,33.0,5.0,7.0,2.0,10.0,0.0,24.0,57.0,First Prize,2025
+85–91.,,Vahram,Asatryan,Yerevan State University,Yerevan,10.0,1.0,10.0,4.0,,25.0,9.0,10.0,10.0,3.0,,32.0,57.0,First Prize,2025
+85–91.,,Javier,Badesa,BarcelonaTech,Barcelona,9.0,1.0,10.0,1.0,7.0,28.0,9.0,10.0,10.0,,0.0,29.0,57.0,First Prize,2025
+85–91.,,Matvei,Isupov,Saint-Petersburg State University,Saint-Petersburg,10.0,0.0,10.0,10.0,3.0,33.0,3.0,8.0,10.0,3.0,0.0,24.0,57.0,First Prize,2025
+85–91.,,Ilia,Kondakov,Neapolis University Pafos,Paphos,8.0,,2.0,3.0,9.0,22.0,10.0,5.0,10.0,10.0,0.0,35.0,57.0,First Prize,2025
+85–91.,,Michiel,Lassuyt,Katholieke Universiteit te Leuven,Leuven,8.0,,8.0,10.0,,26.0,10.0,10.0,10.0,1.0,0.0,31.0,57.0,First Prize,2025
+85–91.,,Ilya,Smirnov,Saint-Petersburg State University,Saint-Petersburg,10.0,,7.0,7.0,3.0,27.0,10.0,10.0,8.0,2.0,,30.0,57.0,First Prize,2025
+92–94.,,David,Dashevskii,Constructor University,Bremen,10.0,,9.0,0.0,5.0,24.0,10.0,10.0,10.0,2.0,0.0,32.0,56.0,First Prize,2025
+92–94.,,German,Kuznetsov,Higher School of Economics,Moscow,10.0,2.0,10.0,10.0,,32.0,10.0,2.0,10.0,2.0,,24.0,56.0,First Prize,2025
+92–94.,,Sergio,Santos Villar,Universidad de Oviedo,Oviedo,10.0,0.0,10.0,6.0,,26.0,10.0,10.0,10.0,,,30.0,56.0,First Prize,2025
+95–102.,,Artem,Borisov,University of Bristol,Bristol,10.0,3.0,10.0,,,23.0,10.0,10.0,10.0,2.0,,32.0,55.0,Second Prize,2025
+95–102.,,Erik Benjamin,Füredi,Loránd Eötvös University,Budapest,10.0,2.0,10.0,10.0,0.0,32.0,9.0,10.0,2.0,2.0,0.0,23.0,55.0,Second Prize,2025
+95–102.,,Mads Steven,Kok,Universiteit Leiden,Leiden,10.0,2.0,10.0,10.0,0.0,32.0,1.0,10.0,10.0,2.0,,23.0,55.0,Second Prize,2025
+95–102.,,Anton,Lakhtin,Moscow Institute of Physics and Technology,Moscow,9.0,0.0,10.0,10.0,,29.0,8.0,10.0,8.0,0.0,,26.0,55.0,Second Prize,2025
+95–102.,,Atmadeep,Sengupta,Indian Statistical Institute,Kolkata,10.0,1.0,8.0,10.0,0.0,29.0,10.0,10.0,2.0,4.0,0.0,26.0,55.0,Second Prize,2025
+95–102.,,Roman,Shumilov,Neapolis University Pafos,Paphos,10.0,0.0,10.0,8.0,0.0,28.0,10.0,6.0,10.0,1.0,,27.0,55.0,Second Prize,2025
+95–102.,,Danila,Solunov,Higher School of Economics,Moscow,10.0,1.0,9.0,8.0,3.0,31.0,2.0,10.0,10.0,2.0,0.0,24.0,55.0,Second Prize,2025
+95–102.,,Thammadol,TANSRIVORARAT,University of Bristol,Bristol,8.0,10.0,8.0,0.0,0.0,26.0,10.0,10.0,9.0,0.0,0.0,29.0,55.0,Second Prize,2025
+103–108.,,Ioannis,Galamatis,Aristotle University of Thessaloniki,Thessaloniki,10.0,2.0,10.0,10.0,,32.0,10.0,10.0,2.0,,0.0,22.0,54.0,Second Prize,2025
+103–108.,,Shabibi,Nurjanova,Magtymguly Turkmen State University,Ashgabat,10.0,9.0,9.0,4.0,,32.0,10.0,2.0,10.0,,0.0,22.0,54.0,Second Prize,2025
+103–108.,,Ivan,Pouly,EPFL,Lausanne,10.0,2.0,10.0,0.0,,22.0,10.0,10.0,10.0,2.0,0.0,32.0,54.0,Second Prize,2025
+103–108.,,Johannes,Raitz von Frentz,Gottfried Wilhelm Leibniz Universität Hannover,Hannover,7.0,2.0,10.0,1.0,3.0,23.0,9.0,10.0,9.0,3.0,0.0,31.0,54.0,Second Prize,2025
+103–108.,,Igor,Vorotnikov,Higher School of Economics,Moscow,10.0,,10.0,1.0,,21.0,3.0,10.0,10.0,10.0,0.0,33.0,54.0,Second Prize,2025
+103–108.,,Matsvei,Zorka,Belarusian State University,Minsk,10.0,3.0,10.0,0.0,3.0,26.0,10.0,10.0,4.0,3.0,1.0,28.0,54.0,Second Prize,2025
+109–115.,,Alexandru-Petru,Ardelean,Ecole Polytechnique,Palaiseau,10.0,2.0,8.0,0.0,4.0,24.0,10.0,5.0,10.0,3.0,1.0,29.0,53.0,Second Prize,2025
+109–115.,,David,Jiménez Sánchez,University of Seville,Sevilla,9.0,,6.0,10.0,,25.0,10.0,8.0,10.0,,,28.0,53.0,Second Prize,2025
+109–115.,,Kerry,Porrill,Stellenbosch University,Stellenbosch,10.0,0.0,10.0,1.0,5.0,26.0,8.0,9.0,10.0,0.0,0.0,27.0,53.0,Second Prize,2025
+109–115.,,Lars,Pos,Universiteit Leiden,Leiden,10.0,1.0,10.0,0.0,0.0,21.0,10.0,10.0,10.0,2.0,0.0,32.0,53.0,Second Prize,2025
+109–115.,,Krzysztof Antoni,Salata,Jagiellonian University,Krakow,10.0,1.0,10.0,0.0,3.0,24.0,9.0,10.0,10.0,0.0,,29.0,53.0,Second Prize,2025
+109–115.,,Mikhail,Savvateev,Moscow Institute of Physics and Technology,Moscow,10.0,1.0,10.0,,,21.0,10.0,10.0,9.0,3.0,,32.0,53.0,Second Prize,2025
+109–115.,,Rares-Constantin,Spineanu,Ecole Polytechnique,Palaiseau,9.0,10.0,7.0,1.0,0.0,27.0,10.0,4.0,10.0,2.0,0.0,26.0,53.0,Second Prize,2025
+116–124.,,Lukas,Das,Katholieke Universiteit te Leuven,Leuven,10.0,0.0,10.0,10.0,0.0,30.0,10.0,10.0,2.0,0.0,,22.0,52.0,Second Prize,2025
+116–124.,,Hong Son,Duong,University of Warwick,Warwick,10.0,3.0,5.0,10.0,0.0,28.0,10.0,10.0,2.0,2.0,,24.0,52.0,Second Prize,2025
+116–124.,,Fedir,Fedorov,TU Berlin,Berlin,10.0,1.0,10.0,10.0,,31.0,10.0,9.0,1.0,,1.0,21.0,52.0,Second Prize,2025
+116–124.,,Abdelkayoum,Kaddouri,"Math&Maroc | École Polytechnique, Palaiseau",Casablanca,10.0,2.0,10.0,0.0,,22.0,10.0,10.0,10.0,0.0,0.0,30.0,52.0,Second Prize,2025
+116–124.,,tom,koren,Technion,Haifa,8.0,0.0,8.0,0.0,6.0,22.0,10.0,8.0,10.0,2.0,0.0,30.0,52.0,Second Prize,2025
+116–124.,,João Marcelo,Ribeiro Monteiro de Carvalho,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,10.0,3.0,10.0,1.0,,24.0,10.0,7.0,10.0,1.0,,28.0,52.0,Second Prize,2025
+116–124.,,Paul Jakob,Schmidt,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,10.0,1.0,10.0,1.0,,22.0,10.0,10.0,10.0,0.0,,30.0,52.0,Second Prize,2025
+116–124.,,Jaka,Vrhovnik,University of Ljubljana,Ljubljana,8.0,4.0,10.0,,,22.0,10.0,10.0,10.0,0.0,0.0,30.0,52.0,Second Prize,2025
+116–124.,,Artsem,Zdanovich,Lomonosov Moscow State University,Moscow,10.0,2.0,10.0,0.0,0.0,22.0,10.0,10.0,10.0,,,30.0,52.0,Second Prize,2025
+125–133.,,Mohamed Salim,Assellalou,Ecole Nationale des Ponts et Chaussées,Champs-sur-Marne,10.0,9.0,10.0,,,29.0,10.0,2.0,10.0,0.0,,22.0,51.0,Second Prize,2025
+125–133.,,Emre,Bektaş,Bogazici University,Istanbul,10.0,10.0,8.0,,,28.0,10.0,3.0,10.0,,,23.0,51.0,Second Prize,2025
+125–133.,,Julian Alexander Rupert,Bleicher,Technische Universität München,Munich,10.0,6.0,8.0,2.0,,26.0,10.0,4.0,10.0,1.0,,25.0,51.0,Second Prize,2025
+125–133.,,Jens,Bloemen,University of Amsterdam,Amsterdam,10.0,9.0,8.0,1.0,,28.0,10.0,2.0,10.0,1.0,,23.0,51.0,Second Prize,2025
+125–133.,,Lukáš,Gáborik,"Comenius University, Bratislava",Bratislava,10.0,1.0,10.0,,,21.0,10.0,10.0,10.0,,,30.0,51.0,Second Prize,2025
+125–133.,,Sourodeep,Kanjilal,Indian Statistical Institute,Kolkata,8.0,8.0,8.0,0.0,1.0,25.0,10.0,9.0,2.0,5.0,0.0,26.0,51.0,Second Prize,2025
+125–133.,,Boaz,Montilya,Technion,Haifa,10.0,,8.0,8.0,2.0,28.0,10.0,3.0,10.0,,,23.0,51.0,Second Prize,2025
+125–133.,,Edward,Torac-Toma,Ecole Polytechnique,Palaiseau,10.0,2.0,10.0,10.0,0.0,32.0,10.0,4.0,5.0,0.0,,19.0,51.0,Second Prize,2025
+125–133.,,Kevin,van Dijk,University of Utrecht,Utrecht,9.0,0.0,10.0,0.0,0.0,19.0,10.0,10.0,8.0,4.0,0.0,32.0,51.0,Second Prize,2025
+134–138.,,Aymen,EL OUADRHIRI,Math&Maroc | Ecole Polytechnique Palaiseau,Casablanca,10.0,3.0,7.0,,,20.0,10.0,10.0,10.0,0.0,,30.0,50.0,Second Prize,2025
+134–138.,,Florian,Elbrandt,Gottfried Wilhelm Leibniz Universität Hannover,Hannover,10.0,1.0,10.0,3.0,3.0,27.0,10.0,10.0,2.0,1.0,,23.0,50.0,Second Prize,2025
+134–138.,,Adrian,Grbac Lacković,University of Zagreb,Zagreb,6.0,1.0,6.0,6.0,,19.0,10.0,10.0,10.0,1.0,0.0,31.0,50.0,Second Prize,2025
+134–138.,,Choubila,Guerfi,Université Paris-Saclay,Paris,10.0,7.0,,10.0,,27.0,10.0,3.0,10.0,0.0,,23.0,50.0,Second Prize,2025
+134–138.,,Gabriel,Pflügl,Universität Wien,Vienna,10.0,3.0,10.0,5.0,,28.0,6.0,10.0,4.0,2.0,,22.0,50.0,Second Prize,2025
+139–142.,,Maria,Fomenko,Plekhanov Russian University of Economics,Moscow,9.0,10.0,,,,19.0,10.0,10.0,10.0,,,30.0,49.0,Second Prize,2025
+139–142.,,Robert,Gidea,EPFL,Lausanne,10.0,2.0,8.0,,,20.0,10.0,9.0,10.0,,,29.0,49.0,Second Prize,2025
+139–142.,,Tobias,Schnieders,Eberhard Karls Universität Tübingen,Tübingen,7.0,2.0,10.0,0.0,0.0,19.0,10.0,10.0,10.0,0.0,0.0,30.0,49.0,Second Prize,2025
+139–142.,,Hugo,Trebše,University of Ljubljana,Ljubljana,9.0,10.0,10.0,,,29.0,10.0,4.0,4.0,2.0,,20.0,49.0,Second Prize,2025
+143–147.,,Ailton José,Da Silva Júnior,Instituto Tecnológico de Aeronáutica,São Paulo,9.0,3.0,5.0,7.0,0.0,24.0,10.0,10.0,4.0,0.0,,24.0,48.0,Second Prize,2025
+143–147.,,João Arthur,Marques,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,10.0,1.0,6.0,0.0,2.0,19.0,10.0,8.0,10.0,1.0,,29.0,48.0,Second Prize,2025
+143–147.,,Mohammed Amine,MOUTAHID,Math&Maroc | Lycee Mohammed VI d'excellence,Casablanca,10.0,2.0,10.0,,,22.0,5.0,10.0,10.0,1.0,,26.0,48.0,Second Prize,2025
+143–147.,,Georgios,Soukaras,University of Patras,Patras,10.0,10.0,1.0,4.0,,25.0,10.0,3.0,10.0,,,23.0,48.0,Second Prize,2025
+143–147.,,Timofei,Vasilev,Novosibirsk State University,Novosibirsk,2.0,,10.0,4.0,5.0,21.0,10.0,10.0,6.0,1.0,0.0,27.0,48.0,Second Prize,2025
+148–152.,,Konstantinos,Fotiadis,Aristotle University of Thessaloniki,Thessaloniki,10.0,10.0,4.0,,,24.0,10.0,3.0,10.0,0.0,0.0,23.0,47.0,Second Prize,2025
+148–152.,,Hylke,Hoogeveen,University of Utrecht,Utrecht,10.0,1.0,10.0,10.0,0.0,31.0,9.0,3.0,4.0,0.0,0.0,16.0,47.0,Second Prize,2025
+148–152.,,Nihat,Mammadli,ADA University,Baku,10.0,,10.0,,0.0,20.0,10.0,7.0,10.0,,,27.0,47.0,Second Prize,2025
+148–152.,,Orr,Sharon,Technion,Haifa,8.0,7.0,9.0,1.0,,25.0,10.0,3.0,9.0,,0.0,22.0,47.0,Second Prize,2025
+148–152.,,Serafim,Vinogrodskii,Peoples' Friendship University of Russia,Moscow,10.0,1.0,8.0,5.0,,24.0,10.0,3.0,10.0,0.0,0.0,23.0,47.0,Second Prize,2025
+153–162.,,Anshuman,Agrawal,Indian Statistical Institute,Bangalore,10.0,0.0,8.0,7.0,5.0,30.0,10.0,4.0,2.0,0.0,0.0,16.0,46.0,Second Prize,2025
+153–162.,,Dinu-Alexandru,Iosifescu,Bocconi,Milan,10.0,0.0,10.0,7.0,1.0,28.0,10.0,4.0,2.0,2.0,,18.0,46.0,Second Prize,2025
+153–162.,,Andrei,Karmanovich,Jagiellonian University,Krakow,10.0,1.0,4.0,,0.0,15.0,10.0,10.0,10.0,1.0,0.0,31.0,46.0,Second Prize,2025
+153–162.,,Klevis,Liperi,Politecnico di Torino,Turin,10.0,,10.0,9.0,,29.0,10.0,5.0,2.0,,0.0,17.0,46.0,Second Prize,2025
+153–162.,,Paweł Karol,Pielasa,University of Warsaw,Warsaw,10.0,3.0,7.0,,6.0,26.0,10.0,10.0,0.0,0.0,0.0,20.0,46.0,Second Prize,2025
+153–162.,,Cleyton Vinicius,Prado dos Santos,Fundação Getulio Vargas,Rio de Janeiro,10.0,0.0,8.0,,,18.0,8.0,7.0,10.0,3.0,0.0,28.0,46.0,Second Prize,2025
+153–162.,,Dominik,Pultar,Universität Wien,Vienna,10.0,,8.0,8.0,,26.0,5.0,10.0,5.0,,,20.0,46.0,Second Prize,2025
+153–162.,,Szymon,Szmigielski,University of Warsaw,Warsaw,10.0,2.0,10.0,3.0,8.0,33.0,10.0,3.0,,0.0,,13.0,46.0,Second Prize,2025
+153–162.,,Kerim,Toyliyev,International University for the Humanities and Development,Ashgabat,10.0,10.0,,6.0,,26.0,10.0,4.0,6.0,,,20.0,46.0,Second Prize,2025
+153–162.,,Maksim,Vorogushin,Plekhanov Russian University of Economics,Moscow,10.0,9.0,0.0,0.0,0.0,19.0,10.0,7.0,10.0,0.0,,27.0,46.0,Second Prize,2025
+163–167.,,Lance,Bakker,Universiteit Leiden,Leiden,10.0,1.0,10.0,1.0,,22.0,10.0,10.0,2.0,1.0,,23.0,45.0,Second Prize,2025
+163–167.,,Mikhail,Evseev,Higher School of Economics,Moscow,8.0,1.0,8.0,0.0,,17.0,9.0,9.0,10.0,,0.0,28.0,45.0,Second Prize,2025
+163–167.,,Daniel,Lysyi,Constructor University,Bremen,10.0,6.0,8.0,,,24.0,9.0,2.0,10.0,0.0,0.0,21.0,45.0,Second Prize,2025
+163–167.,,Virgile,Verrekt,Univ. of Liège,Liège,10.0,1.0,8.0,2.0,0.0,21.0,10.0,2.0,8.0,4.0,0.0,24.0,45.0,Second Prize,2025
+163–167.,,Mate,Zhorzholiani,Free University,Tbilisi,10.0,1.0,10.0,0.0,,21.0,10.0,4.0,10.0,0.0,,24.0,45.0,Second Prize,2025
+168–179.,,Mohamed Amir,Benmelouka,National Higher School of Mathematics,Algiers,10.0,10.0,2.0,0.0,,22.0,10.0,2.0,10.0,0.0,,22.0,44.0,Second Prize,2025
+168–179.,,Mohammed,BENOMAR EL MDEGHRI,Math&Maroc | Ecole Mohammadia d'ingenieurs,Casablanca,10.0,0.0,10.0,0.0,3.0,23.0,8.0,10.0,2.0,1.0,0.0,21.0,44.0,Second Prize,2025
+168–179.,,David,Buchmaier Bofill,Universität Wien,Vienna,10.0,2.0,8.0,,1.0,21.0,9.0,4.0,10.0,,,23.0,44.0,Second Prize,2025
+168–179.,,Jonathan Alexander,Frey,Eberhard Karls Universität Tübingen,Tübingen,9.0,,5.0,0.0,,14.0,10.0,10.0,10.0,0.0,,30.0,44.0,Second Prize,2025
+168–179.,,Yoav,Haber,Technion,Haifa,10.0,1.0,10.0,0.0,0.0,21.0,10.0,10.0,1.0,2.0,0.0,23.0,44.0,Second Prize,2025
+168–179.,,Dániel,Hegedűs,Loránd Eötvös University,Budapest,8.0,0.0,8.0,,,16.0,10.0,7.0,10.0,1.0,,28.0,44.0,Second Prize,2025
+168–179.,,Zoltán,Kalocsai,Loránd Eötvös University,Budapest,10.0,2.0,7.0,3.0,0.0,22.0,8.0,4.0,9.0,1.0,,22.0,44.0,Second Prize,2025
+168–179.,,Konstantin,Pakulnevich,ITMO University,Saint Petersburg,10.0,0.0,10.0,4.0,3.0,27.0,10.0,3.0,2.0,2.0,0.0,17.0,44.0,Second Prize,2025
+168–179.,,Kauri Jousia Saku-Pietari,Pälsi,Aalto University,Espoo,9.0,0.0,10.0,0.0,3.0,22.0,10.0,2.0,10.0,,,22.0,44.0,Second Prize,2025
+168–179.,,Zdeněk,Pezlar,Charles University,Prague,8.0,8.0,1.0,10.0,,27.0,10.0,4.0,1.0,,2.0,17.0,44.0,Second Prize,2025
+168–179.,,Igor,Shmygaliov,Belarusian State University,Minsk,10.0,2.0,10.0,3.0,0.0,25.0,10.0,8.0,1.0,0.0,0.0,19.0,44.0,Second Prize,2025
+168–179.,,Ben,Stoffels,Katholieke Universiteit te Leuven,Leuven,10.0,2.0,8.0,1.0,,21.0,5.0,8.0,10.0,0.0,,23.0,44.0,Second Prize,2025
+180–199.,,Iuri,Almeida,Universidade de São Paulo,São Paulo,10.0,10.0,10.0,2.0,,32.0,,7.0,4.0,,,11.0,43.0,Third Prize,2025
+180–199.,,Davi,Braga Garcia Amaral,Instituto Militar de Engenharia,Rio de Janeiro,10.0,1.0,7.0,,,18.0,10.0,5.0,10.0,,,25.0,43.0,Third Prize,2025
+180–199.,,Diego,González Lozano,Universidad Autonoma de Madrid,Madrid,10.0,0.0,9.0,,,19.0,5.0,9.0,10.0,,,24.0,43.0,Third Prize,2025
+180–199.,,Jakob,Kapelari,ETH Zurich,Zürich,10.0,,10.0,0.0,,20.0,9.0,10.0,4.0,,,23.0,43.0,Third Prize,2025
+180–199.,,Mikael,Kerimov,Central University,Moscow,10.0,0.0,10.0,,0.0,20.0,10.0,3.0,10.0,,,23.0,43.0,Third Prize,2025
+180–199.,,Ruslan,Khasanov,Plekhanov Russian University of Economics,Moscow,9.0,10.0,,2.0,,21.0,10.0,2.0,10.0,,0.0,22.0,43.0,Third Prize,2025
+180–199.,,PANAGIOTIS,KONSTANTOPOULOS,National Technical University of Athens,Athens,10.0,3.0,2.0,,,15.0,10.0,9.0,9.0,,,28.0,43.0,Third Prize,2025
+180–199.,,Douglas Massahiro,Kotsubo,Instituto Tecnológico de Aeronáutica,São Paulo,10.0,8.0,9.0,4.0,,31.0,7.0,3.0,2.0,0.0,,12.0,43.0,Third Prize,2025
+180–199.,,Felix,Lerner,RWTH Aachen University,Aachen,10.0,0.0,9.0,,0.0,19.0,10.0,10.0,4.0,,,24.0,43.0,Third Prize,2025
+180–199.,,Nikolai,Maltsev,Free University,Tbilisi,10.0,1.0,10.0,,,21.0,10.0,2.0,10.0,,0.0,22.0,43.0,Third Prize,2025
+180–199.,,Roman,Mishura,Neapolis University Pafos,Paphos,10.0,0.0,10.0,,,20.0,10.0,7.0,,6.0,,23.0,43.0,Third Prize,2025
+180–199.,,Hadi,MOULINE,Télécom Paris,Palaiseau,10.0,2.0,10.0,8.0,,30.0,7.0,4.0,2.0,,0.0,13.0,43.0,Third Prize,2025
+180–199.,,HAITAM YASSINE,OUJAA,École Polytechnique,Paris,10.0,9.0,8.0,3.0,,30.0,10.0,3.0,0.0,0.0,,13.0,43.0,Third Prize,2025
+180–199.,,Batyr,Ovezmyradov,Turkmen State Institute of Architecture and Construction,Ashgabat,10.0,10.0,3.0,,,23.0,10.0,10.0,,,0.0,20.0,43.0,Third Prize,2025
+180–199.,,Valeriy,Pyatkin,Novosibirsk State University,Novosibirsk,10.0,,10.0,0.0,,20.0,9.0,10.0,4.0,,,23.0,43.0,Third Prize,2025
+180–199.,,Sergio,Rodríguez Marin,Universidad Autonoma de Madrid,Madrid,10.0,8.0,8.0,,,26.0,0.0,7.0,10.0,0.0,,17.0,43.0,Third Prize,2025
+180–199.,,Egor,Smirnov-Maltsev,Peoples' Friendship University of Russia,Moscow,8.0,,10.0,2.0,,20.0,10.0,10.0,3.0,,0.0,23.0,43.0,Third Prize,2025
+180–199.,,Duco Ezio Michael,van Wallenberg,University of Amsterdam,Amsterdam,10.0,0.0,9.0,6.0,,25.0,9.0,6.0,,3.0,0.0,18.0,43.0,Third Prize,2025
+180–199.,,Jacob,Walker,Durham University,Durham,10.0,1.0,7.0,,,18.0,10.0,5.0,10.0,0.0,0.0,25.0,43.0,Third Prize,2025
+180–199.,,Patrik,Žnidaršič,University of Ljubljana,Ljubljana,10.0,2.0,8.0,,,20.0,10.0,3.0,10.0,,,23.0,43.0,Third Prize,2025
+200–209.,,Aino Siiri Inkeri,Aulanko,Aalto University,Espoo,10.0,,10.0,2.0,,22.0,7.0,10.0,2.0,1.0,,20.0,42.0,Third Prize,2025
+200–209.,,Katarina,Grilj,University of Ljubljana,Ljubljana,9.0,,9.0,7.0,,25.0,10.0,3.0,4.0,,,17.0,42.0,Third Prize,2025
+200–209.,,Raphael Hermann,Heuchl,Alpen-Adria-Universität Klagenfurt,Klagenfurt,10.0,0.0,5.0,,,15.0,7.0,9.0,10.0,1.0,,27.0,42.0,Third Prize,2025
+200–209.,,Ioannis,Mavrikos,National Technical University of Athens,Athens,10.0,0.0,10.0,,,20.0,9.0,10.0,3.0,,,22.0,42.0,Third Prize,2025
+200–209.,,Abhi,Mummaneni,University College London,London,10.0,1.0,10.0,0.0,0.0,21.0,10.0,3.0,8.0,,,21.0,42.0,Third Prize,2025
+200–209.,,Henri,Peterson,University of Tartu,Tartu,10.0,0.0,10.0,0.0,,20.0,10.0,10.0,2.0,,,22.0,42.0,Third Prize,2025
+200–209.,,Arnab,Sanyal,Indian Statistical Institute,Kolkata,10.0,0.0,10.0,10.0,0.0,30.0,10.0,2.0,,,0.0,12.0,42.0,Third Prize,2025
+200–209.,,Sampo Pietari,Siitonen,University of Helsinki,Helsinki,10.0,,10.0,1.0,,21.0,8.0,10.0,,3.0,,21.0,42.0,Third Prize,2025
+200–209.,,Ryan,Staal,Universiteit Leiden,Leiden,10.0,2.0,0.0,10.0,,22.0,10.0,10.0,,,0.0,20.0,42.0,Third Prize,2025
+200–209.,,Birgit,Veldi,University of Tartu,Tartu,10.0,0.0,10.0,,0.0,20.0,10.0,10.0,2.0,,,22.0,42.0,Third Prize,2025
+210–215.,,Gabriel,Carneiro Bomfim,Instituto Tecnológico de Aeronáutica,São Paulo,8.0,4.0,8.0,2.0,,22.0,10.0,3.0,6.0,0.0,,19.0,41.0,Third Prize,2025
+210–215.,,Gurtgeldi,Hanow,Turkmen State Pedagogical Institute named after S.Seydi,Turkmenabat,10.0,0.0,9.0,4.0,,23.0,10.0,4.0,4.0,,0.0,18.0,41.0,Third Prize,2025
+210–215.,,José Luis,Mesa Solano,University of Seville,Sevilla,10.0,1.0,8.0,,,19.0,10.0,7.0,5.0,,,22.0,41.0,Third Prize,2025
+210–215.,,Tohirbek,Tulanov,Tashkent State University of Economics,Tashkent,10.0,0.0,9.0,5.0,,24.0,10.0,6.0,1.0,,0.0,17.0,41.0,Third Prize,2025
+210–215.,,Tom Willem,Weerheijm,University of Amsterdam,Amsterdam,10.0,0.0,8.0,10.0,,28.0,0.0,4.0,9.0,,,13.0,41.0,Third Prize,2025
+210–215.,,Ερμής,Σουλδάτος,National and Kapodistrian University of Athens,Athens,10.0,1.0,0.0,10.0,0.0,21.0,7.0,10.0,2.0,1.0,0.0,20.0,41.0,Third Prize,2025
+216–222.,,Maxim,Bidva,Saint-Petersburg State University,Saint-Petersburg,10.0,0.0,7.0,0.0,2.0,19.0,10.0,9.0,0.0,,2.0,21.0,40.0,Third Prize,2025
+216–222.,,Ismail,Bouhaj,ETH Zurich,Zürich,10.0,,1.0,1.0,,12.0,10.0,8.0,10.0,,,28.0,40.0,Third Prize,2025
+216–222.,,Johann,Fried,TU Berlin,Berlin,10.0,6.0,10.0,,2.0,28.0,8.0,4.0,,0.0,0.0,12.0,40.0,Third Prize,2025
+216–222.,,Felix Gijs,Hamoen,University of Utrecht,Utrecht,10.0,0.0,6.0,10.0,2.0,28.0,2.0,10.0,0.0,,,12.0,40.0,Third Prize,2025
+216–222.,,Maksim,Kiselev,Constructor University,Bremen,10.0,,8.0,2.0,3.0,23.0,0.0,7.0,8.0,2.0,,17.0,40.0,Third Prize,2025
+216–222.,,Konstantin,Rodionenko,ITMO University,Saint Petersburg,10.0,0.0,5.0,10.0,,25.0,10.0,2.0,0.0,3.0,0.0,15.0,40.0,Third Prize,2025
+216–222.,,Matteo,Salicandro,Politecnico di Torino,Turin,10.0,10.0,2.0,,,22.0,7.0,2.0,9.0,,0.0,18.0,40.0,Third Prize,2025
+223–231.,,Stanislav,Alekseev,Neapolis University Pafos,Paphos,10.0,1.0,9.0,,2.0,22.0,10.0,2.0,4.0,1.0,,17.0,39.0,Third Prize,2025
+223–231.,,Sergey,Barsukov,Moscow Institute of Physics and Technology,Moscow,10.0,1.0,5.0,1.0,,17.0,10.0,10.0,0.0,2.0,0.0,22.0,39.0,Third Prize,2025
+223–231.,,Lorenzo,Carrara,University degli Studi di Udine,Udine,10.0,,10.0,,0.0,20.0,10.0,7.0,2.0,0.0,,19.0,39.0,Third Prize,2025
+223–231.,,Jul,Comhaire,Katholieke Universiteit te Leuven,Leuven,8.0,1.0,2.0,0.0,,11.0,10.0,7.0,10.0,1.0,0.0,28.0,39.0,Third Prize,2025
+223–231.,,Giulio,Cosentino,Politecnico di Torino,Turin,10.0,0.0,8.0,2.0,,20.0,10.0,5.0,4.0,,,19.0,39.0,Third Prize,2025
+223–231.,,Jakob,Feldner,Eberhard Karls Universität Tübingen,Tübingen,10.0,,8.0,10.0,,28.0,10.0,1.0,0.0,0.0,0.0,11.0,39.0,Third Prize,2025
+223–231.,,Olle,Lapidus,Chalmers University of Technology,Gothenburg,10.0,1.0,10.0,,4.0,25.0,10.0,3.0,0.0,1.0,0.0,14.0,39.0,Third Prize,2025
+223–231.,,Thian,Tromp,University of Utrecht,Utrecht,10.0,1.0,10.0,0.0,4.0,25.0,1.0,3.0,10.0,0.0,0.0,14.0,39.0,Third Prize,2025
+223–231.,,Boris Aleksandrov,Vetsev,University College London,London,10.0,0.0,9.0,4.0,,23.0,3.0,3.0,10.0,0.0,,16.0,39.0,Third Prize,2025
+232–238.,,Dylan,de Jonge,University of Groningen,Groningen,7.0,0.0,10.0,7.0,0.0,24.0,5.0,3.0,4.0,2.0,0.0,14.0,38.0,Third Prize,2025
+232–238.,,Stepan,Gevorgyan,Yerevan State University,Yerevan,10.0,0.0,6.0,0.0,,16.0,10.0,8.0,2.0,2.0,,22.0,38.0,Third Prize,2025
+232–238.,,Nurmuhammet,Gochyyev,State Energy Institute of Turkmenistan,Mary,0.0,10.0,8.0,0.0,,18.0,10.0,2.0,8.0,0.0,0.0,20.0,38.0,Third Prize,2025
+232–238.,,Márk Péter,Kökényesi,Loránd Eötvös University,Budapest,10.0,2.0,8.0,,3.0,23.0,0.0,9.0,2.0,4.0,,15.0,38.0,Third Prize,2025
+232–238.,,Konstantin,Sereda,Higher School of Economics,Moscow,10.0,2.0,9.0,,,21.0,10.0,1.0,6.0,0.0,,17.0,38.0,Third Prize,2025
+232–238.,,Matija,Skrt,University of Ljubljana,Ljubljana,10.0,10.0,3.0,,,23.0,5.0,10.0,0.0,,,15.0,38.0,Third Prize,2025
+232–238.,,George,Topping,Durham University,Durham,10.0,5.0,,,,15.0,10.0,3.0,10.0,0.0,,23.0,38.0,Third Prize,2025
+239–246.,,Martin,Andričík,Charles University,Prague,5.0,0.0,8.0,,3.0,16.0,10.0,0.0,10.0,1.0,,21.0,37.0,Third Prize,2025
+239–246.,,Xavier,Díaz,BarcelonaTech,Barcelona,10.0,,6.0,,1.0,17.0,10.0,8.0,2.0,0.0,,20.0,37.0,Third Prize,2025
+239–246.,,Ioannis,Fotoglou,National Technical University of Athens,Athens,10.0,1.0,10.0,0.0,,21.0,10.0,6.0,0.0,,,16.0,37.0,Third Prize,2025
+239–246.,,Youcef,Kenane,University of Science and Technology Houari Boumediene,Algiers,10.0,1.0,10.0,1.0,,22.0,10.0,4.0,1.0,,0.0,15.0,37.0,Third Prize,2025
+239–246.,,Irakli,Khutsishvili,Free University,Tbilisi,8.0,10.0,0.0,0.0,,18.0,10.0,5.0,4.0,,,19.0,37.0,Third Prize,2025
+239–246.,,Kirill,Kovardakov,Lomonosov Moscow State University,Moscow,10.0,9.0,2.0,,,21.0,10.0,2.0,4.0,,,16.0,37.0,Third Prize,2025
+239–246.,,Aleksei,Moshkin,Saint-Petersburg State University,Saint-Petersburg,10.0,1.0,8.0,,,19.0,10.0,4.0,4.0,0.0,,18.0,37.0,Third Prize,2025
+239–246.,,Ilona,Tylevna,Universität Wien,Vienna,9.0,0.0,9.0,0.0,,18.0,9.0,6.0,4.0,,0.0,19.0,37.0,Third Prize,2025
+247–251.,,Caio Harley,Constancio Neves,Instituto Militar de Engenharia,Rio de Janeiro,9.0,0.0,2.0,,,11.0,7.0,8.0,10.0,,0.0,25.0,36.0,Third Prize,2025
+247–251.,,Ramyro,Corrêa Aquines,Fundação Getulio Vargas,Rio de Janeiro,10.0,1.0,10.0,1.0,,22.0,5.0,7.0,0.0,2.0,0.0,14.0,36.0,Third Prize,2025
+247–251.,,Arslan,Daminov,Kazakh-British Technical University,Almaty,9.0,,4.0,1.0,,14.0,10.0,2.0,10.0,,0.0,22.0,36.0,Third Prize,2025
+247–251.,,Gilad,Ofek,Ben Gurion University of the Negev,Beer Sheba,8.0,,10.0,0.0,1.0,19.0,10.0,7.0,0.0,,,17.0,36.0,Third Prize,2025
+247–251.,,Carlos Eduardo,Pereira Sampaio,Instituto Tecnológico de Aeronáutica,São Paulo,10.0,,5.0,,,15.0,10.0,1.0,10.0,0.0,,21.0,36.0,Third Prize,2025
+252–258.,,Martti Karl,Elvisto,University of Tartu,Tartu,8.0,,8.0,1.0,,17.0,1.0,7.0,10.0,0.0,0.0,18.0,35.0,Third Prize,2025
+252–258.,,Narek,Hoveyan,Yerevan State University,Yerevan,3.0,2.0,10.0,,,15.0,10.0,4.0,6.0,,0.0,20.0,35.0,Third Prize,2025
+252–258.,,Omri,Jerbi,Open University,Ra'anana,10.0,0.0,0.0,,5.0,15.0,7.0,7.0,6.0,0.0,0.0,20.0,35.0,Third Prize,2025
+252–258.,,Daniel,Lang,University of Warwick,Warwick,10.0,0.0,,2.0,0.0,12.0,10.0,10.0,0.0,3.0,0.0,23.0,35.0,Third Prize,2025
+252–258.,,Joaquim Pedro,Leiroz Linhares,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,8.0,9.0,10.0,,,27.0,6.0,,2.0,,,8.0,35.0,Third Prize,2025
+252–258.,,Nicolò,Pelizzoli,University degli Studi di Udine,Udine,10.0,3.0,6.0,0.0,,19.0,10.0,2.0,4.0,0.0,0.0,16.0,35.0,Third Prize,2025
+252–258.,,Gabriella,Sztranyák,Loránd Eötvös University,Budapest,5.0,1.0,7.0,,,13.0,10.0,10.0,2.0,,,22.0,35.0,Third Prize,2025
+259–263.,,Leonid,Finarevskiy,Peoples' Friendship University of Russia,Moscow,10.0,10.0,8.0,1.0,,29.0,3.0,2.0,,0.0,0.0,5.0,34.0,Third Prize,2025
+259–263.,,Ahmed Adnane,Meddah,ENSIA,Algiers,10.0,1.0,0.0,2.0,,13.0,10.0,10.0,0.0,1.0,0.0,21.0,34.0,Third Prize,2025
+259–263.,,Herre,Roebers,University of Amsterdam,Amsterdam,10.0,,7.0,,,17.0,10.0,7.0,0.0,,,17.0,34.0,Third Prize,2025
+259–263.,,Caio,Simon de Oliveira,Universidade de São Paulo,São Paulo,3.0,0.0,8.0,,,11.0,7.0,6.0,10.0,0.0,0.0,23.0,34.0,Third Prize,2025
+259–263.,,Georg,Weisbier,Universität Wien,Vienna,7.0,,3.0,4.0,4.0,18.0,10.0,4.0,1.0,1.0,,16.0,34.0,Third Prize,2025
+264–273.,,Lucas,Almeida Oliveira,Instituto Tecnológico de Aeronáutica,São Paulo,9.0,,0.0,0.0,,9.0,9.0,4.0,10.0,1.0,,24.0,33.0,Honourable Mention,2025
+264–273.,,Jelle Ruben,Bloemendaal,University of Utrecht,Utrecht,10.0,1.0,1.0,3.0,0.0,15.0,2.0,10.0,4.0,1.0,1.0,18.0,33.0,Honourable Mention,2025
+264–273.,,Gabriel,Čajsa,University of Zagreb,Zagreb,10.0,1.0,10.0,,,21.0,10.0,2.0,,,,12.0,33.0,Honourable Mention,2025
+264–273.,,Valerii,Filiniuk,RWTH Aachen University,Aachen,10.0,2.0,10.0,,,22.0,2.0,9.0,,,,11.0,33.0,Honourable Mention,2025
+264–273.,,İlkin,Hasanov,ADA University,Baku,9.0,7.0,0.0,,,16.0,10.0,2.0,5.0,,,17.0,33.0,Honourable Mention,2025
+264–273.,,Vano,Kakiashvili,Constructor University,Bremen,10.0,,9.0,1.0,,20.0,1.0,3.0,8.0,1.0,0.0,13.0,33.0,Honourable Mention,2025
+264–273.,,Antonio Angelo,Polignano,Politecnico di Torino,Turin,10.0,3.0,8.0,,,21.0,7.0,5.0,0.0,,,12.0,33.0,Honourable Mention,2025
+264–273.,,Tiena Ange Sigata Emmanuel,SORO,École Polytechnique,Paris,10.0,1.0,7.0,0.0,,18.0,10.0,0.0,4.0,1.0,,15.0,33.0,Honourable Mention,2025
+264–273.,,Zhixian,Wang,Nanyang Technological University,Jurong West,9.0,,8.0,,,17.0,10.0,6.0,,0.0,,16.0,33.0,Honourable Mention,2025
+264–273.,,Daniel,Zinnkann,Johannes Gutenberg-Universität Mainz,Mainz,10.0,1.0,10.0,,,21.0,0.0,1.0,10.0,1.0,0.0,12.0,33.0,Honourable Mention,2025
+274–285.,,Catalin,Botezat,New York University Abu Dhabi,Abu Dhabi,10.0,0.0,8.0,1.0,,19.0,10.0,1.0,2.0,0.0,,13.0,32.0,Honourable Mention,2025
+274–285.,,Angus,Clark,University of Pretoria,Pretoria,2.0,,10.0,0.0,,12.0,10.0,1.0,9.0,,,20.0,32.0,Honourable Mention,2025
+274–285.,,Gaia,Fuselli,University degli Studi di Udine,Udine,10.0,3.0,9.0,0.0,,22.0,5.0,3.0,2.0,,0.0,10.0,32.0,Honourable Mention,2025
+274–285.,,Diar,Gashi,University of Primorska,Koper,8.0,2.0,9.0,0.0,,19.0,10.0,3.0,,,,13.0,32.0,Honourable Mention,2025
+274–285.,,Sebastian,Ha,RWTH Aachen University,Aachen,8.0,0.0,10.0,0.0,0.0,18.0,10.0,0.0,2.0,2.0,,14.0,32.0,Honourable Mention,2025
+274–285.,,Veronika,Körber,Eberhard Karls Universität Tübingen,Tübingen,10.0,,5.0,,,15.0,10.0,3.0,4.0,,,17.0,32.0,Honourable Mention,2025
+274–285.,,Anna Francesca,Maggioli,Eberhard Karls Universität Tübingen,Tübingen,10.0,2.0,10.0,0.0,,22.0,7.0,1.0,,2.0,,10.0,32.0,Honourable Mention,2025
+274–285.,,Artur,Mavrin,Lomonosov Moscow State University,Moscow,10.0,10.0,1.0,,,21.0,10.0,1.0,0.0,0.0,0.0,11.0,32.0,Honourable Mention,2025
+274–285.,,Lukas,Schulze,Gottfried Wilhelm Leibniz Universität Hannover,Hannover,10.0,0.0,10.0,5.0,,25.0,0.0,5.0,,2.0,,7.0,32.0,Honourable Mention,2025
+274–285.,,Dalma,Somogyi,Loránd Eötvös University,Budapest,10.0,0.0,7.0,0.0,2.0,19.0,7.0,4.0,2.0,0.0,,13.0,32.0,Honourable Mention,2025
+274–285.,,Pablo,Troyano Plata,University of Seville,Sevilla,10.0,0.0,10.0,,0.0,20.0,2.0,10.0,0.0,0.0,,12.0,32.0,Honourable Mention,2025
+274–285.,,Abdurasulov,Xumoyun,Tashkent State University of Economics,Tashkent,10.0,,7.0,3.0,,20.0,10.0,2.0,0.0,0.0,,12.0,32.0,Honourable Mention,2025
+286–288.,,Leon,Diadchenko,Lomonosov Moscow State University,Moscow,8.0,6.0,5.0,0.0,0.0,19.0,10.0,2.0,0.0,0.0,0.0,12.0,31.0,Honourable Mention,2025
+286–288.,,Casper,Faulconer,Ghent University,Ghent,10.0,0.0,,5.0,,15.0,4.0,8.0,4.0,0.0,0.0,16.0,31.0,Honourable Mention,2025
+286–288.,,Konstantin,Roßberg,TU Berlin,Berlin,10.0,,9.0,0.0,,19.0,10.0,1.0,,1.0,,12.0,31.0,Honourable Mention,2025
+289–298.,,Palina,Babayeva,Belarusian State University,Minsk,10.0,3.0,5.0,,,18.0,10.0,2.0,0.0,,,12.0,30.0,Honourable Mention,2025
+289–298.,,Antoine,du Fresne von Hohenesche,ETH Zurich,Zürich,10.0,0.0,10.0,,,20.0,3.0,1.0,2.0,4.0,,10.0,30.0,Honourable Mention,2025
+289–298.,,Rubén,García Fernández,Universidad de Oviedo,Oviedo,2.0,,8.0,2.0,3.0,15.0,4.0,1.0,10.0,,,15.0,30.0,Honourable Mention,2025
+289–298.,,ilias,Gomatos,National and Kapodistrian University of Athens,Athens,6.0,0.0,8.0,0.0,,14.0,10.0,4.0,2.0,,,16.0,30.0,Honourable Mention,2025
+289–298.,,Benjamin Frederick,Kleyn,Stellenbosch University,Stellenbosch,10.0,1.0,4.0,0.0,,15.0,2.0,10.0,3.0,0.0,,15.0,30.0,Honourable Mention,2025
+289–298.,,Themelis,Mamouzelos,National and Kapodistrian University of Athens,Athens,8.0,2.0,6.0,0.0,,16.0,10.0,2.0,2.0,0.0,0.0,14.0,30.0,Honourable Mention,2025
+289–298.,,Pablo,Menéndez,Universidad de Oviedo,Oviedo,10.0,5.0,,,,15.0,10.0,1.0,4.0,,,15.0,30.0,Honourable Mention,2025
+289–298.,,Ruth,Plümer,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,10.0,0.0,10.0,1.0,,21.0,6.0,3.0,,,,9.0,30.0,Honourable Mention,2025
+289–298.,,Matthijs Johan Robert,van Zanten,University of Amsterdam,Amsterdam,0.0,0.0,8.0,0.0,0.0,8.0,10.0,2.0,10.0,,0.0,22.0,30.0,Honourable Mention,2025
+289–298.,,Yueshan,Wang,University of Nottingham Ningbo China,Ningbo,10.0,0.0,4.0,2.0,,16.0,9.0,3.0,0.0,2.0,0.0,14.0,30.0,Honourable Mention,2025
+299–305.,,Rodrigo,Damasceno Ranea Orlando,Universidade Estadual de Londrina,Londrina,8.0,1.0,10.0,,,19.0,0.0,10.0,0.0,,0.0,10.0,29.0,Honourable Mention,2025
+299–305.,,Adrian Karol,Fluder,EPFL,Lausanne,10.0,10.0,,,,20.0,2.0,2.0,5.0,,,9.0,29.0,Honourable Mention,2025
+299–305.,,Michał Piotr,Malik,AGH University of Science and Technology,Krakow,10.0,,4.0,0.0,,14.0,10.0,5.0,,0.0,0.0,15.0,29.0,Honourable Mention,2025
+299–305.,,Arya,Mosahab,University of Manchester,Manchester,10.0,1.0,9.0,2.0,,22.0,2.0,3.0,2.0,0.0,0.0,7.0,29.0,Honourable Mention,2025
+299–305.,,Roye,Sharifie,Ben Gurion University of the Negev,Beer Sheba,10.0,,6.0,,,16.0,10.0,3.0,0.0,0.0,,13.0,29.0,Honourable Mention,2025
+299–305.,,Alexander Guadalupe,Vazquez Marin,Universidad Autónoma de Baja California,Ensenada,10.0,0.0,9.0,,,19.0,8.0,2.0,,,,10.0,29.0,Honourable Mention,2025
+299–305.,,YIT JET,WONG,University of Warwick,Warwick,3.0,1.0,6.0,0.0,3.0,13.0,3.0,3.0,10.0,0.0,0.0,16.0,29.0,Honourable Mention,2025
+306–309.,,Vinícius Arcanjo,Fonseca de Oliveira,Universidade de São Paulo,São Paulo,10.0,1.0,,6.0,,17.0,0.0,7.0,4.0,0.0,,11.0,28.0,Honourable Mention,2025
+306–309.,,Pece,Georgiev,Saints Cyril and Methodius University of Skopje,Skopje,8.0,0.0,7.0,,,15.0,10.0,3.0,,0.0,,13.0,28.0,Honourable Mention,2025
+306–309.,,Michaël,KABRAN,École Polytechnique,Paris,10.0,8.0,,3.0,,21.0,2.0,2.0,3.0,,,7.0,28.0,Honourable Mention,2025
+306–309.,,Tommaso,Ulian,University degli Studi di Udine,Udine,9.0,2.0,6.0,,,17.0,10.0,1.0,0.0,,,11.0,28.0,Honourable Mention,2025
+310–314.,,Tom,Mackay,University of Warwick,Warwick,8.0,0.0,7.0,0.0,,15.0,9.0,3.0,,0.0,,12.0,27.0,Honourable Mention,2025
+310–314.,,Yasser,Merabet,National Higher School of Mathematics,Algiers,7.0,9.0,0.0,0.0,,16.0,10.0,1.0,0.0,0.0,0.0,11.0,27.0,Honourable Mention,2025
+310–314.,,Matheus,Militão da Silva Sulzbacher,Instituto Tecnológico de Aeronáutica,São Paulo,10.0,2.0,0.0,,,12.0,2.0,3.0,10.0,,,15.0,27.0,Honourable Mention,2025
+310–314.,,István ZALÁN,Ruff,University of Szeged,Szeged,9.0,,4.0,,,13.0,10.0,4.0,0.0,0.0,,14.0,27.0,Honourable Mention,2025
+310–314.,,Zachary,Smuckler,University of Warwick,Warwick,8.0,1.0,8.0,5.0,0.0,22.0,2.0,1.0,,2.0,,5.0,27.0,Honourable Mention,2025
+315–320.,,Denys,Andrukhovskyi,"Comenius University, Bratislava",Bratislava,10.0,0.0,2.0,4.0,,16.0,7.0,1.0,2.0,,,10.0,26.0,Honourable Mention,2025
+315–320.,,Noah,Laikin,Durham University,Durham,10.0,,6.0,0.0,0.0,16.0,10.0,0.0,,,0.0,10.0,26.0,Honourable Mention,2025
+315–320.,,Maria,Morozova,Plekhanov Russian University of Economics,Moscow,4.0,9.0,0.0,,,13.0,10.0,1.0,2.0,,,13.0,26.0,Honourable Mention,2025
+315–320.,,Gabriella,Santana Morgado,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,10.0,1.0,,,,11.0,5.0,10.0,,,,15.0,26.0,Honourable Mention,2025
+315–320.,,Tornike,Tsadzikidze,Free University,Tbilisi,8.0,3.0,1.0,,,12.0,10.0,2.0,2.0,,,14.0,26.0,Honourable Mention,2025
+315–320.,,Sam,van Diepen,University of Amsterdam,Amsterdam,10.0,0.0,,0.0,,10.0,9.0,7.0,,,,16.0,26.0,Honourable Mention,2025
+321–323.,,Anton,Balov,Central University,Moscow,10.0,0.0,2.0,,,12.0,7.0,2.0,4.0,,0.0,13.0,25.0,Honourable Mention,2025
+321–323.,,Francesca,Busato,University degli Studi di Udine,Udine,9.0,1.0,1.0,2.0,,13.0,6.0,1.0,5.0,,,12.0,25.0,Honourable Mention,2025
+321–323.,,yifta,nave,Ben Gurion University of the Negev,Beer Sheba,10.0,,9.0,,,19.0,2.0,4.0,0.0,,,6.0,25.0,Honourable Mention,2025
+324–328.,,Ibrahim,Aghazada,ADA University,Baku,8.0,0.0,0.0,1.0,,9.0,10.0,3.0,2.0,,0.0,15.0,24.0,Honourable Mention,2025
+324–328.,,Riccardo,Bolis,University degli Studi di Udine,Udine,4.0,0.0,7.0,,,11.0,7.0,4.0,2.0,,,13.0,24.0,Honourable Mention,2025
+324–328.,,Emil,Guntvedt,Norwegian University of Science and Technology,Trondheim,0.0,0.0,8.0,3.0,,11.0,2.0,10.0,1.0,,0.0,13.0,24.0,Honourable Mention,2025
+324–328.,,Tommaso,Pignatelli,Politecnico di Torino,Turin,10.0,0.0,2.0,1.0,,13.0,8.0,2.0,1.0,0.0,0.0,11.0,24.0,Honourable Mention,2025
+324–328.,,Daya Nidhan,Singh,University College London,London,10.0,1.0,1.0,0.0,0.0,12.0,7.0,3.0,2.0,0.0,0.0,12.0,24.0,Honourable Mention,2025
+329–332.,,Isaac,Da Silva Mota,Universidade de São Paulo,São Paulo,9.0,9.0,2.0,0.0,,20.0,0.0,3.0,,,,3.0,23.0,Honourable Mention,2025
+329–332.,,Gabriel,Dantas Shpielman,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,8.0,0.0,10.0,1.0,0.0,19.0,1.0,3.0,0.0,,,4.0,23.0,Honourable Mention,2025
+329–332.,,Wei Jie,Goh,Nanyang Technological University,Jurong West,10.0,0.0,8.0,1.0,,19.0,1.0,3.0,,,,4.0,23.0,Honourable Mention,2025
+329–332.,,Eric,González vicent,University of Primorska,Koper,0.0,0.0,8.0,0.0,0.0,8.0,10.0,1.0,4.0,,0.0,15.0,23.0,Honourable Mention,2025
+333–341.,,Micah Chote,Alexander Joseph,University College London,London,5.0,,8.0,,,13.0,,9.0,,,,9.0,22.0,Honourable Mention,2025
+333–341.,,Omar,Cherif,École Polytechnique,Paris,8.0,1.0,0.0,,,9.0,9.0,2.0,2.0,,0.0,13.0,22.0,Honourable Mention,2025
+333–341.,,Aleksei,Ganyukov,University of Tartu,Tartu,10.0,0.0,0.0,2.0,,12.0,3.0,7.0,0.0,0.0,0.0,10.0,22.0,Honourable Mention,2025
+333–341.,,Mikhail,Goncharov,Neapolis University Pafos,Paphos,8.0,0.0,0.0,0.0,0.0,8.0,10.0,2.0,2.0,0.0,0.0,14.0,22.0,Honourable Mention,2025
+333–341.,,ANDRES FELIPE,IDARRAGA RUIZ,Universidad Nacional de Colombia,Manizales,8.0,,10.0,,,18.0,1.0,3.0,0.0,,0.0,4.0,22.0,Honourable Mention,2025
+333–341.,,AAPO,KARVONEN,University of Helsinki,Helsinki,8.0,,10.0,,,18.0,2.0,0.0,2.0,0.0,,4.0,22.0,Honourable Mention,2025
+333–341.,,Diego,Scala,Politecnico di Torino,Turin,10.0,0.0,0.0,,,10.0,9.0,3.0,0.0,,,12.0,22.0,Honourable Mention,2025
+333–341.,,Jeff,Schymiczek,University of Helsinki,Helsinki,8.0,0.0,3.0,0.0,0.0,11.0,6.0,3.0,2.0,,,11.0,22.0,Honourable Mention,2025
+333–341.,,Carmen,Zuleta de Reales Toro,University of Seville,Sevilla,10.0,1.0,6.0,0.0,,17.0,4.0,1.0,0.0,0.0,,5.0,22.0,Honourable Mention,2025
+342–346.,,Artem,Chernii,Constructor University,Bremen,10.0,1.0,2.0,1.0,,14.0,0.0,4.0,2.0,1.0,0.0,7.0,21.0,Honourable Mention,2025
+342–346.,,Dmitrii,Danko,Peoples' Friendship University of Russia,Moscow,8.0,8.0,0.0,,,16.0,2.0,1.0,2.0,0.0,0.0,5.0,21.0,Honourable Mention,2025
+342–346.,,Wietske,de Vos,University of Groningen,Groningen,10.0,,,,,10.0,8.0,3.0,,,,11.0,21.0,Honourable Mention,2025
+342–346.,,Miguel Ángel,Hernández Lora,Instituto Tecnológico de Santo Domingo,Santo Domingo,6.0,1.0,,,,7.0,10.0,4.0,,,,14.0,21.0,Honourable Mention,2025
+342–346.,,CHRISTOS,OIKONOMIDIS,Aristotle University of Thessaloniki,Thessaloniki,8.0,2.0,2.0,0.0,,12.0,7.0,0.0,2.0,0.0,0.0,9.0,21.0,Honourable Mention,2025
+347–348.,,Timur,Akhmetov,Central University,Moscow,8.0,1.0,1.0,,,10.0,7.0,2.0,1.0,,0.0,10.0,20.0,Honourable Mention,2025
+347–348.,,Alexander,Kalinin,Saint-Petersburg State University,Saint-Petersburg,8.0,6.0,,0.0,,14.0,3.0,3.0,,,,6.0,20.0,Honourable Mention,2025
+349–354.,,Ali,HAKIM,École Polytechnique,Paris,10.0,6.0,0.0,0.0,0.0,16.0,1.0,1.0,0.0,1.0,,3.0,19.0,certificate,2025
+349–354.,,Joé,Mighali,ETH Zurich,Zürich,10.0,,6.0,,,16.0,1.0,1.0,,1.0,,3.0,19.0,certificate,2025
+349–354.,,Simone,Odetto,Politecnico di Torino,Turin,10.0,,6.0,,,16.0,1.0,0.0,2.0,,0.0,3.0,19.0,certificate,2025
+349–354.,,Igor,Plaksin,Central University,Moscow,8.0,0.0,0.0,,,8.0,10.0,1.0,,,,11.0,19.0,certificate,2025
+349–354.,,Kaja,Rajter,University of Ljubljana,Ljubljana,10.0,,5.0,,,15.0,0.0,3.0,1.0,,,4.0,19.0,certificate,2025
+349–354.,,Lin,Yiheng,Nanyang Technological University,Jurong West,6.0,0.0,2.0,0.0,,8.0,10.0,1.0,0.0,0.0,0.0,11.0,19.0,certificate,2025
+355–363.,,Axel Josef Harald,Åslin,Chalmers University of Technology,Gothenburg,8.0,,8.0,,0.0,16.0,1.0,1.0,,,,2.0,18.0,certificate,2025
+355–363.,,Yarden,Gur Arieh,Ben Gurion University of the Negev,Beer Sheba,7.0,0.0,0.0,,,7.0,10.0,1.0,0.0,,0.0,11.0,18.0,certificate,2025
+355–363.,,Azamat,Ikromov,Tashkent State University of Economics,Tashkent,7.0,,,4.0,,11.0,6.0,1.0,,,,7.0,18.0,certificate,2025
+355–363.,,Peter,Klivnoy,Norwegian University of Science and Technology,Trondheim,3.0,0.0,,,,3.0,10.0,5.0,,,,15.0,18.0,certificate,2025
+355–363.,,Thijs Gerben,Minnée,University of Amsterdam,Amsterdam,10.0,1.0,0.0,,,11.0,1.0,4.0,2.0,,0.0,7.0,18.0,certificate,2025
+355–363.,,Tianze,Sang,University of Nottingham,Nottingham,10.0,0.0,2.0,,,12.0,3.0,1.0,2.0,,0.0,6.0,18.0,certificate,2025
+355–363.,,João Vitor,Tomaz Alves Ferreira,Fundação Getulio Vargas,Rio de Janeiro,4.0,0.0,0.0,0.0,,4.0,6.0,6.0,2.0,0.0,0.0,14.0,18.0,certificate,2025
+355–363.,,Asterios,Varsamis-Kyratlidis,Aristotle University of Thessaloniki,Thessaloniki,4.0,0.0,2.0,8.0,,14.0,0.0,2.0,2.0,,,4.0,18.0,certificate,2025
+355–363.,,Eszter,Vass,University of Szeged,Szeged,10.0,,5.0,,,15.0,,3.0,0.0,,,3.0,18.0,certificate,2025
+364–371.,,Martin,Bakus,"Comenius University, Bratislava",Bratislava,9.0,0.0,0.0,0.0,,9.0,7.0,1.0,0.0,,,8.0,17.0,certificate,2025
+364–371.,,Natan Lukas,Bikker,University of Amsterdam,Amsterdam,10.0,,,,,10.0,1.0,6.0,0.0,,0.0,7.0,17.0,certificate,2025
+364–371.,,EFSTATHIOS,EXARCHOU,Aristotle University of Thessaloniki,Thessaloniki,5.0,,,,,5.0,10.0,2.0,,,,12.0,17.0,certificate,2025
+364–371.,,Dimitrios,Fotopoulos,National and Kapodistrian University of Athens,Athens,8.0,1.0,1.0,,,10.0,6.0,1.0,0.0,0.0,,7.0,17.0,certificate,2025
+364–371.,,Alessio,Goi,University degli Studi di Udine,Udine,5.0,3.0,,,,8.0,5.0,4.0,,,,9.0,17.0,certificate,2025
+364–371.,,Mateus,Marcato de Andrade,Instituto Militar de Engenharia,Rio de Janeiro,6.0,1.0,5.0,0.0,0.0,12.0,1.0,2.0,2.0,,0.0,5.0,17.0,certificate,2025
+364–371.,,Swapnil,Sapkota,New York University Abu Dhabi,Abu Dhabi,10.0,7.0,0.0,,,17.0,0.0,0.0,,,,0.0,17.0,certificate,2025
+364–371.,,Alejandro,Suárez Vázquez,Universidad Autonoma de Madrid,Madrid,2.0,0.0,8.0,0.0,0.0,10.0,5.0,2.0,,,,7.0,17.0,certificate,2025
+372–375.,,Viktor,Carlsson,Chalmers University of Technology,Gothenburg,10.0,,2.0,,,12.0,1.0,3.0,,,0.0,4.0,16.0,certificate,2025
+372–375.,,Muhammad Shah,Khan,University of the Witwatersrand,Johannesburg,10.0,,,,,10.0,5.0,1.0,,,,6.0,16.0,certificate,2025
+372–375.,,Foivos,Smyrilios,University of Patras,Patras,2.0,1.0,8.0,,,11.0,0.0,4.0,1.0,,,5.0,16.0,certificate,2025
+372–375.,,Alena,Viartsinskaya,Yanka Kupala State University of Grodno.,Grondo,0.0,3.0,0.0,0.0,,3.0,10.0,1.0,2.0,,0.0,13.0,16.0,certificate,2025
+376–382.,,Tassandro,Cavalcante Leitão,Instituto Militar de Engenharia,Rio de Janeiro,2.0,1.0,0.0,,,3.0,10.0,0.0,2.0,,,12.0,15.0,certificate,2025
+376–382.,,Maarten,Clercx,Eindhoven University of Technology,Eindhoven,1.0,0.0,,10.0,,11.0,3.0,1.0,,0.0,0.0,4.0,15.0,certificate,2025
+376–382.,,Timur,Kim,Nazarbayev University,Astana,2.0,1.0,0.0,0.0,,3.0,9.0,1.0,2.0,,,12.0,15.0,certificate,2025
+376–382.,,Eunkyoon,Lee,University of Edinburgh,Edinburgh,8.0,0.0,0.0,2.0,,10.0,3.0,2.0,0.0,0.0,0.0,5.0,15.0,certificate,2025
+376–382.,,burak buğra,Önder,RWTH Aachen University,Aachen,1.0,,,4.0,,5.0,7.0,3.0,,,0.0,10.0,15.0,certificate,2025
+376–382.,,Yu,Wang,University of Nottingham Ningbo China,Ningbo,2.0,,0.0,,,2.0,9.0,1.0,1.0,2.0,0.0,13.0,15.0,certificate,2025
+376–382.,,Wenze,ZHANG,University of Nottingham Ningbo China,Ningbo,0.0,,,2.0,,2.0,7.0,4.0,2.0,,0.0,13.0,15.0,certificate,2025
+383–387.,,Mohamed Amine,Hadi,Université de Strasbourg,Strasbourg,4.0,,0.0,0.0,,4.0,10.0,0.0,,,0.0,10.0,14.0,certificate,2025
+383–387.,,Kamronbek,Khudaykulov,Tashkent State University of Economics,Tashkent,2.0,,0.0,0.0,,2.0,10.0,2.0,0.0,,,12.0,14.0,certificate,2025
+383–387.,,To'lqinjon,Qurbanbayev,Tashkent State University of Economics,Tashkent,2.0,0.0,,0.0,,2.0,10.0,0.0,2.0,,0.0,12.0,14.0,certificate,2025
+383–387.,,Ruan Pablo,Rodrigues,Instituto Militar de Engenharia,Rio de Janeiro,0.0,0.0,3.0,,,3.0,7.0,1.0,3.0,,,11.0,14.0,certificate,2025
+383–387.,,KONSTANTINOS,ROUPTSOS,University of Patras,Patras,0.0,,2.0,1.0,,3.0,10.0,1.0,,,,11.0,14.0,certificate,2025
+388–393.,,Anas,FAIL,Ecole Centrale Lyon,Lyon,10.0,0.0,0.0,0.0,0.0,10.0,1.0,0.0,2.0,0.0,0.0,3.0,13.0,certificate,2025
+388–393.,,Erik Paul Gustav,Greby,Chalmers University of Technology,Gothenburg,4.0,0.0,4.0,,,8.0,3.0,2.0,0.0,,0.0,5.0,13.0,certificate,2025
+388–393.,,Georgios,Kentrotis,Aristotle University of Thessaloniki,Thessaloniki,8.0,0.0,,,,8.0,1.0,4.0,,,,5.0,13.0,certificate,2025
+388–393.,,Jeramy,Kop,University of Amsterdam,Amsterdam,10.0,1.0,2.0,,,13.0,0.0,0.0,,0.0,,0.0,13.0,certificate,2025
+388–393.,,Kauan Kevem,Sousa Farias,Fundação Getulio Vargas,Rio de Janeiro,10.0,1.0,0.0,,,11.0,1.0,0.0,1.0,,,2.0,13.0,certificate,2025
+388–393.,,Aleksandra,Tolstykh,Peoples' Friendship University of Russia,Moscow,0.0,1.0,7.0,1.0,,9.0,0.0,2.0,2.0,,0.0,4.0,13.0,certificate,2025
+394–395.,,Leyla,Abbasova,ADA University,Baku,6.0,0.0,2.0,,,8.0,2.0,0.0,2.0,,0.0,4.0,12.0,certificate,2025
+394–395.,,Ayhan,Meherrem,Politecnico di Torino,Turin,6.0,0.0,2.0,1.0,,9.0,1.0,0.0,2.0,0.0,0.0,3.0,12.0,certificate,2025
+396–400.,,Jaden,Goh,Nanyang Technological University,Jurong West,10.0,0.0,0.0,0.0,,10.0,0.0,1.0,0.0,0.0,0.0,1.0,11.0,certificate,2025
+396–400.,,Hamza,Khan,Ecole Centrale d'Electronique,Paris,,0.0,0.0,0.0,,0.0,10.0,,1.0,0.0,,11.0,11.0,certificate,2025
+396–400.,,Sebastian,Miles,Chalmers University of Technology,Gothenburg,10.0,,,,,10.0,0.0,1.0,0.0,,0.0,1.0,11.0,certificate,2025
+396–400.,,Rodrigo Alejandro,Sicilia,Universidad Pontificia Comillas,Madrid,0.0,0.0,4.0,0.0,,4.0,6.0,1.0,0.0,0.0,,7.0,11.0,certificate,2025
+396–400.,,Gergő,Tóth,University of Szeged,Szeged,8.0,0.0,3.0,,,11.0,,,,,,0.0,11.0,certificate,2025
+401–405.,,Athanasios,Dompazis,Aristotle University of Thessaloniki,Thessaloniki,0.0,0.0,0.0,,,0.0,9.0,1.0,0.0,,,10.0,10.0,certificate,2025
+401–405.,,Brenno,Pimentel Zanandrea,Instituto Militar de Engenharia,Rio de Janeiro,,,0.0,0.0,0.0,0.0,9.0,1.0,,,,10.0,10.0,certificate,2025
+401–405.,,Atik Jumandy,Santellan Conteron,Universidad San Francisco de Quito,Quito,7.0,3.0,,,,10.0,0.0,0.0,,,0.0,0.0,10.0,certificate,2025
+401–405.,,Miguel,Troyano,Universidad Pontificia Comillas,Madrid,8.0,,0.0,,,8.0,,2.0,,,,2.0,10.0,certificate,2025
+401–405.,,Finn Erik,von Harpe,Gottfried Wilhelm Leibniz Universität Hannover,Hannover,8.0,,,,,8.0,1.0,1.0,,,,2.0,10.0,certificate,2025
+406–407.,,Sönke Jan,Meyer,RWTH Aachen University,Aachen,0.0,,,2.0,,2.0,2.0,2.0,2.0,,,6.0,8.0,certificate,2025
+406–407.,,Patryk,Zawadzki,AGH University of Science and Technology,Krakow,8.0,,,0.0,,8.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,certificate,2025
+408–413.,,Fabian Gunnar Otto,Farestam,ETH Zurich,Zürich,2.0,,,,,2.0,5.0,,0.0,,,5.0,7.0,certificate,2025
+408–413.,,Louis-Philippe,Fink,Eindhoven University of Technology,Eindhoven,5.0,1.0,1.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,certificate,2025
+408–413.,,Hanna,Inselsbacher,ETH Zurich,Zürich,0.0,,2.0,,,2.0,,3.0,2.0,,,5.0,7.0,certificate,2025
+408–413.,,Ömer,Irhan,RWTH Aachen University,Aachen,0.0,0.0,5.0,0.0,0.0,5.0,0.0,0.0,2.0,0.0,0.0,2.0,7.0,certificate,2025
+408–413.,,Julian,Pigall,Universität Wien,Vienna,2.0,1.0,0.0,0.0,0.0,3.0,3.0,1.0,0.0,0.0,,4.0,7.0,certificate,2025
+408–413.,,Pavlo,Shekhet,Universität Wien,Vienna,2.0,,4.0,0.0,,6.0,0.0,1.0,,,0.0,1.0,7.0,certificate,2025
+414.,,Siyuan,Chen,University of St Andrews,St Andrews,0.0,1.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,5.0,6.0,certificate,2025
+415–419.,,Victor,Brandão André de Medeiros Ribeiro,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,0.0,1.0,0.0,,,1.0,4.0,,,,,4.0,5.0,certificate,2025
+415–419.,,Mauritz,Fasth,Chalmers University of Technology,Gothenburg,1.0,,,,,1.0,3.0,1.0,,,0.0,4.0,5.0,certificate,2025
+415–419.,,Tejay,Hall,Swansea University,Swansea,0.0,2.0,3.0,,,5.0,0.0,0.0,0.0,,,0.0,5.0,certificate,2025
+415–419.,,Ammar Ahmed Mohamed Kenawy,Mousa,"University of Central Lancashire, Cyprus",Larnaka,,,,,,0.0,5.0,,,,0.0,5.0,5.0,certificate,2025
+415–419.,,Timotej,Vida,"Comenius University, Bratislava",Bratislava,2.0,0.0,,,,2.0,1.0,2.0,0.0,0.0,,3.0,5.0,certificate,2025
+420–422.,,Ignacio,Cutillas,Universidad Pontificia Comillas,Madrid,0.0,0.0,3.0,1.0,,4.0,0.0,0.0,0.0,,0.0,0.0,4.0,certificate,2025
+420–422.,,Nicu,Gurmuzachi,Maastricht University,Maastricht,,0.0,2.0,,,2.0,0.0,2.0,,,0.0,2.0,4.0,certificate,2025
+420–422.,,Renars,Paiders,Eindhoven University of Technology,Eindhoven,3.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,4.0,certificate,2025
+423–425.,,Asilbek,Abdukayumov,Wesminister International University in Tashkent,Tashkent,0.0,,,1.0,,1.0,1.0,1.0,0.0,,,2.0,3.0,certificate,2025
+423–425.,,Carlos,Alcazar,Universidad Pontificia Comillas,Madrid,0.0,1.0,0.0,1.0,,2.0,0.0,1.0,0.0,,,1.0,3.0,certificate,2025
+423–425.,,Jalal Ahmed,Chowdhury,University of Primorska,Koper,0.0,1.0,,,,1.0,1.0,1.0,,,,2.0,3.0,certificate,2025
+426–430.,,Daniil,Helman,University of Manchester,Manchester,2.0,,,0.0,,2.0,,0.0,,,,0.0,2.0,certificate,2025
+426–430.,,Alexandra,Ignatova,Eindhoven University of Technology,Eindhoven,1.0,0.0,0.0,0.0,,1.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,certificate,2025
+426–430.,,Megan,McGlone,University of Dundee,Dundee,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,2.0,0.0,0.0,2.0,2.0,certificate,2025
+426–430.,,Daniil,Vorobyev,"University of Central Lancashire, Cyprus",Larnaca,0.0,0.0,2.0,,,2.0,0.0,0.0,0.0,,0.0,0.0,2.0,certificate,2025
+426–430.,,Ziqian,Wang,University of Nottingham Ningbo China,Ningbo,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,,0.0,0.0,0.0,2.0,certificate,2025
+431–432.,,Keugene,Lee,Stony Brook University,Stony Brook,0.0,,,0.0,0.0,0.0,,1.0,,,,1.0,1.0,certificate,2025
+431–432.,,Shubham Nahata,Nahata,"Birla Institute of Technology and Science Pilani, Pilani",Pilani,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,0.0,1.0,1.0,certificate,2025
+433–434.,,YUANCHUN,CHANG,National Chengchi University,Taipei,0.0,,,,,0.0,0.0,0.0,0.0,,,0.0,0.0,certificate,2025
+433–434.,,Javier,Mochales,Universidad Pontificia Comillas,Madrid,0.0,0.0,,0.0,,0.0,0.0,0.0,0.0,,,0.0,0.0,certificate,2025

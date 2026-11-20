@@ -1,16 +1,16 @@
 """Pipeline completo para gerar CSVs padronizados da IMC (1994-2026).
 
-Fontes utilizadas (todas em cache local em files/imc/):
-- 1994-1997: PDFs (files/imc/pdf/IMC_{year}_Results.pdf)
-- 1998-2002: HTMLs salvos localmente (files/imc/html/{year}.html)
-- 2003-2014: PDFs (files/imc/pdf/IMC_{year}_Results.pdf)
-- 2015-2019: HTMLs salvos localmente (files/imc/html/{year}.html)
-- 2020-2025: CSVs brutos extraídos do site antigo (files/imc/csv_raw/imc_results_{year}.csv)
-- 2026:      PDF (files/imc/pdf/IMC_2026_Results.pdf)
+Fontes utilizadas (em cache local em data/raw/):
+- 1994-1997: PDFs (data/raw/pdf/IMC_{year}_Results.pdf)
+- 1998-2002: HTMLs salvos localmente (data/raw/html/{year}.html)
+- 2003-2014: PDFs (data/raw/pdf/IMC_{year}_Results.pdf)
+- 2015-2019: HTMLs salvos localmente (data/raw/html/{year}.html)
+- 2020-2025: CSVs brutos extraídos do site antigo (data/raw/csv_raw/imc_results_{year}.csv)
+- 2026:      PDF (data/raw/pdf/IMC_2026_Results.pdf)
 
 Saídas:
-- imc_results/imc_results_{year}.csv  (um CSV por ano, 1994 a 2026)
-- imc_results/imc_results_all_years.csv (consolidado com todos os anos)
+- data/processed/by_year/imc_results_{year}.csv  (um CSV por ano, 1994 a 2026)
+- data/processed/imc_results_all_years.csv       (consolidado com todos os anos)
 """
 
 from __future__ import annotations
@@ -26,10 +26,12 @@ import pdfplumber
 import pymupdf
 from bs4 import BeautifulSoup
 
-HTML_DIR = Path("files/imc/html")
-PDF_DIR = Path("files/imc/pdf")
-CSV_RAW_DIR = Path("files/imc/csv_raw")
-OUTPUT_DIR = Path("imc_results")
+ROOT_DIR = Path(__file__).resolve().parent.parent
+HTML_DIR = ROOT_DIR / "data" / "raw" / "html"
+PDF_DIR = ROOT_DIR / "data" / "raw" / "pdf"
+CSV_RAW_DIR = ROOT_DIR / "data" / "raw" / "csv_raw"
+OUTPUT_DIR = ROOT_DIR / "data" / "processed"
+BY_YEAR_DIR = OUTPUT_DIR / "by_year"
 
 STANDARD_COLUMNS = [
     "Year",
@@ -1196,20 +1198,20 @@ def parse_year(year: int) -> list[dict[str, Any]]:
 
 
 def main() -> None:
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    BY_YEAR_DIR.mkdir(parents=True, exist_ok=True)
     all_dfs: list[pd.DataFrame] = []
     for year in range(1994, 2027):
         rows = parse_year(year)
         df = pd.DataFrame(rows, columns=STANDARD_COLUMNS)
-        out_path = OUTPUT_DIR / f"imc_results_{year}.csv"
+        out_path = BY_YEAR_DIR / f"imc_results_{year}.csv"
         df.to_csv(out_path, index=False, encoding="utf-8")
-        print(f"{year}: {len(df):4d} participantes -> {out_path}", flush=True)
+        print(f"{year}: {len(df):4d} participantes -> {out_path.relative_to(ROOT_DIR)}", flush=True)
         all_dfs.append(df)
 
     all_df = pd.concat(all_dfs, ignore_index=True)
     all_path = OUTPUT_DIR / "imc_results_all_years.csv"
     all_df.to_csv(all_path, index=False, encoding="utf-8")
-    print(f"\nConsolidado salvo: {all_path} ({len(all_df):,} linhas no total)")
+    print(f"\nConsolidado salvo: {all_path.relative_to(ROOT_DIR)} ({len(all_df):,} linhas no total)")
 
 
 if __name__ == "__main__":

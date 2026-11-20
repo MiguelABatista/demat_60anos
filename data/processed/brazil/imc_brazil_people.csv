@@ -1,0 +1,355 @@
+Person_id,Person_canonical,Participations_total,Participations_BR_univ,Participations_abroad,Years,BR_Universities,Abroad_Universities,All_Universities,Best_Prize,Best_Sum,Grand_Grand_First,Grand_First,First,Second,Third,Honourable_Mention,Certificate,Prizes_by_year,Name_variants_count,Name_variants
+BR_267,Pablo Andrade Carvalho Barros,2,2,0,"2023, 2024",FGV,,FGV,Grand First Prize,71,0,1,1,0,0,0,0,2023: Grand First Prize (FGV); 2024: First Prize (FGV),1,Pablo Andrade Carvalho Barros
+BR_004,Alex Corrêa Abreu,2,2,0,"2004, 2005",UFAL; UFRJ,,UFAL; UFRJ,Grand First Prize,180,0,1,0,1,0,0,0,2004: Second Prize (UFAL); 2005: Grand First Prize (UFRJ),2,Alex Correa Abreu; Alex Abreu
+BR_035,Bruno Costa Alves Freire,6,2,4,"2019, 2020, 2021, 2022, 2023, 2024",ITA,École Polytechnique,ITA; École Polytechnique,First Prize,49,0,0,4,2,0,0,0,2019: Second Prize (ITA); 2020: First Prize (ITA); 2021: First Prize (École Polytechnique); 2022: First Prize (École Polytechnique); 2023: First Prize (École Polytechnique); 2024: Second Prize (École Polytechnique),2,Bruno Freire; Bruno Costa Alves Freire
+BR_103,Fábio Dias Moreira,4,4,0,"2005, 2006, 2007, 2008",PUC-Rio,,PUC-Rio,First Prize,190,0,0,4,0,0,0,0,2005: First Prize (PUC-Rio); 2006: First Prize (PUC-Rio); 2007: First Prize (PUC-Rio); 2008: First Prize (PUC-Rio),3,F·bio Dias Moreira; Fábio Moreira; Fábio Dias Moreira
+BR_233,Luís Felipe Pestana Giglio,3,3,0,"2024, 2025, 2026",PUC-Rio,,PUC-Rio,First Prize,66,0,0,3,0,0,0,0,2024: First Prize (PUC-Rio); 2025: First Prize (PUC-Rio); 2026: First Prize (PUC-Rio),2,Luís Felipe Pestana Giglio; Luís Felipe Giglio
+BR_326,Thiago Landim de Souza Leão,3,3,0,"2018, 2019, 2020",UFPE,,UFPE,First Prize,62,0,0,3,0,0,0,0,2018: First Prize (UFPE); 2019: First Prize (UFPE); 2020: First Prize (UFPE),2,Thiago Leão; Thiago Landim de Souza Leão
+BR_132,George Lucas Diniz Alencar,5,5,0,"2018, 2019, 2020, 2021, 2022",UECE; PUC-Rio,,UECE; PUC-Rio,First Prize,51,0,0,2,2,1,0,0,2018: Third Prize (UECE); 2019: First Prize (PUC-Rio); 2020: Second Prize (PUC-Rio); 2021: Second Prize (PUC-Rio); 2022: First Prize (PUC-Rio),3,George Alencar; George Lucas Diniz Alencar; George Lucas
+BR_129,Gabriel Tostes Messias Pereira,4,4,0,"2019, 2020, 2021, 2022",ITA,,ITA,First Prize,58,0,0,2,2,0,0,0,2019: Second Prize (ITA); 2020: First Prize (ITA); 2021: Second Prize (ITA); 2022: First Prize (ITA),1,Gabriel Tostes Messias Pereira
+BR_252,Mateus Siqueira Thimóteo,4,2,2,"2019, 2020, 2021, 2022",ITA,École Polytechnique,ITA; École Polytechnique,First Prize,47,0,0,2,2,0,0,0,2019: Second Prize (ITA); 2020: Second Prize (ITA); 2021: First Prize (École Polytechnique); 2022: First Prize (École Polytechnique),2,Mateus Thimóteo; Mateus Siqueira Thimoteo
+BR_285,Rafael Filipe dos Santos,4,4,0,"2017, 2018, 2019, 2020",IME,,IME,First Prize,51,0,0,2,2,0,0,0,2017: Second Prize (IME); 2018: Second Prize (IME); 2019: First Prize (IME); 2020: First Prize (IME),2,Rafael dos Santos; Rafael Filipe dos Santos
+BR_287,Rafael Miyazaki,4,4,0,"2014, 2015, 2016, 2017",PUC-Rio,,PUC-Rio,First Prize,61,0,0,2,2,0,0,0,2014: Second Prize (PUC-Rio); 2015: Second Prize (PUC-Rio); 2016: First Prize (PUC-Rio); 2017: First Prize (PUC-Rio),1,Rafael Miyazaki
+BR_012,André Costa,3,3,0,"2013, 2014, 2015",UFMG,,UFMG,First Prize,69,0,0,2,1,0,0,0,2013: Second Prize (UFMG); 2014: First Prize (UFMG); 2015: First Prize (UFMG),2,André Costa; Andre Costa
+BR_016,André Yuji Hisatsuga,3,3,0,"2020, 2021, 2022",USP,,USP,First Prize,50,0,0,2,1,0,0,0,2020: Second Prize (USP); 2021: First Prize (USP); 2022: First Prize (USP),1,André Yuji Hisatsuga
+BR_087,Eduardo Ventilari Sodré,3,3,0,"2020, 2021, 2022",USP,,USP,First Prize,51,0,0,2,1,0,0,0,2020: Second Prize (USP); 2021: First Prize (USP); 2022: First Prize (USP),2,Eduardo Sodré; Eduardo Ventilari Sodré
+BR_102,Fabiano Menezes e Sousa,3,1,2,"2020, 2021, 2022",ITA,École Polytechnique,ITA; École Polytechnique,First Prize,45,0,0,2,1,0,0,0,2020: First Prize (ITA); 2021: Second Prize (École Polytechnique); 2022: First Prize (École Polytechnique),1,Fabiano Menezes e Sousa
+BR_286,Rafael Marini Silva,3,1,2,"2007, 2008, 2009",ITA,École Polytechnique,ITA; École Polytechnique,First Prize,136,0,0,2,0,1,0,0,2007: Third Prize (ITA); 2008: First Prize (École Polytechnique); 2009: First Prize (École Polytechnique),1,Rafael Marini Silva
+BR_324,Thiago Barros Rodrigues Costa,4,4,0,"2003, 2004, 2005, 2006",UNICAMP,,UNICAMP,First Prize,138,0,0,2,0,0,2,0,2003: Honourable Mention (UNICAMP); 2004: Honourable Mention (UNICAMP); 2005: First Prize (UNICAMP); 2006: First Prize (UNICAMP),2,Thiago Barros Rodrigues Costa; Thiago Costa
+BR_017,Andrey Jhen Shan Chen,2,2,0,"2020, 2021",UNICAMP,,UNICAMP,First Prize,39,0,0,2,0,0,0,0,2020: First Prize (UNICAMP); 2021: First Prize (UNICAMP),1,Andrey Jhen Shan Chen
+BR_150,Henrique Nascimento,2,2,0,"2013, 2014",ITA,,ITA,First Prize,69,0,0,2,0,0,0,0,2013: First Prize (ITA); 2014: First Prize (ITA),1,Henrique Nascimento
+BR_301,Renan Finder,2,2,0,"2011, 2012",PUC-Rio,,PUC-Rio,First Prize,65,0,0,2,0,0,0,0,2011: First Prize (PUC-Rio); 2012: First Prize (PUC-Rio),1,Renan Finder
+BR_321,Tadeu Pires de Matos Belfort Neto,2,2,0,"2015, 2016",ITA,,ITA,First Prize,53,0,0,2,0,0,0,0,2015: First Prize (ITA); 2016: First Prize (ITA),2,Tadeu Pires de Matos Belfort Neto; Tadeu Belfort Neto
+BR_041,Caio Augusto de Carvalho Costa,4,4,0,"2020, 2021, 2022, 2023",ITA,,ITA,First Prize,44,0,0,1,3,0,0,0,2020: Second Prize (ITA); 2021: First Prize (ITA); 2022: Second Prize (ITA); 2023: Second Prize (ITA),2,Caio Augusto de Carvalho Costa; Caio Costa
+BR_298,Régis Prado Barbosa,4,4,0,"2010, 2011, 2012, 2013",ITA,,ITA,First Prize,55,0,0,1,3,0,0,0,2010: First Prize (ITA); 2011: Second Prize (ITA); 2012: Second Prize (ITA); 2013: Second Prize (ITA),2,Régis Prado Barbosa; Regis Barbosa
+BR_176,João Marcelo Ribeiro Monteiro de Carvalho,5,5,0,"2021, 2023, 2024, 2025, 2026",PUC-Rio,,PUC-Rio,First Prize,64,0,0,1,2,1,1,0,2021: Honourable Mention (PUC-Rio); 2023: Second Prize (PUC-Rio); 2024: Third Prize (PUC-Rio); 2025: Second Prize (PUC-Rio); 2026: First Prize (PUC-Rio),2,João Marcelo Ribeiro Monteiro de Carvalho; João Marcelo Ribeiro
+BR_027,Arthur Moreira Martins Vieira,4,4,0,"2022, 2023, 2024, 2025",PUC-Rio,,PUC-Rio,First Prize,59,0,0,1,2,0,1,0,2022: Second Prize (PUC-Rio); 2023: Honourable Mention (PUC-Rio); 2024: Second Prize (PUC-Rio); 2025: First Prize (PUC-Rio),1,Arthur Moreira Martins Vieira
+BR_167,Jairon Henrique Nóia Batista,4,4,0,"2021, 2022, 2023, 2024",FGV,,FGV,First Prize,47,0,0,1,2,0,1,0,2021: Second Prize (FGV); 2022: First Prize (FGV); 2023: Honourable Mention (FGV); 2024: Second Prize (FGV),3,Jairon Henrique Nóia Batista; Jairon Batista; Jairon Henrique Noia Batista
+BR_154,Humberto Silva Naves,3,3,0,"2003, 2004, 2006",ITA,,ITA,First Prize,160,0,0,1,2,0,0,0,2003: Second Prize (ITA); 2004: Second Prize (ITA); 2006: First Prize (ITA),1,Humberto Silva Naves
+BR_157,Igor Albuquerque Araujo,3,3,0,"2015, 2016, 2017",PUC-Rio,,PUC-Rio,First Prize,46,0,0,1,2,0,0,0,2015: Second Prize (PUC-Rio); 2016: Second Prize (PUC-Rio); 2017: First Prize (PUC-Rio),1,Igor Albuquerque Araujo
+BR_329,Thiago Ribeiro Tergolino,3,3,0,"2016, 2017, 2018",IME,,IME,First Prize,50,0,0,1,2,0,0,0,2016: Second Prize (IME); 2017: First Prize (IME); 2018: Second Prize (IME),2,Thiago Riberio Tergolino; Thiago Ribeiro Tergolino
+BR_135,Glauber Guarinello,4,4,0,"2013, 2014, 2015, 2016",ITA,,ITA,First Prize,61,0,0,1,1,2,0,0,2013: Third Prize (ITA); 2014: Second Prize (ITA); 2015: First Prize (ITA); 2016: Third Prize (ITA),1,Glauber Guarinello
+BR_213,Luan Arjuna Fraga Ramires,4,4,0,"2020, 2021, 2022, 2024",USP,,USP,First Prize,44,0,0,1,1,2,0,0,2020: Third Prize (USP); 2021: Second Prize (USP); 2022: First Prize (USP); 2024: Third Prize (USP),1,Luan Arjuna Fraga Ramires
+BR_143,Guilherme Zeus Dantas e Moura,3,1,2,"2020, 2021, 2022",PUC-Rio,Haverford College,PUC-Rio; Haverford College,First Prize,43,0,0,1,1,1,0,0,2020: Third Prize (PUC-Rio); 2021: Second Prize (Haverford College); 2022: First Prize (Haverford College),1,Guilherme Zeus Dantas e Moura
+BR_030,Bernardo Freitas Paulo da Costa,2,1,1,"2005, 2006",UFRJ,École Polytechnique,UFRJ; École Polytechnique,First Prize,131,0,0,1,1,0,0,0,2005: Second Prize (UFRJ); 2006: First Prize (École Polytechnique),1,Bernardo Freitas Paulo Da Costa
+BR_074,Davi Lopes Mederos,2,2,0,"2012, 2014",UFC,,UFC,First Prize,51,0,0,1,1,0,0,0,2012: First Prize (UFC); 2014: Second Prize (UFC),2,Davi Lopes; Davi Lopes Mederos
+BR_153,Hugo Araújo,2,2,0,"2011, 2012",PUC-Rio,,PUC-Rio,First Prize,54,0,0,1,1,0,0,0,2011: Second Prize (PUC-Rio); 2012: First Prize (PUC-Rio),1,Hugo Araújo
+BR_179,João Pedro de Abreu Marciano,2,2,0,"2020, 2021",FGV,,FGV,First Prize,30,0,0,1,1,0,0,0,2020: First Prize (FGV); 2021: Second Prize (FGV),1,João Pedro de Abreu Marciano
+BR_262,Matheus Secco Torres da Silva,2,2,0,"2011, 2012",PUC-Rio,,PUC-Rio,First Prize,51,0,0,1,1,0,0,0,2011: Second Prize (PUC-Rio); 2012: First Prize (PUC-Rio),2,Matheus Secco; Matheus Secco Torres da Silva
+BR_283,Rafael Daigo Hirama,2,2,0,"2008, 2009",ITA,,ITA,First Prize,120,0,0,1,1,0,0,0,2008: Second Prize (ITA); 2009: First Prize (ITA),1,Rafael Daigo Hirama
+BR_264,Miguel Batista,4,4,0,"2021, 2022, 2023, 2024",PUC-Rio,,PUC-Rio,First Prize,65,0,0,1,0,3,0,0,2021: Third Prize (PUC-Rio); 2022: Third Prize (PUC-Rio); 2023: Third Prize (PUC-Rio); 2024: First Prize (PUC-Rio),1,Miguel Batista
+BR_223,Lucas Hiroshi Hanke Harada,3,3,0,"2020, 2021, 2022",USP,,USP,First Prize,40,0,0,1,0,2,0,0,2020: Third Prize (USP); 2021: Third Prize (USP); 2022: First Prize (USP),2,Lucas Hiroshi Hanke Harada; LUCAS HIROSHI HANKE HARADA
+BR_118,Francisco Nazário Pereira Júnior,2,2,0,"2022, 2023",IME,,IME,First Prize,47,0,0,1,0,1,0,0,2022: Third Prize (IME); 2023: First Prize (IME),1,Francisco Nazário Pereira Júnior
+BR_152,Hudson William Braga Vieira,2,2,0,"2017, 2018",ITA,,ITA,First Prize,52,0,0,1,0,1,0,0,2017: Third Prize (ITA); 2018: First Prize (ITA),1,Hudson William Braga Vieira
+BR_314,Rodrigo Ribeiro da Silva,2,2,0,"2020, 2021",FGV,,FGV,First Prize,33,0,0,1,0,1,0,0,2020: Third Prize (FGV); 2021: First Prize (FGV),1,Rodrigo Ribeiro da Silva
+BR_353,Yuri Gomes Lima,2,2,0,"2004, 2005",UFC,,UFC,First Prize,148,0,0,1,0,1,0,0,2004: First Prize (UFC); 2005: Third Prize (UFC),1,Yuri Gomes Lima
+BR_049,Carlos Coelho Lechner,2,1,1,"2010, 2013",UFRJ,École Polytechnique,UFRJ; École Polytechnique,First Prize,21,0,0,1,0,0,1,0,2010: Honourable Mention (UFRJ); 2013: First Prize (École Polytechnique),1,Carlos Coelho Lechner
+BR_137,Guilherme Goulart Kowalczuk,2,2,0,"2019, 2020",ITA,,ITA,First Prize,40,0,0,1,0,0,1,0,2019: Honourable Mention (ITA); 2020: First Prize (ITA),1,Guilherme Goulart Kowalczuk
+BR_025,Arthur Henrique Paixão Santos,1,1,0,2025,USP,,USP,First Prize,61,0,0,1,0,0,0,0,2025: First Prize (USP),1,Arthur Henrique Paixão Santos
+BR_128,Gabriel Ribeiro Paiva,1,1,0,2022,UNICAMP,,UNICAMP,First Prize,47,0,0,1,0,0,0,0,2022: First Prize (UNICAMP),1,Gabriel Ribeiro Paiva
+BR_178,João Pedro Arroyo,1,1,0,2025,USP,,USP,First Prize,59,0,0,1,0,0,0,0,2025: First Prize (USP),1,João Pedro Arroyo
+BR_212,Lorenzo Andreaus,1,1,0,2021,USP,,USP,First Prize,30,0,0,1,0,0,0,0,2021: First Prize (USP),1,Lorenzo Andreaus
+BR_241,Marcelo Machado Lage,1,1,0,2022,USP,,USP,First Prize,60,0,0,1,0,0,0,0,2022: First Prize (USP),1,Marcelo Machado Lage
+BR_305,Ricardo Felipe Rosada Canesin,1,1,0,2021,USP,,USP,First Prize,39,0,0,1,0,0,0,0,2021: First Prize (USP),1,Ricardo Felipe Rosada Canesin
+BR_336,Valentino Sichinel,1,1,0,2017,UFRJ,,UFRJ,First Prize,50,0,0,1,0,0,0,0,2017: First Prize (UFRJ),1,Valentino Sichinel
+BR_342,Victor Tadeu Tetsuo Suzuki,4,4,0,"2015, 2016, 2017, 2018",ITA,,ITA,Second Prize,40,0,0,0,3,1,0,0,2015: Second Prize (ITA); 2016: Third Prize (ITA); 2017: Second Prize (ITA); 2018: Second Prize (ITA),2,Victor Suzuki; Victor Tadeu Tetsuo Suzuki
+BR_028,Arthur Queiroz Moura,3,3,0,"2022, 2023, 2024",USP,,USP,Second Prize,47,0,0,0,3,0,0,0,2022: Second Prize (USP); 2023: Second Prize (USP); 2024: Second Prize (USP),1,Arthur Queiroz Moura
+BR_169,João Arthur Marques Linhares,3,3,0,"2023, 2024, 2025",PUC-Rio,,PUC-Rio,Second Prize,48,0,0,0,3,0,0,0,2023: Second Prize (PUC-Rio); 2024: Second Prize (PUC-Rio); 2025: Second Prize (PUC-Rio),2,João Arthur Marques Linhares; João Arthur Marques
+BR_289,Rafael Pimentel,4,4,0,"2010, 2011, 2012, 2013",ITA,,ITA,Second Prize,38,0,0,0,2,1,1,0,2010: Honourable Mention (ITA); 2011: Second Prize (ITA); 2012: Third Prize (ITA); 2013: Second Prize (ITA),1,Rafael Pimentel
+BR_043,Caio Graça Gomes,3,3,0,"2020, 2021, 2022",ITA,,ITA,Second Prize,32,0,0,0,2,1,0,0,2020: Third Prize (ITA); 2021: Second Prize (ITA); 2022: Second Prize (ITA),1,Caio Graça Gomes
+BR_052,Carlos Stein Naves de Brito,3,3,0,"2003, 2004, 2005",ITA,,ITA,Second Prize,131,0,0,0,2,1,0,0,2003: Third Prize (ITA); 2004: Second Prize (ITA); 2005: Second Prize (ITA),1,Carlos Stein Naves de Brito
+BR_125,Gabriel Luis Mello Dalalio,3,3,0,"2011, 2012, 2013",ITA,,ITA,Second Prize,40,0,0,0,2,1,0,0,2011: Third Prize (ITA); 2012: Second Prize (ITA); 2013: Second Prize (ITA),2,Gabriel Dalalio; Gabriel Luis Mello Dalallio
+BR_328,Thiago Ribeiro Ramos,3,3,0,"2012, 2013, 2014",ITA,,ITA,Second Prize,48,0,0,0,2,1,0,0,2012: Third Prize (ITA); 2013: Second Prize (ITA); 2014: Second Prize (ITA),2,Thiago Ramos; Thiago Ribeiro Ramos
+BR_340,Victor Hugo de Souza Daniel,3,3,0,"2020, 2021, 2022",USP,,USP,Second Prize,37,0,0,0,2,0,1,0,2020: Honourable Mention (USP); 2021: Second Prize (USP); 2022: Second Prize (USP),1,Victor Hugo de Souza Daniel
+BR_029,Artur César Araújo Alves,2,1,1,"2021, 2022",IME,École Polytechnique,IME; École Polytechnique,Second Prize,35,0,0,0,2,0,0,0,2021: Second Prize (IME); 2022: Second Prize (École Polytechnique),1,Artur César Araújo Alves
+BR_086,Eduardo Poço,2,2,0,"2007, 2008",ITA,,ITA,Second Prize,119,0,0,0,2,0,0,0,2007: Second Prize (ITA); 2008: Second Prize (ITA),1,Eduardo Poço
+BR_098,Erik Medeiros,2,2,0,"2016, 2017",ITA,,ITA,Second Prize,47,0,0,0,2,0,0,0,2016: Second Prize (ITA); 2017: Second Prize (ITA),1,Erik Medeiros
+BR_111,Felipe Martins Gomes,2,2,0,"2020, 2021",ITA,,ITA,Second Prize,25,0,0,0,2,0,0,0,2020: Second Prize (ITA); 2021: Second Prize (ITA),1,Felipe Martins Gomes
+BR_115,Fernando Fonseca Andrade Oliveira,2,2,0,"2013, 2014",ITA,,ITA,Second Prize,48,0,0,0,2,0,0,0,2013: Second Prize (ITA); 2014: Second Prize (ITA),2,Fernando Fonseca; Fernando Fonseca Andrade Oliveira
+BR_243,Marcelo Sales,2,2,0,"2013, 2014",USP,,USP,Second Prize,59,0,0,0,2,0,0,0,2013: Second Prize (USP); 2014: Second Prize (USP),1,Marcelo Sales
+BR_253,Matheus Andrade Barreto,2,2,0,"2021, 2022",IME,,IME,Second Prize,33,0,0,0,2,0,0,0,2021: Second Prize (IME); 2022: Second Prize (IME),2,Matheus Andrade Barreto; Matheus Barreto
+BR_293,Rafael Tupynambá Dutra,2,2,0,"2010, 2011",UFMG,,UFMG,Second Prize,41,0,0,0,2,0,0,0,2010: Second Prize (UFMG); 2011: Second Prize (UFMG),1,Rafael Tupynambá Dutra
+BR_073,Davi Coelho Amorim,4,4,0,"2015, 2016, 2017, 2018",IME,,IME,Second Prize,38,0,0,0,1,3,0,0,2015: Second Prize (IME); 2016: Third Prize (IME); 2017: Third Prize (IME); 2018: Third Prize (IME),2,Davi Coelho Amorim; Davi Amorim
+BR_266,Murilo Vasconcelos Andrade,4,3,1,"2004, 2005, 2007, 2009",IME,École Polytechnique,IME; École Polytechnique,Second Prize,94,0,0,0,1,3,0,0,2004: Third Prize (IME); 2005: Third Prize (IME); 2007: Third Prize (IME); 2009: Second Prize (École Polytechnique),2,Murilo Vasconcelos Andrade; Murilo Andrade
+BR_122,Gabriel Franceschi Libardi,4,4,0,"2021, 2022, 2023, 2024",USP,,USP,Second Prize,53,0,0,0,1,2,0,1,2021: Third Prize (USP); 2022: Third Prize (USP); 2023: Certificate (USP); 2024: Second Prize (USP),1,Gabriel Franceschi Libardi
+BR_069,Danilo Marinho Fernandes,3,1,2,"2020, 2021, 2022",ITA,École Polytechnique,ITA; École Polytechnique,Second Prize,27,0,0,0,1,2,0,0,2020: Second Prize (ITA); 2021: Third Prize (École Polytechnique); 2022: Third Prize (École Polytechnique),2,Danilo Fernandes; Danilo Marinho Fernandes
+BR_183,João Pedro Sedeu Godoi,3,2,1,"2020, 2021, 2022",USP,École Polytechnique,USP; École Polytechnique,Second Prize,22,0,0,0,1,2,0,0,2020: Third Prize (USP); 2021: Second Prize (USP); 2022: Third Prize (École Polytechnique),2,João Pedro Sedeu Godoi; Joao Pedro Sedeu Godoi
+BR_248,Maria Clara de Lacerda Werneck,3,3,0,"2020, 2021, 2022",PUC-Rio,,PUC-Rio,Second Prize,25,0,0,0,1,2,0,0,2020: Second Prize (PUC-Rio); 2021: Third Prize (PUC-Rio); 2022: Third Prize (PUC-Rio),1,Maria Clara de Lacerda Werneck
+BR_009,Ana Karoline Borges Carneiro,4,4,0,"2017, 2018, 2019, 2020",IME,,IME,Second Prize,37,0,0,0,1,1,1,1,2017: Certificate (IME); 2018: Third Prize (IME); 2019: Second Prize (IME); 2020: Honourable Mention (IME),1,Ana Karoline Borges Carneiro
+BR_034,Breno Azevedo Marot,4,4,0,"2020, 2021, 2022, 2023",PUC-Rio,,PUC-Rio,Second Prize,24,0,0,0,1,1,1,1,2020: Certificate (PUC-Rio); 2021: Second Prize (PUC-Rio); 2022: Third Prize (PUC-Rio); 2023: Honourable Mention (PUC-Rio),2,Breno Azevedo Marot; Breno Marot
+BR_058,Cleyton Vinicius Prado dos Santos,3,3,0,"2023, 2024, 2025",FGV,,FGV,Second Prize,46,0,0,0,1,1,1,0,2023: Third Prize (FGV); 2024: Honourable Mention (FGV); 2025: Second Prize (FGV),1,Cleyton Vinicius Prado dos Santos
+BR_081,Douglas Massahiro Kotsubo,3,3,0,"2022, 2024, 2025",ITA,,ITA,Second Prize,48,0,0,0,1,1,1,0,2022: Honourable Mention (ITA); 2024: Second Prize (ITA); 2025: Third Prize (ITA),1,Douglas Massahiro Kotsubo
+BR_130,Gabriel Vinícius de Souza Silva,3,3,0,"2019, 2020, 2021",IME,,IME,Second Prize,39,0,0,0,1,1,1,0,2019: Second Prize (IME); 2020: Third Prize (IME); 2021: Honourable Mention (IME),2,Gabriel de Souza Silva; Gabriel Vinícius de Souza Silva
+BR_261,Matheus Militão da Silva Sulzbacher,3,3,0,"2024, 2025, 2026",ITA,,ITA,Second Prize,53,0,0,0,1,1,1,0,2024: Second Prize (ITA); 2025: Honourable Mention (ITA); 2026: Third Prize (ITA),3,Matheus Militao da Silva Sulzbacher; Matheus Militão da Silva Sulzbacher; Matheus Sulzbacher
+BR_003,Ailton José da Silva Júnior,2,2,0,"2025, 2026",ITA,,ITA,Second Prize,48,0,0,0,1,1,0,0,2025: Second Prize (ITA); 2026: Third Prize (ITA),2,Ailton José Da Silva Júnior; Ailton Silva Junior
+BR_006,Alexandre Raulik Neto,2,2,0,"2021, 2022",ITA,,ITA,Second Prize,21,0,0,0,1,1,0,0,2021: Second Prize (ITA); 2022: Third Prize (ITA),1,Alexandre Raulik Neto
+BR_044,Caio Harley Constancio Neves,2,2,0,"2025, 2026",IME,,IME,Second Prize,43,0,0,0,1,1,0,0,2025: Third Prize (IME); 2026: Second Prize (IME),1,Caio Harley Constancio Neves
+BR_053,Cássio Henrique Vieira Morais,2,2,0,"2014, 2015",UFMG,,UFMG,Second Prize,52,0,0,0,1,1,0,0,2014: Second Prize (UFMG); 2015: Third Prize (UFMG),1,Cássio Henrique Vieira Morais
+BR_060,Daniel Bossle,2,2,0,"2013, 2014",UFRGS,,UFRGS,Second Prize,42,0,0,0,1,1,0,0,2013: Second Prize (UFRGS); 2014: Third Prize (UFRGS),1,Daniel Bossle
+BR_109,Felipe Knöller Nunes,2,2,0,"2021, 2022",IME,,IME,Second Prize,23,0,0,0,1,1,0,0,2021: Second Prize (IME); 2022: Third Prize (IME),1,Felipe Knöller Nunes
+BR_142,Guilherme Rodrigues Nogueira de Souza,2,2,0,"2009, 2010",ITA,,ITA,Second Prize,46,0,0,0,1,1,0,0,2009: Third Prize (ITA); 2010: Second Prize (ITA),2,Guilherme Rodrigues Nogueira de Souza; Guilherme Rodrigues de Souza
+BR_158,Igor Caldeira Magalhães,2,2,0,"2021, 2022",ITA,,ITA,Second Prize,23,0,0,0,1,1,0,0,2021: Second Prize (ITA); 2022: Third Prize (ITA),1,Igor Caldeira Magalhães
+BR_187,Johannes Elias Joseph Salomão,2,2,0,"2022, 2023",IME,,IME,Second Prize,36,0,0,0,1,1,0,0,2022: Second Prize (IME); 2023: Third Prize (IME),1,Johannes Elias Joseph Salomão
+BR_170,João Baptista de Paula e Silva,2,2,0,"2017, 2018",IME,,IME,Second Prize,36,0,0,0,1,1,0,0,2017: Third Prize (IME); 2018: Second Prize (IME),2,João Baptista de Paula e Silva; Joao Baptista de Paula e Silva
+BR_202,Leandro Dognini,2,1,1,"2012, 2013",IME,École Polytechnique,École Polytechnique; IME,Second Prize,30,0,0,0,1,1,0,0,2012: Third Prize (École Polytechnique); 2013: Second Prize (IME),1,Leandro Dognini
+BR_204,Leonardo Andrade Joau e Silva,2,2,0,"2019, 2021",ITA,,ITA,Second Prize,34,0,0,0,1,1,0,0,2019: Third Prize (ITA); 2021: Second Prize (ITA),2,Leonardo Andrade Joau e Silva; Leonardo Joau
+BR_217,Lucas Colucci,2,1,1,"2013, 2014",USP,Budapest Semesters in Mathematics,Budapest Semesters in Mathematics; USP,Second Prize,49,0,0,0,1,1,0,0,2013: Third Prize (Budapest Semesters in Mathematics); 2014: Second Prize (USP),1,Lucas Colucci
+BR_225,Lucas Silva Reis,2,2,0,"2014, 2015",UFMG,,UFMG,Second Prize,43,0,0,0,1,1,0,0,2014: Third Prize (UFMG); 2015: Second Prize (UFMG),1,Lucas Silva Reis
+BR_245,Márcio Peixoto,2,2,0,"2020, 2021",PUC-Rio,,PUC-Rio,Second Prize,26,0,0,0,1,1,0,0,2020: Third Prize (PUC-Rio); 2021: Second Prize (PUC-Rio),1,Márcio Peixoto
+BR_275,Pedro Freire Mascarenhas Pontes,2,1,1,"2016, 2017",ITA,École Polytechnique,ITA; École Polytechnique,Second Prize,48,0,0,0,1,1,0,0,2016: Second Prize (ITA); 2017: Third Prize (École Polytechnique),1,Pedro Freire Mascarenhas Pontes
+BR_284,Rafael Fernandes Moura,2,2,0,"2022, 2023",UFC; OBM,,UFC; OBM,Second Prize,33,0,0,0,1,1,0,0,2022: Third Prize (UFC); 2023: Second Prize (OBM),1,Rafael Fernandes Moura
+BR_291,Rafael Sampaio de Rezende,2,1,1,"2009, 2010",UFC,École Polytechnique,UFC; École Polytechnique,Second Prize,44,0,0,0,1,1,0,0,2009: Third Prize (UFC); 2010: Second Prize (École Polytechnique),2,Rafael Rezende; Rafael Sampaio de Rezende
+BR_300,Renan Almeida Ferreira,2,2,0,"2022, 2024",ITA,,ITA,Second Prize,47,0,0,0,1,1,0,0,2022: Third Prize (ITA); 2024: Second Prize (ITA),1,Renan Almeida Ferreira
+BR_333,Thomás Yoiti Sasaki Hoshina,2,2,0,"2009, 2010",IME,,IME,Second Prize,44,0,0,0,1,1,0,0,2009: Second Prize (IME); 2010: Third Prize (IME),2,Thomás Yoiti Sasaki Hoshina; Thomás Yoiti Sósaki Hoshina
+BR_108,Felipe Gonçalves Assis,2,2,0,"2009, 2012",UFCG,,UFCG,Second Prize,51,0,0,0,1,0,1,0,2009: Second Prize (UFCG); 2012: Honourable Mention (UFCG),1,Felipe Gonçalves Assis
+BR_123,Gabriel Gandour,2,2,0,"2022, 2023",ITA,,ITA,Second Prize,34,0,0,0,1,0,1,0,2022: Honourable Mention (ITA); 2023: Second Prize (ITA),1,Gabriel Gandour
+BR_127,Gabriel Ponce,2,2,0,"2008, 2009",USP,,USP,Second Prize,43,0,0,0,1,0,1,0,2008: Honourable Mention (USP); 2009: Second Prize (USP),1,Gabriel Ponce
+BR_151,Henry Wei Cheng Hsu,2,1,1,"2007, 2009",ITA,École Polytechnique,ITA; École Polytechnique,Second Prize,48,0,0,0,1,0,1,0,2007: Honourable Mention (ITA); 2009: Second Prize (École Polytechnique),1,Henry Wei Cheng Hsu
+BR_188,Jônatas Marinho Santos Júnior,2,2,0,"2020, 2022",UFAL,,UFAL,Second Prize,36,0,0,0,1,0,1,0,2020: Honourable Mention (UFAL); 2022: Second Prize (UFAL),2,Jônatas Marinho Santos Júnior; Jônatas Marinho
+BR_209,Letícia Mattos,2,2,0,"2014, 2015",UFMG,,UFMG,Second Prize,50,0,0,0,1,0,1,0,2014: Second Prize (UFMG); 2015: Honourable Mention (UFMG),1,Letícia Mattos
+BR_229,Lucas Vinícius Silveira de Lima,2,2,0,"2021, 2022",IME,,IME,Second Prize,26,0,0,0,1,0,1,0,2021: Second Prize (IME); 2022: Honourable Mention (IME),2,Lucas Vinicius Silveira de Lima; Lucas Vinícius Silveira de Lima
+BR_281,Pietro Geronimi,2,2,0,"2019, 2020",IME,,IME,Second Prize,36,0,0,0,1,0,1,0,2019: Second Prize (IME); 2020: Honourable Mention (IME),1,Pietro Geronimi
+BR_294,Ramon Nunes,2,2,0,"2009, 2010",UFC,,UFC,Second Prize,42,0,0,0,1,0,1,0,2009: Second Prize (UFC); 2010: Honourable Mention (UFC),1,Ramon Nunes
+BR_330,Thiago Sobral,2,2,0,"2005, 2007",ITA,,ITA,Second Prize,124,0,0,0,1,0,1,0,2005: Second Prize (ITA); 2007: Honourable Mention (ITA),1,Thiago Sobral
+BR_013,Andre Dal Bosco,1,1,0,2022,ITA,,ITA,Second Prize,35,0,0,0,1,0,0,0,2022: Second Prize (ITA),1,Andre Dal Bosco
+BR_011,André Boscariol Rasera,1,1,0,2021,UNICAMP,,UNICAMP,Second Prize,24,0,0,0,1,0,0,0,2021: Second Prize (UNICAMP),1,André Boscariol Rasera
+BR_061,Daniel Carletti,1,1,0,2014,PUC-Rio,,PUC-Rio,Second Prize,47,0,0,0,1,0,0,0,2014: Second Prize (PUC-Rio),1,Daniel Carletti
+BR_071,Darcy Gabriel Camargo,1,1,0,2013,UNICAMP,,UNICAMP,Second Prize,,0,0,0,1,0,0,0,2013: Second Prize (UNICAMP),1,Darcy Gabriel Camargo
+BR_076,Diego Campos Laboissiere Villela,1,1,0,2021,ITA,,ITA,Second Prize,23,0,0,0,1,0,0,0,2021: Second Prize (ITA),1,Diego Campos Laboissiere Villela
+BR_080,Diogo Diniz,1,1,0,2005,UFCG,,UFCG,Second Prize,105,0,0,0,1,0,0,0,2005: Second Prize (UFCG),1,Diogo Diniz
+BR_082,Edson Augusto Bezerra Lopes,1,1,0,2009,UFC,,UFC,Second Prize,52,0,0,0,1,0,0,0,2009: Second Prize (UFC),1,Edson Augusto Bezerra Lopes
+BR_093,Enzo Pontes Saraiva de Moraes,1,1,0,2022,UNICAMP,,UNICAMP,Second Prize,34,0,0,0,1,0,0,0,2022: Second Prize (UNICAMP),1,Enzo Pontes Saraiva de Moraes
+BR_107,Felipe Gabriel,1,1,0,2017,IME,,IME,Second Prize,37,0,0,0,1,0,0,0,2017: Second Prize (IME),1,Felipe Gabriel
+BR_116,Francisco Bruno Dias Ribeiro da Silva,1,1,0,2023,ITA,,ITA,Second Prize,33,0,0,0,1,0,0,0,2023: Second Prize (ITA),1,Francisco Bruno Dias Ribeiro da Silva
+BR_136,Guilherme Bernardo da Silva,1,1,0,2023,IME,,IME,Second Prize,37,0,0,0,1,0,0,0,2023: Second Prize (IME),1,Guilherme Bernardo da Silva
+BR_189,Jordan Piva,1,1,0,2009,IME,,IME,Second Prize,41,0,0,0,1,0,0,0,2009: Second Prize (IME),1,Jordan Piva
+BR_172,João Guilherme Costa Viana,1,1,0,2024,UFC,,UFC,Second Prize,52,0,0,0,1,0,0,0,2024: Second Prize (UFC),1,João Guilherme Costa Viana
+BR_201,Leandro Augusto Lichtenfelz,1,1,0,2009,UFSC,,UFSC,Second Prize,46,0,0,0,1,0,0,0,2009: Second Prize (UFSC),1,Leandro Augusto Lichtenfelz
+BR_224,Lucas Ogawa,1,1,0,2021,USP,,USP,Second Prize,21,0,0,0,1,0,0,0,2021: Second Prize (USP),1,Lucas Ogawa
+BR_244,Marcio Afonso Assad Cohen,1,1,0,2003,IME,,IME,Second Prize,144,0,0,0,1,0,0,0,2003: Second Prize (IME),1,Marcio Afonso Assad Cohen
+BR_254,Matheus Barros da Silveira,1,1,0,2021,UFC,,UFC,Second Prize,20,0,0,0,1,0,0,0,2021: Second Prize (UFC),1,Matheus Barros da Silveira
+BR_255,Matheus Barros de Paula,1,1,0,2013,ITA,,ITA,Second Prize,,0,0,0,1,0,0,0,2013: Second Prize (ITA),1,Matheus Barros de Paula
+BR_277,Pedro Luiz Moreira Santos Silva,1,1,0,2022,ITA,,ITA,Second Prize,31,0,0,0,1,0,0,0,2022: Second Prize (ITA),1,Pedro Luiz Moreira Santos Silva
+BR_313,Rodrigo Melo,1,1,0,2026,ITA,,ITA,Second Prize,48,0,0,0,1,0,0,0,2026: Second Prize (ITA),1,Rodrigo Melo
+BR_316,Rodrigo Villard Milet,1,1,0,2003,UFRJ,,UFRJ,Second Prize,146,0,0,0,1,0,0,0,2003: Second Prize (UFRJ),1,Rodrigo Villard Milet
+BR_327,Thiago Pinheiro,1,1,0,2014,USP,,USP,Second Prize,52,0,0,0,1,0,0,0,2014: Second Prize (USP),1,Thiago Pinheiro
+BR_338,Victor Chaves,1,1,0,2014,IME,,IME,Second Prize,47,0,0,0,1,0,0,0,2014: Second Prize (IME),1,Victor Chaves
+BR_354,Yvens Ian Prado Porto,1,1,0,2022,UNICAMP,,UNICAMP,Second Prize,34,0,0,0,1,0,0,0,2022: Second Prize (UNICAMP),1,Yvens Ian Prado Porto
+BR_124,Gabriel Laurentino Silva Henriques,5,5,0,"2018, 2019, 2020, 2021, 2022",IME,,IME,Third Prize,32,0,0,0,0,3,2,0,2018: Honourable Mention (IME); 2019: Third Prize (IME); 2020: Honourable Mention (IME); 2021: Third Prize (IME); 2022: Third Prize (IME),3,Gabriel Henriques; Gabriel Laurentino; Gabriel Laurentino Silva Henriques
+BR_297,Raphael Oliveira,3,2,1,"2016, 2017, 2018",IME,École Polytechnique,IME; École Polytechnique,Third Prize,29,0,0,0,0,3,0,0,2016: Third Prize (IME); 2017: Third Prize (IME); 2018: Third Prize (École Polytechnique),1,Raphael Oliveira
+BR_295,Ramyro Corrêa Aquines,5,5,0,"2022, 2023, 2024, 2025, 2026",FB Uni; FGV,,FB Uni; FGV,Third Prize,36,0,0,0,0,2,3,0,2022: Third Prize (FB Uni); 2023: Honourable Mention (FGV); 2024: Honourable Mention (FGV); 2025: Third Prize (FGV); 2026: Honourable Mention (FGV),1,Ramyro Corrêa Aquines
+BR_276,Pedro Henrique Alencar Costa,4,4,0,"2017, 2018, 2019, 2020",IME,,IME,Third Prize,27,0,0,0,0,2,2,0,2017: Honourable Mention (IME); 2018: Third Prize (IME); 2019: Honourable Mention (IME); 2020: Third Prize (IME),2,Pedro Henrique Alencar Costa; Pedro Henrique Costa
+BR_144,Gustavo Ewbank Rodrigues Danon,3,3,0,"2021, 2022, 2024",IME,,IME,Third Prize,26,0,0,0,0,2,1,0,2021: Third Prize (IME); 2022: Third Prize (IME); 2024: Honourable Mention (IME),1,Gustavo Ewbank Rodrigues Danon
+BR_203,Leandro Farias Maia,3,3,0,"2009, 2011, 2012",IME,,IME,Third Prize,32,0,0,0,0,2,1,0,2009: Third Prize (IME); 2011: Third Prize (IME); 2012: Honourable Mention (IME),2,Leandro Farias Maia; Leandro Maia
+BR_210,Levi Viana,3,2,1,"2007, 2008, 2009",IME,École Polytechnique,IME; École Polytechnique,Third Prize,63,0,0,0,0,2,1,0,2007: Honourable Mention (IME); 2008: Third Prize (IME); 2009: Third Prize (École Polytechnique),1,Levi Viana
+BR_015,André Linhares Rodrigues,2,2,0,"2008, 2009",UNICAMP,,UNICAMP,Third Prize,74,0,0,0,0,2,0,0,2008: Third Prize (UNICAMP); 2009: Third Prize (UNICAMP),2,Andre Rodrigues; André Linhares Rodrigues
+BR_039,Bruno Visnadi da Luz,2,2,0,"2020, 2021",FGV,,FGV,Third Prize,20,0,0,0,0,2,0,0,2020: Third Prize (FGV); 2021: Third Prize (FGV),2,Bruno Luz; Bruno Visnadi da Luz
+BR_051,Carlos Henrique Melo Souza,2,2,0,"2010, 2012",ITA,,ITA,Third Prize,35,0,0,0,0,2,0,0,2010: Third Prize (ITA); 2012: Third Prize (ITA),1,Carlos Henrique Melo Souza
+BR_055,Charles Brito,2,2,0,"2011, 2015",IME; UFRN,,IME; UFRN,Third Prize,33,0,0,0,0,2,0,0,2011: Third Prize (IME); 2015: Third Prize (UFRN),1,Charles Brito
+BR_110,Felipe Lins dos Santos,2,2,0,"2021, 2022",IME,,IME,Third Prize,20,0,0,0,0,2,0,0,2021: Third Prize (IME); 2022: Third Prize (IME),2,Felipe Lins dos Santos; FELIPE LINS DOS SANTOS
+BR_162,Iuri Almeida,2,2,0,"2024, 2025",USP,,USP,Third Prize,43,0,0,0,0,2,0,0,2024: Third Prize (USP); 2025: Third Prize (USP),1,Iuri Almeida
+BR_164,Ivan Rocha,2,2,0,"2012, 2014",ITA,,ITA,Third Prize,44,0,0,0,0,2,0,0,2012: Third Prize (ITA); 2014: Third Prize (ITA),1,Ivan Rocha
+BR_171,João Carnevale,2,2,0,"2014, 2016",PUC-Rio,,PUC-Rio,Third Prize,37,0,0,0,0,2,0,0,2014: Third Prize (PUC-Rio); 2016: Third Prize (PUC-Rio),1,João Carnevale
+BR_219,Lucas de Moura Herlin,2,2,0,"2019, 2020",IME,,IME,Third Prize,33,0,0,0,0,2,0,0,2019: Third Prize (IME); 2020: Third Prize (IME),1,Lucas de Moura Herlin
+BR_240,Marcelo Gonçalves,2,2,0,"2014, 2017",USP,,USP,Third Prize,44,0,0,0,0,2,0,0,2014: Third Prize (USP); 2017: Third Prize (USP),1,Marcelo Gonçalves
+BR_282,Rafael Assato Ando,2,2,0,"2010, 2011",UNICAMP,,UNICAMP,Third Prize,32,0,0,0,0,2,0,0,2010: Third Prize (UNICAMP); 2011: Third Prize (UNICAMP),1,Rafael Assato Ando
+BR_332,Thomas Rincon Reis,2,2,0,"2014, 2015",IME,,IME,Third Prize,36,0,0,0,0,2,0,0,2014: Third Prize (IME); 2015: Third Prize (IME),1,Thomas Rincon Reis
+BR_085,Eduardo Famini Silva,3,3,0,"2003, 2004, 2005",IME,,IME,Third Prize,77,0,0,0,0,1,2,0,2003: Honourable Mention (IME); 2004: Honourable Mention (IME); 2005: Third Prize (IME),3,Eduardo Famini Silva; Eduardo Faminin Silva; Eduardo Silva
+BR_198,Kellem Corrêa Santos,3,3,0,"2005, 2007, 2008",IME,,IME,Third Prize,69,0,0,0,0,1,2,0,2005: Honourable Mention (IME); 2007: Third Prize (IME); 2008: Honourable Mention (IME),2,Kellem CorrÍa Santos; Kellem Corrêa Santos
+BR_215,Luca Silveira Escopelli,3,3,0,"2021, 2022, 2023",FGV,,FGV,Third Prize,26,0,0,0,0,1,1,1,2021: Certificate (FGV); 2022: Third Prize (FGV); 2023: Honourable Mention (FGV),1,Luca Silveira Escopelli
+BR_036,Bruno De Nadai Sarnaglia,2,2,0,"2013, 2014",ITA,,ITA,Third Prize,35,0,0,0,0,1,1,0,2013: Honourable Mention (ITA); 2014: Third Prize (ITA),1,Bruno De Nadai Sarnaglia
+BR_050,Carlos Eduardo Pereira Sampaio,2,2,0,"2025, 2026",ITA,,ITA,Third Prize,36,0,0,0,0,1,0,1,2025: Third Prize (ITA); 2026: Certificate (ITA),2,Carlos Eduardo Pereira Sampaio; Carlos Sampaio
+BR_072,Davi Braga Garcia Amaral,2,2,0,"2025, 2026",IME,,IME,Third Prize,43,0,0,0,0,1,1,0,2025: Third Prize (IME); 2026: Honourable Mention (IME),1,Davi Braga Garcia Amaral
+BR_119,Gabriel Brito,2,2,0,"2010, 2011",IME,,IME,Third Prize,30,0,0,0,0,1,1,0,2010: Third Prize (IME); 2011: Honourable Mention (IME),1,Gabriel Brito
+BR_131,Gabriella Santana Morgado,2,2,0,"2024, 2025",PUC-Rio,,PUC-Rio,Third Prize,33,0,0,0,0,1,1,0,2024: Third Prize (PUC-Rio); 2025: Honourable Mention (PUC-Rio),1,Gabriella Santana Morgado
+BR_139,Guilherme Lima Ferreira da Silva,2,2,0,"2009, 2010",UNESP,,UNESP,Third Prize,30,0,0,0,0,1,1,0,2009: Third Prize (UNESP); 2010: Honourable Mention (UNESP),1,Guilherme Lima Ferreira da Silva
+BR_148,Hazael Soledade de Araujo Jumonji,2,2,0,"2020, 2021",USP,,USP,Third Prize,10,0,0,0,0,1,0,1,2020: Certificate (USP); 2021: Third Prize (USP),1,Hazael Soledade de Araujo Jumonji
+BR_232,Luís Felipe de Almeida Marques,2,2,0,"2023, 2024",FGV,,FGV,Third Prize,40,0,0,0,0,1,1,0,2023: Honourable Mention (FGV); 2024: Third Prize (FGV),1,Luís Felipe de Almeida Marques
+BR_250,Mateus Lima Silveira,2,2,0,"2021, 2022",IME,,IME,Third Prize,14,0,0,0,0,1,1,0,2021: Third Prize (IME); 2022: Honourable Mention (IME),1,Mateus Lima Silveira
+BR_259,Matheus Leal Assunção,2,2,0,"2014, 2015",IME,,IME,Third Prize,34,0,0,0,0,1,1,0,2014: Third Prize (IME); 2015: Honourable Mention (IME),1,Matheus Leal Assunção
+BR_280,Pedro Soares da Costa Mota e Souza,2,2,0,"2019, 2020",ITA,,ITA,Third Prize,32,0,0,0,0,1,1,0,2019: Third Prize (ITA); 2020: Honourable Mention (ITA),2,Pedro Souza; Pedro Soares da Costa Mota e Souza
+BR_299,Reinan Santos,2,2,0,"2011, 2012",FGV,,FGV,Third Prize,31,0,0,0,0,1,1,0,2011: Honourable Mention (FGV); 2012: Third Prize (FGV),1,Reinan Santos
+BR_304,Renato Rebouças de Medeiros,2,2,0,"2009, 2011",ITA,,ITA,Third Prize,29,0,0,0,0,1,1,0,2009: Honourable Mention (ITA); 2011: Third Prize (ITA),2,Renato Rebouças de Medeiros; Renato Medeiros
+BR_302,Renato da Paixão Alves,2,2,0,"2021, 2022",IME,,IME,Third Prize,28,0,0,0,0,1,0,1,2021: Certificate (IME); 2022: Third Prize (IME),1,Renato da Paixão Alves
+BR_306,Ricardo Turolla Bortolotti,2,2,0,"2010, 2012",PUC-Rio,,PUC-Rio,Third Prize,26,0,0,0,0,1,1,0,2010: Honourable Mention (PUC-Rio); 2012: Third Prize (PUC-Rio),1,Ricardo Turolla Bortolotti
+BR_312,Rodrigo Fontenele Brilhante,2,2,0,"2020, 2021",IME,,IME,Third Prize,15,0,0,0,0,1,1,0,2020: Third Prize (IME); 2021: Honourable Mention (IME),1,Rodrigo Fontenele Brilhante
+BR_320,Sofia Sampaio Lacerda,2,2,0,"2021, 2022",USP,,USP,Third Prize,27,0,0,0,0,1,1,0,2021: Honourable Mention (USP); 2022: Third Prize (USP),1,Sofia Sampaio Lacerda
+BR_349,Wagner Rodrigues,2,2,0,"2016, 2017",ITA,,ITA,Third Prize,25,0,0,0,0,1,1,0,2016: Honourable Mention (ITA); 2017: Third Prize (ITA),1,Wagner Rodrigues
+BR_350,Wesley Rodrigues Machado,2,1,1,"2018, 2020",IME,École Polytechnique,IME; École Polytechnique,Third Prize,20,0,0,0,0,1,1,0,2018: Honourable Mention (IME); 2020: Third Prize (École Polytechnique),1,Wesley Rodrigues Machado
+BR_352,Yan Victor Souza Guimarães,2,2,0,"2021, 2022",UNICAMP,,UNICAMP,Third Prize,21,0,0,0,0,1,1,0,2021: Honourable Mention (UNICAMP); 2022: Third Prize (UNICAMP),2,Yan Victor Souza Guimaraes; Yan Victor Souza Guimarães
+BR_002,Adenilson Moura Junior,1,1,0,2010,UFC,,UFC,Third Prize,34,0,0,0,0,1,0,0,2010: Third Prize (UFC),1,Adenilson Moura Junior
+BR_023,Ariel Silva Claudino,1,1,0,2021,ITA,,ITA,Third Prize,10,0,0,0,0,1,0,0,2021: Third Prize (ITA),1,Ariel Silva Claudino
+BR_037,Bruno Foschiani Ricardo,1,1,0,2022,USP,,USP,Third Prize,22,0,0,0,0,1,0,0,2022: Third Prize (USP),1,Bruno Foschiani Ricardo
+BR_038,Bruno Santos,1,1,0,2010,UFRJ,,UFRJ,Third Prize,35,0,0,0,0,1,0,0,2010: Third Prize (UFRJ),1,Bruno Santos
+BR_042,Caio Diniz Santana,1,1,0,2022,USP,,USP,Third Prize,22,0,0,0,0,1,0,0,2022: Third Prize (USP),1,Caio Diniz Santana
+BR_046,Caio Kinelski,1,1,0,2017,ITA,,ITA,Third Prize,20,0,0,0,0,1,0,0,2017: Third Prize (ITA),1,Caio Kinelski
+BR_047,Caio Simon de Oliveira,1,1,0,2025,USP,,USP,Third Prize,34,0,0,0,0,1,0,0,2025: Third Prize (USP),1,Caio Simon de Oliveira
+BR_048,Carlos Alexandre Silva Santos,1,1,0,2017,ITA,,ITA,Third Prize,25,0,0,0,0,1,0,0,2017: Third Prize (ITA),1,Carlos Alexandre Silva Santos
+BR_065,Daniel Massaki Yamamoto,1,1,0,2003,ITA,,ITA,Third Prize,133,0,0,0,0,1,0,0,2003: Third Prize (ITA),1,Daniel Massaki Yamamoto
+BR_066,Daniel Quintao de Moraes,1,1,0,2018,ITA,,ITA,Third Prize,24,0,0,0,0,1,0,0,2018: Third Prize (ITA),1,Daniel Quintao de Moraes
+BR_067,Daniel Roediger,1,1,0,2015,ITA,,ITA,Third Prize,30,0,0,0,0,1,0,0,2015: Third Prize (ITA),1,Daniel Roediger
+BR_070,Darcy Cunha,1,1,0,2012,UNICAMP,,UNICAMP,Third Prize,28,0,0,0,0,1,0,0,2012: Third Prize (UNICAMP),1,Darcy Cunha
+BR_075,Diego Andrés Barbosa,1,1,0,2011,IME,,IME,Third Prize,31,0,0,0,0,1,0,0,2011: Third Prize (IME),1,Diego Andrés Barbosa
+BR_077,Diêgo Uchôa,1,1,0,2005,IME,,IME,Third Prize,76,0,0,0,0,1,0,0,2005: Third Prize (IME),1,DiÍgo UchÙa
+BR_083,Eduardo Bertoldi,1,1,0,2005,ITA,,ITA,Third Prize,100,0,0,0,0,1,0,0,2005: Third Prize (ITA),1,Eduardo Bertoldi
+BR_084,Eduardo Casagrande Stabel,1,1,0,2004,UFRGS,,UFRGS,Third Prize,95,0,0,0,0,1,0,0,2004: Third Prize (UFRGS),1,Eduardo Casagrande Stabel
+BR_100,Evandro Makiyama de Melo,1,1,0,2008,USP,,USP,Third Prize,72,0,0,0,0,1,0,0,2008: Third Prize (USP),1,Evadro Makiyma de Melo
+BR_104,Felipe Bezerra de Menezes Benício de Sousa,1,1,0,2021,UFC,,UFC,Third Prize,13,0,0,0,0,1,0,0,2021: Third Prize (UFC),1,Felipe Bezerra de Menezes Benício de Sousa
+BR_105,Felipe Chen Wu,1,1,0,2020,UFRJ,,UFRJ,Third Prize,16,0,0,0,0,1,0,0,2020: Third Prize (UFRJ),1,Felipe Chen Wu
+BR_120,Gabriel Carneiro Bomfim,1,1,0,2025,ITA,,ITA,Third Prize,41,0,0,0,0,1,0,0,2025: Third Prize (ITA),1,Gabriel Carneiro Bomfim
+BR_134,Giuliano Boava,1,1,0,2003,UFSC,,UFSC,Third Prize,103,0,0,0,0,1,0,0,2003: Third Prize (UFSC),1,Giuliano Boava
+BR_140,Guilherme Lourenco Mejia,1,1,0,2011,ITA,,ITA,Third Prize,27,0,0,0,0,1,0,0,2011: Third Prize (ITA),1,Guilherme Lourenco Mejia
+BR_145,Gustavo Gomes de Araujo,1,1,0,2006,USP,,USP,Third Prize,82,0,0,0,0,1,0,0,2006: Third Prize (USP),1,Gustavo Gomes de Araujo
+BR_146,Gustavo Lopes Rodrigues,1,1,0,2015,UFRGS,,UFRGS,Third Prize,26,0,0,0,0,1,0,0,2015: Third Prize (UFRGS),1,Gustavo Lopes Rodrigues
+BR_147,Gustavo Pereira de Castro,1,1,0,2014,FGV,,FGV,Third Prize,39,0,0,0,0,1,0,0,2014: Third Prize (FGV),1,Gustavo Pereira de Castro
+BR_149,Henrique Galizzi Fae,1,1,0,2023,IME,,IME,Third Prize,25,0,0,0,0,1,0,0,2023: Third Prize (IME),1,Henrique Galizzi Fae
+BR_160,INGRID COSTA DE MOURA CONDAL,1,1,0,2021,IME,,IME,Third Prize,11,0,0,0,0,1,0,0,2021: Third Prize (IME),1,INGRID COSTA DE MOURA CONDAL
+BR_159,Igor Prado Teixeira Borja,1,1,0,2022,UFBA,,UFBA,Third Prize,22,0,0,0,0,1,0,0,2022: Third Prize (UFBA),1,Igor Prado Teixeira Borja
+BR_186,Joaquim Pedro Leiroz Linhares,1,1,0,2025,PUC-Rio,,PUC-Rio,Third Prize,35,0,0,0,0,1,0,0,2025: Third Prize (PUC-Rio),1,Joaquim Pedro Leiroz Linhares
+BR_191,José Ferraro,1,1,0,2008,ITA,,ITA,Third Prize,91,0,0,0,0,1,0,0,2008: Third Prize (ITA),1,José Ferraro
+BR_193,José Ronaldo Silva Henrique Filho,1,1,0,2024,ITA,,ITA,Third Prize,34,0,0,0,0,1,0,0,2024: Third Prize (ITA),1,José Ronaldo Silva Henrique Filho
+BR_173,João Inácio Martini Batista,1,1,0,2021,IME,,IME,Third Prize,12,0,0,0,0,1,0,0,2021: Third Prize (IME),1,João Inácio Martini Batista
+BR_174,João Laudissi,1,1,0,2022,USP,,USP,Third Prize,20,0,0,0,0,1,0,0,2022: Third Prize (USP),1,João Laudissi
+BR_180,João Pedro de Araújo Xavier,1,1,0,2018,IME,,IME,Third Prize,25,0,0,0,0,1,0,0,2018: Third Prize (IME),1,João Pedro de Araújo Xavier
+BR_184,João Vitor Cordeiro de Brito,1,1,0,2021,UFRJ,,UFRJ,Third Prize,10,0,0,0,0,1,0,0,2021: Third Prize (UFRJ),1,João Vitor Cordeiro de Brito
+BR_196,Juliano Garcia,1,1,0,2016,IME,,IME,Third Prize,36,0,0,0,0,1,0,0,2016: Third Prize (IME),1,Juliano Garcia
+BR_208,Leonardo Zão,1,1,0,2005,IME,,IME,Third Prize,73,0,0,0,0,1,0,0,2005: Third Prize (IME),1,Leonardo Z„o
+BR_214,Luca Möller,1,1,0,2011,ITA,,ITA,Third Prize,30,0,0,0,0,1,0,0,2011: Third Prize (ITA),1,Luca Möller
+BR_226,Lucas Smaira,1,1,0,2012,ITA,,ITA,Third Prize,25,0,0,0,0,1,0,0,2012: Third Prize (ITA),1,Lucas Smaira
+BR_230,Lucas Wu Jiajun,1,1,0,2024,USP,,USP,Third Prize,33,0,0,0,0,1,0,0,2024: Third Prize (USP),1,Lucas Wu Jiajun
+BR_236,Luize Durso,1,1,0,2018,PUC-Rio,,PUC-Rio,Third Prize,28,0,0,0,0,1,0,0,2018: Third Prize (PUC-Rio),1,Luize Durso
+BR_237,Luïze Vianna,1,1,0,2017,PUC-Rio,,PUC-Rio,Third Prize,24,0,0,0,0,1,0,0,2017: Third Prize (PUC-Rio),1,Luïze Vianna
+BR_238,Mahmud Mohamad Hussein Ali Neto,1,1,0,2022,ITA,,ITA,Third Prize,22,0,0,0,0,1,0,0,2022: Third Prize (ITA),1,Mahmud Mohamad Hussein Ali Neto
+BR_242,Marcelo Matheus Gauy,1,1,0,2010,USP,,USP,Third Prize,29,0,0,0,0,1,0,0,2010: Third Prize (USP),1,Marcelo Matheus Gauy
+BR_239,Marcelo de Araujo Barbosa,1,1,0,2009,ITA,,ITA,Third Prize,33,0,0,0,0,1,0,0,2009: Third Prize (ITA),1,Marcelo de Araujo Barbosa
+BR_247,Marcos Vieira,1,1,0,2009,ITA,,ITA,Third Prize,34,0,0,0,0,1,0,0,2009: Third Prize (ITA),1,Marcos Vieira
+BR_271,Pedro Arthur Dorta Montenegro,1,1,0,2026,IME,,IME,Third Prize,34,0,0,0,0,1,0,0,2026: Third Prize (IME),1,Pedro Arthur Dorta Montenegro
+BR_279,Pedro Martins,1,1,0,2019,IME,,IME,Third Prize,30,0,0,0,0,1,0,0,2019: Third Prize (IME),1,Pedro Martins
+BR_288,Rafael Pereira de Paula de Lucas Simon,1,1,0,2014,IME,,IME,Third Prize,40,0,0,0,0,1,0,0,2014: Third Prize (IME),1,Rafael Pereira de Paula de Lucas Simon
+BR_290,Rafael Ruas,1,1,0,2026,UNICAMP,,UNICAMP,Third Prize,40,0,0,0,0,1,0,0,2026: Third Prize (UNICAMP),1,Rafael Ruas
+BR_292,Rafael Tajra Fonteles,1,1,0,2004,UFPI,,UFPI,Third Prize,78,0,0,0,0,1,0,0,2004: Third Prize (UFPI),1,Rafael Tajra Fonteles
+BR_307,Robério Nunes,1,1,0,2012,USP,,USP,Third Prize,25,0,0,0,0,1,0,0,2012: Third Prize (USP),1,Robério Nunes
+BR_309,Rodrigo Alencar,1,1,0,2013,IME,,IME,Third Prize,,0,0,0,0,1,0,0,2013: Third Prize (IME),1,Rodrigo Alencar
+BR_319,Sérgio Maciel,1,1,0,2022,USP,,USP,Third Prize,23,0,0,0,0,1,0,0,2022: Third Prize (USP),1,Sérgio Maciel
+BR_325,Thiago de Medeiros,1,1,0,2017,ITA,,ITA,Third Prize,31,0,0,0,0,1,0,0,2017: Third Prize (ITA),1,Thiago de Medeiros
+BR_341,Victor Souza,1,1,0,2015,UNICAMP,,UNICAMP,Third Prize,30,0,0,0,0,1,0,0,2015: Third Prize (UNICAMP),1,Victor Souza
+BR_351,Willyan Almeida Lima,1,1,0,2022,UFABC,,UFABC,Third Prize,23,0,0,0,0,1,0,0,2022: Third Prize (UFABC),1,Willyan Almeida Lima
+BR_097,Érik Fernando Amorim,1,1,0,2010,USP,,USP,Third Prize,35,0,0,0,0,1,0,0,2010: Third Prize (USP),1,Érik Fernando Amorim
+BR_185,João Vitor Tomaz Alves Ferreira,3,3,0,"2024, 2025, 2026",FGV,,FGV,Honourable Mention,25,0,0,0,0,0,2,1,2024: Honourable Mention (FGV); 2025: Certificate (FGV); 2026: Honourable Mention (FGV),2,João Vitor Tomaz Alves Ferreira; João Ferreira
+BR_221,Lucas Henrique Azevedo dos Santos,3,3,0,"2020, 2021, 2022",UFPE,,UFPE,Honourable Mention,5,0,0,0,0,0,2,1,2020: Honourable Mention (UFPE); 2021: Honourable Mention (UFPE); 2022: Certificate (UFPE),1,Lucas Henrique Azevedo dos Santos
+BR_001,Abel Medina Lourenço,2,2,0,"2013, 2014",UNICAMP,,UNICAMP,Honourable Mention,22,0,0,0,0,0,1,1,2013: Certificate (UNICAMP); 2014: Honourable Mention (UNICAMP),1,Abel Medina Lourenço
+BR_007,Alfredo Quintella Pinto,2,2,0,"2022, 2023",IME,,IME,Honourable Mention,20,0,0,0,0,0,2,0,2022: Honourable Mention (IME); 2023: Honourable Mention (IME),1,Alfredo Quintella Pinto
+BR_010,Anderson Davi Fernandes Moreira,2,2,0,"2021, 2022",IME,,IME,Honourable Mention,10,0,0,0,0,0,2,0,2021: Honourable Mention (IME); 2022: Honourable Mention (IME),1,Anderson Davi Fernandes Moreira
+BR_024,Arthur Covatti,2,2,0,"2015, 2017",ITA,,ITA,Honourable Mention,14,0,0,0,0,0,1,1,2015: Honourable Mention (ITA); 2017: Certificate (ITA),1,Arthur Covatti
+BR_031,Brendon Diniz Borck,2,2,0,"2022, 2023",ITA,,ITA,Honourable Mention,22,0,0,0,0,0,2,0,2022: Honourable Mention (ITA); 2023: Honourable Mention (ITA),2,Brendon Borck; Brendon Diniz Borck
+BR_121,Gabriel Dantas Shpielman,2,2,0,"2025, 2026",PUC-Rio,,PUC-Rio,Honourable Mention,24,0,0,0,0,0,2,0,2025: Honourable Mention (PUC-Rio); 2026: Honourable Mention (PUC-Rio),2,Gabriel Dantas Shpielman; Gabriel Shpielman
+BR_138,Guilherme Horta Alvares da Silva,2,2,0,"2014, 2015",IME,,IME,Honourable Mention,28,0,0,0,0,0,2,0,2014: Honourable Mention (IME); 2015: Honourable Mention (IME),1,Guilherme Horta Alvares da Silva
+BR_190,José Armando Barbosa Filho,2,2,0,"2008, 2011",ITA,,ITA,Honourable Mention,34,0,0,0,0,0,2,0,2008: Honourable Mention (ITA); 2011: Honourable Mention (ITA),2,Armando Barbosa; Jose Armando Barbosa Filho
+BR_181,João Pedro Oliveira Rodrigues,2,2,0,"2022, 2023",IME,,IME,Honourable Mention,18,0,0,0,0,0,2,0,2022: Honourable Mention (IME); 2023: Honourable Mention (IME),2,João Pedro Oliveira; João Pedro Oliveira Rodrigues
+BR_200,Lael Lima,2,2,0,"2020, 2021",UNICAMP,,UNICAMP,Honourable Mention,4,0,0,0,0,0,1,1,2020: Certificate (UNICAMP); 2021: Honourable Mention (UNICAMP),1,Lael Lima
+BR_269,Paulo André Melo,2,2,0,"2010, 2011",ITA,,ITA,Honourable Mention,24,0,0,0,0,0,2,0,2010: Honourable Mention (ITA); 2011: Honourable Mention (ITA),1,Paulo André Melo
+BR_303,Renato Dias Costa,2,2,0,"2011, 2012",IME,,IME,Honourable Mention,25,0,0,0,0,0,2,0,2011: Honourable Mention (IME); 2012: Honourable Mention (IME),2,Renato Dias Costa; Renato Costa
+BR_315,Rodrigo Roque Dias,2,2,0,"2005, 2006",USP,,USP,Honourable Mention,78,0,0,0,0,0,2,0,2005: Honourable Mention (USP); 2006: Honourable Mention (USP),1,Rodrigo Roque Dias
+BR_322,Tassandro Cavalcante Leitão,2,2,0,"2022, 2025",IME,,IME,Honourable Mention,15,0,0,0,0,0,1,1,2022: Honourable Mention (IME); 2025: Certificate (IME),1,Tassandro Cavalcante Leitão
+BR_347,Vitor Humia Fontoura,2,2,0,"2008, 2009",IME,,IME,Honourable Mention,24,0,0,0,0,0,1,1,2008: Certificate (IME); 2009: Honourable Mention (IME),2,Vitor Fontoura; Vitor Humia Fontoura
+BR_005,Alexandre Cezar,1,1,0,2012,IME,,IME,Honourable Mention,20,0,0,0,0,0,1,0,2012: Honourable Mention (IME),1,Alexandre Cezar
+BR_008,Alicia Machado,1,1,0,2018,ITA,,ITA,Honourable Mention,19,0,0,0,0,0,1,0,2018: Honourable Mention (ITA),1,Alicia Machado
+BR_014,André Filipe Diogo Castro,1,1,0,2022,IME,,IME,Honourable Mention,12,0,0,0,0,0,1,0,2022: Honourable Mention (IME),1,André Filipe Diogo Castro
+BR_019,Anne Bronzi,1,1,0,2005,UNICAMP,,UNICAMP,Honourable Mention,44,0,0,0,0,0,1,0,2005: Honourable Mention (UNICAMP),1,Anne Bronzi
+BR_020,Antonia Mendonça,1,1,0,2009,IME,,IME,Honourable Mention,28,0,0,0,0,0,1,0,2009: Honourable Mention (IME),1,Antonia Mendonça
+BR_026,Arthur Melo,1,1,0,2020,UFRN,,UFRN,Honourable Mention,14,0,0,0,0,0,1,0,2020: Honourable Mention (UFRN),1,Arthur Melo
+BR_033,Breno Aguiar,1,1,0,2011,IME,,IME,Honourable Mention,15,0,0,0,0,0,1,0,2011: Honourable Mention (IME),1,Breno Aguiar
+BR_040,Bryan Borck,1,1,0,2022,ITA,,ITA,Honourable Mention,12,0,0,0,0,0,1,0,2022: Honourable Mention (ITA),1,Bryan Borck
+BR_045,Caio Ishizaka Costa,1,1,0,2010,ITA,,ITA,Honourable Mention,24,0,0,0,0,0,1,0,2010: Honourable Mention (ITA),1,Caio Ishizaka Costa
+BR_054,Catulo Axel,1,1,0,2021,IME,,IME,Honourable Mention,7,0,0,0,0,0,1,0,2021: Honourable Mention (IME),1,Catulo Axel
+BR_056,Cicero Calheiros,1,1,0,2020,UFAL,,UFAL,Honourable Mention,11,0,0,0,0,0,1,0,2020: Honourable Mention (UFAL),1,Cicero Calheiros
+BR_059,Daniel Ariano Sortica,1,1,0,2014,USP,,USP,Honourable Mention,11,0,0,0,0,0,1,0,2014: Honourable Mention (USP),1,Daniel Ariano Sortica
+BR_068,Daniel Yamamoto Damico,1,1,0,2022,UNICAMP,,UNICAMP,Honourable Mention,18,0,0,0,0,0,1,0,2022: Honourable Mention (UNICAMP),1,Daniel Yamamoto Damico
+BR_062,Daniel de Barros Soares,1,1,0,2012,UFRJ,,UFRJ,Honourable Mention,22,0,0,0,0,0,1,0,2012: Honourable Mention (UFRJ),1,Daniel de Barros Soares
+BR_078,Diêgo Veloso Uchôa,1,1,0,2004,IME,,IME,Honourable Mention,68,0,0,0,0,0,1,0,2004: Honourable Mention (IME),1,Diêgo Veloso Uchôa
+BR_088,Elder Campos,1,1,0,2007,IME,,IME,Honourable Mention,45,0,0,0,0,0,1,0,2007: Honourable Mention (IME),1,Elder Campos
+BR_089,Eli Jacobovicz,1,1,0,2026,IME,,IME,Honourable Mention,22,0,0,0,0,0,1,0,2026: Honourable Mention (IME),1,Eli Jacobovicz
+BR_090,Elton Gomes Coriolano,1,1,0,2007,UNICAMP,,UNICAMP,Honourable Mention,43,0,0,0,0,0,1,0,2007: Honourable Mention (UNICAMP),1,Elton Gomes Coriolano
+BR_094,Eric Carvalho,1,1,0,2013,IME,,IME,Honourable Mention,,0,0,0,0,0,1,0,2013: Honourable Mention (IME),1,Eric Carvalho
+BR_095,Eric Guerra Ribeiro,1,1,0,2023,ITA,,ITA,Honourable Mention,19,0,0,0,0,0,1,0,2023: Honourable Mention (ITA),1,Eric Guerra Ribeiro
+BR_099,Estillac Lins Maciel Borges Filho,1,1,0,2006,ITA,,ITA,Honourable Mention,72,0,0,0,0,0,1,0,2006: Honourable Mention (ITA),1,Estillac Lins Maciel Borges Filho
+BR_101,Everton Reis,1,1,0,2026,FGV,,FGV,Honourable Mention,20,0,0,0,0,0,1,0,2026: Honourable Mention (FGV),1,Everton Reis
+BR_106,Felipe Colar Aizic,1,1,0,2022,UFRJ,,UFRJ,Honourable Mention,11,0,0,0,0,0,1,0,2022: Honourable Mention (UFRJ),1,Felipe Colar Aizic
+BR_114,Fernando Coelho,1,1,0,2012,ITA,,ITA,Honourable Mention,22,0,0,0,0,0,1,0,2012: Honourable Mention (ITA),1,Fernando Coelho
+BR_141,Guilherme Philippe Figueiredo,1,1,0,2010,USP,,USP,Honourable Mention,22,0,0,0,0,0,1,0,2010: Honourable Mention (USP),1,Guilherme Philippe Figueiredo
+BR_156,Ian Ribeiro de Faria Leite,1,1,0,2022,USP,,USP,Honourable Mention,11,0,0,0,0,0,1,0,2022: Honourable Mention (USP),1,Ian Ribeiro de Faria Leite
+BR_161,Isaac Da Silva Mota,1,1,0,2025,USP,,USP,Honourable Mention,23,0,0,0,0,0,1,0,2025: Honourable Mention (USP),1,Isaac Da Silva Mota
+BR_163,Iuri Rezende Souza,1,1,0,2015,UFU,,UFU,Honourable Mention,15,0,0,0,0,0,1,0,2015: Honourable Mention (UFU),1,Iuri Rezende Souza
+BR_165,Ivo Lin,1,1,0,2021,IME,,IME,Honourable Mention,5,0,0,0,0,0,1,0,2021: Honourable Mention (IME),1,Ivo Lin
+BR_168,Jeann Rocha,1,1,0,2022,UFAL,,UFAL,Honourable Mention,8,0,0,0,0,0,1,0,2022: Honourable Mention (UFAL),1,Jeann Rocha
+BR_182,Joao Pedro Ramos Viana Costa,1,1,0,2024,FGV,,FGV,Honourable Mention,25,0,0,0,0,0,1,0,2024: Honourable Mention (FGV),1,Joao Pedro Ramos Viana Costa
+BR_192,Jose Olegario de Oliveira Neto,1,1,0,2014,ITA,,ITA,Honourable Mention,27,0,0,0,0,0,1,0,2014: Honourable Mention (ITA),1,Jose Olegario de Oliveira Neto
+BR_175,João Lucas Rocha Rolim,1,1,0,2022,ITA,,ITA,Honourable Mention,15,0,0,0,0,0,1,0,2022: Honourable Mention (ITA),1,João Lucas Rocha Rolim
+BR_177,João Paulo Vieira Bonifácio,1,1,0,2012,UFU,,UFU,Honourable Mention,16,0,0,0,0,0,1,0,2012: Honourable Mention (UFU),1,João Paulo Vieira Bonifácio
+BR_194,Juan Pablo Lins Tavares de Melo,1,1,0,2024,UFPE,,UFPE,Honourable Mention,21,0,0,0,0,0,1,0,2024: Honourable Mention (UFPE),1,Juan Pablo Lins Tavares de Melo
+BR_195,Julia Perdigão Saltiel,1,1,0,2020,IME,,IME,Honourable Mention,11,0,0,0,0,0,1,0,2020: Honourable Mention (IME),1,Julia Perdigão Saltiel
+BR_199,Kevyn Lacerda,1,1,0,2020,UNICAMP,,UNICAMP,Honourable Mention,11,0,0,0,0,0,1,0,2020: Honourable Mention (UNICAMP),1,Kevyn Lacerda
+BR_205,Leonardo Borges Avelino,1,1,0,2011,IME,,IME,Honourable Mention,21,0,0,0,0,0,1,0,2011: Honourable Mention (IME),1,Leonardo Borges Avelino
+BR_206,Leonardo Carvalho,1,1,0,2011,ITA,,ITA,Honourable Mention,21,0,0,0,0,0,1,0,2011: Honourable Mention (ITA),1,Leonardo Carvalho
+BR_211,Levy Pereira Ribeiro,1,1,0,2023,IME,,IME,Honourable Mention,11,0,0,0,0,0,1,0,2023: Honourable Mention (IME),1,Levy Pereira Ribeiro
+BR_216,Lucas Almeida Oliveira,1,1,0,2025,ITA,,ITA,Honourable Mention,33,0,0,0,0,0,1,0,2025: Honourable Mention (ITA),1,Lucas Almeida Oliveira
+BR_218,Lucas Dantas de Oliveira,1,1,0,2020,UNICAMP,,UNICAMP,Honourable Mention,7,0,0,0,0,0,1,0,2020: Honourable Mention (UNICAMP),1,Lucas Dantas de Oliveira
+BR_220,Lucas Eccard Braga Moraes,1,1,0,2021,IME,,IME,Honourable Mention,5,0,0,0,0,0,1,0,2021: Honourable Mention (IME),1,Lucas Eccard Braga Moraes
+BR_228,Lucas Souza,1,1,0,2012,USP,,USP,Honourable Mention,24,0,0,0,0,0,1,0,2012: Honourable Mention (USP),1,Lucas Souza
+BR_231,Luis Daniel Barbosa Coelho,1,1,0,2005,ITA,,ITA,Honourable Mention,68,0,0,0,0,0,1,0,2005: Honourable Mention (ITA),1,Luis Daniel Barbosa Coelho
+BR_235,Luiz Felipe Marini Silva,1,1,0,2007,ITA,,ITA,Honourable Mention,56,0,0,0,0,0,1,0,2007: Honourable Mention (ITA),1,Luiz Felipe Marini Silva
+BR_234,Luís Fernando Schultz Xavier da Silveira,1,1,0,2010,UFSC,,UFSC,Honourable Mention,26,0,0,0,0,0,1,0,2010: Honourable Mention (UFSC),1,Luís Fernando Schultz Xavier da Silveira
+BR_246,Marcos Paulo de Souza Campanha,1,1,0,2022,IME,,IME,Honourable Mention,10,0,0,0,0,0,1,0,2022: Honourable Mention (IME),1,Marcos Paulo de Souza Campanha
+BR_257,Matheus Fernandes Vivas Silva,1,1,0,2020,IME,,IME,Honourable Mention,11,0,0,0,0,0,1,0,2020: Honourable Mention (IME),1,Matheus Fernandes Vivas Silva
+BR_258,Matheus Henrique Lima E Silva,1,1,0,2024,USP,,USP,Honourable Mention,30,0,0,0,0,0,1,0,2024: Honourable Mention (USP),1,Matheus Henrique Lima E Silva
+BR_260,Matheus Marchesi Hopka,1,1,0,2024,USP,,USP,Honourable Mention,26,0,0,0,0,0,1,0,2024: Honourable Mention (USP),1,Matheus Marchesi Hopka
+BR_263,Maurício Rossetto Corrêa,1,1,0,2024,USP,,USP,Honourable Mention,19,0,0,0,0,0,1,0,2024: Honourable Mention (USP),1,Maurício Rossetto Corrêa
+BR_265,Moyses Cohen,1,1,0,2006,UFRJ,,UFRJ,Honourable Mention,54,0,0,0,0,0,1,0,2006: Honourable Mention (UFRJ),1,Moyses Cohen
+BR_270,Paulo Santana,1,1,0,2026,ITA,,ITA,Honourable Mention,31,0,0,0,0,0,1,0,2026: Honourable Mention (ITA),1,Paulo Santana
+BR_272,Pedro D'Andrea Rosalba,1,1,0,2023,PUC-Rio,,PUC-Rio,Honourable Mention,16,0,0,0,0,0,1,0,2023: Honourable Mention (PUC-Rio),1,Pedro D'Andrea Rosalba
+BR_274,Pedro Duarte,1,1,0,2026,PUC-Rio,,PUC-Rio,Honourable Mention,30,0,0,0,0,0,1,0,2026: Honourable Mention (PUC-Rio),1,Pedro Duarte
+BR_278,Pedro Mariano Viana Neto,1,1,0,2024,USP,,USP,Honourable Mention,29,0,0,0,0,0,1,0,2024: Honourable Mention (USP),1,Pedro Mariano Viana Neto
+BR_308,Rodolfo Collegari,1,1,0,2009,USP,,USP,Honourable Mention,20,0,0,0,0,0,1,0,2009: Honourable Mention (USP),1,Rodolfo Collegari
+BR_311,Rodrigo Damasceno Ranea Orlando,1,1,0,2025,UEL,,UEL,Honourable Mention,29,0,0,0,0,0,1,0,2025: Honourable Mention (UEL),1,Rodrigo Damasceno Ranea Orlando
+BR_318,Samuel Figueredo,1,1,0,2022,UFAL,,UFAL,Honourable Mention,15,0,0,0,0,0,1,0,2022: Honourable Mention (UFAL),1,Samuel Figueredo
+BR_323,Tertuliano Franco Santos Franco,1,1,0,2004,UFBA,,UFBA,Honourable Mention,38,0,0,0,0,0,1,0,2004: Honourable Mention (UFBA),1,Tertuliano Franco Santos Franco
+BR_331,Thiago Zanfolin,1,1,0,2026,ITA,,ITA,Honourable Mention,30,0,0,0,0,0,1,0,2026: Honourable Mention (ITA),1,Thiago Zanfolin
+BR_335,Tiago Vital Garcia,1,1,0,2015,UFRJ,,UFRJ,Honourable Mention,21,0,0,0,0,0,1,0,2015: Honourable Mention (UFRJ),1,Tiago Vital Garcia
+BR_343,Vinícius Arcanjo Fonseca de Oliveira,1,1,0,2025,USP,,USP,Honourable Mention,28,0,0,0,0,0,1,0,2025: Honourable Mention (USP),1,Vinícius Arcanjo Fonseca de Oliveira
+BR_346,Vitor Gabriel Kleine,1,1,0,2008,ITA,,ITA,Honourable Mention,34,0,0,0,0,0,1,0,2008: Honourable Mention (ITA),1,Vitor Gabriel Kleine
+BR_345,Vitor de Azevedo Meneses,1,1,0,2022,ITA,,ITA,Honourable Mention,19,0,0,0,0,0,1,0,2022: Honourable Mention (ITA),1,Vitor de Azevedo Meneses
+BR_348,Vitória Aparecida Santos Ferreira,1,1,0,2021,UNICAMP,,UNICAMP,Honourable Mention,8,0,0,0,0,0,1,0,2021: Honourable Mention (UNICAMP),1,Vitória Aparecida Santos Ferreira
+BR_018,Ângelo de Carvalho Nunes,1,1,0,2024,ITA,,ITA,Honourable Mention,25,0,0,0,0,0,1,0,2024: Honourable Mention (ITA),1,Ângelo de Carvalho Nunes
+BR_126,Gabriel Oliveira,2,2,0,"2020, 2022",UFAL,,UFAL,Certificate,4,0,0,0,0,0,0,2,2020: Certificate (UFAL); 2022: Certificate (UFAL),1,Gabriel Oliveira
+BR_337,Victor Brandão André de Medeiros Ribeiro,2,2,0,"2025, 2026",PUC-Rio,,PUC-Rio,Certificate,18,0,0,0,0,0,0,2,2025: Certificate (PUC-Rio); 2026: Certificate (PUC-Rio),2,Victor Brandão André de Medeiros Ribeiro; Victor Brandão
+BR_021,Antonio Batista,1,1,0,2026,FGV,,FGV,Certificate,12,0,0,0,0,0,0,1,2026: Certificate (FGV),1,Antonio Batista
+BR_022,Antonio Martins Sasaki,1,1,0,2022,UFRJ,,UFRJ,Certificate,0,0,0,0,0,0,0,1,2022: Certificate (UFRJ),1,Antonio Martins Sasaki
+BR_032,Brenno Pimentel Zanandrea,1,1,0,2025,IME,,IME,Certificate,10,0,0,0,0,0,0,1,2025: Certificate (IME),1,Brenno Pimentel Zanandrea
+BR_057,Clarice Barros,1,1,0,2026,IME,,IME,Certificate,15,0,0,0,0,0,0,1,2026: Certificate (IME),1,Clarice Barros
+BR_063,Daniel Fleischman,1,1,0,2007,PUC-Rio,,PUC-Rio,Certificate,36,0,0,0,0,0,0,1,2007: Certificate (PUC-Rio),1,Daniel Fleischman
+BR_064,Daniel Marc Gradin Salah,1,1,0,2021,PUC-Rio,,PUC-Rio,Certificate,0,0,0,0,0,0,0,1,2021: Certificate (PUC-Rio),1,Daniel Marc Gradin Salah
+BR_079,Dilmar Aparecido Castanheiro,1,1,0,2026,FGV,,FGV,Certificate,15,0,0,0,0,0,0,1,2026: Certificate (FGV),1,Dilmar Aparecido Castanheiro
+BR_091,Enos Carvalho Mota,1,1,0,2020,UNICAMP,,UNICAMP,Certificate,0,0,0,0,0,0,0,1,2020: Certificate (UNICAMP),1,Enos Carvalho Mota
+BR_092,Enzo Moriyama,1,1,0,2010,USP,,USP,Certificate,16,0,0,0,0,0,0,1,2010: Certificate (USP),1,Enzo Moriyama
+BR_112,Felipe Oliveira,1,1,0,2020,PUC-Rio,,PUC-Rio,Certificate,4,0,0,0,0,0,0,1,2020: Certificate (PUC-Rio),1,Felipe Oliveira
+BR_113,Felipi Adenildo Soares Sousa,1,1,0,2021,USP,,USP,Certificate,0,0,0,0,0,0,0,1,2021: Certificate (USP),1,Felipi Adenildo Soares Sousa
+BR_117,Francisco de Mello Calderaro,1,1,0,2020,UNICAMP,,UNICAMP,Certificate,0,0,0,0,0,0,0,1,2020: Certificate (UNICAMP),1,Francisco de Mello Calderaro
+BR_133,Gerson Ferreira Santos Junior,1,1,0,2022,UFAL,,UFAL,Certificate,2,0,0,0,0,0,0,1,2022: Certificate (UFAL),1,Gerson Ferreira Santos Junior
+BR_155,Iago Figueirêdo,1,1,0,2021,UFBA,,UFBA,Certificate,1,0,0,0,0,0,0,1,2021: Certificate (UFBA),1,Iago Figueirêdo
+BR_166,Jackson Breno Gomes Ferreira,1,1,0,2021,USP,,USP,Certificate,0,0,0,0,0,0,0,1,2021: Certificate (USP),1,Jackson Breno Gomes Ferreira
+BR_197,Kauan Kevem Sousa Farias,1,1,0,2025,FGV,,FGV,Certificate,13,0,0,0,0,0,0,1,2025: Certificate (FGV),1,Kauan Kevem Sousa Farias
+BR_207,Leonardo de Araujo Duarte,1,1,0,2020,IME,,IME,Certificate,3,0,0,0,0,0,0,1,2020: Certificate (IME),1,Leonardo de Araujo Duarte
+BR_222,Lucas Hiroshi dos Santos Nakagawa,1,1,0,2022,UFAL,,UFAL,Certificate,0,0,0,0,0,0,0,1,2022: Certificate (UFAL),1,Lucas Hiroshi dos Santos Nakagawa
+BR_227,Lucas Sousa,1,1,0,2018,ITA,,ITA,Certificate,4,0,0,0,0,0,0,1,2018: Certificate (ITA),1,Lucas Sousa
+BR_249,Marina Oliveira,1,1,0,2022,UFAL,,UFAL,Certificate,0,0,0,0,0,0,0,1,2022: Certificate (UFAL),1,Marina Oliveira
+BR_251,Mateus Marcato de Andrade,1,1,0,2025,IME,,IME,Certificate,17,0,0,0,0,0,0,1,2025: Certificate (IME),1,Mateus Marcato de Andrade
+BR_256,Matheus Carneiro Leão Nasi,1,1,0,2020,UFPE,,UFPE,Certificate,3,0,0,0,0,0,0,1,2020: Certificate (UFPE),1,Matheus Carneiro Leão Nasi
+BR_268,Pablo Moreno Souto de Melo,1,1,0,2022,FGV,,FGV,Certificate,4,0,0,0,0,0,0,1,2022: Certificate (FGV),1,Pablo Moreno Souto de Melo
+BR_273,Pedro Duailibe,1,1,0,2026,FGV,,FGV,Certificate,0,0,0,0,0,0,0,1,2026: Certificate (FGV),1,Pedro Duailibe
+BR_296,Raphael Constant,1,1,0,2008,ITA,,ITA,Certificate,8,0,0,0,0,0,0,1,2008: Certificate (ITA),1,Raphael Constant
+BR_310,Rodrigo Barcellos,1,1,0,2011,IME,,IME,Certificate,11,0,0,0,0,0,0,1,2011: Certificate (IME),1,Rodrigo Barcellos
+BR_317,Ruan Pablo Rodrigues,1,1,0,2025,IME,,IME,Certificate,14,0,0,0,0,0,0,1,2025: Certificate (IME),1,Ruan Pablo Rodrigues
+BR_334,Tiago Fonseca,1,1,0,2010,USP,,USP,Certificate,12,0,0,0,0,0,0,1,2010: Certificate (USP),1,Tiago Fonseca
+BR_339,Victor dos Santos,1,1,0,2021,UFSCar,,UFSCar,Certificate,0,0,0,0,0,0,0,1,2021: Certificate (UFSCar),1,Victor dos Santos
+BR_344,Vinícius Pinheiro Bento,1,1,0,2020,UFMG,,UFMG,Certificate,2,0,0,0,0,0,0,1,2020: Certificate (UFMG),1,Vinícius Pinheiro Bento
+BR_096,Érick Riquelmy,1,1,0,2026,PUC-Rio,,PUC-Rio,Certificate,15,0,0,0,0,0,0,1,2026: Certificate (PUC-Rio),1,Érick Riquelmy

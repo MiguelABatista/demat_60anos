@@ -2,8 +2,8 @@
 __pycache__/
 *.pyc
 *.pyo
-*.csv
 .env
-.venv
 .~lock.*
-files/*
+
+# PDFs oficiais baixados (~52 MB) — re-baixáveis com scripts/download_imc_pdfs.py
+data/raw/pdf/

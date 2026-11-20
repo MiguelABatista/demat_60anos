@@ -7,7 +7,8 @@ from pathlib import Path
 
 import pandas as pd
 
-OUTPUT_DIR = Path("imc_results")
+ROOT_DIR = Path(__file__).resolve().parent.parent
+OUTPUT_DIR = ROOT_DIR / "data" / "processed" / "by_year"
 
 VALID_PRIZES = {
     "Grand Grand First Prize",

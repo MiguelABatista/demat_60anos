@@ -1,0 +1,325 @@
+Year,Pos,First name,Family name,Full name,University,Team,City,Country,Code_D1,D1_P1,D1_P2,D1_P3,D1_P4,D1_P5,D1_P6,Day1,Code_D2,D2_P1,D2_P2,D2_P3,D2_P4,D2_P5,D2_P6,Day2,Sum,Prize,Prize_raw
+2014,1,Yoav,Krauz,Yoav Krauz,Israeli national team - Tel Aviv University,,,,237,10,10,10,10,8,,48,204,9,10,10,8,10,,47,95,Grand First Prize,grand first prize
+2014,2,Attila,Dankovics,Attila Dankovics,"Eötvös Loránd University, Budapest",,,,34,10,10,10,10,10,,50,43,10,10,10,3,10,,43,93,Grand First Prize,grand first prize
+2014,3,Tom,Kalvari,Tom Kalvari,Israeli national team - Tel Aviv University,,,,261,10,10,10,10,10,,50,215,10,10,10,0,10,,40,90,First Prize,first prize
+2014,4,Martin,Vodi?ka,Martin Vodi?ka,"Comenius University, Bratislava",,,,93,10,10,10,10,10,,50,3,10,10,0,10,10,,40,90,First Prize,first prize
+2014,5,Omri Nisan,Solan,Omri Nisan Solan,Israeli national team - Tel Aviv University,,,,134,10,9,10,10,10,,49,141,10,10,2,8,10,,40,89,First Prize,first prize
+2014,6,Lisa,Sauermann,Lisa Sauermann,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,171,10,10,10,10,10,,50,305,10,10,0,8,10,,38,88,First Prize,first prize
+2014,7,Alexey,Balitskiy,Alexey Balitskiy,Moscow Institute of Physics and Technology,,,,76,10,10,10,0,10,,40,16,10,10,10,8,6,,44,84,First Prize,first prize
+2014,8,Otte,Heinävaara,Otte Heinävaara,University of Helsinki,,,,266,10,10,10,10,10,,50,177,10,10,10,1,3,,34,84,First Prize,first prize
+2014,9,Nitzan,Tur,Nitzan Tur,Israeli national team - Technion,,,,136,10,10,10,2,6,,38,135,10,10,10,6,10,,46,84,First Prize,first prize
+2014,10,Anton,Bernshteyn,Anton Bernshteyn,Novosibirsk StateUuniversity,,,,52,10,10,10,2,2,,34,61,10,10,9,10,10,,49,83,First Prize,first prize
+2014,11,Oleksandr,Tytchenko,Oleksandr Tytchenko,Odessa National Mechnikov University,,,,113,10,10,10,10,10,,50,114,10,10,10,3,,,33,83,First Prize,first prize
+2014,12,Victor,Omelyanenko,Victor Omelyanenko,Lomonosov Moscow State University,,,,312,10,10,10,10,10,,50,257,10,10,10,2,,,32,82,First Prize,first prize
+2014,13,Budimir,Baev,Budimir Baev,Saint Petersburg State University,,,,16,10,10,10,10,10,,50,55,10,10,2,8,,,30,80,First Prize,first prize
+2014,14,Mikhail,Grigorev,Mikhail Grigorev,Moscow Institute of Physics and Technology,,,,228,10,10,10,10,6,,46,153,10,10,0,4,10,,34,80,First Prize,first prize
+2014,15,Szymon,Kanonowicz,Szymon Kanonowicz,Warsaw University,,,,153,10,10,10,2,10,,42,232,10,10,0,8,10,,38,80,First Prize,first prize
+2014,16,Alexander,Tsigler,Alexander Tsigler,Moscow Institute of Physics and Technology,,,,123,10,10,10,10,4,,44,119,10,10,10,,6,,36,80,First Prize,first prize
+2014,17,János,Nagy,János Nagy,"Eötvös Loránd University, Budapest",,,,207,10,10,9,10,,,39,293,10,10,9,0,10,,39,78,First Prize,first prize
+2014,18,Miroslav,Olsak,Miroslav Olsak,"Charles University, Prague",,,,148,9,9,10,0,9,,37,299,10,10,,9,10,,39,76,First Prize,first prize
+2014,19,Artsem,Zhuk,Artsem Zhuk,Moscow Institute of Physics and Technology,,,,122,5,10,10,10,10,,45,133,10,10,1,0,10,,31,76,First Prize,first prize
+2014,20,Fedor,Ivlev,Fedor Ivlev,Lomonosov Moscow State University,,,,303,10,10,10,10,4,,44,256,10,10,9,2,,,31,75,First Prize,first prize
+2014,21,Amotz,Oppenheim,Amotz Oppenheim,Israeli national team - Tel Aviv University,,,,173,10,10,10,10,3,,43,322,10,9,10,2,1,,32,75,First Prize,first prize
+2014,22,Lyndon,Ji,Lyndon Ji,Yale University,,,,260,5,10,10,10,0,,35,200,10,10,10,,9,,39,74,First Prize,first prize
+2014,23,Bohdan,Kivva,Bohdan Kivva,Taras Shevchenko National University of Kyiv,,,,244,10,10,10,10,6,,46,197,10,9,1,7,,,27,73,First Prize,first prize
+2014,24,Bertalan,Bodor,Bertalan Bodor,"Eötvös Loránd University, Budapest",,,,262,10,10,10,10,,,40,54,10,10,10,2,,,32,72,First Prize,first prize
+2014,25,Mikhail,Kurenkov,Mikhail Kurenkov,Moscow Institute of Physics and Technology,,,,322,10,8,8,10,2,,38,109,10,10,8,0,6,,34,72,First Prize,first prize
+2014,26,Jens,Reinhold,Jens Reinhold,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,160,10,10,10,10,6,,46,313,10,10,3,3,,,26,72,First Prize,first prize
+2014,27,Vitaly,Aksenov,Vitaly Aksenov,University ITMO,,,,19,10,9,10,10,0,,39,79,10,10,2,0,10,,32,71,First Prize,first prize
+2014,28,Bertram,Arnold,Bertram Arnold,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,15,10,10,10,10,0,,40,60,10,10,10,1,,,31,71,First Prize,first prize
+2014,29,Donát,Nagy,Donát Nagy,"Eötvös Loránd University, Budapest",,,,305,10,10,,10,10,,40,309,10,10,1,0,10,,31,71,First Prize,first prize
+2014,30,Aleksandr,Ostanin,Aleksandr Ostanin,Moscow Institute of Physics and Technology,,,,250,10,10,10,10,2,,42,222,10,10,9,0,,,29,71,First Prize,first prize
+2014,31,Maksym,Chaudkhari,Maksym Chaudkhari,Taras Shevchenko National University of Kyiv,,,,20,10,10,10,10,0,,40,47,10,10,10,0,,,30,70,First Prize,first prize
+2014,32,Francisco,Gomez Hernandez,Francisco Gomez Hernandez,Universidad de Guanajuato/CIMAT,,,,289,10,10,10,10,0,,40,155,10,10,10,0,,,30,70,First Prize,first prize
+2014,33,Teodor,Jerzak,Teodor Jerzak,Jagiellonian University,,,,259,10,10,10,10,0,,40,189,10,10,10,0,,,30,70,First Prize,first prize
+2014,34,Ander,Lamaison Vidarte,Ander Lamaison Vidarte,Barcelona Tech,,,,264,10,10,10,10,,,40,186,10,10,0,10,,,30,70,First Prize,first prize
+2014,35,Konstantin,Tyshchuk,Konstantin Tyshchuk,Saint Petersburg State University,,,,103,10,10,10,10,0,,40,116,10,10,10,0,,,30,70,First Prize,first prize
+2014,36,André,Costa,André Costa,Universidade Federal de Minas Gerais,,,,86,10,10,10,10,,,40,78,10,10,9,,,,29,69,First Prize,first prize
+2014,37,Mina,Dalirrooyfard,Mina Dalirrooyfard,Sharif University of Technology,,,,43,10,7,0,10,2,,29,67,10,10,8,9,3,,40,69,First Prize,first prize
+2014,38,Henrique,Nascimento,Henrique Nascimento,ITA  Instituto Tecnologico de Aeronautica,,,,226,10,10,9,10,0,,39,221,10,10,10,0,0,,30,69,First Prize,first prize
+2014,39,Stijn,Cambie,Stijn Cambie,KU Leuven,,,,63,10,10,10,10,6,,46,53,10,10,2,0,0,,22,68,First Prize,first prize
+2014,40,Aleksandr,Golovanov,Aleksandr Golovanov,Moscow Institute of Physics and Technology,,,,257,10,10,10,3,4,,37,208,10,10,2,0,9,,31,68,First Prize,first prize
+2014,41,Ian Andrei,Gleason Freidberg,Ian Andrei Gleason Freidberg,Universidad Nacional Autónoma de México,,,,168,10,10,9,8,,,37,315,10,10,2,,8,,30,67,First Prize,first prize
+2014,42,Danil,Karpushkin,Danil Karpushkin,Moscow Institute of Physics and Technology,,,,230,9,8,0,10,6,,33,211,10,10,0,2,10,,32,65,First Prize,first prize
+2014,43,Peyman,Shahbazi Dastjerdeh,Peyman Shahbazi Dastjerdeh,Isfahan University of Technology,,,,302,10,10,10,2,0,,32,255,10,10,3,0,10,,33,65,First Prize,first prize
+2014,44,Moh. Yasya Bahrul,Ulum,Moh. Yasya Bahrul Ulum,Institut Teknologi Sepuluh Nopember,,,,108,10,9,10,10,,,39,117,10,5,9,0,2,,26,65,First Prize,first prize
+2014,45,Ondrej,Bartos,Ondrej Bartos,"Charles University, Prague",,,,48,10,10,10,0,4,,34,46,10,10,0,0,10,,30,64,First Prize,first prize
+2014,46,Sergey,Chuvashov,Sergey Chuvashov,University ITMO,,,,13,10,10,10,10,4,,44,90,10,10,0,0,,,20,64,First Prize,first prize
+2014,47,Anatoly,Kulikov,Anatoly Kulikov,Saint Petersburg State University,,,,170,10,10,10,10,,,40,214,10,10,2,0,2,,24,64,First Prize,first prize
+2014,48,Matko,Ljulj,Matko Ljulj,University of Zagreb,,,,232,10,10,10,2,,,32,1,10,10,10,2,0,,32,64,First Prize,first prize
+2014,49,Uladzislau,Sataneuski,Uladzislau Sataneuski,Belarusian State University,,,,155,10,10,10,,4,,34,303,10,10,0,,10,,30,64,First Prize,first prize
+2014,50,Tim,Seynnaeve,Tim Seynnaeve,Ghent University,,,,158,10,7,10,10,0,,37,311,10,9,8,0,,,27,64,First Prize,first prize
+2014,51,Denis,Ovchinnikov,Denis Ovchinnikov,Novosibirsk StateUuniversity,,,,272,10,10,10,10,2,,42,173,10,10,0,1,0,,21,63,First Prize,first prize
+2014,52,Simon,Buchholz,Simon Buchholz,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,71,10,10,10,2,,,32,17,10,10,0,0,10,,30,62,First Prize,first prize
+2014,53,Aliaksandr,Kazlou,Aliaksandr Kazlou,Belarusian State University,,,,174,10,10,10,,2,,32,297,10,10,0,0,10,,30,62,First Prize,first prize
+2014,54,Kyrylo,Muliarchyk,Kyrylo Muliarchyk,Taras Shevchenko National University of Kyiv,,,,191,10,8,6,2,3,,29,295,10,10,0,6,7,,33,62,First Prize,first prize
+2014,55,Mykyta,Shchehlov,Mykyta Shchehlov,Taras Shevchenko National University of Kyiv,,,,176,10,10,10,10,,,40,324,10,10,2,0,,,22,62,First Prize,first prize
+2014,56,Michal,Tóth,Michal Tóth,"Comenius University, Bratislava",,,,98,10,10,10,10,,,40,118,10,10,,2,,,22,62,First Prize,first prize
+2014,57,Olimjoni,Pirakhmad,Olimjoni Pirakhmad,Tajik National University,,,,320,10,10,9,10,,,39,258,10,10,2,,,,22,61,First Prize,first prize
+2014,58,Maria,Ryabtseva,Maria Ryabtseva,Lomonosov Moscow State University,,,,143,10,7,10,2,3,,32,306,10,10,9,0,0,,29,61,First Prize,first prize
+2014,59,AmirAli,Saghaei,AmirAli Saghaei,Shahid Beheshti University,,,,307,10,8,,,4,,22,259,10,9,10,,10,,39,61,First Prize,first prize
+2014,60,Daniel,Strzelecki,Daniel Strzelecki,Nicolaus Copernicus University,,,,94,10,10,10,,,,30,2,10,10,10,1,,,31,61,First Prize,first prize
+2014,61,Aleksandar,Bulj,Aleksandar Bulj,University of Zagreb,,,,28,10,10,10,0,0,,30,62,10,10,10,,,,30,60,First Prize,first prize
+2014,62,Jakub,Koncki,Jakub Koncki,Warsaw University,,,,213,10,10,10,10,,,40,230,10,10,0,0,,,20,60,First Prize,first prize
+2014,63,Marin,Petkovi?,Marin Petkovi?,University of Zagreb,,,,276,10,10,10,0,,,30,147,10,10,10,0,,,30,60,First Prize,first prize
+2014,64,Orestis,Plevrakis,Orestis Plevrakis,national technical university of athens,,,,112,10,10,10,,,,30,105,10,10,10,,,,30,60,First Prize,first prize
+2014,65,Pedram,Safaee,Pedram Safaee,Sharif University of Technology,,,,145,10,10,9,0,0,,29,310,10,10,10,0,1,,31,60,First Prize,first prize
+2014,66,Anastasiya,Tanana,Anastasiya Tanana,University of Primorska,,,,107,10,10,10,10,,,40,124,10,10,0,,,,20,60,First Prize,first prize
+2014,67,Joni,Teräväinen,Joni Teräväinen,University of Helsinki,,,,110,10,10,10,10,0,,40,203,10,10,0,,,,20,60,First Prize,first prize
+2014,68,Borna,Vukorepa,Borna Vukorepa,University of Zagreb,,,,96,10,10,10,10,0,,40,11,10,10,0,,0,,20,60,First Prize,first prize
+2014,69,Simon,Bergant,Simon Bergant,University of Ljubljana,,,,17,10,10,0,9,,,29,86,10,10,10,0,,,30,59,Second Prize,second prize
+2014,70,Andrew,Deveau,Andrew Deveau,Yale University,,,,23,10,10,0,10,,,30,23,10,10,9,,,,29,59,Second Prize,second prize
+2014,71,J?drzej,Garnek,J?drzej Garnek,Adam Mickiewicz University,,,,189,10,9,10,0,,,29,304,10,10,0,,10,,30,59,Second Prize,second prize
+2014,72,Rafael,Miyazaki,Rafael Miyazaki,Pontificia Universidade Católica do Rio de Janeiro,,,,214,9,9,10,0,0,,28,250,10,10,0,1,10,,31,59,Second Prize,second prize
+2014,73,Marcelo,Sales,Marcelo Sales,Universidade de São Paulo,,,,325,10,10,0,10,2,,32,267,10,10,0,1,6,,27,59,Second Prize,second prize
+2014,74,Yoshua,Yonatan Hamonangan,Yoshua Yonatan Hamonangan,Indonesia University,,,,197,10,10,10,1,0,,31,286,10,10,8,0,0,,28,59,Second Prize,second prize
+2014,75,Danylo,Khilko,Danylo Khilko,Taras Shevchenko National University of Kyiv,,,,265,8,10,8,4,,,30,188,10,10,8,,,,28,58,Second Prize,second prize
+2014,76,Oscar Zamora,Luna,Oscar Zamora Luna,Universidad de Costa Rica,,,,135,10,5,10,1,2,,28,107,10,10,0,2,8,,30,58,Second Prize,second prize
+2014,77,Dylan,Nelson,Dylan Nelson,University of Cape Town,,,,190,10,10,10,9,,,39,298,10,9,0,0,,,19,58,Second Prize,second prize
+2014,78,Robert,Spencer,Robert Spencer,University of Cape Town,,,,106,10,6,10,2,0,,28,108,10,10,0,0,10,,30,58,Second Prize,second prize
+2014,79,Yoan,Delchev,Yoan Delchev,University of Warwick,,,,41,9,9,10,0,,,28,264,9,10,0,,10,,29,57,Second Prize,second prize
+2014,80,Kende,Kalina,Kende Kalina,"Eötvös Loránd University, Budapest",,,,316,10,10,,2,6,,28,196,10,10,0,5,4,,29,57,Second Prize,second prize
+2014,81,István,Kovács,István Kovács,Budapest University of Technology and Economics,,,,179,10,10,10,0,2,,32,288,10,10,1,4,,,25,57,Second Prize,second prize
+2014,82,Aleksandr,Matushkin,Aleksandr Matushkin,Moscow Institute of Physics and Technology,,,,227,9,10,10,2,2,,33,205,10,10,1,3,0,,24,57,Second Prize,second prize
+2014,83,Guy,Raveh,Guy Raveh,Israeli national team - Technion,,,,186,10,10,10,2,,,32,312,10,10,2,3,,,25,57,Second Prize,second prize
+2014,84,Robin,Fritsch,Robin Fritsch,University of Göttingen,,,,66,10,6,10,10,0,,36,25,10,9,0,1,,,20,56,Second Prize,second prize
+2014,85,Marcin,Lara,Marcin Lara,Jagiellonian University,,,,234,10,7,10,10,,,37,220,10,9,0,0,,,19,56,Second Prize,second prize
+2014,86,Danila,Cherkashin,Danila Cherkashin,Saint Petersburg State University,,,,18,8,8,10,,8,,34,45,8,10,0,3,,,21,55,Second Prize,second prize
+2014,87,Edward Leonardo,Coto Mora,Edward Leonardo Coto Mora,Universidad de Costa Rica,,,,78,8,10,1,10,,,29,20,10,10,6,,,,26,55,Second Prize,second prize
+2014,88,Marc,Felipe Alsina,Marc Felipe Alsina,Barcelona Tech,,,,26,10,10,10,2,3,,35,24,10,10,0,,0,,20,55,Second Prize,second prize
+2014,89,G. R. B. R.,Gamlath,G. R. B. R. Gamlath,University of Moratuwa,,,,281,10,10,3,10,0,,33,171,10,10,2,0,,,22,55,Second Prize,second prize
+2014,90,Tigran,Hakobyan,Tigran Hakobyan,Yerevan State University,,,,254,10,10,2,10,,,32,207,10,10,3,,0,,23,55,Second Prize,second prize
+2014,91,Davood,Khajehpour Tadevani,Davood Khajehpour Tadevani,University of Tehran,,,,154,10,8,,10,0,,28,224,10,10,0,,6,,26,54,Second Prize,second prize
+2014,92,Naomi,Kraushar,Naomi Kraushar,University College London,,,,245,10,10,10,2,,,32,176,10,10,2,,,,22,54,Second Prize,second prize
+2014,93,Szymon,Kubicius,Szymon Kubicius,Warsaw University,,,,215,9,5,10,9,,,33,323,10,10,,1,,,21,54,Second Prize,second prize
+2014,94,Richárd,Palincza,Richárd Palincza,Budapest University of Technology and Economics,,,,146,10,10,0,2,2,,24,233,10,10,0,0,10,,30,54,Second Prize,second prize
+2014,95,Roman,Pochevin,Roman Pochevin,Lomonosov Moscow State University,,,,275,10,10,10,2,1,,33,164,10,10,0,1,,,21,54,Second Prize,second prize
+2014,96,Óscar,Rivero Salgado,Óscar Rivero Salgado,Barcelona Tech,,,,241,10,10,4,10,0,,34,190,10,9,1,,,,20,54,Second Prize,second prize
+2014,97,Florian,Schweiger,Florian Schweiger,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,152,10,10,10,2,2,,34,317,10,10,0,0,0,,20,54,Second Prize,second prize
+2014,98,Matej,Aleksandrov,Matej Aleksandrov,University of Ljubljana,,,,65,10,10,0,10,2,,32,39,10,10,0,1,,,21,53,Second Prize,second prize
+2014,99,Eduard,Curca,Eduard Curca,Alexandru Ioan Cuza Iasi,,,,64,10,10,10,2,0,,32,31,10,10,1,,0,,21,53,Second Prize,second prize
+2014,100,Gheorghe,Pupazan,Gheorghe Pupazan,American University in Bulgaria,,,,132,9,10,10,2,0,,31,140,10,10,2,0,,,22,53,Second Prize,second prize
+2014,101,Palvan,Agamyradov,Palvan Agamyradov,Magtymguly Turkmen State University,,,,36,9,10,1,10,,,30,83,10,9,2,,1,,22,52,Second Prize,second prize
+2014,102,Filip,Hanzely,Filip Hanzely,"Comenius University, Bratislava",,,,242,10,9,10,0,4,,33,178,10,9,0,0,0,,19,52,Second Prize,second prize
+2014,103,Daniil,Hayrapetyan,Daniil Hayrapetyan,Yerevan State University,,,,255,4,10,9,0,,,23,218,9,10,10,,,,29,52,Second Prize,second prize
+2014,104,Dariusz,Matlak,Dariusz Matlak,Jagiellonian University,,,,252,10,9,10,0,2,,31,199,10,10,1,,,,21,52,Second Prize,second prize
+2014,105,Daniel,Perales Anaya,Daniel Perales Anaya,Universidad Nacional Autónoma de México,,,,157,10,10,10,0,,,30,244,10,10,2,,,,22,52,Second Prize,second prize
+2014,106,Thiago,Pinheiro,Thiago Pinheiro,USP,,,,299,10,6,8,2,2,,28,277,10,3,,1,10,,24,52,Second Prize,second prize
+2014,107,Mikhail,Surin,Mikhail Surin,Moscow Institute of Physics and Technology,,,,111,10,9,10,,4,,33,102,9,10,,0,,,19,52,Second Prize,second prize
+2014,108,Cássio Henrique,Vieira Morais,Cássio Henrique Vieira Morais,Universidade Federal de Minas Gerais,,,,90,10,8,2,10,0,,30,66,10,10,2,0,,,22,52,Second Prize,second prize
+2014,109,Nastasha,Wijers,Nastasha Wijers,Universiteit van Amsterdam,,,,133,10,10,10,0,2,,32,138,10,10,0,0,0,,20,52,Second Prize,second prize
+2014,110,Wai,Wong,Wai Wong,Newcastle University,,,,129,10,8,3,,0,,21,139,10,9,7,0,5,,31,52,Second Prize,second prize
+2014,111,Stoyan,Apostolov,Stoyan Apostolov,Sofia University,,,,40,10,10,0,10,,,30,52,9,10,2,,,,21,51,Second Prize,second prize
+2014,112,Davi,Lopes Mederos,Davi Lopes Mederos,Univerdidade Federal do Ceará,,,,273,10,10,0,10,2,,32,184,10,9,0,0,0,,19,51,Second Prize,second prize
+2014,113,Bart,Michels,Bart Michels,Ghent University,,,,185,8,10,10,2,0,,30,191,10,10,0,0,1,,21,51,Second Prize,second prize
+2014,114,Vincent Julius,Sommer,Vincent Julius Sommer,University of Göttingen,,,,128,10,10,10,0,,,30,120,10,10,,1,,,21,51,Second Prize,second prize
+2014,115,Benedict,Bauer,Benedict Bauer,University of Innsbruck,,,,4,10,10,10,,,,30,85,10,10,0,,,,20,50,Second Prize,second prize
+2014,116,Josha,Box,Josha Box,Universiteit van Amsterdam,,,,55,10,10,0,,,,20,87,10,10,10,0,0,,30,50,Second Prize,second prize
+2014,117,Glauber,Guarinello,Glauber Guarinello,ITA - Instituto Tecnologico de Aeronautica,,,,253,8,10,10,,0,,28,182,10,10,2,,0,,22,50,Second Prize,second prize
+2014,118,Mohammadreza,Haghpanah,Mohammadreza Haghpanah,Shahid Beheshti University,,,,311,10,10,0,0,0,,20,261,10,10,10,0,,,30,50,Second Prize,second prize
+2014,119,Rovshen,Hajyyev,Rovshen Hajyyev,Magtymguly Turkmen State University,,,,142,10,10,0,0,0,,20,246,10,10,9,,1,,30,50,Second Prize,second prize
+2014,120,Mahdi,Mahbobimatin,Mahdi Mahbobimatin,Shahid Beheshti University,,,,300,10,10,0,,,,20,276,10,10,10,,,,30,50,Second Prize,second prize
+2014,121,Letícia,Mattos,Letícia Mattos,Universidade Federal de Minas Gerais,,,,256,10,9,1,,,,20,216,10,10,10,,,,30,50,Second Prize,second prize
+2014,122,Jules,Metcalf-Burton,Jules Metcalf-Burton,Budapest Semesters in Mathematics,,,,280,10,,10,0,,,20,112,10,10,,,10,,30,50,Second Prize,second prize
+2014,123,Eric,Milesi Vidal,Eric Milesi Vidal,Barcelona Tech,,,,216,10,10,10,,,,30,301,10,10,,0,,,20,50,Second Prize,second prize
+2014,124,Veno,Mramor,Veno Mramor,University of Ljubljana,,,,284,10,10,,10,0,,30,181,10,10,0,0,,,20,50,Second Prize,second prize
+2014,125,Alibek,Sailanbayev,Alibek Sailanbayev,"Nazarbayev University, Astana",,,,205,10,10,8,10,0,,38,290,10,2,0,,,,12,50,Second Prize,second prize
+2014,126,Janusz,Schmude,Janusz Schmude,Nicolaus Copernicus University,,,,162,10,10,,,2,,22,318,10,10,,8,,,28,50,Second Prize,second prize
+2014,127,Igor,Voulis,Igor Voulis,Ghent University,,,,126,10,10,10,0,,,30,12,10,10,0,,,,20,50,Second Prize,second prize
+2014,128,Jon Asier,Bárcena-Petisco,Jon Asier Bárcena-Petisco,University of the Basque Country UPV/EHU,,,,21,10,9,10,0,,,29,96,10,10,0,,,,20,49,Second Prize,second prize
+2014,129,Johan,Chrisnata,Johan Chrisnata,Nanyang Technological University,,,,79,10,7,10,0,0,,27,22,10,10,2,0,0,,22,49,Second Prize,second prize
+2014,130,Lucas,Colucci,Lucas Colucci,University of São Paulo,,,,121,10,10,0,8,,,28,143,10,10,,0,1,,21,49,Second Prize,second prize
+2014,131,David,Hruska,David Hruska,"Charles University, Prague",,,,149,9,10,10,,,,29,183,10,10,,,,,20,49,Second Prize,second prize
+2014,132,Amir,Kafshdar Goharshady,Amir Kafshdar Goharshady,Yazd University of Iran,,,,294,10,9,10,3,,,32,252,10,0,0,3,4,,17,49,Second Prize,second prize
+2014,133,Philip,Miller,Philip Miller,University of Göttingen,,,,270,10,10,0,0,0,,20,166,9,10,,0,10,,29,49,Second Prize,second prize
+2014,134,Niloufar,Ahmadypour,Niloufar Ahmadypour,Isfahan University of Technology,,,,50,10,9,9,0,,,28,73,10,10,0,,,,20,48,Second Prize,second prize
+2014,135,Fernando,Fonseca Andrade Oliveira,Fernando Fonseca Andrade Oliveira,ITA  Instituto Tecnologico de Aeronautica,,,,32,5,10,0,10,3,,28,29,10,10,,0,,,20,48,Second Prize,second prize
+2014,136,Adrián,Franco Rubio,Adrián Franco Rubio,Universidad de Zaragoza,,,,87,10,7,10,1,,,28,15,10,10,0,0,,,20,48,Second Prize,second prize
+2014,137,Javlon,Isomurodov,Javlon Isomurodov,University ITMO,,,,138,8,10,0,0,,,18,226,10,10,,,10,,30,48,Second Prize,second prize
+2014,138,Konstantinos,Kartas,Konstantinos Kartas,Aristotle University of Thessaloniki,,,,321,8,10,10,0,,,28,265,10,10,0,,,,20,48,Second Prize,second prize
+2014,139,Matej,Petkovic,Matej Petkovic,University of Ljubljana,,,,104,10,10,10,0,0,,30,123,8,10,0,,0,,18,48,Second Prize,second prize
+2014,140,Kostas,Psaromiligkos,Kostas Psaromiligkos,National and Kapodistrian University of Athens,,,,99,10,6,10,0,2,,28,115,10,10,0,0,0,,20,48,Second Prize,second prize
+2014,141,Thiago,Ribeiro Ramos,Thiago Ribeiro Ramos,ITA  Instituto Tecnologico de Aeronautica,,,,167,10,6,10,0,2,,28,225,10,10,0,,,,20,48,Second Prize,second prize
+2014,142,Aitor,Alonso,Aitor Alonso,Universidad Complutense de Madrid,,,,67,10,6,,,,,16,36,10,10,,1,10,,31,47,Second Prize,second prize
+2014,143,Pramudya,Ananto,Pramudya Ananto,Gadjah Mada University,,,,57,10,6,0,1,0,,17,42,10,10,0,0,10,,30,47,Second Prize,second prize
+2014,144,Daniel,Carletti,Daniel Carletti,Pontificia Universidade Católica do Rio de Janeiro,,,,25,10,5,10,0,,,25,75,10,10,2,,0,,22,47,Second Prize,second prize
+2014,145,Victor,Chaves,Victor Chaves,Instituto Militar de Engenharia,,,,9,10,6,9,,,,25,89,10,10,2,,,,22,47,Second Prize,second prize
+2014,146,Timothy,Pressey,Timothy Pressey,Budapest Semesters in Mathematics,,,,290,10,6,9,8,2,,35,170,9,,0,3,,,12,47,Second Prize,second prize
+2014,147,Raúl,Alegre Martínez,Raúl Alegre Martínez,Universidad de Zaragoza,,,,80,8,10,,0,,,18,37,10,10,,,8,,28,46,Third Prize,third prize
+2014,148,Yuri,Alexandrov,Yuri Alexandrov,University ITMO,,,,12,10,6,,,,,16,100,10,10,10,0,,,30,46,Third Prize,third prize
+2014,149,Artyom,Kosyan,Artyom Kosyan,American University of Armenia,,,,277,10,5,10,0,0,,25,179,10,10,1,,,,21,46,Third Prize,third prize
+2014,150,Shant,Navasardyan,Shant Navasardyan,Yerevan State University,,,,236,10,6,0,,0,,16,187,10,10,10,,,,30,46,Third Prize,third prize
+2014,151,Mojtaba,Tefagh,Mojtaba Tefagh,Sharif University of Technology,,,,101,10,10,0,,0,,20,6,10,10,2,3,1,,26,46,Third Prize,third prize
+2014,152,Oleg,Zaslavskiy,Oleg Zaslavskiy,Lomonosov Moscow State University,,,,120,8,6,9,,1,,24,134,10,10,0,0,2,,22,46,Third Prize,third prize
+2014,153,Mehran,Elyasi,Mehran Elyasi,Isfahan University of Technology,,,,84,8,5,0,2,,,15,103,10,10,8,,2,,30,45,Third Prize,third prize
+2014,154,Erik,Lambrechts,Erik Lambrechts,KU Leuven,,,,169,8,5,9,0,2,,24,282,9,10,0,0,2,,21,45,Third Prize,third prize
+2014,155,Viachaslau,Murashka,Viachaslau Murashka,Francisk Skorina Gomel State University,,,,151,10,10,2,0,2,,24,106,10,10,1,0,,,21,45,Third Prize,third prize
+2014,156,Marcelo,Gonçalves,Marcelo Gonçalves,Universidade de São Paulo (Campus São Carlos),,,,304,10,5,10,,,,25,260,10,9,,,,,19,44,Third Prize,third prize
+2014,157,Lukasz,Kalinowski,Lukasz Kalinowski,Adam Mickiewicz University,,,,194,10,10,9,0,2,,31,325,10,3,0,0,0,,13,44,Third Prize,third prize
+2014,158,Ivan,Rocha,Ivan Rocha,ITA  Instituto Tecnologico de Aeronautica,,,,184,8,5,7,0,0,,20,228,10,10,4,0,,,24,44,Third Prize,third prize
+2014,159,Yonah,Biers-Ariel,Yonah Biers-Ariel,Budapest Semesters in Mathematics,,,,30,10,9,10,,,,29,58,10,3,,1,,,14,43,Third Prize,third prize
+2014,160,Andris,Gerasimovics,Andris Gerasimovics,University of Warwick,,,,274,10,10,10,3,,,33,154,10,,,0,,,10,43,Third Prize,third prize
+2014,161,Lucas,Silva Reis,Lucas Silva Reis,Universidade Federal de Minas Gerais',,,,285,10,10,0,2,,,22,159,10,3,8,,,,21,43,Third Prize,third prize
+2014,162,Donglei,Yang,Donglei Yang,Nanyang Technological University,,,,131,8,5,0,10,0,,23,136,10,10,0,,0,,20,43,Third Prize,third prize
+2014,163,Mahed,Abroshan,Mahed Abroshan,Sharif University of Technology,,,,42,9,5,0,8,1,,23,69,10,0,0,0,9,,19,42,Third Prize,third prize
+2014,164,Ladislav,Ba?o,Ladislav Ba?o,"Comenius University, Bratislava",,,,5,10,10,10,,,,30,97,10,2,0,0,0,,12,42,Third Prize,third prize
+2014,165,Daniel,Bossle,Daniel Bossle,Universidade Federal do Rio Grande do Sul,,,,27,5,7,0,2,0,,14,68,10,10,0,0,8,,28,42,Third Prize,third prize
+2014,166,Alex,Cebrian Galan,Alex Cebrian Galan,University of Barcelona,,,,31,8,4,10,,,,22,76,10,10,0,,,,20,42,Third Prize,third prize
+2014,167,Catalin-Mihai,Halati,Catalin-Mihai Halati,University Politehnica of Bucharest,,,,219,10,10,0,0,,,20,160,10,10,2,0,0,,22,42,Third Prize,third prize
+2014,168,Vazgen,Mikayelyan,Vazgen Mikayelyan,Yerevan State University,,,,238,10,10,2,,0,,22,219,10,9,1,,,,20,42,Third Prize,third prize
+2014,169,Marko,Palangeti?,Marko Palangeti?,University of Primorska,,,,271,10,10,0,2,,,22,157,10,10,,,0,,20,42,Third Prize,third prize
+2014,170,Yavor,Papazov,Yavor Papazov,Sofia University,,,,229,5,10,,3,,,18,174,10,10,4,,,,24,42,Third Prize,third prize
+2014,171,Nursultan,Svankulov,Nursultan Svankulov,"Nazarbayev University, Astana",,,,124,8,5,,0,,,13,104,10,10,9,,0,,29,42,Third Prize,third prize
+2014,172,Taufiq Akbari,Utomo,Taufiq Akbari Utomo,Institut Teknologi Bandung,,,,105,10,10,0,1,0,,21,9,10,10,0,0,1,,21,42,Third Prize,third prize
+2014,173,Wouter van de,Vijver,Wouter van de Vijver,Ghent University,,,,130,8,9,6,0,,,23,137,10,1,8,,,,19,42,Third Prize,third prize
+2014,174,Eleftherios,Bolkas,Eleftherios Bolkas,National and Kapodistrian University of Athens,,,,49,10,10,1,,,,21,77,10,10,0,,,,20,41,Third Prize,third prize
+2014,175,Irving Daniel,Calderón Camacho,Irving Daniel Calderón Camacho,Universidad Nacional Autónoma de México,,,,56,10,9,0,,,,19,41,10,10,2,0,,,22,41,Third Prize,third prize
+2014,176,Temirulan,Mussayev,Temirulan Mussayev,Kazakh-British Technical University,,,,298,10,2,,10,0,,22,275,9,10,0,,0,,19,41,Third Prize,third prize
+2014,177,Joan,Palacios-Beltran,Joan Palacios-Beltran,Universitat de Valencia,,,,231,10,8,10,1,0,,29,212,10,,2,0,,,12,41,Third Prize,third prize
+2014,178,R. M. Thilina Bandara,Rathnayake,R. M. Thilina Bandara Rathnayake,University of Moratuwa,,,,92,10,6,0,10,,,26,8,10,3,2,,,,15,41,Third Prize,third prize
+2014,179,Xiao,Wu,Xiao Wu,Yale Univeristy,,,,117,10,6,10,0,2,,28,130,6,0,7,0,,,13,41,Third Prize,third prize
+2014,180,Alimzhan,Amanov,Alimzhan Amanov,Kazakh-British Technical University,,,,75,10,10,0,,,,20,35,10,10,,0,0,,20,40,Third Prize,third prize
+2014,181,Francisco,Criado Gallart,Francisco Criado Gallart,Universidad Complutense de Madrid,,,,46,10,6,,,3,,19,40,10,10,,1,0,,21,40,Third Prize,third prize
+2014,182,Giles,Miclotte,Giles Miclotte,Ghent University,,,,209,10,5,5,,,,20,285,10,10,0,,0,,20,40,Third Prize,third prize
+2014,183,Dan,Paraschiv,Dan Paraschiv,University Politehnica of Bucharest,,,,137,10,10,0,0,0,,20,314,10,10,0,0,0,,20,40,Third Prize,third prize
+2014,184,Rafael,Pereira de Paula de Lucas Simon,Rafael Pereira de Paula de Lucas Simon,Instituto Militar de Engenharia,,,,251,10,8,0,,0,,18,209,10,10,2,,0,,22,40,Third Prize,third prize
+2014,185,Jan,Stopka,Jan Stopka,Masaryk University Brno,,,,314,10,4,10,0,4,,28,10,10,,0,1,1,,12,40,Third Prize,third prize
+2014,186,Emanuel Adrian,Antonache,Emanuel Adrian Antonache,University Politehnica of Bucharest,,,,22,10,10,0,0,0,,20,80,7,10,2,0,0,,19,39,Third Prize,third prize
+2014,187,Raúl,Astudillo Marbán,Raúl Astudillo Marbán,Universidad de Guanajuato/CIMAT,,,,37,9,10,,0,,,19,49,10,10,0,0,,,20,39,Third Prize,third prize
+2014,188,Filip,Bosni?,Filip Bosni?,University of Zagreb,,,,74,10,10,,0,,,20,27,10,9,0,,,,19,39,Third Prize,third prize
+2014,189,Milen,Ivanov,Milen Ivanov,University of Warwick,,,,269,8,10,0,0,0,,18,172,9,10,2,0,0,,21,39,Third Prize,third prize
+2014,190,Jaime,Mendizábal,Jaime Mendizábal,Universidad Complutense de Madrid,,,,240,9,10,,,4,,23,213,10,3,,3,,,16,39,Third Prize,third prize
+2014,191,Michal,Miskiewicz,Michal Miskiewicz,Warsaw University,,,,210,8,10,0,0,0,,18,283,10,10,1,0,,,21,39,Third Prize,third prize
+2014,192,Gustavo,Pereira de Castro,Gustavo Pereira de Castro,Fundação Getúlio Vargas (FGV),,,,1,10,9,0,,,,19,93,10,10,0,,,,20,39,Third Prize,third prize
+2014,193,Rolf,Sievers,Rolf Sievers,University of Göttingen,,,,327,10,9,0,1,,,20,274,10,,,,9,,19,39,Third Prize,third prize
+2014,194,Faidon,Andriopoulos,Faidon Andriopoulos,National and Kapodistrian University of Athens,,,,47,10,7,0,,,,17,82,9,10,2,,,,21,38,Third Prize,third prize
+2014,195,Bartosz,Biadasiewicz,Bartosz Biadasiewicz,Adam Mickiewicz University,,,,44,10,5,7,0,0,,22,26,10,0,,0,6,,16,38,Third Prize,third prize
+2014,196,Bartosz,Bieganowski,Bartosz Bieganowski,Nicolaus Copernicus University,,,,3,10,9,0,0,0,,19,92,8,3,8,,0,,19,38,Third Prize,third prize
+2014,197,Kerven,Durdymyradov,Kerven Durdymyradov,Magtymguly Turkmen State University,,,,62,10,4,0,10,0,,24,71,10,4,0,,0,,14,38,Third Prize,third prize
+2014,198,Radoslav,Komitov,Radoslav Komitov,Sofia University,,,,220,8,10,0,0,,,18,168,10,10,,,0,,20,38,Third Prize,third prize
+2014,199,David,Martínez,David Martínez,Universidad Compulense de Madrid,,,,324,10,8,0,,0,,18,273,10,10,0,0,,,20,38,Third Prize,third prize
+2014,200,Gurtmyrat,Motukov,Gurtmyrat Motukov,Magtymguly Turkmen State University,,,,317,10,7,,0,,,17,270,1,10,10,,0,,21,38,Third Prize,third prize
+2014,201,Julian,Pape-Lange,Julian Pape-Lange,University of Göttingen,,,,221,10,6,10,2,,,28,144,10,0,,0,0,,10,38,Third Prize,third prize
+2014,202,Marko,Rajkovi?,Marko Rajkovi?,University of Primorska,,,,291,9,9,,0,,,18,161,10,10,0,,0,,20,38,Third Prize,third prize
+2014,203,Sam,van den Brink,Sam van den Brink,Universiteit van Amsterdam,,,,83,10,8,0,,,,18,44,10,10,0,,0,,20,38,Third Prize,third prize
+2014,204,Rafhael,Schumacher,Rafhael Schumacher,Technische Universität München,,,,225,10,6,0,2,,,18,217,9,10,0,,,,19,37,Third Prize,third prize
+2014,205,Morteza,Soltanpour,Morteza Soltanpour,Sharif University of Technology,,,,97,10,5,1,0,0,,16,14,10,10,,0,1,,21,37,Third Prize,third prize
+2014,206,Ramón Iván,García Alvarez,Ramón Iván García Alvarez,Universidad de Guanajuato/CIMAT,,,,283,10,6,,0,2,,18,167,10,,0,,8,,18,36,Third Prize,third prize
+2014,207,Mohammadhassan,Golmohammadian Tehrani,Mohammadhassan Golmohammadian Tehrani,Sharif University of Technology,,,,141,10,3,,,2,,15,321,1,10,10,0,0,,21,36,Third Prize,third prize
+2014,208,Ying,Huang,Ying Huang,Nanyang Technological University,,,,246,10,6,0,0,,,16,180,10,10,0,,0,,20,36,Third Prize,third prize
+2014,209,Anton,Lvov,Anton Lvov,Novosibirsk StateUuniversity,,,,218,7,9,,0,,,16,13,10,10,0,0,,,20,36,Third Prize,third prize
+2014,210,Mina Sadat,Mahmoudi,Mina Sadat Mahmoudi,Isfahan University of Technology,,,,306,8,8,0,10,0,,26,254,10,0,0,0,0,,10,36,Third Prize,third prize
+2014,211,Gerard,Neras Lozano,Gerard Neras Lozano,Barcelona Tech,,,,248,10,6,,0,,,16,202,10,10,0,0,,,20,36,Third Prize,third prize
+2014,212,Thomas,Rincon Reis,Thomas Rincon Reis,Instituto Militar de Engenharia,,,,233,10,6,0,0,0,,16,149,10,9,1,,,,20,36,Third Prize,third prize
+2014,213,Óscar,Roldán-Blay,Óscar Roldán-Blay,Universitat de Valencia,,,,217,10,6,,,,,16,201,10,10,,0,,,20,36,Third Prize,third prize
+2014,214,Teodor,Rotaru,Teodor Rotaru,University Politehnica of Bucharest,,,,140,10,6,0,0,0,,16,320,8,10,2,,,,20,36,Third Prize,third prize
+2014,215,Guillem,Alsina Oriol,Guillem Alsina Oriol,Barcelona Tech,,,,85,10,3,0,0,2,,15,32,10,10,0,0,,,20,35,Third Prize,third prize
+2014,216,Bruno,De Nadai Sarnaglia,Bruno De Nadai Sarnaglia,ITA  Instituto Tecnologico de Aeronautica,,,,45,8,5,0,0,0,,13,65,10,10,2,0,,,22,35,Third Prize,third prize
+2014,217,Luis Eduardo,García Hernández,Luis Eduardo García Hernández,Universidad Nacional Autónoma de México,,,,150,10,3,0,0,,,13,294,10,10,2,,,,22,35,Third Prize,third prize
+2014,218,Seyil,Hayydov,Seyil Hayydov,Financial Economics College Dashoguz,,,,198,9,6,0,0,0,,15,236,10,10,0,,,,20,35,Third Prize,third prize
+2014,219,Felix,McPeake,Felix McPeake,University of Warwick,,,,201,3,6,3,0,3,,15,296,10,10,0,0,,,20,35,Third Prize,third prize
+2014,220,Miguel,Rodríguez Gutiérrez,Miguel Rodríguez Gutiérrez,Universidad Autónoma de Madrid,,,,268,8,7,10,,,,25,162,10,0,0,,,,10,35,Third Prize,third prize
+2014,221,Vladimír,Sedlá?ek,Vladimír Sedlá?ek,Masaryk University Brno,,,,313,10,3,0,0,0,,13,175,10,10,2,0,0,,22,35,Third Prize,third prize
+2014,222,Ksenia,Tsocheva,Ksenia Tsocheva,Sofia University,,,,326,8,6,0,1,,,15,272,10,10,0,,,,20,35,Third Prize,third prize
+2014,223,Nicholas,Wawrykow,Nicholas Wawrykow,Yale University,,,,116,8,6,0,10,,,24,128,1,10,0,,,,11,35,Third Prize,third prize
+2014,224,Sofihara,Alhazmy,Sofihara Alhazmy,Universitas Pendidikan Indonesia,,,,60,10,4,,0,0,,14,30,10,10,0,,0,,20,34,Third Prize,third prize
+2014,225,João,Carnevale,João Carnevale,Pontifícia Universidade Católica do Rio de Janeiro,,,,38,10,5,0,0,,,15,57,9,10,0,0,,,19,34,Third Prize,third prize
+2014,226,Serikbolsyn,Duisembay,Serikbolsyn Duisembay,"Nazarbayev University, Astana",,,,81,10,4,0,2,0,,16,94,10,0,8,,0,,18,34,Third Prize,third prize
+2014,227,Andreu,Ferré,Andreu Ferré,Universitat de Barcelona,,,,24,10,6,0,,,,16,74,10,8,0,,,,18,34,Third Prize,third prize
+2014,228,Toremurad,Gurbanov,Toremurad Gurbanov,The State Energy Institute of Turkmenistan,,,,222,9,5,0,,,,14,151,1,10,9,,,,20,34,Third Prize,third prize
+2014,229,Matheus,Leal Assunção,Matheus Leal Assunção,Instituto Militar de Engenharia,,,,51,10,10,0,0,0,,20,81,10,4,0,,0,,14,34,Third Prize,third prize
+2014,230,Luca,Marconato,Luca Marconato,University of Udine,,,,165,8,6,,0,0,,14,281,10,10,0,0,,,20,34,Third Prize,third prize
+2014,231,Aliaksandr,Nekrashevich,Aliaksandr Nekrashevich,Belarusian State University,,,,156,1,9,1,1,1,,13,316,10,10,1,0,0,,21,34,Third Prize,third prize
+2014,232,Dmitrii,Tarasov,Dmitrii Tarasov,Novosibirsk StateUuniversity,,,,88,10,4,0,,,,14,113,10,10,0,,,,20,34,Third Prize,third prize
+2014,233,Hamid,Kamali,Hamid Kamali,Ferdowsi University of Mashhad,,,,200,10,1,5,,,,16,253,7,9,1,,0,,17,33,Honourable Mention,honourable mention
+2014,234,Foivos,Katsetsiadis,Foivos Katsetsiadis,Aristotle University of Thessaloniki,,,,301,8,9,,2,,,19,280,10,4,,,,,14,33,Honourable Mention,honourable mention
+2014,235,Dian Sito,Rukmi,Dian Sito Rukmi,Institut Teknologi Bandung,,,,263,10,10,0,0,2,,22,185,10,1,0,0,0,,11,33,Honourable Mention,honourable mention
+2014,236,Nurlan,Abdukadyrov,Nurlan Abdukadyrov,"Nazarbayev University, Astana",,,,82,10,0,0,0,,,10,21,10,10,2,,,,22,32,Honourable Mention,honourable mention
+2014,237,Muhammad,Ardiyansyah,Muhammad Ardiyansyah,Gadjah Mada University,,,,53,10,2,0,0,0,,12,48,10,10,0,0,,,20,32,Honourable Mention,honourable mention
+2014,238,Eziz,Kakyshov,Eziz Kakyshov,Turkmen Agricultural Institute,,,,319,9,3,0,8,,,20,271,1,8,3,,,,12,32,Honourable Mention,honourable mention
+2014,239,Quan,Nguyen,Quan Nguyen,Budapest Semesters in Mathematics,,,,282,8,2,0,2,,,12,169,10,7,0,,3,,20,32,Honourable Mention,honourable mention
+2014,240,Vu,Phan Thanh,Vu Phan Thanh,Technische Universität München,,,,166,10,6,3,0,0,,19,223,10,2,0,0,1,,13,32,Honourable Mention,honourable mention
+2014,241,Giovanni,Solda',Giovanni Solda',University of Udine,,,,308,8,5,0,0,0,,13,121,10,9,0,0,,,19,32,Honourable Mention,honourable mention
+2014,242,Aurelia,Bartnicka,Aurelia Bartnicka,Nicolaus Copernicus University,,,,6,10,10,1,0,0,,21,84,10,0,0,0,0,,10,31,Honourable Mention,honourable mention
+2014,243,Márton,Józsa,Márton Józsa,Budapest University of Technology and Economics,,,,161,4,3,,0,0,,7,287,10,4,0,0,10,,24,31,Honourable Mention,honourable mention
+2014,244,Katja Anneli,Kulmala,Katja Anneli Kulmala,University of Helsinki,,,,172,10,3,0,8,,,21,291,10,0,0,,,,10,31,Honourable Mention,honourable mention
+2014,245,Mario,Lezcano,Mario Lezcano,Universidad Complutense de Madrid,,,,297,8,6,7,0,0,,21,269,10,0,0,,,,10,31,Honourable Mention,honourable mention
+2014,246,Anastasia,Sharipova,Anastasia Sharipova,Moscow Institute of Physics and Technology,,,,178,10,10,,0,,,20,227,10,,,,1,,11,31,Honourable Mention,honourable mention
+2014,247,Vesna,Irsic,Vesna Irsic,University of Ljubljana,,,,182,10,10,0,0,0,,20,284,10,0,0,0,,,10,30,Honourable Mention,honourable mention
+2014,248,Dieter,Plessers,Dieter Plessers,KULeuven,,,,163,9,5,0,8,0,,22,308,8,0,0,,,,8,30,Honourable Mention,honourable mention
+2014,249,Lorenz,Oberhammer,Lorenz Oberhammer,University of Innsbruck,,,,292,10,9,,,,,19,158,10,,,,,,10,29,Honourable Mention,honourable mention
+2014,250,Yuqing,Shi,Yuqing Shi,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,139,3,6,1,,0,,10,319,1,10,8,,,,19,29,Honourable Mention,honourable mention
+2014,251,Niko,Väisänen,Niko Väisänen,Aalto University,,,,296,10,6,0,,0,,16,125,3,10,0,,,,13,29,Honourable Mention,honourable mention
+2014,252,Mark,Chimes,Mark Chimes,Stellenbosch University,,,,61,8,2,8,0,,,18,59,10,,0,0,,,10,28,Honourable Mention,honourable mention
+2014,253,Guilherme,Horta Alvares da Silva,Guilherme Horta Alvares da Silva,Instituto Militar de Engenharia,,,,127,8,10,0,,0,,18,142,0,9,1,,,,10,28,Honourable Mention,honourable mention
+2014,254,Bohuslav,Zmek,Bohuslav Zmek,Masaryk University Brno,,,,119,10,6,,,2,,18,110,10,,,,,,10,28,Honourable Mention,honourable mention
+2014,255,Dominik,Burek,Dominik Burek,Jagiellonian University,,,,11,10,5,,2,,,17,72,0,10,0,,,,10,27,Honourable Mention,honourable mention
+2014,256,Jose Olegario,de Oliveira Neto,Jose Olegario de Oliveira Neto,ITA  Instituto Tecnologico de Aeronautica,,,,177,10,5,0,,2,,17,302,10,0,0,,,,10,27,Honourable Mention,honourable mention
+2014,257,Nury,Atajanov,Nury Atajanov,Turkmen Agricultural Institute,,,,224,10,5,,,,,15,150,1,10,0,,,,11,26,Honourable Mention,honourable mention
+2014,258,Pourya,Bagherzadeh,Pourya Bagherzadeh,Shahid Beheshti University,,,,2,4,2,,,,,6,99,10,10,,0,,,20,26,Honourable Mention,honourable mention
+2014,259,Denitsa,Bankova,Denitsa Bankova,Sofia University,,,,58,10,6,0,,,,16,50,0,10,0,,0,,10,26,Honourable Mention,honourable mention
+2014,260,Roderic,Guigó Corominas,Roderic Guigó Corominas,Universitat de Barcelona,,,,212,6,5,0,2,,,13,292,10,3,,0,,,13,26,Honourable Mention,honourable mention
+2014,261,Srikrishnaa,Vadivel,Srikrishnaa Vadivel,New York Institute of Technology,,,,109,10,6,0,0,0,,16,4,0,10,0,,,,10,26,Honourable Mention,honourable mention
+2014,262,Olzhas,Akbayev,Olzhas Akbayev,"Nazarbayev University, Astana",,,,14,9,2,0,0,1,,12,91,1,10,2,,,,13,25,Honourable Mention,honourable mention
+2014,263,Temirlan,Satylkhanov,Temirlan Satylkhanov,KBTU,,,,118,10,5,0,0,0,,15,131,1,8,,,1,,10,25,Honourable Mention,honourable mention
+2014,264,H. A. R. T.,Wijesekara,H. A. R. T. Wijesekara,University of Moratuwa,,,,125,10,3,,,0,,13,132,10,0,2,,,,12,25,Honourable Mention,honourable mention
+2014,265,Anton,Boytsev,Anton Boytsev,University ITMO,,,,10,8,0,,,,,8,101,0,9,7,,,,16,24,Honourable Mention,honourable mention
+2014,266,Hasan,Hasanzade,Hasan Hasanzade,QAFQAZ,,,,243,10,0,1,1,,,12,193,10,,2,,,,12,24,Honourable Mention,honourable mention
+2014,267,Jasmine,Maes,Jasmine Maes,Ghent University,,,,247,10,2,0,,,,12,195,10,2,0,,,,12,24,Honourable Mention,honourable mention
+2014,268,M. F. M.,Sabri,M. F. M. Sabri,University of Colombo,,,,211,10,4,,,0,,14,245,10,0,0,,,,10,24,Honourable Mention,honourable mention
+2014,269,Bogdan-Gabriel,Ursu,Bogdan-Gabriel Ursu,Alexandru Ioan Cuza Iasi,,,,100,6,6,0,0,,,12,111,10,2,,,0,,12,24,Honourable Mention,honourable mention
+2014,270,Kira,Düsterwald,Kira Düsterwald,University of Cape Town,,,,72,10,1,0,1,0,,12,18,10,1,0,0,0,,11,23,Honourable Mention,honourable mention
+2014,271,Abbas,Jafaribondarabadi,Abbas Jafaribondarabadi,Yazd University of Iran,,,,293,8,6,,0,,,14,247,9,0,,,,,9,23,Honourable Mention,honourable mention
+2014,272,Keivan,Mirzaii,Keivan Mirzaii,Ferdowsi University of Mashhad,,,,203,0,10,1,,0,,11,239,10,,1,1,,,12,23,Honourable Mention,honourable mention
+2014,273,Rihhard,Nadel,Rihhard Nadel,University of Tartu,,,,192,10,3,,,0,,13,243,10,0,0,,,,10,23,Honourable Mention,honourable mention
+2014,274,Victor Hugo,Corrêa Rodrigues,Victor Hugo Corrêa Rodrigues,University of Helsinki,,,,70,10,10,0,,,,20,51,0,2,0,,,,2,22,Honourable Mention,honourable mention
+2014,275,Rodrigo,Ferreira da Rosa,Rodrigo Ferreira da Rosa,Yale University,,,,249,1,2,6,0,0,,9,198,0,9,0,0,4,,13,22,Honourable Mention,honourable mention
+2014,276,Pihla,Karanko,Pihla Karanko,Aalto Technical University,,,,258,10,2,0,,,,12,192,10,0,0,0,,,10,22,Honourable Mention,honourable mention
+2014,277,Abel,Medina Lourenço,Abel Medina Lourenço,UNICAMP,,,,310,8,4,0,0,,,12,262,10,0,,,,,10,22,Honourable Mention,honourable mention
+2014,278,Sipan,Muradyan,Sipan Muradyan,American University of Armenia,,,,279,10,0,0,,0,,10,148,7,5,,,,,12,22,Honourable Mention,honourable mention
+2014,279,Adina-Ioana,Nedelcu,Adina-Ioana Nedelcu,Alexandru Ioan Cuza Iasi,,,,267,8,0,2,0,0,,10,156,10,0,2,,,,12,22,Honourable Mention,honourable mention
+2014,280,Thomas,Zwanowetz,Thomas Zwanowetz,University of Innsbruck,,,,115,8,4,,,,,12,127,10,0,,,,,10,22,Honourable Mention,honourable mention
+2014,281,Yusef,Ajoodani,Yusef Ajoodani,Shahid Beheshti University,,,,39,10,1,,,,,11,95,10,,,,,,10,21,Honourable Mention,honourable mention
+2014,282,Jolien,Kerssens,Jolien Kerssens,Universiteit van Amsterdam,,,,235,10,0,0,0,,,10,206,0,10,1,,0,,11,21,Honourable Mention,honourable mention
+2014,283,Abel,Naya Forcano,Abel Naya Forcano,Universidad de Zaragoza,,,,180,10,1,0,0,0,,11,194,10,0,0,0,0,,10,21,Honourable Mention,honourable mention
+2014,284,Andre,Ostrak,Andre Ostrak,University of Tartu,,,,183,10,0,0,0,,,10,240,10,,,,,,10,20,Honourable Mention,honourable mention
+2014,285,Ilshat,Valiyev,Ilshat Valiyev,Magtymguly Turkmen State University,,,,95,10,9,,,,,19,122,1,,,,,,1,20,Honourable Mention,honourable mention
+2014,286,Tycho,van Hoof,Tycho van Hoof,Universiteit van Amsterdam,,,,278,10,,,,,,10,251,10,0,0,,,,10,20,Honourable Mention,honourable mention
+2014,287,?tefan Laz?r Gabriel,Bel?ic,?tefan Laz?r Gabriel Bel?ic,University Politehnica of Bucharest,,,,73,1,8,0,0,0,,9,56,0,10,0,0,,,10,19,Honourable Mention,honourable mention
+2014,288,Vera,Gebert,Vera Gebert,University of Innsbruck,,,,175,9,,,,0,,9,229,10,,0,,,,10,19,Honourable Mention,honourable mention
+2014,289,Alejandro,de Miquel Bleier,Alejandro de Miquel Bleier,Universitat de Barcelona,,,,35,8,0,,,0,,8,63,10,0,,0,,,10,18,Honourable Mention,honourable mention
+2014,290,Lucas,Slot,Lucas Slot,Universiteit van Amsterdam,,,,89,8,0,,,,,8,126,10,0,,,,,10,18,Honourable Mention,honourable mention
+2014,291,Michael,Hoefnagel,Michael Hoefnagel,Stellenbosch University,,,,315,2,5,,0,0,,7,263,10,,0,,,,10,17,Honourable Mention,honourable mention
+2014,292,Felipe,Gil,Felipe Gil,Pontificia Comillas,,,,147,9,1,0,,,,10,231,5,0,0,,,,5,15,Honourable Mention,honourable mention
+2014,293,Petri-Johan,Last,Petri-Johan Last,Stellenbosch University,,,,318,2,1,,0,,,3,278,10,0,2,,,,12,15,Honourable Mention,honourable mention
+2014,294,Panagiotis,Papadopoulos,Panagiotis Papadopoulos,Aristotle University of Thessaloniki,,,,295,7,0,0,,0,,7,266,8,0,0,,,,8,15,Honourable Mention,honourable mention
+2014,295,Amin,Aghajan Nejad,Amin Aghajan Nejad,Ferdowsi University of Mashhad,,,,7,3,1,,0,,,4,70,10,,0,,0,,10,14,Honourable Mention,honourable mention
+2014,296,Hojamyrat,Arazov,Hojamyrat Arazov,Magtymguly Turkmen State University,,,,69,0,4,,0,,,4,34,0,10,0,,,,10,14,Honourable Mention,honourable mention
+2014,297,Roberto,Hernandez Palomares,Roberto Hernandez Palomares,Universidad de Guanajuato/CIMAT,,,,287,10,1,,0,,,11,163,1,0,2,,,,3,14,Honourable Mention,honourable mention
+2014,298,David,Miravet-Fortuño,David Miravet-Fortuño,Universitat de Valéncia,,,,223,8,0,0,,,,8,152,6,0,,0,,,6,14,Honourable Mention,honourable mention
+2014,299,Pieter,van Niel,Pieter van Niel,Universiteit van Amsterdam,,,,181,3,1,,,,,4,289,10,0,0,,,,10,14,Honourable Mention,honourable mention
+2014,300,Jaime,Luengo,Jaime Luengo,Pontificia Comillas,,,,159,2,1,0,,0,,3,300,,10,0,,,,10,13,Honourable Mention,honourable mention
+2014,301,Ilya,Tolchenov,Ilya Tolchenov,University College London,,,,91,10,,2,1,,,13,7,0,0,0,,,,0,13,Honourable Mention,honourable mention
+2014,302,Arezu,Bybordi,Arezu Bybordi,Shahid Beheshti University,,,,59,10,,,,0,,10,88,1,,,,1,,2,12,Honourable Mention,honourable mention
+2014,303,Carlos,Laguillo Garcia,Carlos Laguillo Garcia,Universidad de Cantabria,,,,196,2,,0,0,,,2,237,10,0,0,0,,,10,12,Honourable Mention,honourable mention
+2014,304,Daniel,Ariano Sortica,Daniel Ariano Sortica,University of São Paulo,,,,33,0,1,0,0,0,,1,19,0,0,10,0,,,10,11,Honourable Mention,honourable mention
+2014,305,Pedro,Félez Moliner,Pedro Félez Moliner,Universidad de Zaragoza,,,,68,7,1,0,0,0,,8,33,0,3,0,,0,,3,11,Honourable Mention,honourable mention
+2014,306,Hrachya,Hakobyan,Hrachya Hakobyan,American University of Armenia,,,,288,1,0,,,0,,1,146,10,0,0,,,,10,11,Honourable Mention,honourable mention
+2014,307,Marta,Menéndez,Marta Menéndez,Pontificia Comillas,,,,193,1,2,,,,,3,248,8,0,,,,,8,11,Honourable Mention,honourable mention
+2014,308,Mohammad Ali,Asadi,Mohammad Ali Asadi,Isfahan University of Technology,,,,77,2,5,0,0,,,7,38,0,3,0,,,,3,10,Certificate,certificate
+2014,309,Marina,Esgueva Ruiz,Marina Esgueva Ruiz,Universidad de Cantabria,,,,29,10,0,0,,,,10,98,,0,,0,,,0,10,Certificate,certificate
+2014,310,Sven Erik,Ojavee,Sven Erik Ojavee,University of Tartu,,,,208,8,0,0,0,,,8,307,0,2,0,,,,2,10,Certificate,certificate
+2014,311,Zahra,Rahimi,Zahra Rahimi,Ferdowsi University of Mashhad,,,,202,,9,,,,,9,241,0,,0,,1,,1,10,Certificate,certificate
+2014,312,Sebastian,Zur,Sebastian Zur,Universiteit van Amsterdam,,,,114,10,,,0,,,10,129,0,0,,,,,0,10,Certificate,certificate
+2014,313,Mojtaba,Choopani,Mojtaba Choopani,Ferdowsi University of Mashhad,,,,8,7,0,,,,,7,64,0,2,,,,,2,9,Certificate,certificate
+2014,314,Dolores,García-Martí,Dolores García-Martí,Universidad de Valencia,,,,239,5,2,,0,,,7,165,1,0,0,,,,1,8,Certificate,certificate
+2014,315,Elrich,Groenewald,Elrich Groenewald,Stellenbosch University,,,,309,6,,0,,0,,6,268,0,0,2,,,,2,8,Certificate,certificate
+2014,316,Kristin,Jesse,Kristin Jesse,University of Tartu,,,,206,1,0,,,,,1,235,,7,,,,,7,8,Certificate,certificate
+2014,317,Narges,Tavassolikejani,Narges Tavassolikejani,Yazd University of Iran,,,,102,1,1,0,0,,,2,249,1,1,3,,,,5,7,Certificate,certificate
+2014,318,Anton,Mallasto,Anton Mallasto,Aalto University,,,,204,3,1,,,,,4,242,,,0,,,,0,4,Certificate,certificate
+2014,319,Gideon,Jager,Gideon Jager,Universiteit van Amsterdam,,,,286,3,0,,,,,3,145,0,0,0,,,,0,3,Certificate,certificate
+2014,320,Carlos,Rodríguez San Emeterio,Carlos Rodríguez San Emeterio,Universidad de Cantabria,,,,195,3,0,,0,,,3,238,0,0,0,,,,0,3,Certificate,certificate
+2014,321,Kamyar,Mirzavaziri,Kamyar Mirzavaziri,Ferdowsi University of Mashhad,,,,199,,,,0,,,0,234,2,,,,,,2,2,Certificate,certificate
+2014,322,Mihaela,Coman,Mihaela Coman,Alexandru Ioan Cuza Iasi,,,,54,1,0,0,0,0,,1,28,0,0,0,0,0,,0,1,Certificate,certificate
+2014,323,Moon,Lee,Moon Lee,University of Illinois at Urbana-Champaign,,,,164,0,0,0,0,0,,0,5,0,0,0,0,0,,0,0,Certificate,certificate
+2014,324,Gulnar,Mammadova,Gulnar Mammadova,Quakvaz University,,,,323,,0,,,,,0,279,,,0,,,,0,0,Certificate,certificate

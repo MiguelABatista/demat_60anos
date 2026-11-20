@@ -1,11 +1,11 @@
 """Filtra e normaliza todos os participantes e universidades brasileiras na IMC (1994-2026).
 
 Lida com:
-1. Variações de grafia, sigla, idioma, typos e encoding nas universidades (74 grafias -> 27 instituições canônicas).
+1. Variações de grafia, sigla, idioma, typos e encoding nas universidades (74 grafias -> 25 instituições canônicas).
 2. Variações de nome nas pessoas (acentos, maiúsculas, abreviação de nomes do meio, typos,
    encoding antigo e participações de brasileiros por universidades estrangeiras).
 
-Saídas em imc_results/brazil/:
+Saídas em data/processed/brazil/:
 - imc_brazil_participations.csv       (todas as participações: universidades BR + brasileiros no exterior)
 - imc_brazil_only_br_universities.csv (somente participações representando instituições do Brasil)
 - imc_brazil_people.csv               (resumo consolidado: 1 linha por pessoa única)
@@ -17,13 +17,13 @@ from __future__ import annotations
 
 import re
 import unicodedata
-from difflib import SequenceMatcher
 from pathlib import Path
 
 import pandas as pd
 
-INPUT_CSV = Path("imc_results/imc_results_all_years.csv")
-OUT_DIR = Path("imc_results/brazil")
+ROOT_DIR = Path(__file__).resolve().parent.parent
+INPUT_CSV = ROOT_DIR / "data" / "processed" / "imc_results_all_years.csv"
+OUT_DIR = ROOT_DIR / "data" / "processed" / "brazil"
 
 # Falsos positivos conhecidos com palavras em português/homônimos fora do Brasil
 NON_BRAZIL_UNIVERSITIES = {
@@ -477,9 +477,9 @@ def main() -> None:
     print(f"Conflitos (mesmo Person_id no mesmo ano):           {len(same_year_dups)}")
     if len(same_year_dups):
         print(same_year_dups[["Year", "Person_id", "Person_canonical", "Full name", "University"]])
-    print("\nArquivos salvos em imc_results/brazil/:")
+    print("\nArquivos salvos em data/processed/brazil/:")
     for p in [p_all, p_univ_only, p_people, p_univs, p_year]:
-        print(f"  - {p}")
+        print(f"  - {p.relative_to(ROOT_DIR)}")
 
 
 if __name__ == "__main__":

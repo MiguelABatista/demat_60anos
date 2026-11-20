@@ -1,0 +1,183 @@
+Year,Pos,First name,Family name,Full name,University,Team,City,Country,Code_D1,D1_P1,D1_P2,D1_P3,D1_P4,D1_P5,D1_P6,Day1,Code_D2,D2_P1,D2_P2,D2_P3,D2_P4,D2_P5,D2_P6,Day2,Sum,Prize,Prize_raw
+2002,1,Ivan,Losev,Ivan Losev,Belarusian State University,,,,148,20,20,20,20,18,5,103,71,20,20,19,15,18,1,93,196,Grand First Prize,Grand First Prize
+2002,2,Martin,Langer,Martin Langer,"University of Bonn, Germany",,,,18,20,20,20,18,12,20,110,58,20,20,20,10,11,0,81,191,Grand First Prize,Grand First Prize
+2002,3,Gergely,Z�br�di,Gergely Z�br�di,"Lorand E�tv�s University, Hungary",,,,186,20,20,20,20,10,0,90,41,20,20,20,20,20,0,100,190,Grand First Prize,Grand First Prize
+2002,4,Armin,Holschbach,Armin Holschbach,"University of Bonn, Germany",,,,137,20,20,20,20,10,20,110,52,20,20,20,11,4,0,75,185,Grand First Prize,Grand First Prize
+2002,5,G�bor,Lippner,G�bor Lippner,"Lorand E�tv�s University, Hungary",,,,122,20,20,20,19,11,0,90,105,20,20,20,20,14,0,94,184,Grand First Prize,Grand First Prize
+2002,6,Anton,Mellit,Anton Mellit,Kiev Polytechnic Institute,,,,124,20,20,20,20,10,0,90,86,20,20,20,20,0,10,90,180,First Prize,First Prize
+2002,7,Timur,Gatanov,Timur Gatanov,Moscow Institute of Physics and Technology,,,,121,20,20,20,12,10,0,82,89,20,19,17,20,20,0,96,178,First Prize,First Prize
+2002,8,Luk�š,Vokř�nek,Luk�š Vokř�nek,"Masaryk University, Brno",,,,72,20,20,20,20,20,1,101,37,20,20,20,10,4,0,74,175,First Prize,First Prize
+2002,9,Zolt�n,Gyenes,Zolt�n Gyenes,"Lorand E�tv�s University, Hungary",,,,110,20,16,20,20,10,1,87,67,20,20,20,20,6,0,86,173,First Prize,First Prize
+2002,10,Salman,Abolfathe Beikidezfuli,Salman Abolfathe Beikidezfuli,Sharif University of Technology,,,,15,20,20,20,20,12,0,92,18,20,20,20,,20,0,80,172,First Prize,First Prize
+2002,11,Tam�s,Terpai,Tam�s Terpai,"Lorand E�tv�s University, Hungary",,,,119,20,20,20,3,20,0,83,99,20,20,20,10,16,0,86,169,First Prize,First Prize
+2002,12,Vjekoslav,Kovač,Vjekoslav Kovač,University of Zagreb,,,,153,20,20,20,20,10,0,90,55,20,20,20,18,0,0,78,168,First Prize,First Prize
+2002,13,Sergiy,Torba,Sergiy Torba,Kiev Polytechnic Institute,,,,71,20,16,20,19,10,0,85,141,20,20,17,18,6,1,82,167,First Prize,First Prize
+2002,14,Bogdan,Grechuk,Bogdan Grechuk,Moscow Institute of Physics and Technology,,,,80,20,20,20,18,11,1,90,46,20,20,20,10,6,0,76,166,First Prize,First Prize
+2002,15,Alexandr,Usnich,Alexandr Usnich,Belarusian State University,,,,54,20,20,20,20,11,0,91,142,20,20,16,18,0,0,74,165,First Prize,First Prize
+2002,16,Amin,Aminzadeh Gohari,Amin Aminzadeh Gohari,Sharif University of Technology,,,,10,20,20,20,16,12,0,88,14,20,20,20,10,4,0,74,162,First Prize,First Prize
+2002,17,Vladimir,Lazić,Vladimir Lazić,University of Belgrade,,,,78,20,18,20,20,10,0,88,44,20,20,20,10,3,0,73,161,First Prize,First Prize
+2002,18,Torsten,Sch�neborn,Torsten Sch�neborn,"University of Bonn, Germany",,,,171,20,20,20,1,11,20,92,161,20,20,0,12,3,13,68,160,First Prize,First Prize
+2002,19,Eugeniy,Berkovich,Eugeniy Berkovich,Odessa National Mechnikov University,,,,9,20,20,0,20,20,1,81,11,20,20,18,17,0,0,75,156,First Prize,First Prize
+2002,20,Slawomir,Dinew,Slawomir Dinew,"Jagiellonian University, Poland",,,,142,20,20,20,8,11,0,79,66,20,20,20,11,6,0,77,156,First Prize,First Prize
+2002,21,Eryk,Kopczyński,Eryk Kopczyński,Warsaw University,,,,74,20,20,20,20,10,0,90,83,20,20,20,3,3,0,66,156,First Prize,First Prize
+2002,22,Trafim,Lasy,Trafim Lasy,Belarusian State University,,,,167,20,20,20,20,10,0,90,70,20,20,20,0,6,0,66,156,First Prize,First Prize
+2002,23,Alexandr,Farutin,Alexandr Farutin,Moscow Institute of Physics and Technology,,,,89,20,20,18,16,10,0,84,76,20,20,8,18,3,0,69,153,First Prize,First Prize
+2002,24,Jakub,Byszewski,Jakub Byszewski,"Jagiellonian University, Poland",,,,3,20,20,20,6,12,0,78,13,20,20,20,10,3,0,73,151,First Prize,First Prize
+2002,25,Maria,Belosjorowa,Maria Belosjorowa,Odessa National Mechnikov University,,,,13,20,20,0,18,19,0,77,10,20,20,20,10,3,0,73,150,First Prize,First Prize
+2002,26,Javad,Ebrahimi Boroojeni,Javad Ebrahimi Boroojeni,Sharif University of Technology,,,,146,20,20,20,7,10,0,77,81,20,20,20,10,3,0,73,150,First Prize,First Prize
+2002,27,Marcin,Stefaniak,Marcin Stefaniak,Warsaw University,,,,48,20,18,20,8,10,0,76,138,20,20,20,10,4,0,74,150,First Prize,First Prize
+2002,28,Lech,Duraj,Lech Duraj,"Jagiellonian University, Poland",,,,123,20,18,0,20,10,0,68,110,20,20,20,18,3,0,81,149,First Prize,First Prize
+2002,29,Matija,Kazalicki,Matija Kazalicki,University of Zagreb,,,,111,20,5,20,20,10,0,75,98,20,20,20,10,3,0,73,148,First Prize,First Prize
+2002,30,Piotr,Przytycki,Piotr Przytycki,Warsaw University,,,,173,20,20,0,15,20,0,75,171,20,20,20,10,3,0,73,148,First Prize,First Prize
+2002,31,Marina,Vyazovska,Marina Vyazovska,Kyiv Taras Shevchenko University,,,,190,20,20,20,18,10,0,88,154,20,20,20,,0,0,60,148,First Prize,First Prize
+2002,32,Dušan,Djukic,Dušan Djukic,University of Belgrade,,,,145,20,10,20,0,10,0,60,85,20,20,20,10,15,0,85,145,Second Prize,Second Prize
+2002,33,Mikl�s,Hartmann,Mikl�s Hartmann,"University of Szeged, Hungary",,,,105,20,20,20,18,10,0,88,112,20,20,0,2,15,0,57,145,Second Prize,Second Prize
+2002,34,Vitaliy,Kharkov,Vitaliy Kharkov,Odessa National Mechnikov University,,,,100,17,19,0,3,18,0,57,48,20,20,20,18,10,0,88,145,Second Prize,Second Prize
+2002,35,Andriy,Russev,Andriy Russev,Kyiv Taras Shevchenko University,,,,67,20,20,20,3,10,0,73,147,20,20,20,12,0,0,72,145,Second Prize,Second Prize
+2002,36,Denys,Voloshyn,Denys Voloshyn,Kyiv Taras Shevchenko University,,,,179,20,20,20,15,8,0,83,157,19,20,20,,3,0,62,145,Second Prize,Second Prize
+2002,37,Jan,Kynčl,Jan Kynčl,"Charles University, Prague",,,,112,20,10,20,3,10,0,63,80,20,20,20,18,3,0,81,144,Second Prize,Second Prize
+2002,38,Ivan,Matić,Ivan Matić,University of Belgrade,,,,101,20,19,20,20,10,0,89,95,20,18,4,10,3,0,55,144,Second Prize,Second Prize
+2002,39,Ioan,Mirciov,Ioan Mirciov,Ecole Polytechnique,,,,83,20,19,20,8,12,0,79,49,20,18,4,11,10,0,63,142,Second Prize,Second Prize
+2002,40,Tomasz,Czajka,Tomasz Czajka,Warsaw University,,,,155,20,20,4,20,10,0,74,60,20,20,20,,6,1,67,141,Second Prize,Second Prize
+2002,41,Jos� Luis,Gonz�lez Zapata,Jos� Luis Gonz�lez Zapata,"Universidad Nacional de Colombia, Medell�n",,,,81,20,11,20,7,10,0,68,47,17,20,20,13,3,0,73,141,Second Prize,Second Prize
+2002,42,Siarhei,Markouski,Siarhei Markouski,Belarusian State University,,,,86,20,0,20,0,10,0,50,120,20,20,20,10,20,0,90,140,Second Prize,Second Prize
+2002,43,Mateo,Restrepo,Mateo Restrepo,"Universidad Nacional de Colombia, Bogot�",,,,68,15,10,20,20,12,0,77,181,20,10,20,10,2,0,62,139,Second Prize,Second Prize
+2002,44,Dzmitry,Badziahin,Dzmitry Badziahin,Belarusian State University,,,,14,20,20,20,8,10,0,78,27,20,20,13,3,4,0,60,138,Second Prize,Second Prize
+2002,45,Oscar Felipe,Bernal,Oscar Felipe Bernal,"Universidad de los Andes, Colombia",,,,30,20,20,4,8,10,1,63,15,19,20,20,13,3,0,75,138,Second Prize,Second Prize
+2002,46,Andriy,Bondarenko,Andriy Bondarenko,Kyiv Taras Shevchenko University,,,,1,7,15,20,17,12,0,71,7,20,20,20,4,3,0,67,138,Second Prize,Second Prize
+2002,47,Mikołaj,Zalewski,Mikołaj Zalewski,"Jagiellonian University, Poland",,,,189,20,20,0,18,10,0,68,40,16,20,20,11,3,0,70,138,Second Prize,Second Prize
+2002,48,Tonći,Antunović,Tonći Antunović,University of Zagreb,,,,22,20,20,20,3,10,0,73,25,20,20,19,1,3,0,63,136,Second Prize,Second Prize
+2002,49,Gergely,Ambrus,Gergely Ambrus,"University of Szeged, Hungary",,,,6,20,20,20,4,,0,64,12,18,20,20,10,3,0,71,135,Second Prize,Second Prize
+2002,50,G�bor,Kun,G�bor Kun,"Lorand E�tv�s University, Hungary",,,,143,20,20,18,19,10,1,88,107,19,18,0,7,3,0,47,135,Second Prize,Second Prize
+2002,51,Todor,Tsankov,Todor Tsankov,"Sofia University, Bulgaria",,,,37,20,20,0,20,11,0,71,179,20,20,20,0,4,0,64,135,Second Prize,Second Prize
+2002,52,Mehdi,Tavakol,Mehdi Tavakol,Sharif University of Technology,,,,172,10,5,20,20,1,0,56,160,20,20,20,10,8,0,78,134,Second Prize,Second Prize
+2002,53,Rebecca,Palmer,Rebecca Palmer,Trinity College Cambridge,,,,133,20,20,0,18,11,0,69,182,16,20,13,10,5,0,64,133,Second Prize,Second Prize
+2002,54,Bal�zs,R�cz,Bal�zs R�cz,"Technical University Budapest, Hungary",,,,46,20,20,0,20,10,0,70,168,20,20,20,,3,0,63,133,Second Prize,Second Prize
+2002,55,Cātālin,Golban,Cātālin Golban,"Technical University of Cluj, Romania",,,,76,20,20,0,1,0,0,41,119,20,20,20,11,20,0,91,132,Second Prize,Second Prize
+2002,56,Sergey,Bondarenko,Sergey Bondarenko,Moscow Institute of Physics and Technology,,,,21,20,20,20,0,10,0,70,23,20,20,20,,0,1,61,131,Second Prize,Second Prize
+2002,57,Camilo Arias,Abad,Camilo Arias Abad,"Universidad Nacional de Colombia, Medell�n",,,,26,0,20,15,19,10,0,64,26,20,20,20,,5,0,65,129,Second Prize,Second Prize
+2002,58,Majid,Hadian-Jazi,Majid Hadian-Jazi,Sharif University of Technology,,,,161,20,15,0,20,10,0,65,131,20,20,20,,3,1,64,129,Second Prize,Second Prize
+2002,59,David,Zmiaikou,David Zmiaikou,Belarusian State University,,,,177,20,20,0,18,10,0,68,133,15,20,15,6,4,0,60,128,Second Prize,Second Prize
+2002,60,Paweł,Walter,Paweł Walter,"Jagiellonian University, Poland",,,,52,20,20,4,3,10,0,57,155,20,20,20,0,10,0,70,127,Second Prize,Second Prize
+2002,61,Jarosław,Duda,Jarosław Duda,"Jagiellonian University, Poland",,,,163,20,20,0,12,10,0,62,100,20,20,20,0,3,0,63,125,Second Prize,Second Prize
+2002,62,Ossie,Manners,Ossie Manners,St John�s College Oxford,,,,166,20,20,20,3,10,0,73,45,19,20,9,,3,0,51,124,Second Prize,Second Prize
+2002,63,Boris,Lapin,Boris Lapin,Odessa National Mechnikov University,,,,75,20,20,0,0,10,0,50,72,18,20,18,14,3,0,73,123,Second Prize,Second Prize
+2002,64,Andriy,Prymak,Andriy Prymak,Kyiv Taras Shevchenko University,,,,185,20,20,4,4,10,0,58,172,20,20,17,2,6,0,65,123,Second Prize,Second Prize
+2002,65,Ivan,Razhnou,Ivan Razhnou,Belarusian State University,,,,36,0,20,20,0,10,1,51,164,20,20,20,10,0,0,70,121,Second Prize,Second Prize
+2002,66,Casian Alexandru,Pantea,Casian Alexandru Pantea,"Babes-Bolyai University, Romania",,,,65,20,20,0,4,0,0,44,177,20,20,20,11,5,0,76,120,Second Prize,Second Prize
+2002,67,Hoda,Bidkhori,Hoda Bidkhori,Sharif University of Technology,,,,2,20,20,20,0,10,0,70,30,6,20,20,0,3,0,49,119,Second Prize,Second Prize
+2002,68,Pierre-Emmanuel,Caprace,Pierre-Emmanuel Caprace,Universit� Libre de Bruxelles,,,,117,20,20,20,3,10,0,73,97,20,20,2,0,4,0,46,119,Second Prize,Second Prize
+2002,69,Taras,Androshchuk,Taras Androshchuk,Kyiv Taras Shevchenko University,,,,23,20,10,0,20,0,1,51,16,20,20,19,2,6,0,67,118,Second Prize,Second Prize
+2002,70,Viktor,V�gh,Viktor V�gh,"University of Szeged, Hungary",,,,53,20,20,20,5,0,0,65,38,20,20,0,10,3,0,53,118,Second Prize,Second Prize
+2002,71,Nikolay,Aleksandrov,Nikolay Aleksandrov,"Sofia University, Bulgaria",,,,28,20,20,20,8,10,0,78,20,20,0,19,0,0,0,39,117,Second Prize,Second Prize
+2002,72,Ali,Shourideh,Ali Shourideh,Sharif University of Technology,,,,39,10,20,20,0,2,0,52,163,18,20,20,,6,1,65,117,Second Prize,Second Prize
+2002,73,Miroslava,Sot�kov�,Miroslava Sot�kov�,"Charles University, Prague",,,,57,20,20,0,3,10,0,53,31,20,20,18,,5,1,64,117,Second Prize,Second Prize
+2002,74,Pavlo,Shelyazhenko,Pavlo Shelyazhenko,Kyiv Taras Shevchenko University,,,,40,20,20,20,0,10,0,70,162,20,20,2,,3,0,45,115,Third Prize,Third Prize
+2002,75,Ivanka,Baneva,Ivanka Baneva,"Sofia University, Bulgaria",,,,17,20,20,20,8,1,0,69,29,20,20,2,,3,0,45,114,Third Prize,Third Prize
+2002,76,Jure,Kališnik,Jure Kališnik,"University of Ljubljana, Slovenia",,,,132,15,20,0,6,10,0,51,93,20,19,11,10,3,0,63,114,Third Prize,Third Prize
+2002,77,Katarzyna,Jachim,Katarzyna Jachim,Warsaw University,,,,127,20,20,20,0,10,0,70,124,20,20,0,,3,0,43,113,Third Prize,Third Prize
+2002,78,Seyed Ali,Madanizadeh,Seyed Ali Madanizadeh,Sharif University of Technology,,,,79,12,20,0,12,5,0,49,91,20,20,20,,3,0,63,112,Third Prize,Third Prize
+2002,79,Libor,Barto,Libor Barto,"Charles University, Prague",,,,7,20,11,0,7,10,0,48,1,20,20,20,0,3,0,63,111,Third Prize,Third Prize
+2002,80,Mykhaylo,Bratyk,Mykhaylo Bratyk,"Kyiv-Mohyla Academy, Kyiv, Ukraine",,,,4,20,15,20,4,11,0,70,24,6,12,20,,3,0,41,111,Third Prize,Third Prize
+2002,81,Żywomir,Dinew,Żywomir Dinew,"Jagiellonian University, Poland",,,,144,20,17,0,3,10,0,50,84,20,19,18,0,2,0,59,109,Third Prize,Third Prize
+2002,82,Tomas,�stman,Tomas �stman,Helsinki University of Technology,,,,90,20,8,20,0,12,2,62,104,20,20,4,,3,0,47,109,Third Prize,Third Prize
+2002,83,Indrek,Zolk,Indrek Zolk,"University of Tartu, Estonia",,,,176,20,5,20,3,0,0,48,43,20,20,20,0,1,0,61,109,Third Prize,Third Prize
+2002,84,Mykola,Pupashenko,Mykola Pupashenko,Kyiv Taras Shevchenko University,,,,42,20,5,9,3,9,1,47,169,20,20,7,11,3,0,61,108,Third Prize,Third Prize
+2002,85,Jan,Mysliveček,Jan Mysliveček,"Masaryk University, Brno",,,,151,20,3,20,4,0,0,47,130,20,20,16,,3,0,59,106,Third Prize,Third Prize
+2002,86,Aleksandar,Pečkov,Aleksandar Pečkov,"University of Skopje, Macedonia",,,,165,20,20,20,0,0,0,60,53,20,20,3,0,3,0,46,106,Third Prize,Third Prize
+2002,87,Svetlana,Poznanovic,Svetlana Poznanovic,"University of Skopje, Macedonia",,,,33,20,20,20,1,,0,61,32,20,20,2,0,3,0,45,106,Third Prize,Third Prize
+2002,88,Matthias,Warkentin,Matthias Warkentin,"University of Bonn, Germany",,,,184,20,19,0,3,10,0,52,42,20,20,,10,4,0,54,106,Third Prize,Third Prize
+2002,89,Vedran,Zorić,Vedran Zorić,University of Zagreb,,,,44,10,0,20,10,2,0,42,132,20,20,20,0,4,0,64,106,Third Prize,Third Prize
+2002,90,Michał,Adamaszek,Michał Adamaszek,Warsaw University,,,,5,20,15,0,0,10,0,45,9,20,20,20,,0,0,60,105,Third Prize,Third Prize
+2002,91,Oleksiy,Kravchenko,Oleksiy Kravchenko,Kiev Polytechnic Institute,,,,164,12,15,0,0,10,0,37,87,18,20,20,10,0,0,68,105,Third Prize,Third Prize
+2002,92,Marcin,Borkowski,Marcin Borkowski,"Adam Mickiewicz University, Poland",,,,20,20,10,0,20,10,0,60,4,20,20,1,,3,0,44,104,Third Prize,Third Prize
+2002,93,Marius,Botiş,Marius Botiş,"Technical University of Cluj, Romania",,,,12,20,10,0,5,6,0,41,2,20,10,20,10,3,0,63,104,Third Prize,Third Prize
+2002,94,David,Holec,David Holec,"Masaryk University, Brno",,,,126,20,0,20,1,0,0,41,114,20,20,20,0,3,0,63,104,Third Prize,Third Prize
+2002,95,Edgar Felipe,Rinc�n,Edgar Felipe Rinc�n,"Universidad de los Andes, Colombia",,,,60,20,20,0,0,,0,40,146,20,20,20,0,3,0,63,103,Third Prize,Third Prize
+2002,96,Jacek,Jurewicz,Jacek Jurewicz,Warsaw University,,,,159,20,15,20,0,0,0,55,78,20,20,2,,3,0,45,100,Third Prize,Third Prize
+2002,97,Eric,Vandenbussche,Eric Vandenbussche,Universit� Libre de Bruxelles,,,,178,20,20,0,8,10,0,58,151,7,20,14,0,0,1,42,100,Third Prize,Third Prize
+2002,98,P�ter,Varj�,P�ter Varj�,"University of Szeged, Hungary",,,,35,20,0,0,16,10,0,46,35,20,20,1,10,3,0,54,100,Third Prize,Third Prize
+2002,99,Martin,Milanič,Martin Milanič,"University of Ljubljana, Slovenia",,,,140,20,10,6,0,0,0,36,61,20,20,20,0,3,0,63,99,Third Prize,Third Prize
+2002,100,Voichiţa,Almăşan,Voichiţa Almăşan,"Technical University of Cluj, Romania",,,,31,10,8,0,3,10,0,31,8,20,20,20,0,5,0,65,96,Third Prize,Third Prize
+2002,101,Stanislav Nikolaev,Harizanov,Stanislav Nikolaev Harizanov,"Sofia University, Bulgaria",,,,135,0,20,5,8,0,0,33,103,20,20,20,0,3,0,63,96,Third Prize,Third Prize
+2002,102,D.,Y.,D. Y.,Kyiv Taras Shevchenko University,,,,187,20,5,0,0,10,0,35,134,20,20,17,,4,0,61,96,Third Prize,Third Prize
+2002,103,Jos� Manuel,G�mez,Jos� Manuel G�mez,"Universidad Nacional de Colombia, Medell�n",,,,102,20,6,6,20,0,0,52,113,18,1,20,,4,0,43,95,Third Prize,Third Prize
+2002,104,Mohammad Reza,Hosseini,Mohammad Reza Hosseini,"Amirkabir University of Technology, Tehran",,,,130,0,20,0,20,10,0,50,129,20,20,2,,3,0,45,95,Third Prize,Third Prize
+2002,105,Riikka,Korte,Riikka Korte,Helsinki University of Technology,,,,138,20,0,20,0,0,0,40,122,20,14,18,,3,0,55,95,Third Prize,Third Prize
+2002,106,David,Loeffler,David Loeffler,Trinity College Cambridge,,,,104,20,3,0,1,10,0,34,106,20,20,20,0,1,0,61,95,Third Prize,Third Prize
+2002,107,Tomaž,Kosem,Tomaž Kosem,"University of Ljubljana, Slovenia",,,,84,20,3,20,8,0,0,51,75,20,20,0,,3,0,43,94,Third Prize,Third Prize
+2002,108,Miško,Mitkovski,Miško Mitkovski,"University of Skopje, Macedonia",,,,168,20,10,20,3,1,0,54,69,20,20,,0,0,0,40,94,Third Prize,Third Prize
+2002,109,Zsolt,Ter�k,Zsolt Ter�k,"Technical University Budapest, Hungary",,,,56,20,20,0,2,1,0,43,156,19,20,,11,0,0,50,93,Third Prize,Third Prize
+2002,110,Miljan,Brakocevic,Miljan Brakocevic,University of Belgrade,,,,27,20,3,20,4,,0,47,19,20,20,0,,5,0,45,92,Third Prize,Third Prize
+2002,111,Adriana,Dinu,Adriana Dinu,Ecole Polytechnique,,,,169,20,6,0,3,2,0,31,74,17,20,18,,6,0,61,92,Third Prize,Third Prize
+2002,112,Dominik,Wojtczak,Dominik Wojtczak,Warsaw University,,,,188,20,5,0,1,10,0,36,135,20,11,20,2,3,0,56,92,Third Prize,Third Prize
+2002,113,Irena,Majcen,Irena Majcen,"University of Ljubljana, Slovenia",,,,85,20,6,20,1,0,0,47,56,20,20,1,0,3,0,44,91,Third Prize,Third Prize
+2002,114,Arda,Kolcak,Arda Kolcak,Ecole Polytechnique,,,,162,20,20,0,5,10,0,55,111,17,0,4,10,3,0,34,89,Third Prize,Third Prize
+2002,115,Aleš,N�vrat,Aleš N�vrat,"Masaryk University, Brno",,,,91,20,5,20,1,,0,46,59,20,20,0,,3,0,43,89,Third Prize,Third Prize
+2002,116,Barnaby,Dawson,Barnaby Dawson,Trinity College Cambridge,,,,141,20,20,0,15,10,0,65,96,0,20,,,3,0,23,88,Third Prize,Third Prize
+2002,117,David,Newman,David Newman,Jesus College Oxford,,,,158,20,20,0,3,0,0,43,77,20,20,2,,3,0,45,88,Third Prize,Third Prize
+2002,118,Laurenţiu-Petre,Diaconu,Laurenţiu-Petre Diaconu,Ecole Polytechnique,,,,107,20,10,20,0,1,0,51,108,20,2,10,,4,0,36,87,Third Prize,Third Prize
+2002,119,Konstantin,Tretyakov,Konstantin Tretyakov,"University of Tartu, Estonia",,,,34,20,0,0,5,2,0,27,150,20,20,20,0,0,0,60,87,Third Prize,Third Prize
+2002,120,Marian,Ertl,Marian Ertl,"Charles University, Prague",,,,147,20,0,0,3,2,0,25,90,18,20,20,,3,0,61,86,Third Prize,Third Prize
+2002,121,Leopold,Parts,Leopold Parts,"University of Tartu, Estonia",,,,38,3,18,20,0,,0,41,176,20,20,2,,3,0,45,86,Third Prize,Third Prize
+2002,122,Audrius,Posochovas,Audrius Posochovas,University of Lithuania,,,,69,0,3,20,0,8,0,31,175,20,20,12,,3,0,55,86,Third Prize,Third Prize
+2002,123,Anne-Maria,Ernvall,Anne-Maria Ernvall,"University of Helsinki, Finland",,,,109,20,0,0,20,0,0,40,50,20,20,1,,4,0,45,85,Third Prize,Third Prize
+2002,124,Biljana,Tojtovska,Biljana Tojtovska,"University of Skopje, Macedonia",,,,59,20,11,6,3,,0,40,39,20,20,2,0,3,0,45,85,Third Prize,Third Prize
+2002,125,Johanna,Tikanm�ki,Johanna Tikanm�ki,Helsinki University of Technology,,,,58,20,3,8,8,3,0,42,148,15,20,0,2,3,0,40,82,Third Prize,Third Prize
+2002,126,Romuald,Elie,Romuald Elie,"ENSAE, Paris",,,,118,20,5,0,12,0,0,37,117,20,18,,,4,0,42,79,Honourable Mention,Honourable Mention
+2002,127,Istv�n,Pil�szy,Istv�n Pil�szy,"Technical University Budapest, Hungary",,,,175,20,10,0,0,10,0,40,174,1,20,14,0,3,0,38,78,Honourable Mention,Honourable Mention
+2002,128,Rahbar,Rasouli,Rahbar Rasouli,University of Tehran,,,,170,0,4,0,20,10,0,34,166,20,20,1,,3,0,44,78,Honourable Mention,Honourable Mention
+2002,129,Katarzyna,Rybarczyk,Katarzyna Rybarczyk,"Adam Mickiewicz University, Poland",,,,32,20,8,0,5,,0,33,143,20,20,0,0,5,0,45,78,Honourable Mention,Honourable Mention
+2002,130,Jan,Dušan,Jan Dušan,"University of Ljubljana, Slovenia",,,,150,20,20,0,3,10,0,53,102,4,20,0,0,0,0,24,77,Honourable Mention,Honourable Mention
+2002,131,Anton,Sorocovskiy,Anton Sorocovskiy,Odessa National Mechnikov University,,,,64,20,18,0,3,20,0,61,165,2,4,5,1,3,0,15,76,Honourable Mention,Honourable Mention
+2002,132,Vasile-Iuniu,Ştef,Vasile-Iuniu Ştef,"Babes-Bolyai University, Romania",,,,47,20,10,0,3,0,0,33,139,20,0,20,0,3,0,43,76,Honourable Mention,Honourable Mention
+2002,133,Reza,Rezavand,Reza Rezavand,University of Tehran,,,,183,0,20,0,20,10,0,50,145,20,0,2,,3,0,25,75,Honourable Mention,Honourable Mention
+2002,134,Farzaneh,Ramazani,Farzaneh Ramazani,"Amirkabir University of Technology, Tehran",,,,41,10,20,0,0,,0,30,167,20,20,1,0,3,0,44,74,Honourable Mention,Honourable Mention
+2002,135,Cristina,Savin,Cristina Savin,"Technical University of Cluj, Romania",,,,63,20,8,0,0,1,0,29,140,20,0,20,,5,0,45,74,Honourable Mention,Honourable Mention
+2002,136,Adrian,Vancea,Adrian Vancea,"Babes-Bolyai University, Romania",,,,181,20,5,4,2,0,0,31,152,19,0,20,,4,0,43,74,Honourable Mention,Honourable Mention
+2002,137,Evaggelos,Evaggelou,Evaggelos Evaggelou,University of Cyprus,,,,152,20,10,0,0,0,0,30,51,17,3,20,,3,0,43,73,Honourable Mention,Honourable Mention
+2002,138,Bahareh,Esfahbod Mirhoseinzadeh S.,Bahareh Esfahbod Mirhoseinzadeh S.,"Amirkabir University of Technology, Tehran",,,,131,20,0,8,0,0,0,28,94,20,20,0,,4,0,44,72,Honourable Mention,Honourable Mention
+2002,139,Predrag,Glisic,Predrag Glisic,University of Belgrade,,,,116,0,0,0,0,0,0,0,88,20,19,20,10,3,0,72,72,Honourable Mention,Honourable Mention
+2002,140,Vaidotas,Vitkauskas,Vaidotas Vitkauskas,University of Lithuania,,,,73,20,3,5,0,,0,28,33,20,20,,,4,0,44,72,Honourable Mention,Honourable Mention
+2002,141,Derek,Harland,Derek Harland,University of Warwick,,,,77,20,0,20,8,,0,48,79,0,0,20,0,3,0,23,71,Honourable Mention,Honourable Mention
+2002,142,Farnaz,Taherkhani,Farnaz Taherkhani,University of Tehran,,,,51,20,5,0,3,0,0,28,136,20,20,2,,0,0,42,70,Honourable Mention,Honourable Mention
+2002,143,Yiannis,Psiloyenis,Yiannis Psiloyenis,University of Cyprus,,,,43,10,20,0,4,10,0,44,170,0,20,2,,3,0,25,69,Honourable Mention,Honourable Mention
+2002,144,�d�m,Zawadowski,�d�m Zawadowski,"Technical University Budapest, Hungary",,,,45,20,0,4,0,10,0,34,173,15,16,,,3,1,35,69,Honourable Mention,Honourable Mention
+2002,145,Shirnen,Buyanjargal,Shirnen Buyanjargal,Mongolian University of Science and Technology,,,,25,20,3,20,0,,0,43,21,20,0,3,0,0,0,23,66,Honourable Mention,Honourable Mention
+2002,146,Paulius,Drungilas,Paulius Drungilas,University of Lithuania,,,,108,20,0,0,3,0,0,23,109,20,0,20,3,0,0,43,66,Honourable Mention,Honourable Mention
+2002,147,Boris,Kozlov,Boris Kozlov,Ecole Polytechnique,,,,129,20,0,0,0,0,0,20,126,20,20,,,5,0,45,65,Honourable Mention,Honourable Mention
+2002,148,Lauri,Hallila,Lauri Hallila,"University of Helsinki, Finland",,,,103,0,20,0,1,2,0,23,64,20,17,1,,3,0,41,64,Honourable Mention,Honourable Mention
+2002,149,Eugeniu,Spinu,Eugeniu Spinu,Moldova State University,,,,49,20,0,0,0,,0,20,158,20,20,1,,3,0,44,64,Honourable Mention,Honourable Mention
+2002,150,Adam,Booth,Adam Booth,Jesus College Oxford,,,,16,0,20,0,1,0,0,21,6,18,20,0,,3,0,41,62,Honourable Mention,Honourable Mention
+2002,151,�sa,Ekman,�sa Ekman,"University of Helsinki, Finland",,,,114,0,0,15,3,0,0,18,101,20,20,0,,3,0,43,61,Honourable Mention,Honourable Mention
+2002,152,Philippa,Iley,Philippa Iley,Oriel College Oxford,,,,157,18,0,0,0,0,0,18,127,20,20,0,,3,0,43,61,Honourable Mention,Honourable Mention
+2002,153,Mehdi,Khalfet,Mehdi Khalfet,Ecole Polytechnique,,,,88,20,10,0,3,9,0,42,57,15,0,2,0,1,0,18,60,Honourable Mention,Honourable Mention
+2002,154,Ricardo,Restrepo L�pez,Ricardo Restrepo L�pez,"Universidad Nacional de Colombia, Bogot�",,,,66,4,20,0,0,10,0,34,144,7,0,14,0,3,0,24,58,Honourable Mention,Honourable Mention
+2002,155,Grzegorz,Gutowski,Grzegorz Gutowski,"Jagiellonian University, Poland",,,,128,20,12,0,1,0,0,33,118,0,20,,0,0,0,20,53,Honourable Mention,Honourable Mention
+2002,156,Mihail Kirilov,Kirilov,Mihail Kirilov Kirilov,"Rousse University, Bulgaria",,,,120,20,10,0,0,0,0,30,63,20,0,0,,3,0,23,53,Honourable Mention,Honourable Mention
+2002,157,Viktor,Knava,Viktor Knava,University College London,,,,125,20,0,0,0,0,0,20,121,13,20,0,,0,0,33,53,Honourable Mention,Honourable Mention
+2002,158,Charis,Tsikkou,Charis Tsikkou,University of Cyprus,,,,182,20,3,0,0,0,0,23,34,20,0,6,0,4,0,30,53,Honourable Mention,Honourable Mention
+2002,159,Mahdi,Afshar,Mahdi Afshar,University of Tehran,,,,24,0,3,0,1,2,0,6,5,20,20,1,,3,0,44,50,Honourable Mention,Honourable Mention
+2002,160,Mihail,Croitor,Mihail Croitor,Moldova State University,,,,113,20,0,0,0,0,0,20,115,20,7,,,3,0,30,50,Honourable Mention,Honourable Mention
+2002,161,Tim,Edwards,Tim Edwards,University College London,,,,106,20,0,0,0,0,0,20,123,20,10,,,0,0,30,50,Honourable Mention,Honourable Mention
+2002,162,Nadejda,Vicol,Nadejda Vicol,Moldova State University,,,,180,15,0,0,0,0,0,15,36,12,20,,,3,0,35,50,Honourable Mention,Honourable Mention
+2002,163,Łukasz,Pankowski,Łukasz Pankowski,"Adam Mickiewicz University, Poland",,,,70,20,0,0,0,,0,20,178,18,11,,,0,0,29,49,Honourable Mention,Honourable Mention
+2002,164,Alexander,Adamescu,Alexander Adamescu,"ENSAE, Paris",,,,19,20,10,0,0,,0,30,22,18,0,0,,0,0,18,48,Honourable Mention,Honourable Mention
+2002,165,Adina,Ţopa,Adina Ţopa,"Technical University of Cluj, Romania",,,,61,4,3,0,0,,0,7,149,20,0,16,,4,0,40,47,Honourable Mention,Honourable Mention
+2002,166,Julien,Labonne,Julien Labonne,"ENSAE, Paris",,,,115,0,10,20,0,0,0,30,125,2,10,0,,3,0,15,45,Honourable Mention,Honourable Mention
+2002,167,Chris,Brereton,Chris Brereton,University of Warwick,,,,11,0,0,0,8,,0,8,28,15,0,20,,0,0,35,43,Honourable Mention,Honourable Mention
+2002,168,Maria,Neofutou,Maria Neofutou,University of Cyprus,,,,87,20,4,0,0,,0,24,62,7,0,1,,4,0,12,36,Certificate,Certificate
+2002,169,Alexandre,Moudiappanadin,Alexandre Moudiappanadin,"ENSAE, Paris",,,,156,10,0,0,1,0,0,11,82,18,3,0,0,3,0,24,35,Certificate,Certificate
+2002,170,Jarno,Talponen,Jarno Talponen,"University of Helsinki, Finland",,,,55,3,10,0,3,11,0,27,153,0,5,,,3,0,8,35,Certificate,Certificate
+2002,171,Irini,Kiza,Irini Kiza,University of Cyprus,,,,154,0,10,0,3,0,0,13,116,18,0,,,3,0,21,34,Certificate,Certificate
+2002,172,Dan Mihai,Borlan,Dan Mihai Borlan,North University of Baia Mare,,,,8,0,5,6,0,0,0,11,17,20,0,2,,0,0,22,33,Certificate,Certificate
+2002,173,Paweł,Najman,Paweł Najman,"University of Mining and Metallurgy, Poland",,,,160,3,5,0,0,0,0,8,65,20,5,0,,0,0,25,33,Certificate,Certificate
+2002,174,Delia,Nechita,Delia Nechita,"Babes-Bolyai University, Romania",,,,82,0,5,0,0,0,0,5,54,20,3,2,0,3,0,28,33,Certificate,Certificate
+2002,175,Esther,Williams,Esther Williams,Jesus College Oxford,,,,62,20,0,0,0,,0,20,180,6,6,,,0,0,12,32,Certificate,Certificate
+2002,176,Martin Sashev,Marinov,Martin Sashev Marinov,"Rousse University, Bulgaria",,,,139,7,0,0,0,0,0,7,73,20,3,,,1,0,24,31,Certificate,Certificate
+2002,177,David,Fletcher,David Fletcher,University of Warwick,,,,149,0,0,0,2,0,0,2,92,4,20,,0,3,0,27,29,Certificate,Certificate
+2002,178,Mehdi,Ghasemi,Mehdi Ghasemi,"Amirkabir University of Technology, Tehran",,,,136,7,0,0,8,10,0,25,128,0,0,0,,4,0,4,29,Certificate,Certificate
+2002,179,Juan,Sanchez,Juan Sanchez,"University of Helsinki, Finland",,,,174,0,10,0,0,0,0,10,159,6,3,,,3,0,12,22,Certificate,Certificate
+2002,180,Cankhyag,Nyamdorj,Cankhyag Nyamdorj,Mongolian University of Science and Technology,,,,134,0,1,0,0,0,0,1,68,20,0,0,,0,0,20,21,Certificate,Certificate
+2002,181,Tim,Sullivan,Tim Sullivan,University of Warwick,,,,50,7,0,0,1,2,0,10,137,2,2,0,2,3,0,9,19,Certificate,Certificate
+2002,182,Anthony,Blackman,Anthony Blackman,University of the West Indies,,,,29,3,3,0,0,0,0,6,3,9,0,0,,0,0,9,15,Certificate,Certificate

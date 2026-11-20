@@ -1,0 +1,332 @@
+Year,Pos,First name,Family name,Full name,University,Team,City,Country,Code_D1,D1_P1,D1_P2,D1_P3,D1_P4,D1_P5,D1_P6,Day1,Code_D2,D2_P1,D2_P2,D2_P3,D2_P4,D2_P5,D2_P6,Day2,Sum,Prize,Prize_raw
+2017,1–2,Daniil,Klyuev,Daniil Klyuev,St. Petersburg State University,,,,,10,10,10,10,10,,50,,10,10,10,10,10,,50,100,Grand First Prize,Grand First Prize
+2017,1–2,Asael Mordechai,Reiter,Asael Mordechai Reiter,Israeli national team - Technion,,,,,10,10,10,10,10,,50,,10,10,10,10,10,,50,100,Grand First Prize,Grand First Prize
+2017,3,Amotz,Oppenheim,Amotz Oppenheim,Israeli national team - Tel Aviv University,,,,,10,10,10,10,10,,50,,10,10,10,10,7,,47,97,Grand First Prize,Grand First Prize
+2017,4–6,Stanislav,Ershov,Stanislav Ershov,St. Petersburg State University,,,,,10,9,10,10,10,,49,,10,9,9,4,10,,42,91,First Prize,First Prize
+2017,4–6,Dmitry,Krachun,Dmitry Krachun,St. Petersburg State University,,,,,10,10,10,10,10,,50,,10,2,10,9,10,,41,91,First Prize,First Prize
+2017,4–6,Omri Nisan,Solan,Omri Nisan Solan,Israeli national team - Tel Aviv University,,,,,10,10,10,9,7,,46,,5,10,10,10,10,,45,91,First Prize,First Prize
+2017,7–8,Ilya,Losev,Ilya Losev,St. Petersburg State University,,,,,10,10,10,10,0,,40,,8,10,10,10,5,,43,83,First Prize,First Prize
+2017,7–8,Nitzan,Tur,Nitzan Tur,Israeli national team - Technion,,,,,10,10,10,10,10,,50,,5,9,10,9,0,,33,83,First Prize,First Prize
+2017,9–11,Grzegorz,Adamski,Grzegorz Adamski,Adam Mickiewicz University,,,,,10,10,10,10,0,,40,,10,10,10,10,0,,40,80,First Prize,First Prize
+2017,9–11,Zarko,Randelovic,Zarko Randelovic,University of Cambridge,,,,,8,10,10,10,0,,38,,10,10,10,10,2,,42,80,First Prize,First Prize
+2017,9–11,Jeroen,Winkel,Jeroen Winkel,Radboud University Nijmegen,,,,,10,10,10,10,0,,40,,10,10,10,10,0,,40,80,First Prize,First Prize
+2017,12,Maxim,Didin,Maxim Didin,Moscow Institute of Physics and Technology,,,,,10,10,10,10,1,,41,,10,1,10,10,4,,35,76,First Prize,First Prize
+2017,13,Damia,Torres Latorre,Damia Torres Latorre,BarcelonaTech,,,,,10,10,10,10,3,,43,,10,1,10,10,0,,31,74,First Prize,First Prize
+2017,14,Budimir,Baev,Budimir Baev,St. Petersburg State University,,,,,10,10,10,1,2,,33,,10,10,10,10,0,,40,73,First Prize,First Prize
+2017,15,Albert,Gevorgyan,Albert Gevorgyan,Yerevan State University,,,,,10,10,10,10,0,,40,,10,10,10,2,0,,32,72,First Prize,First Prize
+2017,16–17,Liam,Hanany,Liam Hanany,Israeli national team - Tel Aviv University,,,,,10,10,10,,0,,30,,10,10,10,10,1,,41,71,First Prize,First Prize
+2017,16–17,Noam,Ta Shma,Noam Ta Shma,Israeli national team - Open University,,,,,10,9,10,10,,,39,,10,3,10,9,0,,32,71,First Prize,First Prize
+2017,18–19,Nikita,Gladkov,Nikita Gladkov,Higher School of Economics,,,,,10,10,10,10,0,,40,,10,0,10,10,0,,30,70,First Prize,First Prize
+2017,18–19,Piotr,Pawlak,Piotr Pawlak,University of Gdansk,,,,,10,10,10,,,,30,,10,10,10,10,,,40,70,First Prize,First Prize
+2017,20,Martin,Vodička,Martin Vodička,"Comenius University, Bratislava",,,,,10,10,9,10,0,,39,,10,0,10,10,,,30,69,First Prize,First Prize
+2017,21,Ferdinand,Wagner,Ferdinand Wagner,Universität Bonn,,,,,10,6,10,5,,,31,,10,10,9,8,,,37,68,First Prize,First Prize
+2017,22–24,Christian,Bernert,Christian Bernert,University of Goettingen,,,,,3,10,10,2,0,,25,,10,10,10,10,0,,40,65,First Prize,First Prize
+2017,22–24,Jeroen,Huijben,Jeroen Huijben,Utrecht University,,,,,10,7,10,9,0,,36,,5,10,10,4,0,,29,65,First Prize,First Prize
+2017,22–24,Pim,Spelier,Pim Spelier,Universiteit Leiden,,,,,10,10,10,5,0,,35,,10,0,10,10,0,,30,65,First Prize,First Prize
+2017,25–28,Tamás,Csernák,Tamás Csernák,Eötvös Loránd University,,,,,10,9,10,5,0,,34,,10,,10,10,,,30,64,First Prize,First Prize
+2017,25–28,Aleksandr,Golovanov,Aleksandr Golovanov,Moscow Institute of Physics and Technology,,,,,10,10,10,5,0,,35,,10,2,7,10,0,,29,64,First Prize,First Prize
+2017,25–28,Gennady,Korotkevich,Gennady Korotkevich,ITMO University,,,,,10,10,10,10,,,40,,10,0,10,4,,,24,64,First Prize,First Prize
+2017,25–28,Andrey,Sergunin,Andrey Sergunin,Moscow Institute of Physics and Technology,,,,,10,10,9,5,,,34,,10,10,10,,0,,30,64,First Prize,First Prize
+2017,29–32,Zsombor,Fehér,Zsombor Fehér,Eötvös Loránd University,,,,,10,10,10,8,,,38,,10,1,10,4,,,25,63,First Prize,First Prize
+2017,29–32,Maksim,Khabarov,Maksim Khabarov,Moscow Institute of Physics and Technology,,,,,10,10,10,1,0,,31,,5,7,10,10,,,32,63,First Prize,First Prize
+2017,29–32,Kamil,Rychlewicz,Kamil Rychlewicz,Warsaw University,,,,,3,10,10,10,,,33,,10,0,10,10,,,30,63,First Prize,First Prize
+2017,29–32,Alireza,Shavali Kohshor,Alireza Shavali Kohshor,Sharif University of Technology,,,,,10,10,10,8,,,38,,10,1,10,4,0,,25,63,First Prize,First Prize
+2017,33,Aleksii,Volostnov,Aleksii Volostnov,Moscow Institute of Physics and Technology,,,,,4,8,10,,,,22,,10,10,10,10,0,,40,62,First Prize,First Prize
+2017,34–37,Nikita,Chernega,Nikita Chernega,Moscow Institute of Physics and Technology,,,,,3,10,10,10,,,33,,8,10,8,2,,,28,61,First Prize,First Prize
+2017,34–37,Konrad,Deka,Konrad Deka,Jagiellonian University,,,,,3,10,10,0,,,23,,10,8,10,10,,,38,61,First Prize,First Prize
+2017,34–37,Levi,Haunschmid,Levi Haunschmid,University of Vienna,,,,,10,10,10,10,,,40,,10,0,7,4,,,21,61,First Prize,First Prize
+2017,34–37,Radovan,Švarc,Radovan Švarc,Charles University,,,,,3,7,10,10,0,,30,,10,1,10,10,,,31,61,First Prize,First Prize
+2017,38,Luis,Crespo,Luis Crespo,Universidad de Cantabria,,,,,10,10,10,10,0,,40,,8,0,8,4,,,20,60,First Prize,First Prize
+2017,39–40,Amir Ali,Moinfar,Amir Ali Moinfar,Sharif University of Technology,,,,,9,10,10,,,,29,,9,1,10,10,,,30,59,First Prize,First Prize
+2017,39–40,Denys,Pushkin,Denys Pushkin,Taras Shevchenko National University of Kyiv,,,,,9,10,10,,,,29,,10,10,10,0,,,30,59,First Prize,First Prize
+2017,41–42,Jakub,Koncki,Jakub Koncki,Warsaw University,,,,,10,10,10,8,,,38,,10,,10,0,,,20,58,First Prize,First Prize
+2017,41–42,Bas,Verseveldt,Bas Verseveldt,Utrecht University,,,,,10,10,10,0,0,,30,,10,0,10,8,,,28,58,First Prize,First Prize
+2017,43,Oscar Samuel,Henney Arthur,Oscar Samuel Henney Arthur,Universidad Nacional Autonoma de Mèxico,,,,,10,9,10,0,,,29,,10,10,0,8,,,28,57,First Prize,First Prize
+2017,44,Mike,Daas,Mike Daas,University of Amsterdam,,,,,10,10,10,4,,,34,,10,1,10,1,,,22,56,First Prize,First Prize
+2017,45–46,Balázs,Maga,Balázs Maga,Eötvös Loránd University,,,,,3,10,10,1,,,24,,10,9,10,2,,,31,55,First Prize,First Prize
+2017,45–46,Jaime,Mendizábal Roche,Jaime Mendizábal Roche,Universidad Complutense de Madrid,,,,,5,10,10,,0,,25,,10,0,10,10,,,30,55,First Prize,First Prize
+2017,47–48,Ovidiu-Neculai,Avădānei,Ovidiu-Neculai Avădānei,Alexandru Ioan Cuza University,,,,,10,10,10,0,0,,30,,10,0,10,4,0,,24,54,First Prize,First Prize
+2017,47–48,Lars,Munser,Lars Munser,Universität Bonn,,,,,10,3,10,,0,,23,,10,1,10,10,0,,31,54,First Prize,First Prize
+2017,49–51,Khakimboy,Egamberganov,Khakimboy Egamberganov,National University of Uzbekistan,,,,,9,10,3,,0,,22,,10,10,10,1,0,,31,53,First Prize,First Prize
+2017,49–51,Aria,Halavati,Aria Halavati,Sharif University of Technology,,,,,10,0,10,10,,,30,,9,0,10,4,,,23,53,First Prize,First Prize
+2017,49–51,Ignat,Sokolov,Ignat Sokolov,St. Petersburg State University,,,,,10,7,10,,,,27,,10,10,2,4,0,,26,53,First Prize,First Prize
+2017,52,Josef,Greilhuber,Josef Greilhuber,University of Vienna,,,,,10,10,10,,,,30,,5,,8,9,,,22,52,First Prize,First Prize
+2017,53,Vazgen,Mikayelyan,Vazgen Mikayelyan,Yerevan State University,,,,,10,3,,,0,,13,,10,10,10,8,,,38,51,First Prize,First Prize
+2017,54–58,Vadim,Luchkin,Vadim Luchkin,Higher School of Economics,,,,,9,2,10,,,,21,,9,10,10,0,,,29,50,First Prize,First Prize
+2017,54–58,Rafael,Miyazaki,Rafael Miyazaki,Pontifícia Universidade Católica do Rio de Janeiro,,,,,10,0,0,10,0,,20,,10,10,10,0,0,,30,50,First Prize,First Prize
+2017,54–58,Petar,Orlić,Petar Orlić,University of Zagreb,,,,,10,0,10,,0,,20,,10,10,10,0,0,,30,50,First Prize,First Prize
+2017,54–58,Thiago,Ribeiro Tergolino,Thiago Ribeiro Tergolino,IME - Instituto Militar de Engenharia,,,,,3,8,0,8,,,19,,10,10,7,4,,,31,50,First Prize,First Prize
+2017,54–58,Valentino,Sichinel,Valentino Sichinel,Universidade Federal do Rio de Janeiro,,,,,10,10,0,,,,20,,10,10,9,1,,,30,50,First Prize,First Prize
+2017,59–60,Adrian,Riekert,Adrian Riekert,Universität Bonn,,,,,3,7,10,,,,20,,9,1,10,9,0,,29,49,First Prize,First Prize
+2017,59–60,Wouter,Rienks,Wouter Rienks,University of Amsterdam,,,,,10,10,7,,,,27,,10,1,10,1,,,22,49,First Prize,First Prize
+2017,61–62,Georgios,Kotsovolis,Georgios Kotsovolis,National and Kapodistrian University of Athens,,,,,10,2,0,,,,12,,10,10,6,10,,,36,48,First Prize,First Prize
+2017,61–62,Dirk,van Bree,Dirk van Bree,Radboud University Nijmegen,,,,,10,9,2,6,0,,27,,10,1,10,0,0,,21,48,First Prize,First Prize
+2017,63–64,Kristina,Oganesyan,Kristina Oganesyan,Lomonosov Moscow State University,,,,,10,3,0,,,,13,,10,10,10,4,,,34,47,First Prize,First Prize
+2017,63–64,Stephen,Sanjaya,Stephen Sanjaya,Universitas Pelita Harapan,,,,,3,10,10,,,,23,,10,0,10,4,0,,24,47,First Prize,First Prize
+2017,65–71,Igor,Albuquerque Araujo,Igor Albuquerque Araujo,Pontifícia Universidade Católica do Rio de Janeiro,,,,,9,1,2,10,0,,22,,10,2,8,4,,,24,46,First Prize,First Prize
+2017,65–71,Ali,Cheraghi,Ali Cheraghi,Sharif University of Technology,,,,,10,10,3,0,,,23,,10,2,10,1,,,23,46,First Prize,First Prize
+2017,65–71,Ilya,Dumanskiy,Ilya Dumanskiy,Higher School of Economics,,,,,10,3,10,0,0,,23,,10,0,8,5,,,23,46,First Prize,First Prize
+2017,65–71,Marc,Felipe Alsina,Marc Felipe Alsina,BarcelonaTech,,,,,10,3,10,,0,,23,,8,0,10,5,,,23,46,First Prize,First Prize
+2017,65–71,Shokhrukh,Ibragimov,Shokhrukh Ibragimov,National University of Uzbekistan,,,,,10,5,0,0,,,15,,10,2,10,9,,,31,46,First Prize,First Prize
+2017,65–71,Jakub,Skorupski,Jakub Skorupski,Warsaw University,,,,,3,10,10,2,,,25,,10,1,10,,,,21,46,First Prize,First Prize
+2017,65–71,Johan,Wind,Johan Wind,NTNU,,,,,10,10,0,3,,,23,,9,0,10,4,,,23,46,First Prize,First Prize
+2017,72–73,Arjan,Cornelissen,Arjan Cornelissen,Delft University of Technology,,,,,9,10,5,0,,,24,,10,0,10,1,,,21,45,Second Prize,Second Prize
+2017,72–73,Sebastian,Muñoz,Sebastian Muñoz,Universidad del Valle,,,,,10,7,0,,,,17,,10,,10,8,,,28,45,Second Prize,Second Prize
+2017,74–77,Onno,Berrevoets,Onno Berrevoets,Universiteit Leiden,,,,,5,7,10,1,0,,23,,10,1,10,0,0,,21,44,Second Prize,Second Prize
+2017,74–77,Gonzalo,Cao Labora,Gonzalo Cao Labora,BarcelonaTech,,,,,3,10,0,0,,,13,,10,10,10,1,0,,31,44,Second Prize,Second Prize
+2017,74–77,Jorke,de Vlas,Jorke de Vlas,Utrecht University,,,,,9,9,9,,,,27,,10,0,3,4,0,,17,44,Second Prize,Second Prize
+2017,74–77,Dmitry,Ulyumdzhiev,Dmitry Ulyumdzhiev,Lomonosov Moscow State University,,,,,10,1,3,0,,,14,,10,1,10,9,,,30,44,Second Prize,Second Prize
+2017,78–79,Raul,Alonso Rodriguez,Raul Alonso Rodriguez,BarcelonaTech,,,,,10,2,,0,,,12,,10,1,10,10,,,31,43,Second Prize,Second Prize
+2017,78–79,Antonios,Zitridis,Antonios Zitridis,National and Kapodistrian University of Athens,,,,,10,2,0,1,,,13,,10,0,10,10,,,30,43,Second Prize,Second Prize
+2017,80–83,Niklas Johannes,Bockius,Niklas Johannes Bockius,Johannes Gutenberg University Mainz,,,,,10,8,0,,,,18,,10,,10,4,,,24,42,Second Prize,Second Prize
+2017,80–83,Guillem,Garcia Tarrach,Guillem Garcia Tarrach,University of Barcelona,,,,,10,9,0,,,,19,,10,0,10,3,,,23,42,Second Prize,Second Prize
+2017,80–83,Christian,Nöbel,Christian Nöbel,Universität Bonn,,,,,4,10,0,,,,14,,10,,9,9,0,,28,42,Second Prize,Second Prize
+2017,80–83,Péter,Ágoston,Péter Ágoston,Eötvös Loránd University,,,,,9,10,3,4,0,,26,,8,1,7,0,0,,16,42,Second Prize,Second Prize
+2017,84–88,Joaquñ,Domiñguez de Tena,Joaquñ Domiñguez de Tena,Universidad Complutense de Madrid,,,,,10,9,0,,,,19,,10,0,8,4,,,22,41,Second Prize,Second Prize
+2017,84–88,Sergei,Dzhunusov,Sergei Dzhunusov,Lomonosov Moscow State University,,,,,10,0,10,,,,20,,10,1,9,1,,,21,41,Second Prize,Second Prize
+2017,84–88,Avetik,Karagulyan,Avetik Karagulyan,Yerevan State University,,,,,9,2,10,,,,21,,10,0,10,0,,,20,41,Second Prize,Second Prize
+2017,84–88,Ismael,Morales,Ismael Morales,Universidad Autonoma De Madrid,,,,,10,1,10,,,,21,,10,0,10,0,0,,20,41,Second Prize,Second Prize
+2017,84–88,Dmitry,Yakutov,Dmitry Yakutov,ITMO University,,,,,10,10,5,2,,,27,,10,0,0,4,,,14,41,Second Prize,Second Prize
+2017,89–97,Egor,Baitenov,Egor Baitenov,Moscow Institute of Physics and Technology,,,,,10,10,0,,0,,20,,10,0,10,,,,20,40,Second Prize,Second Prize
+2017,89–97,Ilya,Bogdanov,Ilya Bogdanov,Higher School of Economics,,,,,7,1,0,2,,,10,,10,10,10,,,,30,40,Second Prize,Second Prize
+2017,89–97,Attila,Juhos,Attila Juhos,Budapest Univeristy of Technology and Economics,,,,,9,0,0,,,,9,,10,10,10,1,,,31,40,Second Prize,Second Prize
+2017,89–97,Vadym,Kalashnykov,Vadym Kalashnykov,Higher School of Economics,,,,,10,10,2,0,,,22,,8,0,10,,,,18,40,Second Prize,Second Prize
+2017,89–97,Nikita,Kosinov,Nikita Kosinov,Lomonosov Moscow State University,,,,,10,0,,,,,10,,10,10,10,,0,,30,40,Second Prize,Second Prize
+2017,89–97,Ruben,La,Ruben La,University of Amsterdam,,,,,10,10,0,0,,,20,,10,0,10,,,,20,40,Second Prize,Second Prize
+2017,89–97,Peter,Marius Flydal,Peter Marius Flydal,NTNU,,,,,9,10,2,,,,21,,9,0,10,0,,,19,40,Second Prize,Second Prize
+2017,89–97,Oliver,Nisumaa,Oliver Nisumaa,University of Tartu,,,,,3,10,,10,,,23,,10,,,1,6,,17,40,Second Prize,Second Prize
+2017,89–97,Wessel,van Woerden,Wessel van Woerden,Universiteit Leiden,,,,,10,10,2,0,0,,22,,8,0,10,0,0,,18,40,Second Prize,Second Prize
+2017,98–103,Bastiaan,Cnossen,Bastiaan Cnossen,University of Amsterdam,,,,,10,0,0,0,0,,10,,10,0,10,9,,,29,39,Second Prize,Second Prize
+2017,98–103,Jorge,Fernandez Hidalgo,Jorge Fernandez Hidalgo,Universidad Nacional Autonoma de Mèxico,,,,,10,8,0,1,,,19,,10,0,10,0,,,20,39,Second Prize,Second Prize
+2017,98–103,Mikhail,Koshelev,Mikhail Koshelev,Lomonosov Moscow State University,,,,,10,10,0,,,,20,,9,0,10,,,,19,39,Second Prize,Second Prize
+2017,98–103,Nikolaos,Mouzakis,Nikolaos Mouzakis,National Technical University of Athens,,,,,10,10,0,,,,20,,10,1,7,1,0,,19,39,Second Prize,Second Prize
+2017,98–103,Barys,Serankou,Barys Serankou,Belarusian State University,,,,,10,0,10,,,,20,,9,0,10,0,,,19,39,Second Prize,Second Prize
+2017,98–103,Nikita,Skybytskyi,Nikita Skybytskyi,Taras Shevchenko National University of Kyiv,,,,,4,0,2,7,,,13,,10,0,9,7,,,26,39,Second Prize,Second Prize
+2017,104–110,Tomasz,Bochacik,Tomasz Bochacik,AGH University of Science and Technology,,,,,4,,10,,,,14,,10,,10,4,,,24,38,Second Prize,Second Prize
+2017,104–110,Jefferson,Caesario,Jefferson Caesario,Universitas Airlangga,,,,,9,0,3,0,,,12,,10,10,6,0,0,,26,38,Second Prize,Second Prize
+2017,104–110,Mikolaj,Leonarski,Mikolaj Leonarski,Warsaw University,,,,,7,0,10,,,,17,,10,1,10,0,0,,21,38,Second Prize,Second Prize
+2017,104–110,Keivan,Mirzaii,Keivan Mirzaii,Ferdowsi University of Mashad,,,,,8,0,7,,,,15,,6,9,8,0,,,23,38,Second Prize,Second Prize
+2017,104–110,Panagiotis,Papadopoulos,Panagiotis Papadopoulos,Aristotle University of Thessaloniki,,,,,10,8,,0,,,18,,10,0,10,0,,,20,38,Second Prize,Second Prize
+2017,104–110,Reinier,Schmiermann,Reinier Schmiermann,Eindhoven University of Technology,,,,,9,0,9,0,0,,18,,10,0,9,1,0,,20,38,Second Prize,Second Prize
+2017,104–110,Antonin,Češík,Antonin Češík,Charles University,,,,,10,0,,,,,10,,10,,10,8,,,28,38,Second Prize,Second Prize
+2017,111–112,Juan Camilo,Azuero,Juan Camilo Azuero,Universidad de los Andes,,,,,10,10,0,0,,,20,,5,1,10,1,,,17,37,Second Prize,Second Prize
+2017,111–112,Felipe,Gabriel,Felipe Gabriel,IME - Instituto Militar de Engenharia,,,,,10,3,0,,,,13,,10,0,10,4,,,24,37,Second Prize,Second Prize
+2017,113–115,Daniel,Puignau,Daniel Puignau,Universidad Autonoma De Madrid,,,,,10,0,8,,,,18,,10,1,7,,,,18,36,Second Prize,Second Prize
+2017,113–115,Mark,Sinzger,Mark Sinzger,Technical University of Munich,,,,,3,3,10,0,0,,16,,10,0,10,,,,20,36,Second Prize,Second Prize
+2017,113–115,Victor Tadeu Tetsuo,Suzuki,Victor Tadeu Tetsuo Suzuki,Instituto Tecnológico de Aeronáutica,,,,,10,6,0,,,,16,,10,0,10,,,,20,36,Second Prize,Second Prize
+2017,116–124,Alberto,Angurel Andrés,Alberto Angurel Andrés,Universidad Complutense de Madrid,,,,,10,3,0,1,,,14,,10,0,10,1,,,21,35,Second Prize,Second Prize
+2017,116–124,Sviatoslav,Borodachev,Sviatoslav Borodachev,Belarusian State University,,,,,3,3,0,10,0,,16,,7,2,10,0,0,,19,35,Second Prize,Second Prize
+2017,116–124,Michele,Caselli,Michele Caselli,Universitè di Modena e Reggio-Emilia,,,,,10,,0,,,,10,,10,9,6,,,,25,35,Second Prize,Second Prize
+2017,116–124,David,Cheikhi,David Cheikhi,Ecole Polytechnique,,,,,10,0,0,,,,10,,10,,10,5,0,,25,35,Second Prize,Second Prize
+2017,116–124,Vlatko,Crnković,Vlatko Crnković,University of Zagreb,,,,,10,0,,,,,10,,10,,10,5,,,25,35,Second Prize,Second Prize
+2017,116–124,Tim,Henke,Tim Henke,University of Amsterdam,,,,,10,0,0,,,,10,,10,1,10,4,0,,25,35,Second Prize,Second Prize
+2017,116–124,Andres,Põldaru,Andres Põldaru,University of Tartu,,,,,10,10,0,,,,20,,9,,6,,,,15,35,Second Prize,Second Prize
+2017,116–124,Poetri,Sonya Tarabunga,Poetri Sonya Tarabunga,Bandung Institute of Technology,,,,,10,4,,,,,14,,6,1,10,4,,,21,35,Second Prize,Second Prize
+2017,116–124,Bob,Zwetsloot,Bob Zwetsloot,Universiteit Leiden,,,,,4,0,10,0,0,,14,,10,1,10,0,0,,21,35,Second Prize,Second Prize
+2017,125–128,Rafael,dos Santos,Rafael dos Santos,IME - Instituto Militar de Engenharia,,,,,10,0,2,1,0,,13,,10,1,10,0,0,,21,34,Second Prize,Second Prize
+2017,125–128,Cody,Johnson,Cody Johnson,Pyongyang University of Science and Technology,,,,,10,0,0,,,,10,,10,0,10,4,,,24,34,Second Prize,Second Prize
+2017,125–128,Marko,Jukic,Marko Jukic,University of Zagreb,,,,,10,1,2,,,,13,,10,1,10,0,,,21,34,Second Prize,Second Prize
+2017,125–128,Seyedsohrab,Madani,Seyedsohrab Madani,Sharif University of Technology,,,,,10,0,3,,,,13,,10,1,10,0,0,,21,34,Second Prize,Second Prize
+2017,129–137,Péter,Almási,Péter Almási,Budapest Univeristy of Technology and Economics,,,,,7,,0,10,,,17,,9,,7,0,,,16,33,Second Prize,Second Prize
+2017,129–137,Juan Sebastián,Díaz Serrano,Juan Sebastián Díaz Serrano,Universidad de los Andes,,,,,3,0,10,,,,13,,10,0,10,,,,20,33,Second Prize,Second Prize
+2017,129–137,Mohsen,Ghodrati,Mohsen Ghodrati,Isfahan University of Technology,,,,,10,3,3,2,0,,18,,4,1,10,,0,,15,33,Second Prize,Second Prize
+2017,129–137,Moritz,Hiebler,Moritz Hiebler,Alpen-Adria-University Klagenfurt,,,,,8,,2,,,,10,,5,,10,8,,,23,33,Second Prize,Second Prize
+2017,129–137,Jakub,Lőwit,Jakub Lőwit,Charles University,,,,,10,3,0,,,,13,,10,0,10,,,,20,33,Second Prize,Second Prize
+2017,129–137,Lizaveta,Manzhulina,Lizaveta Manzhulina,Belarusian State University,,,,,10,0,10,,,,20,,9,0,4,0,,,13,33,Second Prize,Second Prize
+2017,129–137,Gevorg,Mnatsakanyan,Gevorg Mnatsakanyan,Yerevan State University,,,,,3,10,10,0,,,23,,10,0,,,,,10,33,Second Prize,Second Prize
+2017,129–137,Michail,Sarantis,Michail Sarantis,National and Kapodistrian University of Athens,,,,,10,0,0,,,,10,,9,0,10,4,,,23,33,Second Prize,Second Prize
+2017,129–137,Ivan,Yakovlev,Ivan Yakovlev,Taras Shevchenko National University of Kyiv,,,,,10,3,,,,,13,,10,0,10,,,,20,33,Second Prize,Second Prize
+2017,138–144,Luis Felipe,Barquero Jiménez,Luis Felipe Barquero Jiménez,Universidad de Costa Rica,,,,,10,3,,,,,13,,9,0,10,0,,,19,32,Second Prize,Second Prize
+2017,138–144,James,Davies,James Davies,University of Warwick,,,,,7,,0,7,,,14,,10,1,7,,,,18,32,Second Prize,Second Prize
+2017,138–144,Josep,Esquirol,Josep Esquirol,University of Barcelona,,,,,10,,,,,,10,,10,0,9,3,,,22,32,Second Prize,Second Prize
+2017,138–144,Erik,Medeiros,Erik Medeiros,Instituto Tecnológico de Aeronáutica,,,,,9,3,,,,,12,,9,,7,4,,,20,32,Second Prize,Second Prize
+2017,138–144,Tamás,Szőke,Tamás Szőke,Eötvös Loránd University,,,,,2,0,10,,0,,12,,10,0,10,0,,,20,32,Second Prize,Second Prize
+2017,138–144,Djurre,Tijsma,Djurre Tijsma,Utrecht University,,,,,10,3,10,0,0,,23,,9,0,0,0,0,,9,32,Second Prize,Second Prize
+2017,138–144,Daan,van Gent,Daan van Gent,Universiteit Leiden,,,,,10,1,2,0,0,,13,,10,0,9,0,0,,19,32,Second Prize,Second Prize
+2017,145–150,Thiago,de Medeiros,Thiago de Medeiros,Instituto Tecnológico de Aeronáutica,,,,,10,0,0,,,,10,,9,,10,2,,,21,31,Third Prize,Third Prize
+2017,145–150,Igor,Fedorov,Igor Fedorov,Novosibirsk State University,,,,,10,0,,,,,10,,10,0,10,1,,,21,31,Third Prize,Third Prize
+2017,145–150,Pedro,Freire Mascarenhas Pontes,Pedro Freire Mascarenhas Pontes,Ecole Polytechnique,,,,,10,8,2,,,,20,,4,0,6,1,,,11,31,Third Prize,Third Prize
+2017,145–150,Juš,Kosmač,Juš Kosmač,University of Ljubljana,,,,,10,0,1,,,,11,,10,0,10,0,,,20,31,Third Prize,Third Prize
+2017,145–150,Camille,Mau,Camille Mau,Nanyang Technological University,,,,,10,0,0,0,,,10,,10,0,10,1,,,21,31,Third Prize,Third Prize
+2017,145–150,Tomasz,Wawak,Tomasz Wawak,Jagiellonian University,,,,,4,0,0,10,,,14,,10,0,7,0,0,,17,31,Third Prize,Third Prize
+2017,151–159,Dmitry,Ayupov,Dmitry Ayupov,Novosibirsk State University,,,,,10,,0,,,,10,,10,,10,,,,20,30,Third Prize,Third Prize
+2017,151–159,Hudson William,Braga Vieira,Hudson William Braga Vieira,Instituto Tecnológico de Aeronáutica,,,,,10,0,0,,,,10,,10,0,10,0,,,20,30,Third Prize,Third Prize
+2017,151–159,Davi,Coelho Amorim,Davi Coelho Amorim,IME - Instituto Militar de Engenharia,,,,,3,3,10,,,,16,,6,0,8,0,0,,14,30,Third Prize,Third Prize
+2017,151–159,Sebastian,Cojocariu,Sebastian Cojocariu,Politehnica of Bucharest,,,,,10,0,0,0,0,,10,,10,,10,0,,,20,30,Third Prize,Third Prize
+2017,151–159,João Baptista,de Paula e Silva,João Baptista de Paula e Silva,IME - Instituto Militar de Engenharia,,,,,8,3,2,0,,,13,,6,,10,1,,,17,30,Third Prize,Third Prize
+2017,151–159,Roland,Guttenberg,Roland Guttenberg,Technical University of Munich,,,,,10,,2,,,,12,,10,,8,,,,18,30,Third Prize,Third Prize
+2017,151–159,Oscar,Schoen,Oscar Schoen,University of Amsterdam,,,,,7,,2,,,,9,,10,,10,1,,,21,30,Third Prize,Third Prize
+2017,151–159,Jakob,Steininger,Jakob Steininger,University of Vienna,,,,,2,10,0,,,,12,,10,0,8,,,,18,30,Third Prize,Third Prize
+2017,151–159,Stan,Tendijck,Stan Tendijck,Delft University of Technology,,,,,8,0,0,0,,,8,,10,0,8,4,,,22,30,Third Prize,Third Prize
+2017,160–166,Frederik,Broucke,Frederik Broucke,Ghent University,,,,,7,2,0,,,,9,,10,0,10,0,,,20,29,Third Prize,Third Prize
+2017,160–166,Lautaro,Decara,Lautaro Decara,University of Buenos Aires,,,,,10,0,7,,,,17,,10,,2,,,,12,29,Third Prize,Third Prize
+2017,160–166,Victor,Martin Chabrera,Victor Martin Chabrera,BarcelonaTech,,,,,10,2,0,,,,12,,6,10,0,1,,,17,29,Third Prize,Third Prize
+2017,160–166,Omar,Mouchtaki,Omar Mouchtaki,Ecole Polytechnique,,,,,10,0,0,,,,10,,10,0,9,,,,19,29,Third Prize,Third Prize
+2017,160–166,Raphael,Oliveira,Raphael Oliveira,IME - Instituto Militar de Engenharia,,,,,8,3,2,0,0,,13,,9,0,7,0,0,,16,29,Third Prize,Third Prize
+2017,160–166,Cristian,Pavel,Cristian Pavel,Politehnica of Bucharest,,,,,10,0,0,,,,10,,10,0,7,2,,,19,29,Third Prize,Third Prize
+2017,160–166,Melanka,Saroad,Melanka Saroad,University of Moratuwa,,,,,3,10,2,,,,15,,10,,,4,,,14,29,Third Prize,Third Prize
+2017,167–170,Ben,De Bondt,Ben De Bondt,Ghent University,,,,,9,8,,,,,17,,10,1,0,,,,11,28,Third Prize,Third Prize
+2017,167–170,Gerardo Martin,Franco Cordova,Gerardo Martin Franco Cordova,Universidad Nacional Autonoma de Mèxico,,,,,10,0,0,,,,10,,10,0,8,,,,18,28,Third Prize,Third Prize
+2017,167–170,Mikolaj,Marciniak,Mikolaj Marciniak,Nicolaus Copernicus University in Torun,,,,,9,0,,,,,9,,10,,9,,,,19,28,Third Prize,Third Prize
+2017,167–170,Madhura,Pathegama,Madhura Pathegama,University of Moratuwa,,,,,4,0,0,,,,4,,10,0,10,4,,,24,28,Third Prize,Third Prize
+2017,171–177,Dimitrios,Diamantidis,Dimitrios Diamantidis,National Technical University of Athens,,,,,10,0,0,0,,,10,,10,0,6,1,,,17,27,Third Prize,Third Prize
+2017,171–177,Vasileios,Gkoumas,Vasileios Gkoumas,National Technical University of Athens,,,,,2,3,,2,0,,7,,10,0,10,0,,,20,27,Third Prize,Third Prize
+2017,171–177,Artyom,Kosyan,Artyom Kosyan,American University of Armenia,,,,,8,8,,,,,16,,10,1,,,0,,11,27,Third Prize,Third Prize
+2017,171–177,Andrew,McGregor,Andrew McGregor,University of Cape Town,,,,,10,0,0,0,0,,10,,10,0,7,0,0,,17,27,Third Prize,Third Prize
+2017,171–177,Peter,Súkeník,Peter Súkeník,"Comenius University, Bratislava",,,,,8,,2,,,,10,,10,1,6,0,,,17,27,Third Prize,Third Prize
+2017,171–177,Manuel,Van,Manuel Van,University of Amsterdam,,,,,10,,0,,,,10,,10,,6,1,,,17,27,Third Prize,Third Prize
+2017,171–177,Wenqiang,Xu,Wenqiang Xu,UCL,,,,,8,0,0,0,0,,8,,9,0,10,0,0,,19,27,Third Prize,Third Prize
+2017,178–189,Harold Steven,Erazo Jimenez,Harold Steven Erazo Jimenez,Universidad del Valle,,,,,10,,2,3,,,15,,9,,2,,,,11,26,Third Prize,Third Prize
+2017,178–189,Jorge Arturo,Esquivel Araya,Jorge Arturo Esquivel Araya,Universidad de Costa Rica,,,,,9,0,,0,,,9,,10,0,6,1,,,17,26,Third Prize,Third Prize
+2017,178–189,Nil,Garcés,Nil Garcés,University of Barcelona,,,,,10,,,,,,10,,10,,6,0,,,16,26,Third Prize,Third Prize
+2017,178–189,Nikolaos,Gkoumas,Nikolaos Gkoumas,National and Kapodistrian University of Athens,,,,,10,0,,0,,,10,,10,,0,6,,,16,26,Third Prize,Third Prize
+2017,178–189,Ioannis,Iakovidis,Ioannis Iakovidis,Aristotle University of Thessaloniki,,,,,9,1,,0,,,10,,9,0,7,,,,16,26,Third Prize,Third Prize
+2017,178–189,Alexei,Latyshev,Alexei Latyshev,ITMO University,,,,,3,3,10,0,,,16,,10,0,0,,0,,10,26,Third Prize,Third Prize
+2017,178–189,Antonio,Mejïas Gil,Antonio Mejïas Gil,Universidad Autonoma De Madrid,,,,,10,,0,,,,10,,8,0,8,,,,16,26,Third Prize,Third Prize
+2017,178–189,Teodor,Rotaru,Teodor Rotaru,Politehnica of Bucharest,,,,,5,3,2,0,0,,10,,10,0,6,0,,,16,26,Third Prize,Third Prize
+2017,178–189,Hugo,Sauerbier Couvée,Hugo Sauerbier Couvée,University of Amsterdam,,,,,10,0,,2,,,12,,5,,8,1,,,14,26,Third Prize,Third Prize
+2017,178–189,Radu,Toma,Radu Toma,University of Goettingen,,,,,4,1,0,,0,,5,,10,1,10,0,,,21,26,Third Prize,Third Prize
+2017,178–189,Lenart,Treven,Lenart Treven,University of Ljubljana,,,,,10,0,0,,,,10,,10,0,6,,,,16,26,Third Prize,Third Prize
+2017,178–189,Younès,Zine,Younès Zine,École normale supérieure de Rennes,,,,,10,0,0,,,,10,,10,,0,6,,,16,26,Third Prize,Third Prize
+2017,190–199,Bekarys,Bekmaganbentov,Bekarys Bekmaganbentov,Kazakhstan Branch of Moscow State University,,,,,3,0,0,,,,3,,10,0,10,2,,,22,25,Third Prize,Third Prize
+2017,190–199,Alexandru-Adrian,Bratei,Alexandru-Adrian Bratei,Politehnica of Bucharest,,,,,3,3,0,0,0,,6,,10,0,8,1,,,19,25,Third Prize,Third Prize
+2017,190–199,Anastasios,Fragkos,Anastasios Fragkos,Aristotle University of Thessaloniki,,,,,8,7,,,,,15,,10,,,,,,10,25,Third Prize,Third Prize
+2017,190–199,Georgios,Gavrilopoulos,Georgios Gavrilopoulos,National and Kapodistrian University of Athens,,,,,10,1,,,,,11,,8,0,6,,,,14,25,Third Prize,Third Prize
+2017,190–199,Pablo,Hidalgo Palencia,Pablo Hidalgo Palencia,Universidad Complutense de Madrid,,,,,4,8,2,,,,14,,10,0,0,1,0,,11,25,Third Prize,Third Prize
+2017,190–199,Andrés,Ibáñez Núñez,Andrés Ibáñez Núñez,Universidad de Zaragoza,,,,,2,0,3,,,,5,,10,0,10,0,,,20,25,Third Prize,Third Prize
+2017,190–199,Wagner,Rodrigues,Wagner Rodrigues,Instituto Tecnológico de Aeronáutica,,,,,10,0,0,,,,10,,8,,7,0,,,15,25,Third Prize,Third Prize
+2017,190–199,Carlos Alexandre Silva,Santos,Carlos Alexandre Silva Santos,Instituto Tecnológico de Aeronáutica,,,,,10,0,0,0,,,10,,0,8,7,,,,15,25,Third Prize,Third Prize
+2017,190–199,Dewita,Sonya Tarabunga,Dewita Sonya Tarabunga,Bandung Institute of Technology,,,,,5,3,2,,,,10,,5,0,10,0,,,15,25,Third Prize,Third Prize
+2017,190–199,Eva,van Ammers,Eva van Ammers,Utrecht University,,,,,5,0,2,0,0,,7,,10,1,7,0,0,,18,25,Third Prize,Third Prize
+2017,200–204,Georgios,Kampanis,Georgios Kampanis,Aristotle University of Thessaloniki,,,,,10,1,,,,,11,,10,,2,1,,,13,24,Third Prize,Third Prize
+2017,200–204,Pál,Nagy-György,Pál Nagy-György,University of Szeged,,,,,10,0,2,,,,12,,10,0,2,0,,,12,24,Third Prize,Third Prize
+2017,200–204,Harry,Petyt,Harry Petyt,University of Warwick,,,,,8,5,0,,,,13,,9,0,1,1,,,11,24,Third Prize,Third Prize
+2017,200–204,Jan,Soukup,Jan Soukup,Charles University,,,,,10,1,,,,,11,,5,0,8,,,,13,24,Third Prize,Third Prize
+2017,200–204,Luïze,Vianna,Luïze Vianna,Pontifícia Universidade Católica do Rio de Janeiro,,,,,9,3,0,,,,12,,5,0,7,,,,12,24,Third Prize,Third Prize
+2017,205–209,Andrija,Mandić,Andrija Mandić,University of Zagreb,,,,,10,0,2,,,,12,,10,1,0,,,,11,23,Third Prize,Third Prize
+2017,205–209,Severin,Mejak,Severin Mejak,University of Ljubljana,,,,,3,0,,0,,,3,,10,0,10,0,,,20,23,Third Prize,Third Prize
+2017,205–209,Dmitry,Morozov,Dmitry Morozov,Novosibirsk State University,,,,,2,0,,,,,2,,10,,8,3,,,21,23,Third Prize,Third Prize
+2017,205–209,Alexey,Oblaukhov,Alexey Oblaukhov,Novosibirsk State University,,,,,3,0,0,,,,3,,10,0,10,0,,,20,23,Third Prize,Third Prize
+2017,205–209,Josip,Pupić,Josip Pupić,University of Zagreb,,,,,8,,0,,,,8,,10,,5,,,,15,23,Third Prize,Third Prize
+2017,210–217,Osama,Abuzaid,Osama Abuzaid,Aalto University,,,,,3,2,0,0,,,5,,10,,7,0,0,,17,22,Third Prize,Third Prize
+2017,210–217,Nina,Hronkovičová,Nina Hronkovičová,"Comenius University, Bratislava",,,,,10,0,,,,,10,,5,,7,,0,,12,22,Third Prize,Third Prize
+2017,210–217,Maksat,Kuanyshbay,Maksat Kuanyshbay,Nazarbayev University,,,,,0,0,4,,,,4,,8,,10,0,,,18,22,Third Prize,Third Prize
+2017,210–217,Panagiotis,Misiakos,Panagiotis Misiakos,National Technical University of Athens,,,,,1,0,0,1,,,2,,10,10,0,0,0,,20,22,Third Prize,Third Prize
+2017,210–217,Muhammad Khairul,Ramadhan,Muhammad Khairul Ramadhan,Indonesia University,,,,,,0,,,,,0,,10,,10,2,,,22,22,Third Prize,Third Prize
+2017,210–217,Iustin,Sîrbu,Iustin Sîrbu,Politehnica of Bucharest,,,,,3,5,0,,,,8,,7,0,7,0,,,14,22,Third Prize,Third Prize
+2017,210–217,Yeldar,Toktasynov,Yeldar Toktasynov,Nazarbayev University,,,,,0,0,10,,,,10,,8,,4,,,,12,22,Third Prize,Third Prize
+2017,210–217,José Ramón,Tuiran Rangel,José Ramón Tuiran Rangel,Universidad Nacional Autonoma de Mèxico,,,,,10,,2,,0,,12,,10,0,,,,,10,22,Third Prize,Third Prize
+2017,218–225,Arman,Adibi,Arman Adibi,Isfahan University of Technology,,,,,9,4,0,2,,,15,,1,1,4,0,,,6,21,Third Prize,Third Prize
+2017,218–225,Raúl,González Molina,Raúl González Molina,Universidad Complutense de Madrid,,,,,10,1,,,,,11,,10,0,,,,,10,21,Third Prize,Third Prize
+2017,218–225,Alexandr,Jankov,Alexandr Jankov,University of Ostrava,,,,,9,2,0,,0,,11,,10,0,0,0,0,,10,21,Third Prize,Third Prize
+2017,218–225,Hrachya,Kocharyan,Hrachya Kocharyan,Russian-Armenian (Slavonic) University,,,,,9,3,0,,,,12,,9,0,0,0,,,9,21,Third Prize,Third Prize
+2017,218–225,Samo,Kralj,Samo Kralj,University of Ljubljana,,,,,9,0,2,0,,,11,,10,0,0,0,,,10,21,Third Prize,Third Prize
+2017,218–225,Vít,Pískovský,Vít Pískovský,University of Ostrava,,,,,10,0,0,,,,10,,1,0,0,10,,,11,21,Third Prize,Third Prize
+2017,218–225,Zimving,Wang,Zimving Wang,University of Cambridge,,,,,0,4,0,0,0,,4,,10,0,7,0,,,17,21,Third Prize,Third Prize
+2017,218–225,Alexandra,Zhuravskaya,Alexandra Zhuravskaya,Kazakhstan Branch of Moscow State University,,,,,3,0,0,0,,,3,,10,1,7,0,,,18,21,Third Prize,Third Prize
+2017,226–238,Susanne,Armbruster,Susanne Armbruster,Universität Bonn,,,,,5,0,0,,,,5,,5,0,10,0,,,15,20,Third Prize,Third Prize
+2017,226–238,Tobias,Chavarria,Tobias Chavarria,Universidad de Costa Rica,,,,,10,0,0,,,,10,,9,,1,0,,,10,20,Third Prize,Third Prize
+2017,226–238,Mick,Gielen,Mick Gielen,University of Amsterdam,,,,,1,0,0,,,,1,,10,,8,1,,,19,20,Third Prize,Third Prize
+2017,226–238,Marcelo,Gonçalves,Marcelo Gonçalves,Universidade de São Paulo,,,,,10,3,0,,,,13,,4,1,2,,,,7,20,Third Prize,Third Prize
+2017,226–238,Caio,Kinelski,Caio Kinelski,Instituto Tecnológico de Aeronáutica,,,,,10,,0,,,,10,,10,0,,,,,10,20,Third Prize,Third Prize
+2017,226–238,Yaroslav,Kivva,Yaroslav Kivva,Taras Shevchenko National University of Kyiv,,,,,10,0,0,,0,,10,,10,0,,,,,10,20,Third Prize,Third Prize
+2017,226–238,Radek,Kusek,Radek Kusek,Jagiellonian University,,,,,8,1,,,,,9,,10,1,0,0,0,,11,20,Third Prize,Third Prize
+2017,226–238,Andrea,Lachmann,Andrea Lachmann,Technical University of Munich,,,,,2,,0,,,,2,,9,,9,,0,,18,20,Third Prize,Third Prize
+2017,226–238,Brian,Leiva Cerna,Brian Leiva Cerna,Universidad Complutense de Madrid,,,,,6,0,,,,,6,,6,1,7,0,,,14,20,Third Prize,Third Prize
+2017,226–238,Aleksandr,Panaetov,Aleksandr Panaetov,Higher School of Economics,,,,,7,3,,,,,10,,8,2,0,,,,10,20,Third Prize,Third Prize
+2017,226–238,Gabriel Alexandru,Peșu,Gabriel Alexandru Peșu,Politehnica of Bucharest,,,,,5,3,0,0,,,8,,10,0,2,0,0,,12,20,Third Prize,Third Prize
+2017,226–238,Marinela,Pilj,Marinela Pilj,University Josip Juraj Strossmayer Osijek,,,,,10,0,0,0,0,,10,,6,0,4,0,0,,10,20,Third Prize,Third Prize
+2017,226–238,Janno,Veeorg,Janno Veeorg,University of Tartu,,,,,10,,1,0,,,11,,1,0,8,,0,,9,20,Third Prize,Third Prize
+2017,239–240,Antonio,Kevin,Antonio Kevin,Indonesia University,,,,,6,0,0,,,,6,,9,0,4,0,,,13,19,Honourable Mention,Honourable Mention
+2017,239–240,Isura,Marchanayake,Isura Marchanayake,University of Moratuwa,,,,,5,0,0,,0,,5,,6,0,,8,,,14,19,Honourable Mention,Honourable Mention
+2017,241,Cezar,Port,Cezar Port,Alexandru Ioan Cuza University,,,,,8,,,,,,8,,10,,,,,,10,18,Honourable Mention,Honourable Mention
+2017,242–247,Garry,Ariel,Garry Ariel,Gadjah Mada University,,,,,3,0,0,,,,3,,6,,8,0,,,14,17,Honourable Mention,Honourable Mention
+2017,242–247,Joel,Ingram,Joel Ingram,The University of Leeds,,,,,4,2,0,,,,6,,10,0,,1,,,11,17,Honourable Mention,Honourable Mention
+2017,242–247,Javlon,Isomurodov,Javlon Isomurodov,ITMO University,,,,,7,0,0,,,,7,,10,0,0,0,,,10,17,Honourable Mention,Honourable Mention
+2017,242–247,Gil,Puig i Surroca,Gil Puig i Surroca,University of Barcelona,,,,,1,,10,,,,11,,6,,,,0,,6,17,Honourable Mention,Honourable Mention
+2017,242–247,Wouter,Van Steenberge,Wouter Van Steenberge,Ghent University,,,,,0,,2,2,,,4,,5,,7,1,0,,13,17,Honourable Mention,Honourable Mention
+2017,242–247,Kassym,Zhunis,Kassym Zhunis,Nazarbayev University,,,,,7,0,,,,,7,,10,,,0,0,,10,17,Honourable Mention,Honourable Mention
+2017,248–254,Anna,Belolipetskaya,Anna Belolipetskaya,ITMO University,,,,,3,0,3,2,0,,8,,0,5,3,0,0,,8,16,Honourable Mention,Honourable Mention
+2017,248–254,Abylaikhan,Bozzhigitov,Abylaikhan Bozzhigitov,Nazarbayev University,,,,,0,0,3,,,,3,,3,9,1,,,,13,16,Honourable Mention,Honourable Mention
+2017,248–254,Maksim,Geniman,Maksim Geniman,Novosibirsk State University,,,,,10,0,,,0,,10,,6,0,,,,,6,16,Honourable Mention,Honourable Mention
+2017,248–254,Maryam,Nowroozi,Maryam Nowroozi,Shiraz University,,,,,10,0,0,,0,,10,,0,,6,,,,6,16,Honourable Mention,Honourable Mention
+2017,248–254,Noémie,Périvier,Noémie Périvier,Ecole Polytechnique,,,,,2,5,0,,,,7,,9,0,,0,,,9,16,Honourable Mention,Honourable Mention
+2017,248–254,Victor-Mihai,Talif,Victor-Mihai Talif,Alexandru Ioan Cuza University,,,,,8,1,0,0,0,,9,,2,0,5,0,,,7,16,Honourable Mention,Honourable Mention
+2017,248–254,Yessenaly,Zhangbyrbayev,Yessenaly Zhangbyrbayev,Kazakh-British Technical University,,,,,,0,10,0,,,10,,6,0,,0,,,6,16,Honourable Mention,Honourable Mention
+2017,255–258,Didrik,Fosse,Didrik Fosse,NTNU,,,,,10,0,0,,,,10,,0,0,5,,,,5,15,Honourable Mention,Honourable Mention
+2017,255–258,Lingbo,Ji,Lingbo Ji,UCL,,,,,2,0,,,0,,2,,6,0,6,1,,,13,15,Honourable Mention,Honourable Mention
+2017,255–258,Matthew,Johnson,Matthew Johnson,University of Warwick,,,,,,3,0,,,,3,,8,,,4,,,12,15,Honourable Mention,Honourable Mention
+2017,255–258,Petra,Stehlik,Petra Stehlik,University Josip Juraj Strossmayer Osijek,,,,,9,0,0,0,,,9,,6,,,,,,6,15,Honourable Mention,Honourable Mention
+2017,259–262,Roberto,Fratello,Roberto Fratello,Università degli Studi di Roma La Sapienza,,,,,,0,0,,,,0,,5,1,8,0,0,,14,14,Honourable Mention,Honourable Mention
+2017,259–262,Leo,Gitin,Leo Gitin,Universität Bonn,,,,,0,0,0,0,0,,0,,7,0,6,1,,,14,14,Honourable Mention,Honourable Mention
+2017,259–262,Sahan,Liyanaarachchi,Sahan Liyanaarachchi,University of Moratuwa,,,,,,3,0,,,,3,,10,,,1,,,11,14,Honourable Mention,Honourable Mention
+2017,259–262,Jasper,Van Buul,Jasper Van Buul,Eindhoven University of Technology,,,,,0,0,,7,,,7,,7,0,,0,,,7,14,Honourable Mention,Honourable Mention
+2017,263–269,Izar,Alonso Lorenzo,Izar Alonso Lorenzo,Universidad Complutense de Madrid,,,,,3,0,0,,,,3,,10,0,,0,,,10,13,Honourable Mention,Honourable Mention
+2017,263–269,Alimzhan,Amanov,Alimzhan Amanov,Kazakh-British Technical University,,,,,1,0,2,,,,3,,0,,10,0,,,10,13,Honourable Mention,Honourable Mention
+2017,263–269,Arber,Avdullahu,Arber Avdullahu,University of Primorska,,,,,3,0,,,,,3,,10,0,,0,,,10,13,Honourable Mention,Honourable Mention
+2017,263–269,Kristian Vedran,Budrovcan,Kristian Vedran Budrovcan,University of Zagreb,,,,,3,0,0,,,,3,,10,0,0,,,,10,13,Honourable Mention,Honourable Mention
+2017,263–269,Steven,Van Overberghe,Steven Van Overberghe,Ghent University,,,,,4,,2,,,,6,,5,0,1,1,0,,7,13,Honourable Mention,Honourable Mention
+2017,263–269,Triinu,Veeorg,Triinu Veeorg,University of Tartu,,,,,3,0,0,,,,3,,10,0,0,0,,,10,13,Honourable Mention,Honourable Mention
+2017,263–269,Sergey,Yurkevich,Sergey Yurkevich,University of Vienna,,,,,3,0,2,,,,5,,8,0,,0,,,8,13,Honourable Mention,Honourable Mention
+2017,270–276,Sam,Adriaensen,Sam Adriaensen,Ghent University,,,,,1,,0,,,,1,,9,,2,0,,,11,12,Honourable Mention,Honourable Mention
+2017,270–276,Pedro Henrique,Alencar Costa,Pedro Henrique Alencar Costa,IME - Instituto Militar de Engenharia,,,,,1,0,2,,,,3,,8,0,,1,0,,9,12,Honourable Mention,Honourable Mention
+2017,270–276,Georgios,Kalantzis,Georgios Kalantzis,Aristotle University of Thessaloniki,,,,,2,0,,,0,,2,,10,,,,,,10,12,Honourable Mention,Honourable Mention
+2017,270–276,Zoltán,Nagy-György,Zoltán Nagy-György,University of Szeged,,,,,3,0,0,,,,3,,9,,0,0,0,,9,12,Honourable Mention,Honourable Mention
+2017,270–276,Laura,Wakelin,Laura Wakelin,UCL,,,,,4,0,,,,,4,,8,0,,,,,8,12,Honourable Mention,Honourable Mention
+2017,270–276,Konrad,Walkowicz,Konrad Walkowicz,AGH University of Science and Technology,,,,,8,0,0,,0,,8,,1,,,3,,,4,12,Honourable Mention,Honourable Mention
+2017,270–276,Yosua Feri,Wijaya,Yosua Feri Wijaya,Diponegoro University,,,,,2,0,0,0,0,,2,,10,0,0,0,0,,10,12,Honourable Mention,Honourable Mention
+2017,277–281,Salvador,Rodriguez Sanz,Salvador Rodriguez Sanz,Universidad de Zaragoza,,,,,9,0,0,,0,,9,,2,0,0,,,,2,11,Honourable Mention,Honourable Mention
+2017,277–281,Hossein,Shokouhizadeh,Hossein Shokouhizadeh,Isfahan University of Technology,,,,,3,0,0,0,0,,3,,8,0,0,0,,,8,11,Honourable Mention,Honourable Mention
+2017,277–281,Bram,van den Heuvel,Bram van den Heuvel,University of Amsterdam,,,,,5,2,0,2,,,9,,1,,1,,,,2,11,Honourable Mention,Honourable Mention
+2017,277–281,Simona,Veselá,Simona Veselá,"Comenius University, Bratislava",,,,,2,0,0,,,,2,,9,,,0,,,9,11,Honourable Mention,Honourable Mention
+2017,277–281,Mieke,Wessel,Mieke Wessel,Utrecht University,,,,,2,0,0,7,0,,9,,0,0,2,0,,,2,11,Honourable Mention,Honourable Mention
+2017,282–288,Rostislav,Epifanov,Rostislav Epifanov,Novosibirsk State University,,,,,7,0,,,,,7,,0,,,3,,,3,10,Honourable Mention,Honourable Mention
+2017,282–288,Mohammad Mahdi,Kazemi Esfeh,Mohammad Mahdi Kazemi Esfeh,Isfahan University of Technology,,,,,7,0,,,,,7,,2,,1,0,,,3,10,Honourable Mention,Honourable Mention
+2017,282–288,Aleksei,Miloserdov,Aleksei Miloserdov,Novosibirsk State University,,,,,10,,,0,,,10,,0,0,,0,,,0,10,Honourable Mention,Honourable Mention
+2017,282–288,Darius,Pop,Darius Pop,UCL,,,,,5,0,0,0,0,,5,,5,0,0,0,,,5,10,Honourable Mention,Honourable Mention
+2017,282–288,Alexandr,Ryzhkov,Alexandr Ryzhkov,Belarusian State University,,,,,5,,0,1,,,6,,3,0,,1,0,,4,10,Honourable Mention,Honourable Mention
+2017,282–288,Rowan,Swiers,Rowan Swiers,University of Warwick,,,,,1,0,2,,,,3,,6,0,,1,,,7,10,Honourable Mention,Honourable Mention
+2017,282–288,Živa,Urbančič,Živa Urbančič,University of Ljubljana,,,,,4,0,0,0,0,,4,,5,0,1,,,,6,10,Honourable Mention,Honourable Mention
+2017,289–293,Sofïa,Garro,Sofïa Garro,Universidad de Costa Rica,,,,,2,0,2,,,,4,,4,,1,0,,,5,9,Certificate,certificate
+2017,289–293,Taejun,Park,Taejun Park,University of Cape Town,,,,,3,0,2,,0,,5,,3,1,0,0,,,4,9,Certificate,certificate
+2017,289–293,Ljupcho,Petrov,Ljupcho Petrov,Saints Cyril and Methodius University of Skopje,,,,,4,0,0,,0,,4,,4,,0,1,,,5,9,Certificate,certificate
+2017,289–293,Zhao Kuang,Tan,Zhao Kuang Tan,Nanyang Technological University,,,,,1,0,0,0,0,,1,,0,0,8,0,,,8,9,Certificate,certificate
+2017,289–293,Konrad,von der Gönna,Konrad von der Gönna,University of Goettingen,,,,,1,0,0,,,,1,,1,0,7,0,,,8,9,Certificate,certificate
+2017,294–295,Daniel,Andrés,Daniel Andrés,Pontificia Comillas,,,,,3,0,0,0,0,,3,,5,0,0,0,,,5,8,Certificate,certificate
+2017,294–295,Ana Karoline,Borges Carneiro,Ana Karoline Borges Carneiro,IME - Instituto Militar de Engenharia,,,,,1,0,0,,,,1,,5,0,1,1,0,,7,8,Certificate,certificate
+2017,296–300,Kanstantsin,Ataryk,Kanstantsin Ataryk,BSUIR,,,,,2,,,1,,,3,,3,,,1,,,4,7,Certificate,certificate
+2017,296–300,Juan Carlos,Cruz-González,Juan Carlos Cruz-González,Universidad Autonoma Metropolitana - Iztapalapa,,,,,,,,,,,0,,1,0,6,0,,,7,7,Certificate,certificate
+2017,296–300,Daniel,Klingmann,Daniel Klingmann,University of Warwick,,,,,3,0,0,,,,3,,4,0,0,0,,,4,7,Certificate,certificate
+2017,296–300,Zhenyuan,Lu,Zhenyuan Lu,Nanyang Technological University,,,,,0,0,2,,0,,2,,0,0,1,4,,,5,7,Certificate,certificate
+2017,296–300,Antonino,Sota,Antonino Sota,Jagiellonian University,,,,,5,,2,,,,7,,0,0,,,,,0,7,Certificate,certificate
+2017,301–306,Muhammad Faikar Mustafidz,Al-Habibi,Muhammad Faikar Mustafidz Al-Habibi,State University of Malang,,,,,3,0,0,,1,,4,,2,0,0,0,,,2,6,Certificate,certificate
+2017,301–306,Joan,Arnalot i Farrís,Joan Arnalot i Farrís,University of Barcelona,,,,,0,5,0,,,,5,,1,,,0,0,,1,6,Certificate,certificate
+2017,301–306,Christian,Brand,Christian Brand,Technical University of Munich,,,,,4,0,0,,,,4,,1,0,1,,,,2,6,Certificate,certificate
+2017,301–306,Iiro,Kumpulainen,Iiro Kumpulainen,Aalto University,,,,,5,0,0,,,,5,,0,1,0,0,,,1,6,Certificate,certificate
+2017,301–306,Naira,Matosyan,Naira Matosyan,American University of Armenia,,,,,1,0,,,,,1,,5,,,,,,5,6,Certificate,certificate
+2017,301–306,Anargyros,Oikonomou,Anargyros Oikonomou,National Technical University of Athens,,,,,0,0,0,2,,,2,,3,0,0,1,,,4,6,Certificate,certificate
+2017,307–309,Dániel,Bezdány,Dániel Bezdány,University of Szeged,,,,,5,0,0,0,,,5,,0,0,0,0,0,,0,5,Certificate,certificate
+2017,307–309,Zhumazhenis,Dairabay,Zhumazhenis Dairabay,Nazarbayev University,,,,,2,0,,,,,2,,3,,0,,,,3,5,Certificate,certificate
+2017,307–309,Julio,Labora,Julio Labora,Pontificia Comillas,,,,,1,0,0,,,,1,,4,,,0,,,4,5,Certificate,certificate
+2017,310–312,Erik,Arakelyan,Erik Arakelyan,American University of Armenia,,,,,2,0,0,0,,,2,,1,0,1,,,,2,4,Certificate,certificate
+2017,310–312,Arthur,Covatti,Arthur Covatti,Instituto Tecnológico de Aeronáutica,,,,,3,0,0,,0,,3,,1,0,0,0,,,1,4,Certificate,certificate
+2017,310–312,Angel,Prieto De La Cruz,Angel Prieto De La Cruz,University of Barcelona,,,,,3,0,0,0,0,,3,,0,1,0,0,,,1,4,Certificate,certificate
+2017,313–315,Nurdaulet,Akhanov,Nurdaulet Akhanov,Kazakh-British Technical University,,,,,,,3,,,,3,,0,0,0,,,,0,3,Certificate,certificate
+2017,313–315,Daniil,Baldouski,Daniil Baldouski,University of Primorska,,,,,,0,2,0,,,2,,1,,,0,,,1,3,Certificate,certificate
+2017,313–315,Łukasz,Stępień,Łukasz Stępień,AGH University of Science and Technology,,,,,2,0,0,1,0,,3,,0,,,0,,,0,3,Certificate,certificate
+2017,316–321,Abdullah,Bin Rawshan,Abdullah Bin Rawshan,Singapore University of Technology and Design,,,,,1,0,,0,,,1,,1,,0,,,,1,2,Certificate,certificate
+2017,316–321,Filip,Božič,Filip Božič,University of Primorska,,,,,2,0,0,0,,,2,,0,,0,,,,0,2,Certificate,certificate
+2017,316–321,Abylaikhan,Dunembay,Abylaikhan Dunembay,Nazarbayev University,,,,,2,0,0,,,,2,,0,,0,0,,,0,2,Certificate,certificate
+2017,316–321,Nicolae-CātālinCatalin,Ristea,Nicolae-CātālinCatalin Ristea,Politehnica of Bucharest,,,,,1,0,0,,,,1,,0,0,,1,,,1,2,Certificate,certificate
+2017,316–321,Maria,Roncal Salcedo,Maria Roncal Salcedo,Universidad de Zaragoza,,,,,2,0,,,,,2,,0,0,0,,,,0,2,Certificate,certificate
+2017,316–321,Mohammad Reza,Tavakkoli Moghaddam,Mohammad Reza Tavakkoli Moghaddam,Isfahan University of Technology,,,,,1,0,,0,,,1,,1,,0,0,,,1,2,Certificate,certificate
+2017,322–325,Hou,Chou,Hou Chou,Bromsgrove School (UK),,,,,0,0,0,0,0,,0,,0,0,1,0,,,1,1,Certificate,certificate
+2017,322–325,Manuel,Cuetos Piñón,Manuel Cuetos Piñón,Universidad Oviedo,,,,,0,0,0,,,,0,,1,0,,0,,,1,1,Certificate,certificate
+2017,322–325,James,Nevin,James Nevin,University of Cape Town,,,,,1,,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2017,322–325,Matthias,Reich-Rohrwig,Matthias Reich-Rohrwig,University of Vienna,,,,,,,,1,,,1,,0,,,0,0,,0,1,Certificate,certificate
+2017,326–331,Azamat,Ali,Azamat Ali,Aktobe Regional State University,,,,,,0,,,,,0,,0,0,,0,,,0,0,Certificate,certificate
+2017,326–331,Youness,Barakat,Youness Barakat,UCL,,,,,,0,0,0,,,0,,0,0,,,,,0,0,Certificate,certificate
+2017,326–331,Luis Enrique,Gutĩrrez-Domïnguez,Luis Enrique Gutĩrrez-Domïnguez,Universidad Autonoma Metropolitana - Iztapalapa,,,,,,0,0,,0,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2017,326–331,Mingdu,Li,Mingdu Li,UCL,,,,,0,0,0,0,,,0,,0,0,,0,,,0,0,Certificate,certificate
+2017,326–331,Luis,Puyol,Luis Puyol,Pontificia Comillas,,,,,0,0,,,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2017,326–331,Otso,Vaaramaki,Otso Vaaramaki,Aalto University,,,,,0,0,,,,,0,,,0,,,,,0,0,Certificate,certificate

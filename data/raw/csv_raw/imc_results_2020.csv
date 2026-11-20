@@ -1,0 +1,547 @@
+Pos,Unnamed: 1,First name,Family name,University,City,Country,P1,P2,P3,P4,Day1,P5,P6,P7,P8,Day2,Sum,Prize,Year
+1.,,Stanislav,Krymskii,Saint-Petersburg State University,Saint-Petersburg,Russia,10.0,10.0,10.0,5.0,35.0,8.0,10.0,10.0,10.0,38.0,73.0,grand grand first prize,2020
+2.,,Shvo,Regavim,Tel Aviv University,Tel Aviv,Israel,10.0,10.0,0.0,10.0,30.0,10.0,10.0,10.0,1.0,31.0,61.0,grand first prize,2020
+3–5.,,Mikhail,Ivanov,Saint-Petersburg State University,Saint-Petersburg,Russia,10.0,10.0,10.0,0.0,30.0,10.0,10.0,10.0,0.0,30.0,60.0,grand first prize,2020
+3–5.,,Noam,Ta Shma,Tel Aviv University,Tel Aviv,Israel,10.0,10.0,0.0,10.0,30.0,10.0,10.0,10.0,0.0,30.0,60.0,grand first prize,2020
+3–5.,,Edward,Wan,Massachusetts Institute of Technology,Cambridge,USA,10.0,10.0,0.0,10.0,30.0,10.0,10.0,10.0,0.0,30.0,60.0,grand first prize,2020
+6–7.,,Oleksandra,Kozachok,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,9.0,10.0,0.0,10.0,29.0,10.0,10.0,10.0,0.0,30.0,59.0,grand first prize,2020
+6–7.,,Ohad Maor,Sheinfeld,Bar Ilan University,Ramat Gan,Israel,10.0,10.0,0.0,9.0,29.0,10.0,10.0,10.0,0.0,30.0,59.0,grand first prize,2020
+8.,,Nikita,Karagodin,Saint-Petersburg State University,Saint-Petersburg,Russia,10.0,10.0,3.0,10.0,33.0,5.0,10.0,10.0,0.0,25.0,58.0,grand first prize,2020
+9.,,Roee,Sinai,Tel Aviv University,Tel Aviv,Israel,10.0,10.0,0.0,8.0,28.0,10.0,9.0,10.0,0.0,29.0,57.0,grand first prize,2020
+10.,,Viet Hoang,Tran,Vietnam National University – University of Science,Hanoi,Vietnam,10.0,10.0,0.0,10.0,30.0,10.0,10.0,0.0,4.0,24.0,54.0,grand first prize,2020
+11.,,Egor,Baitenov,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,10.0,0.0,10.0,30.0,9.0,3.0,10.0,0.0,22.0,52.0,first prize,2020
+12–15.,,Andrei-Robert,Bâra,University of Bucharest,Bucharest,Romania,10.0,10.0,0.0,10.0,30.0,10.0,10.0,1.0,0.0,21.0,51.0,first prize,2020
+12–15.,,Nikita,Dobronravov,Saint-Petersburg State University,Saint-Petersburg,Russia,10.0,10.0,5.0,9.0,34.0,7.0,0.0,10.0,0.0,17.0,51.0,first prize,2020
+12–15.,,Stanislav,Grishin,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,1.0,0.0,10.0,21.0,10.0,10.0,10.0,0.0,30.0,51.0,first prize,2020
+12–15.,,Kirill,Tyshchuk,Saint-Petersburg State University,Saint-Petersburg,Russia,10.0,10.0,1.0,0.0,21.0,10.0,10.0,10.0,0.0,30.0,51.0,first prize,2020
+16–21.,,Attila,Gáspár,Loránd Eötvös University,Budapest,Hungary,10.0,10.0,0.0,10.0,30.0,10.0,0.0,10.0,0.0,20.0,50.0,first prize,2020
+16–21.,,Alexandr,Grebennikov,Saint-Petersburg State University,Saint-Petersburg,Russia,10.0,10.0,0.0,0.0,20.0,10.0,10.0,10.0,0.0,30.0,50.0,first prize,2020
+16–21.,,Aitor,Iribar López,Universidad Complutense de Madrid,Madrid,Spain,10.0,10.0,0.0,0.0,20.0,10.0,10.0,10.0,0.0,30.0,50.0,first prize,2020
+16–21.,,Thiago,Landim de Souza Leão,Universidade Federal de Pernambuco,Recife,Brazil,10.0,10.0,0.0,0.0,20.0,10.0,10.0,10.0,0.0,30.0,50.0,first prize,2020
+16–21.,,Jonas,Walter,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10.0,10.0,0.0,0.0,20.0,10.0,10.0,10.0,0.0,30.0,50.0,first prize,2020
+16–21.,,Vladyslav,Zveryk,Jagiellonian University,Krakow,Poland,10.0,10.0,0.0,0.0,20.0,10.0,10.0,10.0,0.0,30.0,50.0,first prize,2020
+22.,,Lior,Hadassi,Tel Aviv University,Tel Aviv,Israel,9.0,9.0,3.0,1.0,22.0,10.0,7.0,10.0,0.0,27.0,49.0,first prize,2020
+23.,,Márton,Borbényi,Loránd Eötvös University,Budapest,Hungary,10.0,10.0,0.0,0.0,20.0,10.0,10.0,8.0,0.0,28.0,48.0,first prize,2020
+24.,,Amir,Iagudin,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,10.0,10.0,7.0,0.0,27.0,47.0,first prize,2020
+25–27.,,Arsen,Hambardzumyan,Yerevan State University,Yerevan,Armenia,10.0,10.0,0.0,0.0,20.0,10.0,10.0,5.0,0.0,25.0,45.0,first prize,2020
+25–27.,,Dragoș,Manea,University of Bucharest,Bucharest,Romania,10.0,10.0,0.0,10.0,30.0,10.0,0.0,5.0,0.0,15.0,45.0,first prize,2020
+25–27.,,Kyprianos-Iason,Prodromidis,National and Kapodestian University of Athens,Athens,Greece,10.0,10.0,0.0,0.0,20.0,10.0,10.0,5.0,0.0,25.0,45.0,first prize,2020
+28–29.,,Dimitrios Chrysovalantis,Melas,National and Kapodestian University of Athens,Athens,Greece,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,4.0,24.0,44.0,first prize,2020
+28–29.,,Reinier,Schmiermann,University of Utrecht,Utrecht,Netherlands,10.0,2.0,0.0,2.0,14.0,10.0,10.0,10.0,0.0,30.0,44.0,first prize,2020
+30–31.,,Ignat,Sokolov,Saint-Petersburg State University,Saint-Petersburg,Russia,10.0,10.0,0.0,0.0,20.0,9.0,10.0,0.0,4.0,23.0,43.0,first prize,2020
+30–31.,,Szymon,Zwara,University of Warsaw,Warsaw,Poland,10.0,10.0,0.0,10.0,30.0,10.0,2.0,1.0,0.0,13.0,43.0,first prize,2020
+32.,,Vladislav,Epifanov,HSE Campus in St. Petersburg,Saint-Petersburg,Russia,10.0,9.0,0.0,0.0,19.0,10.0,3.0,10.0,0.0,23.0,42.0,first prize,2020
+33–36.,,Abdushukur,Akhadov,Gulistan State University,Gulistan,Uzbekistan,10.0,10.0,0.0,10.0,30.0,6.0,0.0,5.0,0.0,11.0,41.0,first prize,2020
+33–36.,,Rafael,Filipe dos Santos,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10.0,10.0,0.0,1.0,21.0,10.0,10.0,0.0,0.0,20.0,41.0,first prize,2020
+33–36.,,Tomasz,Kiełbasa,University of Warsaw,Warsaw,Poland,10.0,10.0,0.0,1.0,21.0,10.0,10.0,0.0,0.0,20.0,41.0,first prize,2020
+33–36.,,Daniel Isaac,Puignau Chacón,Universidad Autonoma de Madrid,Madrid,Spain,10.0,10.0,0.0,1.0,21.0,1.0,9.0,10.0,0.0,20.0,41.0,first prize,2020
+37–52.,,Damian,Burczyk,University of Warsaw,Warsaw,Poland,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Juan Sebastian,Diaz Serrano,Olimpiadas Colombianas de Matematicas,Bogota,Colombia,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Jan,Fornal,Jagiellonian University,Krakow,Poland,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Daniil,Glukhovskiy,New York University,New York,USA,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Guilherme,Goulart Kowalczuk,Instituto Tecnológico de Aeronáutica,Rio de Janeiro,Brazil,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Nuno,Hultberg,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10.0,10.0,0.0,0.0,20.0,10.0,0.0,10.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Dmitrii,Kolupaev,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,10.0,0.0,10.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Vahan,Martirosyan,Yerevan State University,Yerevan,Armenia,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Erik,Metz,University of Maryland,College Park,USA,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Sebastian,Meyer,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Ivan,Novak,University of Zagreb,Zagreb,Croatia,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Volodymyr,Riabov,V. N. Karazin Kharkiv National University,Kharkiv,Ukraine,10.0,10.0,0.0,10.0,30.0,10.0,0.0,0.0,0.0,10.0,40.0,first prize,2020
+37–52.,,Alexander,Shlimovich,Higher School of Economics,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Kristóf,Szabó,Loránd Eötvös University,Budapest,Hungary,10.0,9.0,0.0,0.0,19.0,10.0,10.0,0.0,1.0,21.0,40.0,first prize,2020
+37–52.,,Nikola,Velov,University of Belgrade,Belgrade,Serbia,10.0,10.0,0.0,0.0,20.0,10.0,10.0,0.0,0.0,20.0,40.0,first prize,2020
+37–52.,,Azur,Đonlagić,Jagiellonian University,Krakow,Poland,8.0,10.0,0.0,7.0,25.0,5.0,0.0,10.0,0.0,15.0,40.0,first prize,2020
+53–54.,,Andrey,Jhen Shan Chen,Universidade Estadual de Campinas,São Paulo,Brazil,10.0,10.0,0.0,10.0,30.0,6.0,2.0,1.0,0.0,9.0,39.0,first prize,2020
+53–54.,,Semen,Słobodianiuk,University of Warsaw,Warsaw,Poland,10.0,9.0,0.0,0.0,19.0,10.0,10.0,0.0,0.0,20.0,39.0,first prize,2020
+55–60.,,Omer,Bojan,Tel Aviv University,Tel Aviv,Israel,10.0,8.0,6.0,0.0,24.0,5.0,8.0,1.0,0.0,14.0,38.0,first prize,2020
+55–60.,,Thomas,Chen,Universiteit Leiden,Leiden,Netherlands,10.0,10.0,0.0,10.0,30.0,0.0,2.0,6.0,0.0,8.0,38.0,first prize,2020
+55–60.,,Egor,Dobronravov,Saint-Petersburg State University,Saint-Petersburg,Russia,9.0,10.0,0.0,9.0,28.0,10.0,0.0,0.0,0.0,10.0,38.0,first prize,2020
+55–60.,,Yauheni,Minau,Belarusian State University of Informatics and Radioelectronics,Minsk,Belarus,10.0,10.0,0.0,10.0,30.0,8.0,0.0,0.0,0.0,8.0,38.0,first prize,2020
+55–60.,,Anatoli,Shatsila,Jagiellonian University,Krakow,Poland,10.0,10.0,0.0,0.0,20.0,10.0,8.0,0.0,0.0,18.0,38.0,first prize,2020
+55–60.,,Borna,Šimić,University of Zagreb,Zagreb,Croatia,10.0,10.0,0.0,0.0,20.0,10.0,8.0,0.0,0.0,18.0,38.0,first prize,2020
+61–62.,,Volodymyr,Fedynyak,Ukrainian Catholic University,Lviv,Ukraine,10.0,0.0,0.0,7.0,17.0,10.0,10.0,0.0,0.0,20.0,37.0,first prize,2020
+61–62.,,Rafah,Hajjar Munoz,BarcelonaTech,Barcelona,Spain,10.0,10.0,0.0,0.0,20.0,7.0,10.0,0.0,0.0,17.0,37.0,first prize,2020
+63–68.,,Radomił,Baran,Jagiellonian University,Krakow,Poland,10.0,10.0,0.0,0.0,20.0,5.0,10.0,0.0,0.0,15.0,35.0,first prize,2020
+63–68.,,Pavel,Gubkin,Saint-Petersburg State University,Saint-Petersburg,Russia,10.0,10.0,0.0,0.0,20.0,10.0,5.0,0.0,0.0,15.0,35.0,first prize,2020
+63–68.,,Igor,Melnikov,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,5.0,10.0,0.0,0.0,15.0,35.0,first prize,2020
+63–68.,,Daniel Kacper,Murawski,University of Warsaw,Warsaw,Poland,10.0,1.0,10.0,0.0,21.0,10.0,3.0,1.0,0.0,14.0,35.0,first prize,2020
+63–68.,,Aliaksei,Vasileuski,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,5.0,10.0,0.0,0.0,15.0,35.0,first prize,2020
+63–68.,,Ferdinand,Wagner,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10.0,10.0,0.0,1.0,21.0,10.0,3.0,1.0,0.0,14.0,35.0,first prize,2020
+69–70.,,Reinier,Sorgdrager,University of Amsterdam,Amsterdam,Netherlands,10.0,10.0,0.0,0.0,20.0,4.0,10.0,0.0,0.0,14.0,34.0,first prize,2020
+69–70.,,Gabriel,Tostes Messias Pereira,Instituto Tecnológico de Aeronáutica,Rio de Janeiro,Brazil,10.0,10.0,0.0,9.0,29.0,4.0,1.0,0.0,0.0,5.0,34.0,first prize,2020
+71–75.,,Zsolt,Baja,Babeș-Bolyai University,Cluj-Napoca,Romania,10.0,10.0,0.0,0.0,20.0,3.0,10.0,0.0,0.0,13.0,33.0,first prize,2020
+71–75.,,Bekarys,Bekmaganbetov,Kazakhstan Branch of Lomonosov Moscow State University,Astana,Kazakhstan,10.0,10.0,0.0,0.0,20.0,10.0,1.0,1.0,1.0,13.0,33.0,first prize,2020
+71–75.,,Bruno,Costa Alves Freire,Instituto Tecnológico de Aeronáutica,Rio de Janeiro,Brazil,10.0,10.0,0.0,0.0,20.0,10.0,3.0,0.0,0.0,13.0,33.0,first prize,2020
+71–75.,,Sergey,Kudrya,Moscow Institute of Physics and Technology,Moscow,Russia,9.0,10.0,0.0,0.0,19.0,4.0,10.0,0.0,0.0,14.0,33.0,first prize,2020
+71–75.,,Robin,Simoens,Ghent University,Ghent,Belgium,10.0,10.0,0.0,0.0,20.0,7.0,0.0,6.0,0.0,13.0,33.0,first prize,2020
+76–88.,,Sebastian,Bürger,Universität Leipzig,Leipzig,Germany,10.0,10.0,0.0,0.0,20.0,10.0,2.0,0.0,0.0,12.0,32.0,first prize,2020
+76–88.,,Dijia,Chen,University College London,London,UK,10.0,10.0,0.0,0.0,20.0,2.0,0.0,10.0,0.0,12.0,32.0,first prize,2020
+76–88.,,András,Imolay,Loránd Eötvös University,Budapest,Hungary,10.0,10.0,0.0,0.0,20.0,10.0,2.0,0.0,0.0,12.0,32.0,first prize,2020
+76–88.,,Nikita,Kalinin,Higher School of Economics,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,10.0,2.0,0.0,0.0,12.0,32.0,first prize,2020
+76–88.,,Alireza,Masaeli,Amirkabir University of Technology,Tehran,Iran,10.0,10.0,0.0,0.0,20.0,2.0,10.0,0.0,0.0,12.0,32.0,first prize,2020
+76–88.,,Dávid,Matolcsi,Loránd Eötvös University,Budapest,Hungary,10.0,3.0,0.0,0.0,13.0,10.0,9.0,0.0,0.0,19.0,32.0,first prize,2020
+76–88.,,Martin,Melicher,Charles University,Prague,Czech Republic,10.0,1.0,0.0,1.0,12.0,10.0,10.0,0.0,0.0,20.0,32.0,first prize,2020
+76–88.,,Filip,Munteanu,Babeș-Bolyai University,Cluj-Napoca,Romania,10.0,10.0,0.0,0.0,20.0,8.0,4.0,0.0,0.0,12.0,32.0,first prize,2020
+76–88.,,Miquel,Ortega Sanchez-Colomer,BarcelonaTech,Barcelona,Spain,10.0,10.0,0.0,0.0,20.0,10.0,2.0,0.0,0.0,12.0,32.0,first prize,2020
+76–88.,,Maximiliano,Sánchez Garza,Universidad Autónoma de Nuevo León,Nuevo León,México,10.0,10.0,0.0,0.0,20.0,2.0,10.0,0.0,0.0,12.0,32.0,first prize,2020
+76–88.,,Pablo,Soto Martín,Universidad Autonoma de Madrid,Madrid,Spain,9.0,10.0,0.0,0.0,19.0,10.0,3.0,0.0,0.0,13.0,32.0,first prize,2020
+76–88.,,José Ramon,Tuiran Rangel,Universidad Nacional Autónoma de México,Mexico City,Mexico,10.0,10.0,0.0,0.0,20.0,9.0,3.0,0.0,0.0,12.0,32.0,first prize,2020
+76–88.,,Maksim,Urmanov,Higher School of Economics,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,10.0,2.0,0.0,0.0,12.0,32.0,first prize,2020
+89–103.,,Vahagn,Altunyan,Yerevan State University,Yerevan,Armenia,10.0,10.0,0.0,0.0,20.0,10.0,1.0,0.0,0.0,11.0,31.0,first prize,2020
+89–103.,,Andrei-Vlad,Cataron,University of Bucharest,Bucharest,Romania,10.0,10.0,0.0,0.0,20.0,10.0,0.0,1.0,0.0,11.0,31.0,first prize,2020
+89–103.,,Iris,Hebbeker,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10.0,10.0,0.0,0.0,20.0,1.0,0.0,10.0,0.0,11.0,31.0,first prize,2020
+89–103.,,Daniil Ivanovich,Ivanik,Higher School of Economics,Moscow,Russia,10.0,10.0,0.0,10.0,30.0,1.0,0.0,0.0,0.0,1.0,31.0,first prize,2020
+89–103.,,Steppan,Konoplev,University of Maryland,College Park,USA,10.0,10.0,0.0,0.0,20.0,10.0,1.0,0.0,0.0,11.0,31.0,first prize,2020
+89–103.,,Shokhzod,Kurokboev,National University of Uzbekistan,Tashkent,Uzbekistan,10.0,10.0,0.0,1.0,21.0,10.0,0.0,0.0,0.0,10.0,31.0,first prize,2020
+89–103.,,Eirini,Miliori,National Technical University of Athens,Athens,Greece,7.0,10.0,0.0,0.0,17.0,4.0,10.0,0.0,0.0,14.0,31.0,first prize,2020
+89–103.,,Panagiotis,Misiakos,National Technical University of Athens,Athens,Greece,10.0,10.0,0.0,0.0,20.0,6.0,0.0,5.0,0.0,11.0,31.0,first prize,2020
+89–103.,,Madalin Gabriel,Mitrofan,Babeș-Bolyai University,Cluj-Napoca,Romania,10.0,10.0,0.0,0.0,20.0,10.0,1.0,0.0,0.0,11.0,31.0,first prize,2020
+89–103.,,Bruno Johannes,Perreaux,Universität Wien,Vienna,Austria,10.0,10.0,0.0,0.0,20.0,10.0,1.0,0.0,0.0,11.0,31.0,first prize,2020
+89–103.,,Markus,Reibnegger,Universität Wien,Vienna,Austria,10.0,10.0,0.0,0.0,20.0,10.0,1.0,0.0,0.0,11.0,31.0,first prize,2020
+89–103.,,Jordi,Rodriguez Manso,BarcelonaTech,Barcelona,Spain,10.0,10.0,0.0,5.0,25.0,6.0,0.0,0.0,0.0,6.0,31.0,first prize,2020
+89–103.,,Ivan,Sinčić,University of Zagreb,Zagreb,Croatia,10.0,10.0,0.0,0.0,20.0,10.0,0.0,0.0,1.0,11.0,31.0,first prize,2020
+89–103.,,Hoang Anh,Tran,Loránd Eötvös University,Budapest,Hungary,10.0,9.0,0.0,0.0,19.0,10.0,2.0,0.0,0.0,12.0,31.0,first prize,2020
+89–103.,,Lammert,Westerdijk,University of Utrecht,Utrecht,Netherlands,10.0,10.0,0.0,0.0,20.0,10.0,1.0,0.0,0.0,11.0,31.0,first prize,2020
+104–117.,,Sevak,Abrahamyan,Yerevan State University,Yerevan,Armenia,10.0,10.0,0.0,0.0,20.0,10.0,0.0,0.0,0.0,10.0,30.0,first prize,2020
+104–117.,,João Pedro,de Abreu Marciano,Fundação Getulio Vargas,Rio de Janeiro,Brazil,10.0,10.0,0.0,0.0,20.0,10.0,0.0,0.0,0.0,10.0,30.0,first prize,2020
+104–117.,,Joaquín,Domínguez de Tena,Universidad Complutense de Madrid,Madrid,Spain,10.0,10.0,0.0,0.0,20.0,10.0,0.0,0.0,0.0,10.0,30.0,first prize,2020
+104–117.,,Ishkhan,Elazyan,Yerevan State University,Yerevan,Armenia,10.0,10.0,0.0,0.0,20.0,10.0,0.0,0.0,0.0,10.0,30.0,first prize,2020
+104–117.,,Martín,Gómez Abejón,Universidad Complutense de Madrid,Madrid,Spain,10.0,10.0,0.0,0.0,20.0,10.0,0.0,0.0,0.0,10.0,30.0,first prize,2020
+104–117.,,Heorhii,Ivanchyk,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10.0,7.0,0.0,7.0,24.0,5.0,1.0,0.0,0.0,6.0,30.0,first prize,2020
+104–117.,,Juraj,Marušić,University of Zagreb,Zagreb,Croatia,10.0,10.0,0.0,0.0,20.0,10.0,0.0,0.0,0.0,10.0,30.0,first prize,2020
+104–117.,,Fabiano,Menezes e Sousa,Instituto Tecnológico de Aeronáutica,Rio de Janeiro,Brazil,10.0,10.0,0.0,0.0,20.0,10.0,0.0,0.0,0.0,10.0,30.0,first prize,2020
+104–117.,,Tudor,Popescu,Carnegie Mellon University,Pittsburgh,USA,10.0,10.0,0.0,0.0,20.0,0.0,10.0,0.0,0.0,10.0,30.0,first prize,2020
+104–117.,,Maksym,Protsyk,Ukrainian Catholic University,Lviv,Ukraine,10.0,0.0,0.0,0.0,10.0,10.0,10.0,0.0,0.0,20.0,30.0,first prize,2020
+104–117.,,Arman,Shirdel,University of Tabriz,Tabriz,Iran,10.0,10.0,0.0,0.0,20.0,9.0,0.0,1.0,0.0,10.0,30.0,first prize,2020
+104–117.,,Ricky,The Ising,Universitas Gadjah Mada,Yogyakarta,Indonesia,10.0,10.0,0.0,0.0,20.0,10.0,0.0,0.0,0.0,10.0,30.0,first prize,2020
+104–117.,,Dmitry,Tsarev,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,0.0,0.0,10.0,20.0,10.0,0.0,0.0,0.0,10.0,30.0,first prize,2020
+104–117.,,Tähvend,Uustalu,University of Tartu,Tartu,Estonia,10.0,10.0,0.0,0.0,20.0,10.0,0.0,0.0,0.0,10.0,30.0,first prize,2020
+118–123.,,Cristian-Anton,Calin,Imperial College London,London,UK,10.0,10.0,0.0,0.0,20.0,9.0,0.0,0.0,0.0,9.0,29.0,second prize,2020
+118–123.,,Adriaan Andries,de Clercq,University of Pretoria,Pretoria,South Africa,10.0,9.0,0.0,0.0,19.0,10.0,0.0,0.0,0.0,10.0,29.0,second prize,2020
+118–123.,,Tolibjon,Ismoilov,National University of Uzbekistan,Tashkent,Uzbekistan,10.0,10.0,0.0,0.0,20.0,9.0,0.0,0.0,0.0,9.0,29.0,second prize,2020
+118–123.,,Pratik,Rathore,University of Maryland,College Park,USA,10.0,10.0,0.0,0.0,20.0,7.0,2.0,0.0,0.0,9.0,29.0,second prize,2020
+118–123.,,Nikolay,Sheshko,Jagiellonian University,Krakow,Poland,10.0,0.0,0.0,10.0,20.0,7.0,2.0,0.0,0.0,9.0,29.0,second prize,2020
+118–123.,,Călin-Daniel,Spiridon,University of Bucharest,Bucharest,Romania,10.0,9.0,0.0,0.0,19.0,10.0,0.0,0.0,0.0,10.0,29.0,second prize,2020
+124–133.,,Nikita,Andreev,HSE Campus in St. Petersburg,Saint-Petersburg,Russia,10.0,10.0,0.0,0.0,20.0,8.0,0.0,0.0,0.0,8.0,28.0,second prize,2020
+124–133.,,George Lucas,Diniz Alencar,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,Brazil,10.0,3.0,0.0,0.0,13.0,5.0,10.0,0.0,0.0,15.0,28.0,second prize,2020
+124–133.,,Dan,Dumitrescu,University of Bucharest,Bucharest,Romania,10.0,10.0,0.0,0.0,20.0,7.0,1.0,0.0,0.0,8.0,28.0,second prize,2020
+124–133.,,Rein,Janssen Groesbeek,University of Utrecht,Utrecht,Netherlands,10.0,10.0,0.0,0.0,20.0,7.0,0.0,1.0,0.0,8.0,28.0,second prize,2020
+124–133.,,Muhammad Harun Ali,Khan,Imperial College London,London,UK,10.0,10.0,0.0,0.0,20.0,0.0,8.0,0.0,0.0,8.0,28.0,second prize,2020
+124–133.,,Davi,Sena,University of Waterloo,Waterloo,Canada,10.0,2.0,0.0,0.0,12.0,7.0,9.0,0.0,0.0,16.0,28.0,second prize,2020
+124–133.,,Franciszek,Szarwacki,University of Warsaw,Warsaw,Poland,10.0,10.0,0.0,0.0,20.0,6.0,1.0,1.0,0.0,8.0,28.0,second prize,2020
+124–133.,,Mateus,Thimóteo,Instituto Tecnológico de Aeronáutica,Rio de Janeiro,Brazil,10.0,4.0,0.0,0.0,14.0,4.0,10.0,0.0,0.0,14.0,28.0,second prize,2020
+124–133.,,Aleksandr,Trufanov,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,8.0,0.0,0.0,0.0,8.0,28.0,second prize,2020
+124–133.,,Maciej,Wojtala,University of Warsaw,Warsaw,Poland,10.0,10.0,0.0,0.0,20.0,5.0,2.0,1.0,0.0,8.0,28.0,second prize,2020
+134–142.,,Aya,Bouzidi,Université Pierre et Marie Curie,Paris,France,7.0,10.0,0.0,0.0,17.0,10.0,0.0,0.0,0.0,10.0,27.0,second prize,2020
+134–142.,,Danilo,Fernandes,Instituto Tecnológico de Aeronáutica,Rio de Janeiro,Brazil,10.0,10.0,0.0,0.0,20.0,7.0,0.0,0.0,0.0,7.0,27.0,second prize,2020
+134–142.,,Vahe,Karagulyan,Yerevan State University,Yerevan,Armenia,10.0,4.0,0.0,3.0,17.0,10.0,0.0,0.0,0.0,10.0,27.0,second prize,2020
+134–142.,,Bakdauren,Narbayev,Nazarbayev University,Astana,Kazakhstan,10.0,10.0,0.0,0.0,20.0,7.0,0.0,0.0,0.0,7.0,27.0,second prize,2020
+134–142.,,Saúl,Rodríguez Martín,Universidad Complutense de Madrid,Madrid,Spain,9.0,1.0,0.0,0.0,10.0,10.0,2.0,5.0,0.0,17.0,27.0,second prize,2020
+134–142.,,Maftuna,Samatboyeva,National University of Uzbekistan,Tashkent,Uzbekistan,10.0,6.0,0.0,0.0,16.0,10.0,0.0,1.0,0.0,11.0,27.0,second prize,2020
+134–142.,,Ádám,Schweitzer,Loránd Eötvös University,Budapest,Hungary,8.0,10.0,0.0,0.0,18.0,9.0,0.0,0.0,0.0,9.0,27.0,second prize,2020
+134–142.,,Gyorgy,Totos,Babeș-Bolyai University,Cluj-Napoca,Romania,10.0,10.0,0.0,0.0,20.0,7.0,0.0,0.0,0.0,7.0,27.0,second prize,2020
+134–142.,,Jahongir,Turayev,National University of Uzbekistan,Tashkent,Uzbekistan,10.0,9.0,0.0,0.0,19.0,8.0,0.0,0.0,0.0,8.0,27.0,second prize,2020
+143–150.,,Ana Teodora,Bercaru,University of Manchester,Manchester,UK,8.0,8.0,0.0,0.0,16.0,10.0,0.0,0.0,0.0,10.0,26.0,second prize,2020
+143–150.,,Long,Do Xuan,Nanyang Technological University,Jurong West,Singapore,10.0,6.0,0.0,0.0,16.0,8.0,2.0,0.0,0.0,10.0,26.0,second prize,2020
+143–150.,,Oles,Holembovskyy,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10.0,2.0,0.0,0.0,12.0,8.0,0.0,6.0,0.0,14.0,26.0,second prize,2020
+143–150.,,Danila,Ivanov,Higher School of Economics,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,4.0,2.0,0.0,0.0,6.0,26.0,second prize,2020
+143–150.,,Ahmadreza,Khazaeipoul,Amirkabir University of Technology,Tehran,Iran,10.0,10.0,0.0,0.0,20.0,4.0,2.0,0.0,0.0,6.0,26.0,second prize,2020
+143–150.,,Vadym,Koval,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10.0,2.0,0.0,0.0,12.0,10.0,4.0,0.0,0.0,14.0,26.0,second prize,2020
+143–150.,,Louis,Olyslager,Ghent University,Ghent,Belgium,7.0,10.0,0.0,0.0,17.0,9.0,0.0,0.0,0.0,9.0,26.0,second prize,2020
+143–150.,,Eduardo,Sodré,Universidade de São Paulo,São Paulo,Brazil,10.0,4.0,0.0,0.0,14.0,4.0,8.0,0.0,0.0,12.0,26.0,second prize,2020
+151–158.,,Arman,Bayramyan,Yerevan State University,Yerevan,Armenia,10.0,10.0,0.0,0.0,20.0,5.0,0.0,0.0,0.0,5.0,25.0,second prize,2020
+151–158.,,Sergio David,Cía Luvecce,Universidad de Zaragoza,Zaragoza,Spain,10.0,10.0,0.0,0.0,20.0,3.0,2.0,0.0,0.0,5.0,25.0,second prize,2020
+151–158.,,Kevin Gabriel,Coto Mora,Universidad de Costa Rica,San Pedro Montes de Oca,Costa Rica,10.0,0.0,0.0,0.0,10.0,5.0,10.0,0.0,0.0,15.0,25.0,second prize,2020
+151–158.,,Caio Augusto,de Carvalho Costa,Instituto Tecnológico de Aeronáutica,Rio de Janeiro,Brazil,10.0,10.0,0.0,0.0,20.0,5.0,0.0,0.0,0.0,5.0,25.0,second prize,2020
+151–158.,,André Yuji,Hisatsuga,Universidade de São Paulo,São Paulo,Brazil,10.0,4.0,0.0,0.0,14.0,10.0,1.0,0.0,0.0,11.0,25.0,second prize,2020
+151–158.,,Fiton,Hoxha,"University of Prishtina ""Hasan Prishtina""",Prishtina,Kosovo,10.0,4.0,0.0,0.0,14.0,10.0,0.0,1.0,0.0,11.0,25.0,second prize,2020
+151–158.,,Adel,Khalilov,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,4.0,1.0,0.0,0.0,5.0,25.0,second prize,2020
+151–158.,,Felipe,Martins Gomes,Instituto Tecnológico de Aeronáutica,Rio de Janeiro,Brazil,10.0,10.0,0.0,0.0,20.0,4.0,1.0,0.0,0.0,5.0,25.0,second prize,2020
+159–169.,,Eugenia,Akhmedova,Higher School of Economics,Moscow,Russia,10.0,2.0,0.0,0.0,12.0,10.0,2.0,0.0,0.0,12.0,24.0,second prize,2020
+159–169.,,Cristian José,Alvarez Bran,Universidad de San Carlos de Guatemala,Guatemala City,Guatemala,10.0,10.0,0.0,0.0,20.0,4.0,0.0,0.0,0.0,4.0,24.0,second prize,2020
+159–169.,,Benedek,Kovács,University of Cambridge,Cambridge,UK,10.0,10.0,0.0,0.0,20.0,3.0,0.0,1.0,0.0,4.0,24.0,second prize,2020
+159–169.,,Cosmin,Manea,Eindhoven University of Technology,Eindhoven,Netherlands,10.0,10.0,0.0,0.0,20.0,4.0,0.0,0.0,0.0,4.0,24.0,second prize,2020
+159–169.,,Sam,Pattison,University of Warwick,Warwick,UK,10.0,3.0,0.0,0.0,13.0,10.0,1.0,0.0,0.0,11.0,24.0,second prize,2020
+159–169.,,Marián,Poturnay,"Comenius University, Bratislava",Bratislava,Slovakia,10.0,10.0,0.0,0.0,20.0,1.0,3.0,0.0,0.0,4.0,24.0,second prize,2020
+159–169.,,Soroush,Rezaei,Sharif University of Technology,Tehran,Iran,10.0,1.0,0.0,0.0,11.0,10.0,3.0,0.0,0.0,13.0,24.0,second prize,2020
+159–169.,,Olha,Shevchenko,V. N. Karazin Kharkiv National University,Kharkiv,Ukraine,10.0,3.0,0.0,0.0,13.0,10.0,0.0,1.0,0.0,11.0,24.0,second prize,2020
+159–169.,,Alexandr,Snadin,Novosibirsk State University,Novosibirsk,Russia,4.0,10.0,0.0,0.0,14.0,10.0,0.0,0.0,0.0,10.0,24.0,second prize,2020
+159–169.,,Robert,Szafarczyk,University of Warsaw,Warsaw,Poland,10.0,10.0,0.0,0.0,20.0,4.0,0.0,0.0,0.0,4.0,24.0,second prize,2020
+159–169.,,Renata,Valieva,Higher School of Economics,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,4.0,0.0,0.0,0.0,4.0,24.0,second prize,2020
+170–178.,,Emil,Alkin,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,9.0,0.0,0.0,19.0,2.0,2.0,0.0,0.0,4.0,23.0,second prize,2020
+170–178.,,Denys,Cherhykalo,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10.0,9.0,0.0,0.0,19.0,4.0,0.0,0.0,0.0,4.0,23.0,second prize,2020
+170–178.,,David,Farré,University of Barcelona,Barcelona,Spain,10.0,1.0,0.0,0.0,11.0,7.0,2.0,3.0,0.0,12.0,23.0,second prize,2020
+170–178.,,Erfran,Masoumi,University of Tabriz,Tabriz,Iran,10.0,10.0,0.0,0.0,20.0,2.0,1.0,0.0,0.0,3.0,23.0,second prize,2020
+170–178.,,Maksym,Pushkar,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,6.0,7.0,0.0,0.0,13.0,10.0,0.0,0.0,0.0,10.0,23.0,second prize,2020
+170–178.,,Martin,Raška,Charles University,Prague,Czech Republic,10.0,1.0,0.0,0.0,11.0,10.0,2.0,0.0,0.0,12.0,23.0,second prize,2020
+170–178.,,Branislav,Sobot,University of Novi Sad,Novi Sad,Serbia,10.0,1.0,0.0,0.0,11.0,10.0,2.0,0.0,0.0,12.0,23.0,second prize,2020
+170–178.,,Maksim,Surkov,HSE Campus in St. Petersburg,Saint-Petersburg,Russia,8.0,10.0,0.0,0.0,18.0,3.0,2.0,0.0,0.0,5.0,23.0,second prize,2020
+170–178.,,Siebe,Verheijen,University of Amsterdam,Amsterdam,Netherlands,5.0,7.0,0.0,0.0,12.0,10.0,0.0,1.0,0.0,11.0,23.0,second prize,2020
+179–193.,,Tímea,Csahók,Loránd Eötvös University,Budapest,Hungary,10.0,1.0,0.0,0.0,11.0,5.0,2.0,4.0,0.0,11.0,22.0,second prize,2020
+179–193.,,Nicolas,De la Hoz Fernandez,Olimpiadas Colombianas de Matematicas,Bogota,Colombia,10.0,6.0,0.0,0.0,16.0,6.0,0.0,0.0,0.0,6.0,22.0,second prize,2020
+179–193.,,Maria Clara,de Lacerda Werneck,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,Brazil,10.0,2.0,0.0,0.0,12.0,0.0,10.0,0.0,0.0,10.0,22.0,second prize,2020
+179–193.,,Iulian,Giliazev,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,1.0,1.0,0.0,0.0,2.0,22.0,second prize,2020
+179–193.,,Oscar Armando,Hidalgo Arevalo,University of Leeds,Leeds,UK,10.0,10.0,0.0,0.0,20.0,2.0,0.0,0.0,0.0,2.0,22.0,second prize,2020
+179–193.,,Jasurbek,Imomov,National University of Uzbekistan,Tashkent,Uzbekistan,10.0,10.0,0.0,0.0,20.0,0.0,2.0,0.0,0.0,2.0,22.0,second prize,2020
+179–193.,,Izat,Khamiyev,Nazarbayev University,Astana,Kazakhstan,10.0,10.0,0.0,0.0,20.0,2.0,0.0,0.0,0.0,2.0,22.0,second prize,2020
+179–193.,,Chavdar,Lalov,Stanford University,Stanford,USA,10.0,10.0,0.0,0.0,20.0,2.0,0.0,0.0,0.0,2.0,22.0,second prize,2020
+179–193.,,Felix,Moreno Penarrubia,BarcelonaTech,Barcelona,Spain,10.0,10.0,0.0,0.0,20.0,2.0,0.0,0.0,0.0,2.0,22.0,second prize,2020
+179–193.,,Leo,Schäfer,Georg-August-Universität Göttingen,Göttingen,Germany,10.0,10.0,0.0,0.0,20.0,2.0,0.0,0.0,0.0,2.0,22.0,second prize,2020
+179–193.,,Resul,Shamuhammedov,Magtymguly Turkmen State University,Ashgabat,Turkmenistan,10.0,10.0,0.0,0.0,20.0,2.0,0.0,0.0,0.0,2.0,22.0,second prize,2020
+179–193.,,Hau Tian,Teo,Nanyang Technological University,Jurong West,Singapore,10.0,5.0,0.0,0.0,15.0,7.0,0.0,0.0,0.0,7.0,22.0,second prize,2020
+179–193.,,Simona,Veselá,"Comenius University, Bratislava",Bratislava,Slovakia,10.0,10.0,0.0,0.0,20.0,2.0,0.0,0.0,0.0,2.0,22.0,second prize,2020
+179–193.,,Maximilian,von Consbruch,Georg-August-Universität Göttingen,Göttingen,Germany,10.0,10.0,0.0,0.0,20.0,2.0,0.0,0.0,0.0,2.0,22.0,second prize,2020
+179–193.,,Rodion,Zaytsev,Higher School of Economics,Moscow,Russia,10.0,10.0,0.0,0.0,20.0,2.0,0.0,0.0,0.0,2.0,22.0,second prize,2020
+194–208.,,Sobir,Boymurodov,Bukhara State University,Bukhara,Uzbekistan,10.0,1.0,0.0,0.0,11.0,10.0,0.0,0.0,0.0,10.0,21.0,second prize,2020
+194–208.,,Daniel Enrique,Caceres Mateus,Olimpiadas Colombianas de Matematicas,Bogota,Colombia,10.0,1.0,0.0,0.0,11.0,0.0,10.0,0.0,0.0,10.0,21.0,second prize,2020
+194–208.,,Gergely,Csáji,Loránd Eötvös University,Budapest,Hungary,10.0,1.0,0.0,0.0,11.0,10.0,0.0,0.0,0.0,10.0,21.0,second prize,2020
+194–208.,,Nikolaos,Gkoumas,National and Kapodestian University of Athens,Athens,Greece,10.0,10.0,0.0,1.0,21.0,0.0,0.0,0.0,0.0,0.0,21.0,second prize,2020
+194–208.,,Male,Hesse,Georg-August-Universität Göttingen,Göttingen,Germany,10.0,1.0,0.0,0.0,11.0,10.0,0.0,0.0,0.0,10.0,21.0,second prize,2020
+194–208.,,Pablo,Hidalgo Palencia,Universidad Complutense de Madrid,Madrid,Spain,9.0,9.0,0.0,0.0,18.0,3.0,0.0,0.0,0.0,3.0,21.0,second prize,2020
+194–208.,,Sahan Manodya,Karawita,University of Colombo,Colombo,Sri Lanka,10.0,0.0,0.0,0.0,10.0,8.0,0.0,0.0,3.0,11.0,21.0,second prize,2020
+194–208.,,Florian,Lang,Universität Wien,Vienna,Austria,10.0,1.0,0.0,0.0,11.0,10.0,0.0,0.0,0.0,10.0,21.0,second prize,2020
+194–208.,,James Murray,Louw,University of Pretoria,Pretoria,South Africa,10.0,1.0,0.0,0.0,11.0,10.0,0.0,0.0,0.0,10.0,21.0,second prize,2020
+194–208.,,Kostiantyn,Lutsenko,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10.0,1.0,0.0,0.0,11.0,10.0,0.0,0.0,0.0,10.0,21.0,second prize,2020
+194–208.,,Oleksandr,Mishyn,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,10.0,10.0,0.0,0.0,20.0,1.0,0.0,0.0,0.0,1.0,21.0,second prize,2020
+194–208.,,Sina,Naserian,University of Tehran,Tehran,Iran,10.0,10.0,0.0,0.0,20.0,0.0,1.0,0.0,0.0,1.0,21.0,second prize,2020
+194–208.,,Matyas,Parrag,University of Warwick,Warwick,UK,10.0,2.0,0.0,0.0,12.0,8.0,1.0,0.0,0.0,9.0,21.0,second prize,2020
+194–208.,,Jose,Perez Cano,BarcelonaTech,Barcelona,Spain,10.0,8.0,0.0,0.0,18.0,3.0,0.0,0.0,0.0,3.0,21.0,second prize,2020
+194–208.,,Wojciech,Przybyszewski,University of Warsaw,Warsaw,Poland,7.0,1.0,0.0,0.0,8.0,10.0,3.0,0.0,0.0,13.0,21.0,second prize,2020
+209–230.,,Vasily,Alferov,HSE Campus in St. Petersburg,Saint-Petersburg,Russia,10.0,0.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,10.0,20.0,third prize,2020
+209–230.,,Sotirios,Armeniakos,National and Kapodestian University of Athens,Athens,Greece,0.0,10.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,10.0,20.0,third prize,2020
+209–230.,,Lucas,de Moura Herlin,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10.0,10.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,third prize,2020
+209–230.,,Martin,Drees,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10.0,10.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,third prize,2020
+209–230.,,Anouk,Eggink,University of Utrecht,Utrecht,Netherlands,10.0,2.0,0.0,0.0,12.0,5.0,2.0,1.0,0.0,8.0,20.0,third prize,2020
+209–230.,,Marcos,Escartin Ferrer,Universidad de Zaragoza,Zaragoza,Spain,10.0,10.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,third prize,2020
+209–230.,,Erion,Hamiti,"University of Prishtina ""Hasan Prishtina""",Prishtina,Kosovo,10.0,10.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,third prize,2020
+209–230.,,Lucas Hiroshi,Hanke Harada,Universidade de São Paulo,São Paulo,Brazil,10.0,0.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,10.0,20.0,third prize,2020
+209–230.,,Joan,Hernanz Ibanez,BarcelonaTech,Barcelona,Spain,10.0,10.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,third prize,2020
+209–230.,,Bakytzhan,Kurmanbek,Nazarbayev University,Astana,Kazakhstan,10.0,2.0,0.0,0.0,12.0,8.0,0.0,0.0,0.0,8.0,20.0,third prize,2020
+209–230.,,Thomas,Luo,University of Maryland,College Park,USA,10.0,3.0,0.0,7.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,third prize,2020
+209–230.,,Bruno,Luz,Fundação Getulio Vargas,Rio de Janeiro,Brazil,10.0,0.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,10.0,20.0,third prize,2020
+209–230.,,Lugo,Mihovilic,University of Zagreb,Zagreb,Croatia,10.0,2.0,0.0,0.0,12.0,8.0,0.0,0.0,0.0,8.0,20.0,third prize,2020
+209–230.,,Oliver,Nisumaa,University of Tartu,Tartu,Estonia,10.0,0.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,10.0,20.0,third prize,2020
+209–230.,,Nilufar,Rajabova,National University of Uzbekistan,Tashkent,Uzbekistan,0.0,10.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,10.0,20.0,third prize,2020
+209–230.,,Wesley,Rodrigues Machado,École Polytechnique,Paris,France,0.0,10.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,10.0,20.0,third prize,2020
+209–230.,,Mateo,Rodriguez Polo,Universidad Autonoma de Madrid,Madrid,Spain,10.0,0.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,10.0,20.0,third prize,2020
+209–230.,,Małgorzata Maria,Rojek,University of Warsaw,Warsaw,Poland,10.0,10.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,third prize,2020
+209–230.,,Karim,Shamazov,Higher School of Economics,Moscow,Russia,10.0,0.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,10.0,20.0,third prize,2020
+209–230.,,Tadej Petar,Tukara,University of Zagreb,Zagreb,Croatia,10.0,10.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,third prize,2020
+209–230.,,Doniyor,Yazdonov,National University of Uzbekistan,Tashkent,Uzbekistan,10.0,5.0,0.0,0.0,15.0,5.0,0.0,0.0,0.0,5.0,20.0,third prize,2020
+209–230.,,Kristóf,Zólomy,Loránd Eötvös University,Budapest,Hungary,10.0,0.0,0.0,0.0,10.0,10.0,0.0,0.0,0.0,10.0,20.0,third prize,2020
+231–242.,,Danila,Belousov,Novosibirsk State University,Novosibirsk,Russia,10.0,4.0,0.0,0.0,14.0,5.0,0.0,0.0,0.0,5.0,19.0,third prize,2020
+231–242.,,Juraj,Bodík,Charles University,Prague,Czech Republic,7.0,9.0,0.0,0.0,16.0,3.0,0.0,0.0,0.0,3.0,19.0,third prize,2020
+231–242.,,Alberto,Cerezo Cid,University of Seville,Sevilla,Spain,10.0,6.0,0.0,0.0,16.0,2.0,1.0,0.0,0.0,3.0,19.0,third prize,2020
+231–242.,,Gabriel Vinícius,de Souza Silva,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10.0,0.0,0.0,0.0,10.0,9.0,0.0,0.0,0.0,9.0,19.0,third prize,2020
+231–242.,,Joshue R,Galvan Chavez,Universidad Autónoma de Chihuahua,Chihuahua,Mexico,10.0,2.0,0.0,0.0,12.0,7.0,0.0,0.0,0.0,7.0,19.0,third prize,2020
+231–242.,,Sergio,Herrero Vila,Universidade de Santiago de Compostela,Santiago de Compostela,Spain,0.0,9.0,0.0,0.0,9.0,9.0,0.0,1.0,0.0,10.0,19.0,third prize,2020
+231–242.,,Alexander,Kharchenko,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,9.0,8.0,0.0,0.0,17.0,0.0,2.0,0.0,0.0,2.0,19.0,third prize,2020
+231–242.,,Nikita,Leo,University of Tartu,Tartu,Estonia,7.0,0.0,0.0,10.0,17.0,2.0,0.0,0.0,0.0,2.0,19.0,third prize,2020
+231–242.,,Vladislav,Mosin,HSE Campus in St. Petersburg,Saint-Petersburg,Russia,10.0,1.0,0.0,0.0,11.0,8.0,0.0,0.0,0.0,8.0,19.0,third prize,2020
+231–242.,,Svyatoslav,Novikov,Saint-Petersburg State University,Saint-Petersburg,Russia,8.0,1.0,0.0,0.0,9.0,10.0,0.0,0.0,0.0,10.0,19.0,third prize,2020
+231–242.,,Vladyslav,Shashkov,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,6.0,3.0,0.0,0.0,9.0,10.0,0.0,0.0,0.0,10.0,19.0,third prize,2020
+231–242.,,Jean Carlos,Villegas Morales,Universidad de Costa Rica,San Pedro Montes de Oca,Costa Rica,3.0,9.0,0.0,0.0,12.0,7.0,0.0,0.0,0.0,7.0,19.0,third prize,2020
+243–248.,,Mehdi,Khoshtinat,University of Tehran,Tehran,Iran,10.0,0.0,0.0,0.0,10.0,0.0,8.0,0.0,0.0,8.0,18.0,third prize,2020
+243–248.,,Antonio,Navas Orozco,University of Seville,Sevilla,Spain,3.0,10.0,0.0,0.0,13.0,5.0,0.0,0.0,0.0,5.0,18.0,third prize,2020
+243–248.,,Huangyuan,Su,Nanyang Technological University,Jurong West,Singapore,3.0,9.0,0.0,0.0,12.0,6.0,0.0,0.0,0.0,6.0,18.0,third prize,2020
+243–248.,,Panagiotis,Theodoropoulos,National and Kapodestian University of Athens,Athens,Greece,2.0,10.0,0.0,0.0,12.0,5.0,1.0,0.0,0.0,6.0,18.0,third prize,2020
+243–248.,,Jozef Johannus,Wittebol,University of Amsterdam,Amsterdam,Netherlands,10.0,4.0,0.0,0.0,14.0,4.0,0.0,0.0,0.0,4.0,18.0,third prize,2020
+243–248.,,Mathieu Wolfgang,Wydra,University College London,London,UK,3.0,10.0,0.0,0.0,13.0,0.0,0.0,1.0,4.0,5.0,18.0,third prize,2020
+249–259.,,Ivan,Alexeev,Saint-Petersburg State University,Saint-Petersburg,Russia,3.0,10.0,0.0,0.0,13.0,4.0,0.0,0.0,0.0,4.0,17.0,third prize,2020
+249–259.,,Oriol,Baeza Guasch,BarcelonaTech,Barcelona,Spain,10.0,1.0,0.0,0.0,11.0,4.0,2.0,0.0,0.0,6.0,17.0,third prize,2020
+249–259.,,Sahar,Bakhshande nezhad,Ferdowsi University of Mashhad,Mashhad,Iran,10.0,0.0,0.0,0.0,10.0,5.0,2.0,0.0,0.0,7.0,17.0,third prize,2020
+249–259.,,Chethana Chathuprabha,Belpa Godage,University of Colombo,Colombo,Sri Lanka,10.0,0.0,0.0,0.0,10.0,7.0,0.0,0.0,0.0,7.0,17.0,third prize,2020
+249–259.,,Gustavo Roque,Collado Romero,University of Seville,Sevilla,Spain,7.0,0.0,0.0,0.0,7.0,10.0,0.0,0.0,0.0,10.0,17.0,third prize,2020
+249–259.,,Jarah Che,Fluxman,University of the Witwatersrand,Johannesburg,South Africa,7.0,10.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,17.0,third prize,2020
+249–259.,,Yujeong,Han,University of Cambridge,Cambridge,UK,10.0,3.0,0.0,0.0,13.0,4.0,0.0,0.0,0.0,4.0,17.0,third prize,2020
+249–259.,,Egor,Kravchenko,Saint-Petersburg State University,Saint-Petersburg,Russia,9.0,3.0,0.0,0.0,12.0,5.0,0.0,0.0,0.0,5.0,17.0,third prize,2020
+249–259.,,Urmas,Luhaäär,University of Tartu,Tartu,Estonia,10.0,1.0,0.0,0.0,11.0,6.0,0.0,0.0,0.0,6.0,17.0,third prize,2020
+249–259.,,Davrbek,Oltiboev,National University of Uzbekistan,Tashkent,Uzbekistan,10.0,0.0,0.0,0.0,10.0,5.0,2.0,0.0,0.0,7.0,17.0,third prize,2020
+249–259.,,Márcio,Peixoto,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,Brazil,10.0,3.0,0.0,0.0,13.0,4.0,0.0,0.0,0.0,4.0,17.0,third prize,2020
+260–276.,,Alisher,Aikyn,Kazakhstan Branch of Lomonosov Moscow State University,Astana,Kazakhstan,0.0,10.0,0.0,0.0,10.0,6.0,0.0,0.0,0.0,6.0,16.0,third prize,2020
+260–276.,,Yevhenii,Azarov,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10.0,1.0,0.0,0.0,11.0,5.0,0.0,0.0,0.0,5.0,16.0,third prize,2020
+260–276.,,Felipe,Chen Wu,Universidade Federal do Rio de Janeiro,Rio de Janeiro,Brazil,10.0,1.0,0.0,0.0,11.0,4.0,1.0,0.0,0.0,5.0,16.0,third prize,2020
+260–276.,,Armando Benjamin,Cruz Hinojosa,Universidad Nacional Autónoma de México,Mexico City,Mexico,10.0,1.0,0.0,0.0,11.0,5.0,0.0,0.0,0.0,5.0,16.0,third prize,2020
+260–276.,,Guilherme Zeus,Dantas e Moura,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,Brazil,10.0,2.0,0.0,0.0,12.0,4.0,0.0,0.0,0.0,4.0,16.0,third prize,2020
+260–276.,,Lautaro,Decara,Universidad de Buenos Aires,Buenos Aires,Argentina,10.0,3.0,0.0,0.0,13.0,1.0,2.0,0.0,0.0,3.0,16.0,third prize,2020
+260–276.,,Filipp,Denissov,Kazakhstan Branch of Lomonosov Moscow State University,Astana,Kazakhstan,3.0,10.0,0.0,0.0,13.0,3.0,0.0,0.0,0.0,3.0,16.0,third prize,2020
+260–276.,,Amir Hosein,Eskandani,Ferdowsi University of Mashhad,Mashhad,Iran,3.0,0.0,0.0,0.0,3.0,3.0,10.0,0.0,0.0,13.0,16.0,third prize,2020
+260–276.,,Pavlo,Hlukhovskyi,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,6.0,0.0,0.0,0.0,6.0,10.0,0.0,0.0,0.0,10.0,16.0,third prize,2020
+260–276.,,Roman,Isaev,Lomonosov Moscow State University,Moscow,Russia,10.0,0.0,0.0,0.0,10.0,6.0,0.0,0.0,0.0,6.0,16.0,third prize,2020
+260–276.,,Xinwei,Jia,University of Warwick,Warwick,UK,8.0,0.0,0.0,0.0,8.0,8.0,0.0,0.0,0.0,8.0,16.0,third prize,2020
+260–276.,,Denis,Nabokov,Bauman Moscow State Technical University,Moscow,Russia,6.0,0.0,0.0,0.0,6.0,0.0,10.0,0.0,0.0,10.0,16.0,third prize,2020
+260–276.,,Davin,Park,University of Maryland,College Park,USA,10.0,2.0,0.0,0.0,12.0,2.0,2.0,0.0,0.0,4.0,16.0,third prize,2020
+260–276.,,Oriol Andreu,Sole Pi,Universidad Nacional Autónoma de México,Mexico City,Mexico,10.0,3.0,1.0,0.0,14.0,1.0,1.0,0.0,0.0,2.0,16.0,third prize,2020
+260–276.,,Ioan-Adrian,Tofan,Babeș-Bolyai University,Cluj-Napoca,Romania,0.0,8.0,0.0,0.0,8.0,8.0,0.0,0.0,0.0,8.0,16.0,third prize,2020
+260–276.,,Wenminqi,Zhang,University of Chicago,Chicago,USA,3.0,7.0,0.0,0.0,10.0,0.0,0.0,0.0,6.0,6.0,16.0,third prize,2020
+260–276.,,Yingbo,Zhou,University of Warwick,Warwick,UK,10.0,4.0,0.0,0.0,14.0,0.0,2.0,0.0,0.0,2.0,16.0,third prize,2020
+277–292.,,Pedro Henrique,Alencar Costa,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10.0,1.0,0.0,0.0,11.0,4.0,0.0,0.0,0.0,4.0,15.0,third prize,2020
+277–292.,,Rodrigo,Fontenele Brilhante,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10.0,0.0,0.0,0.0,10.0,4.0,1.0,0.0,0.0,5.0,15.0,third prize,2020
+277–292.,,Luan Arjuna,Fraga Ramires,Universidade de São Paulo,São Paulo,Brazil,10.0,0.0,0.0,0.0,10.0,5.0,0.0,0.0,0.0,5.0,15.0,third prize,2020
+277–292.,,Caio,Graça Gomes,Instituto Tecnológico de Aeronáutica,Rio de Janeiro,Brazil,10.0,1.0,0.0,0.0,11.0,4.0,0.0,0.0,0.0,4.0,15.0,third prize,2020
+277–292.,,Shota,Kobakhidze,Free University,Tbilisi,Georgia,10.0,1.0,0.0,0.0,11.0,4.0,0.0,0.0,0.0,4.0,15.0,third prize,2020
+277–292.,,Sergiu-Florentin,Megieșan,Babeș-Bolyai University,Cluj-Napoca,Romania,3.0,10.0,0.0,0.0,13.0,2.0,0.0,0.0,0.0,2.0,15.0,third prize,2020
+277–292.,,Yehor,Panchenko,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,10.0,0.0,0.0,0.0,10.0,5.0,0.0,0.0,0.0,5.0,15.0,third prize,2020
+277–292.,,Christos,Pandis,National and Kapodestian University of Athens,Athens,Greece,0.0,10.0,0.0,0.0,10.0,5.0,0.0,0.0,0.0,5.0,15.0,third prize,2020
+277–292.,,Rodrigo,Ribeiro da Silva,Fundação Getulio Vargas,Rio de Janeiro,Brazil,10.0,0.0,0.0,0.0,10.0,3.0,2.0,0.0,0.0,5.0,15.0,third prize,2020
+277–292.,,Alba Vika,Sánchez,University of Barcelona,Barcelona,Spain,10.0,1.0,0.0,0.0,11.0,3.0,0.0,1.0,0.0,4.0,15.0,third prize,2020
+277–292.,,João Pedro,Sedeu Godoi,Universidade de São Paulo,São Paulo,Brazil,10.0,4.0,0.0,0.0,14.0,1.0,0.0,0.0,0.0,1.0,15.0,third prize,2020
+277–292.,,Talant,Talipov,Kazakhstan Branch of Lomonosov Moscow State University,Astana,Kazakhstan,2.0,3.0,0.0,0.0,5.0,10.0,0.0,0.0,0.0,10.0,15.0,third prize,2020
+277–292.,,Orestis,Tsatalmpasidis,Rice University,Houston,USA,4.0,7.0,0.0,0.0,11.0,4.0,0.0,0.0,0.0,4.0,15.0,third prize,2020
+277–292.,,Georgios Stylianos,Tseligkas,National Technical University of Athens,Athens,Greece,10.0,1.0,0.0,0.0,11.0,4.0,0.0,0.0,0.0,4.0,15.0,third prize,2020
+277–292.,,Alexey,Zelenetskiy,Bauman Moscow State Technical University,Moscow,Russia,3.0,2.0,0.0,0.0,5.0,0.0,10.0,0.0,0.0,10.0,15.0,third prize,2020
+277–292.,,Hao,Zhang,University of Sheffield,Sheffield,UK,3.0,10.0,0.0,0.0,13.0,2.0,0.0,0.0,0.0,2.0,15.0,third prize,2020
+293–312.,,Angel Alejandro,Aleman Alegre,Universidad Autónoma de Nuevo León,Nuevo León,México,10.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,Arber,Avdullahu,University of Primorska,Primorska,Slovenia,10.0,1.0,0.0,0.0,11.0,3.0,0.0,0.0,0.0,3.0,14.0,honourable mention,2020
+293–312.,,Felipe,Buzato França Costa,École Polytechnique,Paris,France,10.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,Renjie,Cui,University College London,London,UK,10.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,Ismael,El Yassini,University of Sherbrooke,Sherbrooke,Canada,10.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,Pietro,Geronimi,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,Roberto,Gesteira Miñarro,Pontificia Comillas,Madrid,Spain,0.0,10.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,Javier,Guillán Rial,Universidade de Santiago de Compostela,Santiago de Compostela,Spain,0.0,10.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,Jacek,Jakimiuk,University of Warsaw,Warsaw,Poland,10.0,1.0,0.0,0.0,11.0,2.0,1.0,0.0,0.0,3.0,14.0,honourable mention,2020
+293–312.,,luka,khizanishvili,Free University,Tbilisi,Georgia,2.0,10.0,0.0,0.0,12.0,0.0,2.0,0.0,0.0,2.0,14.0,honourable mention,2020
+293–312.,,Radek Emanuel,Kusek,Jagiellonian University,Krakow,Poland,10.0,2.0,0.0,0.0,12.0,2.0,0.0,0.0,0.0,2.0,14.0,honourable mention,2020
+293–312.,,Gabriel,Laurentino Silva Henriques,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10.0,2.0,0.0,0.0,12.0,1.0,0.0,1.0,0.0,2.0,14.0,honourable mention,2020
+293–312.,,Vasileios,Makridis,Aristotle University of Thessaloniki,Thessaloniki,Greece,10.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,Arthur,Melo,Universidade Federal do Rio Grande do Norte,Natal,Brazil,9.0,1.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,José,Menéndez,Universidad de San Carlos de Guatemala,Guatemala City,Guatemala,4.0,10.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,14.0,honourable mention,2020
+293–312.,,Michal,Mráz,University of Warwick,Warwick,UK,10.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,Ruwimal Yasantha,Pathiraja,University of Colombo,Colombo,Sri Lanka,10.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,Yaroslav,Romanus,Ukrainian Catholic University,Lviv,Ukraine,10.0,0.0,0.0,0.0,10.0,4.0,0.0,0.0,0.0,4.0,14.0,honourable mention,2020
+293–312.,,Irakli,Shalibashvili,Free University,Tbilisi,Georgia,10.0,1.0,0.0,0.0,11.0,3.0,0.0,0.0,0.0,3.0,14.0,honourable mention,2020
+293–312.,,Jahongir,Tursunboyev,National University of Uzbekistan,Tashkent,Uzbekistan,0.0,9.0,0.0,0.0,9.0,5.0,0.0,0.0,0.0,5.0,14.0,honourable mention,2020
+313–324.,,Abdumalik,Abdukayumov,Tashkent State University of Economics,Tashkent,Uzbekistan,10.0,1.0,0.0,0.0,11.0,2.0,0.0,0.0,0.0,2.0,13.0,honourable mention,2020
+313–324.,,Jaime,Benabent Guerrero,University of Seville,Sevilla,Spain,10.0,1.0,0.0,0.0,11.0,0.0,2.0,0.0,0.0,2.0,13.0,honourable mention,2020
+313–324.,,Victor Antonio,Domínguez Silva,Universidad Autónoma de Nuevo León,Nuevo León,México,10.0,0.0,0.0,0.0,10.0,0.0,3.0,0.0,0.0,3.0,13.0,honourable mention,2020
+313–324.,,Maksim,Geniman,Novosibirsk State University,Novosibirsk,Russia,0.0,4.0,0.0,0.0,4.0,9.0,0.0,0.0,0.0,9.0,13.0,honourable mention,2020
+313–324.,,Zurab,Jashi,New York University Abu Dhabi,Abu Dhabi,United Arab Emirates,2.0,1.0,0.0,0.0,3.0,10.0,0.0,0.0,0.0,10.0,13.0,honourable mention,2020
+313–324.,,Linde,Lambrecht,Ghent University,Ghent,Belgium,7.0,0.0,0.0,0.0,7.0,2.0,0.0,4.0,0.0,6.0,13.0,honourable mention,2020
+313–324.,,Nicolás,López Funes,University of Granada,Granada,Spain,10.0,1.0,0.0,0.0,11.0,2.0,0.0,0.0,0.0,2.0,13.0,honourable mention,2020
+313–324.,,Luka,Milačić,University of Zagreb,Zagreb,Croatia,3.0,0.0,0.0,0.0,3.0,10.0,0.0,0.0,0.0,10.0,13.0,honourable mention,2020
+313–324.,,Marvin,Randig,Universität Leipzig,Leipzig,Germany,10.0,0.0,0.0,0.0,10.0,1.0,2.0,0.0,0.0,3.0,13.0,honourable mention,2020
+313–324.,,Pedro,Soares da Costa Mota e Souza,Instituto Tecnológico de Aeronáutica,Rio de Janeiro,Brazil,10.0,1.0,0.0,0.0,11.0,2.0,0.0,0.0,0.0,2.0,13.0,honourable mention,2020
+313–324.,,Dimitrios,Tsintsilidas,Aristotle University of Thessaloniki,Thessaloniki,Greece,10.0,1.0,0.0,0.0,11.0,2.0,0.0,0.0,0.0,2.0,13.0,honourable mention,2020
+313–324.,,Richard,Wols,University of Utrecht,Utrecht,Netherlands,10.0,2.0,0.0,0.0,12.0,1.0,0.0,0.0,0.0,1.0,13.0,honourable mention,2020
+325–337.,,Monika,Bunjaku,"University of Prishtina ""Hasan Prishtina""",Prishtina,Kosovo,6.0,3.0,0.0,0.0,9.0,3.0,0.0,0.0,0.0,3.0,12.0,honourable mention,2020
+325–337.,,Eduardo Alejandro,Castillo Aguilar,Universidad Autónoma de Nuevo León,Nuevo León,México,0.0,10.0,0.0,0.0,10.0,2.0,0.0,0.0,0.0,2.0,12.0,honourable mention,2020
+325–337.,,Alex,Colling,Universiteit Leiden,Leiden,Netherlands,10.0,0.0,0.0,0.0,10.0,2.0,0.0,0.0,0.0,2.0,12.0,honourable mention,2020
+325–337.,,Maarten,De Coen,Ghent University,Ghent,Belgium,2.0,10.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,12.0,honourable mention,2020
+325–337.,,Iurii,Efremenko,Novosibirsk State University,Novosibirsk,Russia,0.0,10.0,0.0,0.0,10.0,2.0,0.0,0.0,0.0,2.0,12.0,honourable mention,2020
+325–337.,,Justus,Greve-Kramer,Georg-August-Universität Göttingen,Göttingen,Germany,10.0,1.0,0.0,0.0,11.0,1.0,0.0,0.0,0.0,1.0,12.0,honourable mention,2020
+325–337.,,Muyan,Jiang,New York University Abu Dhabi,Abu Dhabi,United Arab Emirates,0.0,10.0,0.0,0.0,10.0,2.0,0.0,0.0,0.0,2.0,12.0,honourable mention,2020
+325–337.,,Dong Lin,Loo,Nanyang Technological University,Jurong West,Singapore,10.0,0.0,0.0,0.0,10.0,2.0,0.0,0.0,0.0,2.0,12.0,honourable mention,2020
+325–337.,,José Luis,Narbona Valiente,Imperial College London,London,UK,10.0,1.0,0.0,0.0,11.0,1.0,0.0,0.0,0.0,1.0,12.0,honourable mention,2020
+325–337.,,Matias,Riveros,ULPGc,Las palmas,Spain,10.0,0.0,0.0,0.0,10.0,2.0,0.0,0.0,0.0,2.0,12.0,honourable mention,2020
+325–337.,,Kevin Alexander,Rojas Cisneros,Universidad de Costa Rica,San Pedro Montes de Oca,Costa Rica,10.0,2.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,12.0,honourable mention,2020
+325–337.,,Ioannis,Tzachristas,National Technical University of Athens,Athens,Greece,8.0,4.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,12.0,honourable mention,2020
+325–337.,,Kirill,Ufimtsev,Novosibirsk State University,Novosibirsk,Russia,1.0,10.0,0.0,0.0,11.0,1.0,0.0,0.0,0.0,1.0,12.0,honourable mention,2020
+338–355.,,Roman,Agureev,Moscow Institute of Physics and Technology,Moscow,Russia,10.0,1.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,honourable mention,2020
+338–355.,,Nartay,Aikyn,Nazarbayev University,Astana,Kazakhstan,9.0,2.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,honourable mention,2020
+338–355.,,Erfan,Aliannezhadi,Ferdowsi University of Mashhad,Mashhad,Iran,3.0,8.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,honourable mention,2020
+338–355.,,Marcin,Baranek,AGH University of Science and Technology,Krakow,Poland,10.0,1.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,honourable mention,2020
+338–355.,,Yauheni,Bayak,Belarusian State University of Informatics and Radioelectronics,Minsk,Belarus,10.0,0.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,1.0,11.0,honourable mention,2020
+338–355.,,Ana Karoline,Borges Carneiro,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10.0,0.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,1.0,11.0,honourable mention,2020
+338–355.,,Cicero,Calheiros,Universidade Federal de Alagoas,Maceió,Brazil,0.0,10.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,1.0,11.0,honourable mention,2020
+338–355.,,Lluis,Carmona,University of Barcelona,Barcelona,Spain,0.0,0.0,0.0,0.0,0.0,1.0,10.0,0.0,0.0,11.0,11.0,honourable mention,2020
+338–355.,,Ehsan,Kafshdar Goharshady,Ferdowsi University of Mashhad,Mashhad,Iran,10.0,1.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,honourable mention,2020
+338–355.,,Mateusz,Kamyczura,AGH University of Science and Technology,Krakow,Poland,0.0,7.0,0.0,0.0,7.0,4.0,0.0,0.0,0.0,4.0,11.0,honourable mention,2020
+338–355.,,Kevyn,Lacerda,Universidade Estadual de Campinas,São Paulo,Brazil,10.0,0.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,1.0,11.0,honourable mention,2020
+338–355.,,Alexander,Latyshev,Higher School of Economics,Moscow,Russia,10.0,1.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,honourable mention,2020
+338–355.,,Luis Eduardo,Mack Alvizures,Universidad de San Carlos de Guatemala,Guatemala,Guatemala,7.0,4.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,honourable mention,2020
+338–355.,,Mateo,Matijasevick,Olimpiadas Colombianas de Matematicas,Bogota,Colombia,8.0,0.0,0.0,0.0,8.0,2.0,1.0,0.0,0.0,3.0,11.0,honourable mention,2020
+338–355.,,Julia,Perdigão Saltiel,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10.0,1.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,honourable mention,2020
+338–355.,,Matheus Fernandes Vivas,Silva,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10.0,1.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,honourable mention,2020
+338–355.,,Nian,Vorster,University of Pretoria,Pretoria,South Africa,10.0,0.0,0.0,0.0,10.0,0.0,0.0,1.0,0.0,1.0,11.0,honourable mention,2020
+338–355.,,Tony,Wang,Imperial College London,London,UK,10.0,1.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,honourable mention,2020
+356–377.,,Fatemeh,Alimirzaei,Ferdowsi University of Mashhad,Mashhad,Iran,0.0,10.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Muhammad Thoriq,Aripin,Universitas Pendidikan Indonesia,Bandung,Indonesia,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Michael Coenraad,Beukman,University of the Witwatersrand,Johannesburg,South Africa,0.0,10.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Rofiud,Darojad,Universitas Negeri Malang,Malang,Indonesia,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Florian,Esser,Georg-August-Universität Göttingen,Göttingen,Germany,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Franciszek,Gala,AGH University of Science and Technology,Krakow,Poland,2.0,0.0,0.0,0.0,2.0,8.0,0.0,0.0,0.0,8.0,10.0,honourable mention,2020
+356–377.,,Johan Fernando,Guillén Meza,Instituto Tecnológico de Costa Rica,Cartago,Costa Rica,3.0,4.0,0.0,0.0,7.0,3.0,0.0,0.0,0.0,3.0,10.0,honourable mention,2020
+356–377.,,Saman,Hallajian,Amirkabir University of Technology,Tehran,Iran,3.0,1.0,0.0,0.0,4.0,6.0,0.0,0.0,0.0,6.0,10.0,honourable mention,2020
+356–377.,,Seyed Amir,Hosseini,Amirkabir University of Technology,Tehran,Iran,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Nicolas,Ihlo,Georg-August-Universität Göttingen,Göttingen,Germany,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Olimjon,Jalilov,Gulistan State University,Gulistan,Uzbekistan,0.0,2.0,0.0,0.0,2.0,8.0,0.0,0.0,0.0,8.0,10.0,honourable mention,2020
+356–377.,,Lenka,Kopfová,Charles University,Prague,Czech Republic,9.0,1.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Lucas,Lawrence,Nanyang Technological University,Jurong West,Singapore,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Karyna,Nechyporuk,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Dang Khai Hoan,Nguyen,Universiteit Leiden,Leiden,Netherlands,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,William,Rodrigues Machado,École Polytechnique,Paris,France,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Dovlet,Rozyyev,International University for the Humanities and Development,Ashgabat,Turkmenistan,0.0,10.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Victoria,Uvaricheva,Bauman Moscow State Technical University,Moscow,Russia,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Trang Thi Thu,Vu,Montgomery College,Rockville,USA,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,David Lloyd,Wright,University of the Witwatersrand,Johannesburg,South Africa,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+356–377.,,Haotian,Xiao,University of Birmingham,Birmingham,UK,8.0,1.0,0.0,0.0,9.0,1.0,0.0,0.0,0.0,1.0,10.0,honourable mention,2020
+356–377.,,Artur,Yakauleu,Belarusian State University of Informatics and Radioelectronics,Minsk,Belarus,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,honourable mention,2020
+378–380.,,Floris,Cnossen,University of Amsterdam,Amsterdam,Netherlands,3.0,1.0,0.0,0.0,4.0,5.0,0.0,0.0,0.0,5.0,9.0,honourable mention,2020
+378–380.,,Duart,Nishefci,"University of Prishtina ""Hasan Prishtina""",Prishtina,Kosovo,0.0,1.0,0.0,0.0,1.0,8.0,0.0,0.0,0.0,8.0,9.0,honourable mention,2020
+378–380.,,Besfort,Shala,University of Primorska,Primorska,Slovenia,3.0,2.0,0.0,0.0,5.0,4.0,0.0,0.0,0.0,4.0,9.0,honourable mention,2020
+381–389.,,Qiming,Cui,University of Liverpool,Liverpool,UK,3.0,1.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,4.0,8.0,honourable mention,2020
+381–389.,,Carlos Javier,Guerra Peralta,Universidad de San Carlos de Guatemala,Guatemala,Guatemala,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,8.0,8.0,honourable mention,2020
+381–389.,,Omar,Kallas,New York University Abu Dhabi,Abu Dhabi,United Arab Emirates,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,honourable mention,2020
+381–389.,,Maxim,Korotkov,Financial University under the Government of the Russian Federation,Moscow,Russia,3.0,0.0,0.0,0.0,3.0,5.0,0.0,0.0,0.0,5.0,8.0,honourable mention,2020
+381–389.,,Nabil,Mahatir,Universitas Pendidikan Indonesia,Bandung,Indonesia,3.0,3.0,0.0,0.0,6.0,2.0,0.0,0.0,0.0,2.0,8.0,honourable mention,2020
+381–389.,,Vyacheslav,Paskanov,Financial University under the Government of the Russian Federation,Moscow,Russia,3.0,0.0,0.0,0.0,3.0,5.0,0.0,0.0,0.0,5.0,8.0,honourable mention,2020
+381–389.,,Nikolai,Sibiriakov,Novosibirsk State University,Novosibirsk,Russia,3.0,2.0,0.0,0.0,5.0,3.0,0.0,0.0,0.0,3.0,8.0,honourable mention,2020
+381–389.,,Daniel Basilis,Tsepele,Aristotle University of Thessaloniki,Thessaloniki,Greece,3.0,5.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,honourable mention,2020
+381–389.,,Khurshid,Turgunboev,National University of Uzbekistan,Tashkent,Uzbekistan,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,8.0,8.0,honourable mention,2020
+390–404.,,Abel,Atarés de Sus,Universidad de Zaragoza,Zaragoza,Spain,2.0,1.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,4.0,7.0,honourable mention,2020
+390–404.,,Gabriel,Collado Valverde,Universidad de Costa Rica,San Pedro Montes de Oca,Costa Rica,3.0,2.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,2.0,7.0,honourable mention,2020
+390–404.,,Lucas,Dantas de Oliveira,Universidade Estadual de Campinas,São Paulo,Brazil,3.0,2.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,2.0,7.0,honourable mention,2020
+390–404.,,Byron Abel Raul,Hernández Pacay,Universidad de San Carlos de Guatemala,Guatemala City,Guatemala,0.0,2.0,0.0,0.0,2.0,5.0,0.0,0.0,0.0,5.0,7.0,honourable mention,2020
+390–404.,,Bethany Elise,Holmes,University of Sheffield,Sheffield,UK,5.0,0.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,2.0,7.0,honourable mention,2020
+390–404.,,Jaagup,Kirme,University of Tartu,Tartu,Estonia,3.0,0.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,4.0,7.0,honourable mention,2020
+390–404.,,Luka,Macharashvili,Free University,Tbilisi,Georgia,0.0,3.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,4.0,7.0,honourable mention,2020
+390–404.,,Jônatas,Marinho Santos Júnior,Universidade Federal de Alagoas,Maceió,Brazil,3.0,2.0,0.0,0.0,5.0,1.0,1.0,0.0,0.0,2.0,7.0,honourable mention,2020
+390–404.,,Namitha Mary,Philip,University of Sheffield,Sheffield,UK,7.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,honourable mention,2020
+390–404.,,Miguel,Picos Maiztegui,Universidade de Santiago de Compostela,Santiago de Compostela,Spain,7.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,honourable mention,2020
+390–404.,,Valeriy,Ponamaryov,Kazakhstan Branch of Lomonosov Moscow State University,Astana,Kazakhstan,3.0,2.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,2.0,7.0,honourable mention,2020
+390–404.,,Martin,Puškin,University of Tartu,Tartu,Estonia,7.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,honourable mention,2020
+390–404.,,Diana,Sokhashvili,Free University,Tbilisi,Georgia,3.0,0.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,4.0,7.0,honourable mention,2020
+390–404.,,Karolina,Tammemaa,University of Tartu,Tartu,Estonia,3.0,0.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,4.0,7.0,honourable mention,2020
+390–404.,,Elika,Teimoori Barakoohi,Ferdowsi University of Mashhad,Mashhad,Iran,7.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,honourable mention,2020
+405–410.,,Chamanthe Isuru Abeyratne,Attanayake Mudiyanselage,University of Colombo,Colombo,Sri Lanka,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,6.0,6.0,honourable mention,2020
+405–410.,,Victor Hugo,de Souza Daniel,Universidade de São Paulo,São Paulo,Brazil,5.0,1.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,honourable mention,2020
+405–410.,,Muchamad Syaiful,Faristyan,Universitas Negeri Malang,Malang,Indonesia,0.0,4.0,0.0,0.0,4.0,2.0,0.0,0.0,0.0,2.0,6.0,honourable mention,2020
+405–410.,,Chathumini Navodya,Kondasinghe,University of Colombo,Colombo,Sri Lanka,3.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,3.0,6.0,honourable mention,2020
+405–410.,,Buddika,Rasanjana,University of Colombo,Colombo,Sri Lanka,3.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,3.0,6.0,honourable mention,2020
+405–410.,,Kadirbek,Sharau,Nazarbayev University,Astana,Kazakhstan,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,honourable mention,2020
+411–420.,,Lucas Henrique,Azevedo dos Santos,Universidade Federal de Pernambuco,Recife,Brazil,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,5.0,5.0,honourable mention,2020
+411–420.,,Jiaming,Chen,New York University,New York,USA,0.0,1.0,0.0,0.0,1.0,3.0,0.0,1.0,0.0,4.0,5.0,honourable mention,2020
+411–420.,,Alejandro,Fernández Jiménez,Universidad Autonoma de Madrid,Madrid,Spain,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,5.0,5.0,honourable mention,2020
+411–420.,,Florian,Fürnsinn,Universität Wien,Vienna,Austria,3.0,0.0,0.0,0.0,3.0,0.0,2.0,0.0,0.0,2.0,5.0,honourable mention,2020
+411–420.,,César,Herrera Garro,Universidad de Costa Rica,San Pedro Montes de Oca,Costa Rica,3.0,2.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,honourable mention,2020
+411–420.,,Jaan Kristjan,Kaasik,University of Tartu,Tartu,Estonia,4.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,1.0,5.0,honourable mention,2020
+411–420.,,Nikolaos,Liouliakis,Aristotle University of Thessaloniki,Thessaloniki,Greece,3.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,2.0,5.0,honourable mention,2020
+411–420.,,Javier,Rández Ibáñez,Universidad de La Rioja,Logroño,Spain,3.0,1.0,0.0,0.0,4.0,0.0,0.0,1.0,0.0,1.0,5.0,honourable mention,2020
+411–420.,,Daniel Estuardo,Tobar López,Universidad de San Carlos de Guatemala,Guatemala City,Guatemala,3.0,2.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,honourable mention,2020
+411–420.,,Katja,Varjačić,University of Zagreb,Zagreb,Croatia,3.0,2.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,honourable mention,2020
+421–435.,,Thieshanthan,Arulmolivarman,University of Moratuwa,Moratuwa,Sri Lanka,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,4.0,certificate,2020
+421–435.,,Breno,Azevedo Marot,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,Brazil,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,certificate,2020
+421–435.,,Serhii,Cholovskyi,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,4.0,certificate,2020
+421–435.,,Timo Gerald,Hofmann,Universität Leipzig,Leipzig,Germany,3.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,certificate,2020
+421–435.,,Callan,Kotzen,University of the Witwatersrand,Johannesburg,South Africa,3.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,1.0,4.0,certificate,2020
+421–435.,,Shengzhi,Luo,University of Sheffield,Sheffield,UK,3.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,certificate,2020
+421–435.,,Ioannis,Nakos,Aristotle University of Thessaloniki,Thessaloniki,Greece,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,4.0,certificate,2020
+421–435.,,Felipe,Oliveira,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,Brazil,0.0,3.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,1.0,4.0,certificate,2020
+421–435.,,Astrit,Osmani,"University of Prishtina ""Hasan Prishtina""",Prishtina,Kosovo,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,4.0,certificate,2020
+421–435.,,Ziyi,Ou,University of Sheffield,Sheffield,UK,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,4.0,certificate,2020
+421–435.,,Gift,Rakobela,University of the Witwatersrand,Johannesburg,South Africa,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,4.0,certificate,2020
+421–435.,,Ajla,Šehović,University of Primorska,Primorska,Slovenia,3.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,certificate,2020
+421–435.,,Alexandros,Themelis,National and Kapodestian University of Athens,Athens,Greece,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,4.0,certificate,2020
+421–435.,,Bi Hong,Tiang,Nanyang Technological University,Jurong West,Singapore,3.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,certificate,2020
+421–435.,,Liyanage Tharindu Nirmal,Wickremasinghe,University of Moratuwa,Moratuwa,Sri Lanka,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,4.0,certificate,2020
+436–453.,,Muhammad,Arinal Haq,Universitas Gadjah Mada,Yogyakarta,Indonesia,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2020
+436–453.,,Tomas,Bosschieter,University of Amsterdam,Amsterdam,Netherlands,0.0,2.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,3.0,certificate,2020
+436–453.,,Matheus,Carneiro Leão Nasi,Universidade Federal de Pernambuco,Recife,Brazil,1.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,3.0,certificate,2020
+436–453.,,Mariajosé,Chinchilla Morán,Universidad de San Carlos de Guatemala,Guatemala City,Guatemala,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2020
+436–453.,,Leonardo,de Araujo Duarte,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,certificate,2020
+436–453.,,Noah,Fischer,Ulm University,Ulm,Germany,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,3.0,certificate,2020
+436–453.,,Sanaa,Ghandi,IMT Atlantique,Brest,France,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2020
+436–453.,,Dimitrios,Konstantinidis,Aristotle University of Thessaloniki,Thessaloniki,Greece,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2020
+436–453.,,Mikhail,Kudinov,Bauman Moscow State Technical University,Moscow,Russia,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2020
+436–453.,,Bautista,Pértica Cabrera,Universidad Nacional Autónoma de México,Mexico City,Mexico,2.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,3.0,certificate,2020
+436–453.,,Nickolay,Prudkovskiy,Bauman Moscow State Technical University,Moscow,Russia,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2020
+436–453.,,Rubí Esmeralda,Ramírez Milián,Universidad de San Carlos de Guatemala,Guatemala City,Guatemala,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,3.0,certificate,2020
+436–453.,,mohammadreza,rezaie feyzabadie,University of Tehran,Tehran,Iran,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,3.0,certificate,2020
+436–453.,,Vladyslava,Shmonko,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2020
+436–453.,,Hazael,Soledade de Araujo Jumonji,Universidade de São Paulo,São Paulo,Brazil,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,3.0,certificate,2020
+436–453.,,Luis,Varona Ramírez,Universidad de La Rioja,Logroño,Spain,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2020
+436–453.,,Wiktor,Włodarski,AGH University of Science and Technology,Krakow,Poland,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2020
+436–453.,,Yunwei,Zhang,University College London,London,UK,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2020
+454–474.,,Dinmukhammed,Akpan,Kazakhstan Branch of Lomonosov Moscow State University,Astana,Kazakhstan,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,certificate,2020
+454–474.,,Jamba,Batgerel,New Mongol Institute of Technology,Ulaanbaatar,Mongolia,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,certificate,2020
+454–474.,,Mingqin,Chen,University College London,London,UK,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,certificate,2020
+454–474.,,Joy,Cheng,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,2.0,certificate,2020
+454–474.,,Kefentse Freddy,Dipudi,University of Pretoria,Pretoria,South Africa,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,certificate,2020
+454–474.,,ziad,fakhoury,University of Warwick,Warwick,UK,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,certificate,2020
+454–474.,,murman,gurgenidze,Free University,Tbilisi,Georgia,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,certificate,2020
+454–474.,,Abdulmalik,Hamroev,Bukhara State University,Bukhara,Uzbekistan,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,certificate,2020
+454–474.,,Philip,Kmentt,University of Sheffield,Sheffield,UK,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,certificate,2020
+454–474.,,Anjana Vimukthi,Kodikara,University of Colombo,Colombo,Sri Lanka,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,certificate,2020
+454–474.,,Lael,Lima,Universidade Estadual de Campinas,São Paulo,Brazil,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,certificate,2020
+454–474.,,Sina,Mirzaei,University of Tehran,Tehran,Iran,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,certificate,2020
+454–474.,,Lluis,Pastor,University of Barcelona,Barcelona,Spain,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,certificate,2020
+454–474.,,Jason,Pillay,University of Pretoria,Pretoria,South Africa,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,certificate,2020
+454–474.,,Vinícius,Pinheiro Bento,Universidade Federal de Minas Gerais,Minas Gerais,Brazil,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,2.0,certificate,2020
+454–474.,,Diana,Prudkovskaia,Bauman Moscow State Technical University,Moscow,Russia,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,certificate,2020
+454–474.,,Lasitha,Senarathne,University of Colombo,Colombo,Sri Lanka,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,certificate,2020
+454–474.,,Shunan,Sheng,Nanyang Technological University,Jurong West,Singapore,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,certificate,2020
+454–474.,,Alan,Vagner,Kazakhstan Branch of Lomonosov Moscow State University,Astana,Kazakhstan,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,certificate,2020
+454–474.,,Javier,Villar Ortega,Universidad de La Rioja,Logroño,Spain,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,certificate,2020
+454–474.,,Linqianyu,Zhang,New York University,New York,USA,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,certificate,2020
+475–488.,,Jeremiah,Adedoyin,University of Lagos,Lagos,Nigeria,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,certificate,2020
+475–488.,,Ilirjan,Aliu,"University of Prishtina ""Hasan Prishtina""",Prishtina,Kosovo,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,certificate,2020
+475–488.,,Joan,Arnalot,University of Barcelona,Barcelona,Spain,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,certificate,2020
+475–488.,,Liwen,Fan,Imperial College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,certificate,2020
+475–488.,,Pablo,García Fernández,Universidad Autonoma de Madrid,Madrid,Spain,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,certificate,2020
+475–488.,,Emad,Izadifar,Ferdowsi University of Mashhad,Mashhad,Iran,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,certificate,2020
+475–488.,,Asrorbek,Jabborov,Karshi State University,Karshi,Uzbekistan,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,certificate,2020
+475–488.,,Hiruja Hirusara,Mahagedara,University of Colombo,Colombo,Sri Lanka,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,certificate,2020
+475–488.,,Justyna,Porzycka,AGH University of Science and Technology,Krakow,Poland,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,certificate,2020
+475–488.,,Arman,Sanaei nik,K. N. Toosi University of Technology,Tehran,Iran,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,certificate,2020
+475–488.,,Álvaro,Sánchez Hernández,Universidad Complutense de Madrid,Madrid,Spain,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,certificate,2020
+475–488.,,Maksym,Shumakov,Ukrainian Catholic University,Lviv,Ukraine,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,certificate,2020
+475–488.,,Noah,van der Meer,Eindhoven University of Technology,Eindhoven,Netherlands,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,certificate,2020
+475–488.,,Shizhe,Xu,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,certificate,2020
+489–546.,,Hashim,Abdull-Radha,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Mohamed,Afham,University of Moratuwa,Moratuwa,Sri Lanka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Farhan,Aghnoum,Ferdowsi University of Mashhad,Mashhad,Iran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Muhammad Nur,Alamsyah,Universitas Negeri Malang,Malang,Indonesia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Mohamad,Amiri,K. N. Toosi University of Technology,Tehran,Iran,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Kehinde. Hussein,Babalola,University of Lagos,Lagos,Nigeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Aygul,Begenjova,International University for the Humanities and Development,Ashgabat,Turkmenistan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Josh,Borrett,Université Paris-Dauphine,Paris,France,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Enos,Carvalho Mota,Universidade Estadual de Campinas,São Paulo,Brazil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Elizabeth Bo-Yan,Chung,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Manuel,Cuetos Piñon,Universidad de Oviedo,Oviedo,Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Francisco,de Mello Calderaro,Universidade Estadual de Campinas,São Paulo,Brazil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Murat,Delibas,University of Sheffield,Sheffield,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Pubudika Gimhani,Gunasekara,University of Colombo,Colombo,Sri Lanka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Artyom,Guryanov,Kazakhstan Branch of Lomonosov Moscow State University,Astana,Kazakhstan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Kuwwatmammet,Hajiyev,International University for the Humanities and Development,Ashgabat,Turkmenistan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Yuxin,Hu,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Yiming,Huang,King's College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Yousra,Idichchou,University of Greenwich,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Osanda Abhiru,Illeperuma,University of Colombo,Colombo,Sri Lanka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Michelle,Jacobs,University of Pretoria,Pretoria,South Africa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Xinyu,Jiang,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Md Raihan,Khan,Khulna University of Engineering & Technology,Khulna,Bangladesh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Maxat,Kozhakhmetov,University of Wollongong in Dubai,Dubai,United Arab Emirates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Dinglin,Liu,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Zayd,Maradni,New York University Abu Dhabi,Abu Dhabi,United Arab Emirates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Eva,Martane,Durham University,Durham,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,José Ernesto,Mayorga Méndez,Universidad de San Carlos de Guatemala,Guatemala City,Guatemala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Milan,Milivojčević,University of Primorska,Primorska,Slovenia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Lunezo,Molosi,University of the Witwatersrand,Johannesburg,South Africa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Ángel,Morcillo Gómez,Universidade de Santiago de Compostela,Santiago de Compostela,Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Dia Ayu,Nazihah,State University of Malang,Malang,Indonesia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Malwande,Nkonyane,University of the Witwatersrand,Johannesburg,South Africa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Berné Lourize,Nortier,University of Pretoria,Pretoria,South Africa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Amanuel,Oli,École Polytechnique,Paris,France,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Gabriel,Oliveira,Universidade Federal de Alagoas,Maceió,Brazil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,John,Parry,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Ioannis,Patmanidis,University of the Aegean,Karlovasi,Greece,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Akja,Potdyyeva,International University for the Humanities and Development,Ashgabat,Turkmenistan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Pradipta Swiantana,Prayoga,Universitas Pendidikan Indonesia,Bandung,Indonesia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Sandushan Chamantha,Ranaweera,University of Moratuwa,Moratuwa,Sri Lanka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Tumelo,Ranoto,University of the Witwatersrand,Johannesburg,South Africa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Jana,Ristovska,University of Primorska,Primorska,Slovenia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Dwi,Roudhotillah,Universitas Negeri Malang,Malang,Indonesia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Pablo,Sanz Galarreta,Universidad de La Rioja,Logroño,Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,LUOZI,SHI,Nanyang Technological University,Jurong West,Singapore,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Tianle,Shi,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Sofia,Sultanova,I. I. Mechnikov National University,Odessa,Ukraine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Prastya,Susanto,Universitas Gadjah Mada,Yogyakarta,Indonesia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Muhammad,Syafiq,Universitas Negeri Malang,Malang,Indonesia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Lawan Abhishake,Wijayasooriya,University of Colombo,Colombo,Sri Lanka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Aymaral,Yazmyradova,International University for the Humanities and Development,Ashgabat,Turkmenistan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Yue,Ye,University of Sheffield,Sheffield,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,HyunBin,Yoo,University of Rochester,Rochester,USA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Xizi,Yuan,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Xina,Zhang,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Pengji,Zhao,University College London,London,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020
+489–546.,,Wenjie,Zhong,University of Sheffield,Sheffield,UK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2020

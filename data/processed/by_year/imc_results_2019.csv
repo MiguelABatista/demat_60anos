@@ -1,0 +1,361 @@
+Year,Pos,First name,Family name,Full name,University,Team,City,Country,Code_D1,D1_P1,D1_P2,D1_P3,D1_P4,D1_P5,D1_P6,Day1,Code_D2,D2_P1,D2_P2,D2_P3,D2_P4,D2_P5,D2_P6,Day2,Sum,Prize,Prize_raw
+2019,1,Christian,Bernert,Christian Bernert,University of Gottingen,,,,,10,10,10,10,10,,50,,10,10,4,9,1,,34,84,Grand First Prize,Grand First Prize
+2019,2-3,Stanislav,Krymskii,Stanislav Krymskii,Saint-Petersburg State University,,,,,10,10,10,0,3,,33,,10,10,10,10,10,,50,83,Grand First Prize,Grand First Prize
+2019,2-3,Noam,Ta Shma,Noam Ta Shma,Israeli national team - The Open University,,,,,10,10,10,0,10,,40,,10,10,9,10,4,,43,83,Grand First Prize,Grand First Prize
+2019,4-5,Dmitry,Rybin,Dmitry Rybin,HSE University,,,,,10,10,9,10,10,,49,,10,10,0,8,5,,33,82,Grand First Prize,Grand First Prize
+2019,4-5,Oleksandr,Tytchenko,Oleksandr Tytchenko,Odessa National Mechnikov University,,,,,10,10,10,9,10,,49,,10,9,0,10,4,,33,82,Grand First Prize,Grand First Prize
+2019,6-7,Jeck,Lim,Jeck Lim,Cambridge University,,,,,10,10,10,0,1,,31,,10,10,10,10,8,,48,79,First Prize,First Prize
+2019,6-7,Ferdinand,Wagner,Ferdinand Wagner,University of Bonn,,,,,10,10,9,2,1,,32,,10,10,10,10,7,,47,79,First Prize,First Prize
+2019,8,Konrad,Deka,Konrad Deka,Jagiellonian University,,,,,10,5,9,3,1,,28,,10,10,10,10,10,,50,78,First Prize,First Prize
+2019,9-10,Danil,Kozevnikov,Danil Kozevnikov,"University of Cambridge, Christ's College",,,,,10,10,9,7,1,,37,,10,10,10,10,,,40,77,First Prize,First Prize
+2019,9-10,Adrian,Riekert,Adrian Riekert,University of Bonn,,,,,10,10,7,3,10,,40,,10,10,0,10,7,,37,77,First Prize,First Prize
+2019,11-12,Omri,Peer,Omri Peer,Israeli national team - Tel Aviv University,,,,,9,9,10,,,,28,,8,10,10,10,10,,48,76,First Prize,First Prize
+2019,11-12,Ohad Maor,Sheinfeld,Ohad Maor Sheinfeld,Israeli national team - Bar Ilan University,,,,,10,8,9,3,1,,31,,10,10,10,10,5,,45,76,First Prize,First Prize
+2019,13,Aviel,Boag,Aviel Boag,Israeli national team - Tel Aviv University,,,,,10,10,10,7,0,,37,,10,10,8,10,,,38,75,First Prize,First Prize
+2019,14-15,Nikita,Dobronravov,Nikita Dobronravov,Saint-Petersburg State University,,,,,10,2,10,,2,,24,,10,10,10,10,10,,50,74,First Prize,First Prize
+2019,14-15,Ivan,Safonov,Ivan Safonov,HSE University,,,,,10,10,10,2,10,,42,,10,10,10,0,2,,32,74,First Prize,First Prize
+2019,16,Kevin Kaiwen,Zhang,Kevin Kaiwen Zhang,ETH Zurich,,,,,10,10,9,0,10,,39,,10,10,0,10,2,,32,71,First Prize,First Prize
+2019,17-18,Andrei-Robert,Bāra,Andrei-Robert Bāra,University of Bucharest,,,,,10,10,10,0,10,,40,,10,10,0,10,,,30,70,First Prize,First Prize
+2019,17-18,Attila,Gáspár,Attila Gáspár,Eötvös Loránd University,,,,,10,10,10,,10,,40,,10,10,0,10,,,30,70,First Prize,First Prize
+2019,19-21,Albert,Gevorgyan,Albert Gevorgyan,Yerevan State University,,,,,10,5,9,3,10,,37,,10,10,1,9,2,,32,69,First Prize,First Prize
+2019,19-21,Egor,Riabov,Egor Riabov,HSE University,,,,,10,9,9,0,10,,38,,9,10,1,10,1,,31,69,First Prize,First Prize
+2019,19-21,Tim,Santens,Tim Santens,University of Bonn,,,,,10,9,9,,0,,28,,10,10,10,10,1,,41,69,First Prize,First Prize
+2019,22-23,Luis,Crespo,Luis Crespo,Universidad de Cantabria,,,,,10,8,9,1,,,28,,10,9,10,10,1,,40,68,First Prize,First Prize
+2019,22-23,Pavel,Hudec,Pavel Hudec,"Charles University, Prague",,,,,10,10,10,0,1,,31,,3,5,10,10,9,,37,68,First Prize,First Prize
+2019,24-25,Márton,Borbényi,Márton Borbényi,Eötvös Loránd University,,,,,10,3,9,1,,,23,,10,10,10,10,4,,44,67,First Prize,First Prize
+2019,24-25,Aleksandr,Gulkanov,Aleksandr Gulkanov,NRU Moscow State University of Civil Engineering,,,,,10,8,9,0,,,27,,10,10,10,10,,,40,67,First Prize,First Prize
+2019,26,Lior,Hadassi,Lior Hadassi,Israeli national team - Bar Ilan University,,,,,9,5,8,8,,,30,,10,5,10,10,1,,36,66,First Prize,First Prize
+2019,27-28,Denys,Cherhykalo,Denys Cherhykalo,Taras Shevchenko National University of Kyiv,,,,,10,10,10,3,1,,34,,10,10,0,10,1,,31,65,First Prize,First Prize
+2019,27-28,Josef,Greilhuber,Josef Greilhuber,University of Vienna,,,,,10,10,10,0,2,,32,,10,10,3,10,,,33,65,First Prize,First Prize
+2019,29,Farras Mohammad Hibban,Faddila,Farras Mohammad Hibban Faddila,Bandung Institute of Technology,,,,,10,10,10,10,1,,41,,3,10,,10,,,23,64,First Prize,First Prize
+2019,30-32,Gonzalo,Cao Labora,Gonzalo Cao Labora,BarcelonaTech,,,,,10,10,9,0,1,,30,,10,10,0,10,3,,33,63,First Prize,First Prize
+2019,30-32,Daniel,Murawski,Daniel Murawski,University of Warsaw,,,,,10,8,6,0,0,,24,,10,10,10,9,0,,39,63,First Prize,First Prize
+2019,30-32,Fateme Sadat,Sajadi,Fateme Sadat Sajadi,Sharif University of Technology,,,,,10,10,7,2,10,,39,,3,10,0,10,1,,24,63,First Prize,First Prize
+2019,33-36,Yahor,Dubovik,Yahor Dubovik,Belarusian State University,,,,,10,10,10,,1,,31,,8,10,10,3,,,31,62,First Prize,First Prize
+2019,33-36,Oliver,Nisumaa,Oliver Nisumaa,University of Tartu,,,,,10,3,9,0,0,,22,,10,10,10,,10,,40,62,First Prize,First Prize
+2019,33-36,Cālin-Daniel,Spiridon,Cālin-Daniel Spiridon,University of Bucharest,,,,,10,10,10,0,2,,32,,10,10,0,10,0,,30,62,First Prize,First Prize
+2019,33-36,Radovan,Švarc,Radovan Švarc,"Charles University, Prague",,,,,10,10,9,0,0,,29,,10,10,3,10,,,33,62,First Prize,First Prize
+2019,37,Bekarys,Bekmaganbetov,Bekarys Bekmaganbetov,Kazakhstan Branch of Moscow State University,,,,,10,10,10,0,1,,31,,10,10,0,10,,,30,61,First Prize,First Prize
+2019,38-42,Egor,Baitenov,Egor Baitenov,Moscow Institute of Physics and Technology,,,,,10,10,9,0,1,,30,,10,10,0,10,,,30,60,First Prize,First Prize
+2019,38-42,Levi Anton,Haunschmid,Levi Anton Haunschmid,University of Vienna,,,,,10,10,9,2,0,,31,,10,10,0,9,,,29,60,First Prize,First Prize
+2019,38-42,Dragos,Manea,Dragos Manea,University of Bucharest,,,,,9,10,10,0,1,,30,,10,10,,10,,,30,60,First Prize,First Prize
+2019,38-42,Wouter,Rienks,Wouter Rienks,University of Amsterdam,,,,,6,2,10,2,10,,30,,10,10,0,10,0,,30,60,First Prize,First Prize
+2019,38-42,Pim,Spelier,Pim Spelier,Leiden University,,,,,10,7,8,0,0,,25,,10,10,0,10,5,,35,60,First Prize,First Prize
+2019,43-45,Moritz,Hiebler,Moritz Hiebler,University of Klagenfurt,,,,,10,10,10,0,3,,33,,10,10,0,6,,,26,59,First Prize,First Prize
+2019,43-45,Ivan,Novak,Ivan Novak,University of Zagreb,,,,,10,6,10,2,2,,30,,10,10,0,9,0,,29,59,First Prize,First Prize
+2019,43-45,Amir,Yagudin,Amir Yagudin,Moscow Institute of Physics and Technology,,,,,10,10,9,,,,29,,10,10,0,10,,,30,59,First Prize,First Prize
+2019,46-48,Vladislav,Epifanov,Vladislav Epifanov,HSE Campus in St. Petersburg,,,,,10,10,9,,0,,29,,10,10,,9,,,29,58,First Prize,First Prize
+2019,46-48,Zsombor,Fehér,Zsombor Fehér,University of Cambridge,,,,,10,10,10,0,0,,30,,10,10,0,5,3,,28,58,First Prize,First Prize
+2019,46-48,Perman,Iljanov,Perman Iljanov,International University for the Humanities and Development,,,,,10,9,10,,7,,36,,3,9,0,10,0,,22,58,First Prize,First Prize
+2019,49-54,Filip,Bialas,Filip Bialas,"Charles University, Prague",,,,,10,10,3,0,0,,23,,10,10,4,10,0,,34,57,First Prize,First Prize
+2019,49-54,Mike,Daas,Mike Daas,University of Amsterdam,,,,,6,9,9,8,0,,32,,10,10,0,5,0,,25,57,First Prize,First Prize
+2019,49-54,Thiago,Leão,Thiago Leão,Federal University of Pernambuco,,,,,10,10,7,,0,,27,,10,10,0,10,,,30,57,First Prize,First Prize
+2019,49-54,Konrad,Majewski,Konrad Majewski,University of Warsaw,,,,,10,10,10,1,1,,32,,10,10,0,4,1,,25,57,First Prize,First Prize
+2019,49-54,Dor,Mezer,Dor Mezer,Israeli national team - Weizmann Institute of Science,,,,,10,2,10,,,,22,,10,10,0,10,5,,35,57,First Prize,First Prize
+2019,49-54,Daniel Peter,Rutschmann,Daniel Peter Rutschmann,ETH Zurich,,,,,10,10,2,,,,22,,10,10,10,4,1,,35,57,First Prize,First Prize
+2019,55-57,Kyprianos-Iason,Prodromidis,Kyprianos-Iason Prodromidis,National and Kapodistrian University of Athens,,,,,10,10,8,,1,,29,,10,10,0,7,,,27,56,First Prize,First Prize
+2019,55-57,Aleksandr,Trufanov,Aleksandr Trufanov,Moscow Institute of Physics and Technology,,,,,9,2,7,1,10,,29,,7,10,,10,,,27,56,First Prize,First Prize
+2019,55-57,Gabriel,Visser,Gabriel Visser,Delft University of Technology,,,,,10,9,10,,,,29,,10,10,0,7,,,27,56,First Prize,First Prize
+2019,58-60,Heorhii,Ivanchyk,Heorhii Ivanchyk,Taras Shevchenko National University of Kyiv,,,,,10,4,9,0,,,23,,10,10,10,2,0,,32,55,First Prize,First Prize
+2019,58-60,Yauheni,Minau,Yauheni Minau,Belarusian State University of Informatics and Radioelectronics,,,,,10,8,7,,0,,25,,10,10,,10,,,30,55,First Prize,First Prize
+2019,58-60,Bruno,Perreaux,Bruno Perreaux,University of Vienna,,,,,10,10,9,0,,,29,,10,10,0,6,0,,26,55,First Prize,First Prize
+2019,61-65,Jaime,Benabent Guerrero,Jaime Benabent Guerrero,"University of Seville, Spain",,,,,10,10,8,,,,28,,3,10,10,3,0,,26,54,First Prize,First Prize
+2019,61-65,András,Imolay,András Imolay,Eötvös Loránd University,,,,,5,10,10,0,1,,26,,10,10,0,2,6,,28,54,First Prize,First Prize
+2019,61-65,Daniel Isaac,Puignau Chacón,Daniel Isaac Puignau Chacón,Universidad Autonoma de Madrid,,,,,10,10,10,,,,30,,10,10,,4,,,24,54,First Prize,First Prize
+2019,61-65,Reinier,Schmiermann,Reinier Schmiermann,Eindhoven University of Technology,,,,,9,10,3,0,0,,22,,10,10,0,10,2,,32,54,First Prize,First Prize
+2019,61-65,Nikola,Velov,Nikola Velov,University of Belgrade,,,,,10,7,10,0,,,27,,10,10,0,7,,,27,54,First Prize,First Prize
+2019,66-68,Ludo,Dekker,Ludo Dekker,Universiteit Utrecht,,,,,10,10,9,0,10,,39,,3,10,0,0,1,,14,53,First Prize,First Prize
+2019,66-68,Grigor,Keropyan,Grigor Keropyan,Yerevan State University,,,,,10,10,8,0,,,28,,6,10,0,9,,,25,53,First Prize,First Prize
+2019,66-68,David,Rusch,David Rusch,ETH Zurich,,,,,10,10,6,,4,,30,,10,10,0,3,,,23,53,First Prize,First Prize
+2019,69-74,Sebastian,Cojocariu,Sebastian Cojocariu,University Politehnica of Bucharest,,,,,10,7,10,0,1,,28,,10,10,,4,,,24,52,First Prize,First Prize
+2019,69-74,Sami,Fersi,Sami Fersi,Ecole Polytechnique de Tunisie,,,,,10,9,9,,,,28,,4,10,,10,,,24,52,First Prize,First Prize
+2019,69-74,Arsen,Hambardzumyan,Arsen Hambardzumyan,Yerevan State University,,,,,10,10,10,0,1,,31,,3,10,0,8,,,21,52,First Prize,First Prize
+2019,69-74,Zarko,Randelovic,Zarko Randelovic,University of Cambridge,,,,,10,8,10,,1,,29,,10,10,0,3,,,23,52,First Prize,First Prize
+2019,69-74,Zhipu Wilson,Zhao,Zhipu Wilson Zhao,"Trinity College, Cambridge University",,,,,10,10,8,,1,,29,,10,10,,3,,,23,52,First Prize,First Prize
+2019,69-74,Borna,Šimić,Borna Šimić,University of Zagreb,,,,,10,10,0,,2,,22,,10,10,0,10,0,,30,52,First Prize,First Prize
+2019,75-83,Muhammad,Afifurrahman,Muhammad Afifurrahman,Bandung Institute of Technology,,,,,10,10,10,0,0,,30,,3,10,0,7,1,,21,51,First Prize,First Prize
+2019,75-83,George Lucas,Diniz Alencar,George Lucas Diniz Alencar,PUC-Rio,,,,,10,7,9,0,0,,26,,10,10,0,0,5,,25,51,First Prize,First Prize
+2019,75-83,Rafael,Filipe dos Santos,Rafael Filipe dos Santos,Instituto Militar de Engenharia,,,,,10,10,10,1,0,,31,,5,9,,6,0,,20,51,First Prize,First Prize
+2019,75-83,Piotr,Pawlak,Piotr Pawlak,Gdansk University,,,,,10,10,10,0,1,,31,,10,10,,,,,20,51,First Prize,First Prize
+2019,75-83,Valentino,Prasetya,Valentino Prasetya,Indonesia University,,,,,10,10,10,0,0,,30,,4,10,0,7,0,,21,51,First Prize,First Prize
+2019,75-83,Luozi,Shi,Luozi Shi,Nanyang Technological University,,,,,10,10,10,,1,,31,,4,1,0,10,5,,20,51,First Prize,First Prize
+2019,75-83,Alexandr,Snadin,Alexandr Snadin,Novosibirsk State University,,,,,10,10,9,,0,,29,,8,10,,4,,,22,51,First Prize,First Prize
+2019,75-83,Tamás,Szőke,Tamás Szőke,Eötvös Loránd University,,,,,10,10,9,1,1,,31,,10,10,0,0,,,20,51,First Prize,First Prize
+2019,75-83,Stefanie,Zbinden,Stefanie Zbinden,ETH Zurich,,,,,5,4,9,,,,18,,10,10,10,,3,,33,51,First Prize,First Prize
+2019,84-89,Ramazan,Bahtiyarov,Ramazan Bahtiyarov,Magtymguly Turkmen State University,,,,,10,10,10,0,0,,30,,10,10,0,0,0,,20,50,First Prize,First Prize
+2019,84-89,Martin,Drees,Martin Drees,University of Bonn,,,,,10,4,10,0,2,,26,,10,10,3,0,1,,24,50,First Prize,First Prize
+2019,84-89,Sergei,Kudria,Sergei Kudria,Moscow Institute of Physics and Technology,,,,,10,2,9,1,,,22,,10,10,,8,0,,28,50,First Prize,First Prize
+2019,84-89,Jakub,Löwit,Jakub Löwit,"Charles University, Prague",,,,,9,10,4,2,,,25,,10,5,0,10,,,25,50,First Prize,First Prize
+2019,84-89,Rodion,Zaytsev,Rodion Zaytsev,HSE University,,,,,10,6,9,0,1,,26,,10,9,1,4,,,24,50,First Prize,First Prize
+2019,84-89,Azur,Đonlagić,Azur Đonlagić,Jagiellonian University,,,,,6,7,7,0,0,,20,,10,10,0,10,0,,30,50,First Prize,First Prize
+2019,90-92,Amin,Fathpour,Amin Fathpour,Sharif University of Technology,,,,,10,9,0,,,,19,,10,10,0,10,,,30,49,First Prize,First Prize
+2019,90-92,Ivo,Kroon,Ivo Kroon,University of Amsterdam,,,,,10,7,0,0,10,,27,,10,10,0,2,0,,22,49,First Prize,First Prize
+2019,90-92,Markus,Reibnegger,Markus Reibnegger,University of Vienna,,,,,10,8,7,,1,,26,,10,10,,3,,,23,49,First Prize,First Prize
+2019,93-97,Mohammad Reza,Aminian,Mohammad Reza Aminian,Sharif University of Technology,,,,,7,10,9,0,10,,36,,,10,,0,2,,12,48,Second Prize,Second Prize
+2019,93-97,Ali,Daei Naby,Ali Daei Naby,Sharif University of Technology,,,,,1,10,7,0,0,,18,,10,10,0,10,0,,30,48,Second Prize,Second Prize
+2019,93-97,Maksim,Geniman,Maksim Geniman,Novosibirsk State University,,,,,10,6,9,,,,25,,3,10,,10,,,23,48,Second Prize,Second Prize
+2019,93-97,Sebastian,Meyer,Sebastian Meyer,University of Bonn,,,,,10,5,3,0,0,,18,,4,10,,10,6,,30,48,Second Prize,Second Prize
+2019,93-97,Georgii,Veprev,Georgii Veprev,Saint-Petersburg State University,,,,,10,9,9,,,,28,,10,10,0,0,,,20,48,Second Prize,Second Prize
+2019,98-101,Stanislav,Grishin,Stanislav Grishin,Moscow Institute of Physics and Technology,,,,,6,10,10,0,1,,27,,10,10,0,0,0,,20,47,Second Prize,Second Prize
+2019,98-101,Miquel,Ortega Sanchez-Colomer,Miquel Ortega Sanchez-Colomer,BarcelonaTech,,,,,5,10,2,,,,17,,10,10,10,0,,,30,47,Second Prize,Second Prize
+2019,98-101,Saúl,Rodríguez Martín,Saúl Rodríguez Martín,Universidad Complutense de Madrid,,,,,10,10,1,0,,,21,,9,7,0,0,10,,26,47,Second Prize,Second Prize
+2019,98-101,Mateus,Thimóteo,Mateus Thimóteo,ITA - Instituto Tecnologico de Aeronautica,,,,,6,7,10,0,,,23,,3,10,0,10,1,,24,47,Second Prize,Second Prize
+2019,102-105,Ivan,Chan Kai Chin,Ivan Chan Kai Chin,Cambridge University,,,,,6,2,10,0,0,,18,,10,9,,9,,,28,46,Second Prize,Second Prize
+2019,102-105,Zakhar,Iakovlev,Zakhar Iakovlev,ITMO University,,,,,10,10,9,1,1,,31,,3,10,0,2,0,,15,46,Second Prize,Second Prize
+2019,102-105,Maciej,Wojtala,Maciej Wojtala,University of Warsaw,,,,,10,4,7,,,,21,,10,10,0,5,,,25,46,Second Prize,Second Prize
+2019,102-105,Beat,Zurbuchen,Beat Zurbuchen,ETH Zurich,,,,,10,6,3,,,,19,,10,10,,7,,,27,46,Second Prize,Second Prize
+2019,106-109,Sotirios,Armeniakos,Sotirios Armeniakos,National and Kapodistrian University of Athens,,,,,10,2,10,,0,,22,,10,7,,6,,,23,45,Second Prize,Second Prize
+2019,106-109,Alberto,Cagnetta,Alberto Cagnetta,University of Udine,,,,,5,10,7,,,,22,,10,7,0,6,,,23,45,Second Prize,Second Prize
+2019,106-109,Fiton,Hoxha,Fiton Hoxha,University of Prishtina ''Hasan Prishtina'',,,,,10,5,10,,,,25,,10,10,,0,,,20,45,Second Prize,Second Prize
+2019,106-109,Ioannis,Iakovidis,Ioannis Iakovidis,Aristotle University of Thessaloniki,,,,,10,6,10,1,,,27,,10,8,0,0,,,18,45,Second Prize,Second Prize
+2019,110-112,Andrija,Mandić,Andrija Mandić,University of Zagreb,,,,,10,5,9,0,,,24,,10,10,0,0,,,20,44,Second Prize,Second Prize
+2019,110-112,Karim,Shamazov,Karim Shamazov,HSE University,,,,,10,10,0,,1,,21,,3,10,,9,1,,23,44,Second Prize,Second Prize
+2019,110-112,Dirk,van Bree,Dirk van Bree,Radboud University,,,,,10,4,9,0,0,,23,,10,10,0,1,,,21,44,Second Prize,Second Prize
+2019,113-118,Mykhailo,Bondarenko,Mykhailo Bondarenko,Taras Shevchenko National University of Kyiv,,,,,10,6,9,2,,,27,,3,10,,3,,,16,43,Second Prize,Second Prize
+2019,113-118,Sergio,Cía,Sergio Cía,Universidad de Zaragoza,,,,,10,4,0,,,,14,,10,10,,9,,,29,43,Second Prize,Second Prize
+2019,113-118,Dimitrios,Diamantidis,Dimitrios Diamantidis,National Technical University of Athens,,,,,2,,9,2,,,13,,10,10,,9,1,,30,43,Second Prize,Second Prize
+2019,113-118,Ismael,Morales,Ismael Morales,Universidad Autonoma de Madrid,,,,,10,3,8,1,1,,23,,10,10,0,0,,,20,43,Second Prize,Second Prize
+2019,113-118,Adrian,Ramanda,Adrian Ramanda,Bandung Institute of Technology,,,,,10,10,10,,,,30,,3,10,,0,,,13,43,Second Prize,Second Prize
+2019,113-118,Thibaud,van den Hove,Thibaud van den Hove,Ghent University,,,,,10,10,8,0,0,,28,,4,10,0,0,1,,15,43,Second Prize,Second Prize
+2019,119-127,Vahagn,Altunyan,Vahagn Altunyan,Yerevan State University,,,,,10,3,9,0,0,,22,,10,10,0,0,,,20,42,Second Prize,Second Prize
+2019,119-127,Egor,Dobronravov,Egor Dobronravov,Saint-Petersburg State University,,,,,,3,9,,,,12,,10,10,0,10,,,30,42,Second Prize,Second Prize
+2019,119-127,Yulian,Gilyazev,Yulian Gilyazev,Moscow Institute of Physics and Technology,,,,,9,3,1,,,,13,,10,10,,9,,,29,42,Second Prize,Second Prize
+2019,119-127,Rafan,Hajjar Munoz,Rafan Hajjar Munoz,BarcelonaTech,,,,,5,7,3,0,,,15,,10,10,,7,,,27,42,Second Prize,Second Prize
+2019,119-127,Pablo,Hidalgo Palencia,Pablo Hidalgo Palencia,Universidad Complutense de Madrid,,,,,10,7,10,0,,,27,,5,10,0,0,0,,15,42,Second Prize,Second Prize
+2019,119-127,Mekan,Hojayev,Mekan Hojayev,The State Energy institute of Turkmenistan,,,,,10,10,8,0,1,,29,,3,9,0,1,0,,13,42,Second Prize,Second Prize
+2019,119-127,Julien,Roupin,Julien Roupin,École Polytechnique,,,,,9,2,6,0,1,,18,,10,10,,0,4,,24,42,Second Prize,Second Prize
+2019,119-127,Robin,Simoens,Robin Simoens,Ghent University,,,,,10,9,10,,0,,29,,3,10,,0,0,,13,42,Second Prize,Second Prize
+2019,119-127,Ivan,Sinčić,Ivan Sinčić,University of Zagreb,,,,,10,1,10,,1,,22,,10,10,,0,,,20,42,Second Prize,Second Prize
+2019,128-137,Cristian Jose,Alvarez Bran,Cristian Jose Alvarez Bran,Universidad de San Carlos de Guatemala,,,,,6,8,7,0,0,,21,,10,10,,,,,20,41,Second Prize,Second Prize
+2019,128-137,Myrat,Amandurdyyev,Myrat Amandurdyyev,Turkmen Agricultural Institute,,,,,10,6,10,2,0,,28,,10,1,,2,,,13,41,Second Prize,Second Prize
+2019,128-137,Anuar,Askergaliyev,Anuar Askergaliyev,Kazakhstan Branch of Moscow State University,,,,,10,10,9,0,,,29,,2,10,,0,0,,12,41,Second Prize,Second Prize
+2019,128-137,Johannes,Droschl,Johannes Droschl,University of Vienna,,,,,9,8,7,1,,,25,,10,6,0,,,,16,41,Second Prize,Second Prize
+2019,128-137,Mick,Gielen,Mick Gielen,University of Amsterdam,,,,,0,7,8,,,,15,,10,6,0,10,0,,26,41,Second Prize,Second Prize
+2019,128-137,Izat,Khamiyev,Izat Khamiyev,Nazarbayev University,,,,,10,10,3,,,,23,,4,10,,4,,,18,41,Second Prize,Second Prize
+2019,128-137,Nikita,Poljakov,Nikita Poljakov,University of Bristol,,,,,6,5,10,,0,,21,,10,10,,0,,,20,41,Second Prize,Second Prize
+2019,128-137,Andrei,Siamionau,Andrei Siamionau,Belarusian State University,,,,,6,3,3,0,6,,18,,10,10,0,2,1,,23,41,Second Prize,Second Prize
+2019,128-137,Gabriel,Tostes Messias Pereira,Gabriel Tostes Messias Pereira,ITA - Instituto Tecnologico de Aeronautica,,,,,10,10,0,2,,,22,,10,9,0,0,,,19,41,Second Prize,Second Prize
+2019,128-137,Branislav,obot,Branislav obot,University of Novi Sad,,,,,10,8,3,1,,,22,,10,9,0,0,,,19,41,Second Prize,Second Prize
+2019,138-141,Ahmadreza,Khazaeipoul,Ahmadreza Khazaeipoul,Amirkabir University of Technology,,,,,5,2,9,0,2,,18,,10,10,0,2,,,22,40,Second Prize,Second Prize
+2019,138-141,Dovran,Nurgeldiyev,Dovran Nurgeldiyev,Magtymguly Turkmen State University,,,,,10,10,6,0,0,,26,,3,10,,1,,,14,40,Second Prize,Second Prize
+2019,138-141,Raul-Octavian,Rus,Raul-Octavian Rus,University of Warwick,,,,,5,8,9,,,,22,,4,10,0,0,4,,18,40,Second Prize,Second Prize
+2019,138-141,Vladyslav,Shram,Vladyslav Shram,NTUU ''Igor Sikorsky Kyiv Polytechnic Institute'',,,,,10,2,10,,,,22,,8,10,,,,,18,40,Second Prize,Second Prize
+2019,142-150,Gustavo Roque,Collado Romero,Gustavo Roque Collado Romero,"University of Seville, Spain",,,,,4,10,10,0,0,,24,,3,10,0,2,0,,15,39,Second Prize,Second Prize
+2019,142-150,Kevin,Coto,Kevin Coto,Costa Rica National Team - UCR,,,,,10,6,10,0,,,26,,3,10,,0,0,,13,39,Second Prize,Second Prize
+2019,142-150,Gabriel,de Souza Silva,Gabriel de Souza Silva,Instituto Militar de Engenharia,,,,,10,6,9,,1,,26,,3,10,,0,,,13,39,Second Prize,Second Prize
+2019,142-150,Lautaro,Decara,Lautaro Decara,University of Buenos Aires,,,,,10,10,1,0,,,21,,10,7,0,1,,,18,39,Second Prize,Second Prize
+2019,142-150,Ilyes,Er-Rammach,Ilyes Er-Rammach,ENSTA,,,,,1,10,10,0,,,21,,3,10,,4,1,,18,39,Second Prize,Second Prize
+2019,142-150,Bruno,Freire,Bruno Freire,ITA - Instituto Tecnologico de Aeronautica,,,,,10,3,7,0,1,,21,,10,6,0,2,,,18,39,Second Prize,Second Prize
+2019,142-150,Anh,Mai,Anh Mai,New York University Abu Dhabi,,,,,6,10,9,0,,,25,,3,9,,2,,,14,39,Second Prize,Second Prize
+2019,142-150,Victor,Martin Chabrera,Victor Martin Chabrera,BarcelonaTech,,,,,10,10,2,2,2,,26,,3,10,0,0,,,13,39,Second Prize,Second Prize
+2019,142-150,Andrey,Nefedov,Andrey Nefedov,HSE Campus in St. Petersburg,,,,,9,5,1,,,,15,,10,10,0,4,0,,24,39,Second Prize,Second Prize
+2019,151-159,Sevak,Abrahamyan,Sevak Abrahamyan,Yerevan State University,,,,,6,6,4,,4,,20,,3,10,,5,,,18,38,Second Prize,Second Prize
+2019,151-159,Vasily,Alferov,Vasily Alferov,HSE Campus in St. Petersburg,,,,,4,10,3,,,,17,,10,10,1,,,,21,38,Second Prize,Second Prize
+2019,151-159,Kamil,Dunst,Kamil Dunst,Nicolaus Copernicus University in Torun,,,,,10,5,9,,0,,24,,4,10,0,,,,14,38,Second Prize,Second Prize
+2019,151-159,Roland,Guttenberg,Roland Guttenberg,Technical University Munich,,,,,10,6,0,1,0,,17,,10,10,,1,,,21,38,Second Prize,Second Prize
+2019,151-159,Euxhen,Hasanaj,Euxhen Hasanaj,American University in Bulgaria,,,,,10,10,5,,,,25,,3,10,0,0,0,,13,38,Second Prize,Second Prize
+2019,151-159,Oleksandr,Mishyn,Oleksandr Mishyn,NTUU ''Igor Sikorsky Kyiv Polytechnic Institute'',,,,,10,9,6,0,,,25,,3,10,0,0,,,13,38,Second Prize,Second Prize
+2019,151-159,Rubio Gunawan,The,Rubio Gunawan The,Bandung Institute of Technology,,,,,9,10,6,,,,25,,3,10,0,0,0,,13,38,Second Prize,Second Prize
+2019,151-159,Kirill,Ufimtsev,Kirill Ufimtsev,Novosibirsk State University,,,,,6,9,9,,0,,24,,4,10,0,0,0,,14,38,Second Prize,Second Prize
+2019,151-159,Triinu,Veeorg,Triinu Veeorg,University of Tartu,,,,,6,10,9,0,,,25,,3,10,,0,,,13,38,Second Prize,Second Prize
+2019,160-171,Ana Karoline,Borges Carneiro,Ana Karoline Borges Carneiro,Instituto Militar de Engenharia,,,,,6,6,5,0,0,,17,,3,7,10,0,,,20,37,Second Prize,Second Prize
+2019,160-171,Thomas,Chen,Thomas Chen,Leiden University,,,,,2,10,10,0,,,22,,3,10,0,2,0,,15,37,Second Prize,Second Prize
+2019,160-171,Jaagup,Kirme,Jaagup Kirme,University of Tartu,,,,,6,10,4,0,0,,20,,5,10,0,2,,,17,37,Second Prize,Second Prize
+2019,160-171,Georgios,Kontogeorgiou,Georgios Kontogeorgiou,National and Kapodistrian University of Athens,,,,,10,7,3,1,,,21,,6,10,0,0,,,16,37,Second Prize,Second Prize
+2019,160-171,Vladislav,Mosin,Vladislav Mosin,HSE Campus in St. Petersburg,,,,,10,5,9,,,,24,,3,10,0,0,0,,13,37,Second Prize,Second Prize
+2019,160-171,István,Porupsánszki,István Porupsánszki,Eötvös Loránd University,,,,,10,3,4,,,,17,,10,10,,0,,,20,37,Second Prize,Second Prize
+2019,160-171,Besfort,Shala,Besfort Shala,University of Primorska,,,,,10,,7,,,,17,,10,10,0,0,,,20,37,Second Prize,Second Prize
+2019,160-171,Anatoli,Shatsila,Anatoli Shatsila,Jagiellonian University,,,,,9,10,4,0,,,23,,4,10,,0,,,14,37,Second Prize,Second Prize
+2019,160-171,Roman,Solodukhin,Roman Solodukhin,University of Primorska,,,,,6,2,9,,,,17,,10,10,,,,,20,37,Second Prize,Second Prize
+2019,160-171,Matthieu,Vermeil,Matthieu Vermeil,École Polytechnique,,,,,1,8,9,,,,18,,10,1,0,8,,,19,37,Second Prize,Second Prize
+2019,160-171,Selim,Virtanen,Selim Virtanen,Aalto University,,,,,10,10,4,,,,24,,3,10,,0,0,,13,37,Second Prize,Second Prize
+2019,160-171,Bob,Zwetsloot,Bob Zwetsloot,Leiden University,,,,,10,6,0,0,0,,16,,10,10,0,1,0,,21,37,Second Prize,Second Prize
+2019,172-179,Arman,Bayramyan,Arman Bayramyan,Yerevan State University,,,,,10,10,3,,0,,23,,3,10,,0,,,13,36,Second Prize,Second Prize
+2019,172-179,Lies,Beers,Lies Beers,University of Amsterdam,,,,,6,6,3,0,1,,16,,10,10,0,0,,,20,36,Second Prize,Second Prize
+2019,172-179,Florian,Fürnsinn,Florian Fürnsinn,University of Vienna,,,,,6,8,3,0,,,17,,4,10,,,5,,19,36,Second Prize,Second Prize
+2019,172-179,Pietro,Geronimi,Pietro Geronimi,Instituto Militar de Engenharia,,,,,10,1,9,,1,,21,,3,10,0,2,,,15,36,Second Prize,Second Prize
+2019,172-179,Joan,Hernanz Ibaňez,Joan Hernanz Ibaňez,BarcelonaTech,,,,,6,10,7,,,,23,,3,10,,,,,13,36,Second Prize,Second Prize
+2019,172-179,Marko,Jukić,Marko Jukić,University of Zagreb,,,,,1,3,1,1,,,6,,10,10,0,10,0,,30,36,Second Prize,Second Prize
+2019,172-179,Oleksandra,Kozachok,Oleksandra Kozachok,Taras Shevchenko National University of Kyiv,,,,,1,8,5,0,0,,14,,3,10,0,7,2,,22,36,Second Prize,Second Prize
+2019,172-179,Mateo,Matijasevick,Mateo Matijasevick,Universidad Nacional de Colombia,,,,,6,5,3,0,0,,14,,10,10,0,,2,,22,36,Second Prize,Second Prize
+2019,180-192,Abdumalik,Abdukayumov,Abdumalik Abdukayumov,Tashkent State university of Economics,,,,,10,8,4,0,,,22,,3,10,0,0,0,,13,35,Third Prize,Third Prize
+2019,180-192,Murat,Chashemov,Murat Chashemov,Magtymguly Turkmen State University,,,,,10,5,1,0,0,,16,,9,10,0,0,0,,19,35,Third Prize,Third Prize
+2019,180-192,Alejandro,Fernández Jiménez,Alejandro Fernández Jiménez,Universidad Autonoma de Madrid,,,,,5,8,6,0,0,,19,,3,10,0,3,,,16,35,Third Prize,Third Prize
+2019,180-192,Roberto,Gesteira,Roberto Gesteira,Universidad Pontificia Comillas,,,,,10,10,2,,,,22,,3,10,,0,,,13,35,Third Prize,Third Prize
+2019,180-192,Axel,Kerbec,Axel Kerbec,University College London,,,,,10,4,4,,1,,19,,7,9,0,,,,16,35,Third Prize,Third Prize
+2019,180-192,Cosmin,Manea,Cosmin Manea,Eindhoven University of Technology,,,,,10,6,5,0,0,,21,,4,10,0,0,,,14,35,Third Prize,Third Prize
+2019,180-192,Alireza,Masaeli,Alireza Masaeli,Amirkabir University of Technology,,,,,10,1,0,0,,,11,,10,10,0,4,0,,24,35,Third Prize,Third Prize
+2019,180-192,Bakdauren,Narbayev,Bakdauren Narbayev,Nazarbayev University,,,,,6,7,9,,,,22,,3,10,0,,,,13,35,Third Prize,Third Prize
+2019,180-192,Emanuel,Necula,Emanuel Necula,University Politehnica of Bucharest,,,,,10,9,0,2,0,,21,,4,10,0,0,,,14,35,Third Prize,Third Prize
+2019,180-192,Nikolai,Sibiriakov,Nikolai Sibiriakov,Novosibirsk State University,,,,,6,10,6,,,,22,,3,10,,0,0,,13,35,Third Prize,Third Prize
+2019,180-192,Victor,Talif,Victor Talif,Alexandru Ioan Cuza University of Iași,,,,,10,4,6,0,1,,21,,3,10,0,0,1,,14,35,Third Prize,Third Prize
+2019,180-192,Stan,Tendijck,Stan Tendijck,Delft University of Technology,,,,,10,4,8,0,0,,22,,8,4,0,1,,,13,35,Third Prize,Third Prize
+2019,180-192,Tähvend,Uustalu,Tähvend Uustalu,University of Tartu,,,,,9,8,3,,,,20,,3,10,0,2,0,,15,35,Third Prize,Third Prize
+2019,193-206,Leonardo,Andrade Joau e Silva,Leonardo Andrade Joau e Silva,ITA - Instituto Tecnologico de Aeronautica,,,,,10,10,0,,,,20,,3,10,,0,1,,14,34,Third Prize,Third Prize
+2019,193-206,Yauheni,Bayak,Yauheni Bayak,Belarusian State University of Informatics and Radioelectronics,,,,,6,10,0,,,,16,,3,10,,5,,,18,34,Third Prize,Third Prize
+2019,193-206,Floris,Cnossen,Floris Cnossen,University of Amsterdam,,,,,0,8,7,,,,15,,10,9,0,0,,,19,34,Third Prize,Third Prize
+2019,193-206,Anouk,Eggink,Anouk Eggink,Universiteit Utrecht,,,,,4,10,0,0,,,14,,10,10,0,0,0,,20,34,Third Prize,Third Prize
+2019,193-206,Krzysztof,Kacprzyk,Krzysztof Kacprzyk,University College London,,,,,,10,4,,,,14,,10,10,0,0,,,20,34,Third Prize,Third Prize
+2019,193-206,Luka,Khizanishvili,Luka Khizanishvili,Free University of Tbilisi,,,,,6,10,3,0,1,,20,,3,10,,0,1,,14,34,Third Prize,Third Prize
+2019,193-206,Iiro,Kumpulainen,Iiro Kumpulainen,Aalto University,,,,,10,10,,0,1,,21,,3,10,0,0,,,13,34,Third Prize,Third Prize
+2019,193-206,Alejandro,Mahillo Cazorla,Alejandro Mahillo Cazorla,Universidad de La Rioja,,,,,10,2,9,,,,21,,3,10,0,0,0,,13,34,Third Prize,Third Prize
+2019,193-206,Marcin,Michorzewski,Marcin Michorzewski,University of Warsaw,,,,,10,6,0,,,,16,,4,10,,4,,,18,34,Third Prize,Third Prize
+2019,193-206,Alessandro,Pacco,Alessandro Pacco,École Polytechnique,,,,,10,1,9,0,0,,20,,4,10,0,0,,,14,34,Third Prize,Third Prize
+2019,193-206,Josip,Pupić,Josip Pupić,University of Zagreb,,,,,6,5,6,0,,,17,,3,10,,4,,,17,34,Third Prize,Third Prize
+2019,193-206,Guillem,Quingles Davi,Guillem Quingles Davi,University of Barcelona,,,,,10,10,1,,,,21,,3,10,,,,,13,34,Third Prize,Third Prize
+2019,193-206,Nikolay,Sheshko,Nikolay Sheshko,Jagiellonian University,,,,,10,3,7,0,1,,21,,3,10,0,0,,,13,34,Third Prize,Third Prize
+2019,193-206,Lammert,Westerdijk,Lammert Westerdijk,Universiteit Utrecht,,,,,10,10,1,0,0,,21,,3,10,0,0,,,13,34,Third Prize,Third Prize
+2019,207-214,Jorge,Catarecha Otero Saavedra,Jorge Catarecha Otero Saavedra,"University of Seville, Spain",,,,,6,10,3,0,0,,19,,6,7,,0,1,,14,33,Third Prize,Third Prize
+2019,207-214,Lucas,de Moura Herlin,Lucas de Moura Herlin,Instituto Militar de Engenharia,,,,,5,9,10,0,1,,25,,3,1,0,4,,,8,33,Third Prize,Third Prize
+2019,207-214,Marcos,Escartín Ferrer,Marcos Escartín Ferrer,Universidad de Zaragoza,,,,,10,10,0,,0,,20,,3,10,,0,,,13,33,Third Prize,Third Prize
+2019,207-214,Felix,Moreno Peñarrubia,Felix Moreno Peñarrubia,BarcelonaTech,,,,,10,10,0,,0,,20,,3,10,0,0,,,13,33,Third Prize,Third Prize
+2019,207-214,Irakli,Shalibashvili,Irakli Shalibashvili,Free University of Tbilisi,,,,,10,5,10,0,1,,26,,3,4,0,0,0,,7,33,Third Prize,Third Prize
+2019,207-214,Reinier,Sorgdrager,Reinier Sorgdrager,University of Amsterdam,,,,,10,2,1,,,,13,,10,10,0,0,0,,20,33,Third Prize,Third Prize
+2019,207-214,Akmyrat,Tirkeshov,Akmyrat Tirkeshov,Institute of International Relations of MFA of Tur...,,,,,5,5,9,,,,19,,4,10,,,,,14,33,Third Prize,Third Prize
+2019,207-214,Maksim,Urmanov,Maksim Urmanov,HSE University,,,,,5,4,3,,,,12,,10,10,,,1,,21,33,Third Prize,Third Prize
+2019,215-226,Xavier,Arnal Clemente,Xavier Arnal Clemente,University of Barcelona,,,,,10,2,7,,,,19,,3,10,,0,,,13,32,Third Prize,Third Prize
+2019,215-226,Danila,Belousov,Danila Belousov,Novosibirsk State University,,,,,6,9,0,,,,15,,7,10,0,0,,,17,32,Third Prize,Third Prize
+2019,215-226,Dawid,Bucki,Dawid Bucki,AGH University of Science and Technology in Krakow,,,,,10,2,9,,,,21,,5,6,0,0,0,,11,32,Third Prize,Third Prize
+2019,215-226,Raluca-Ioana,Ciobotia,Raluca-Ioana Ciobotia,University Politehnica of Bucharest,,,,,6,2,10,0,1,,19,,3,10,0,0,0,,13,32,Third Prize,Third Prize
+2019,215-226,Nicolas,Ihlo,Nicolas Ihlo,University of Gottingen,,,,,,9,10,0,,,19,,3,10,,,,,13,32,Third Prize,Third Prize
+2019,215-226,Bakytzhan,Kurmanbek,Bakytzhan Kurmanbek,Nazarbayev University,,,,,10,8,8,0,1,,27,,3,2,,0,0,,5,32,Third Prize,Third Prize
+2019,215-226,Gabriel,Laurentino,Gabriel Laurentino,Instituto Militar de Engenharia,,,,,5,6,3,2,1,,17,,3,10,,2,,,15,32,Third Prize,Third Prize
+2019,215-226,Anargyros-Georgios,Mouzakis,Anargyros-Georgios Mouzakis,National Technical University of Athens,,,,,10,,10,,0,,20,,10,2,,0,,,12,32,Third Prize,Third Prize
+2019,215-226,Seyitmuhammet,Shamyradov,Seyitmuhammet Shamyradov,Magtymguly Turkmen State University,,,,,5,7,6,,1,,19,,3,10,,0,,,13,32,Third Prize,Third Prize
+2019,215-226,Pedro,Souza,Pedro Souza,ITA - Instituto Tecnologico de Aeronautica,,,,,6,3,9,0,1,,19,,3,10,0,0,,,13,32,Third Prize,Third Prize
+2019,215-226,Siebe,Verheijen,Siebe Verheijen,University of Amsterdam,,,,,10,8,1,,,,19,,3,10,,0,0,,13,32,Third Prize,Third Prize
+2019,215-226,Jim,Wittebol,Jim Wittebol,University of Amsterdam,,,,,10,6,3,,,,19,,3,10,0,0,,,13,32,Third Prize,Third Prize
+2019,227-239,Ioannis,Charisiadis,Ioannis Charisiadis,Aristotle University of Thessaloniki,,,,,4,6,10,,,,20,,10,1,,0,,,11,31,Third Prize,Third Prize
+2019,227-239,Arjan,Cornelissen,Arjan Cornelissen,Delft University of Technology,,,,,6,1,9,0,,,16,,3,9,0,3,,,15,31,Third Prize,Third Prize
+2019,227-239,Martín,Gómez,Martín Gómez,Universidad Complutense de Madrid,,,,,1,10,,0,0,,11,,10,10,0,0,,,20,31,Third Prize,Third Prize
+2019,227-239,Oscar Armando,Hidalgo Arévalo,Oscar Armando Hidalgo Arévalo,University of Leeds,,,,,5,10,3,,,,18,,3,10,,0,,,13,31,Third Prize,Third Prize
+2019,227-239,César,Iglesias,César Iglesias,University of Barcelona,,,,,10,1,7,,,,18,,3,10,0,0,,,13,31,Third Prize,Third Prize
+2019,227-239,Alvar,Kallio,Alvar Kallio,Aalto University,,,,,6,4,7,0,1,,18,,3,10,0,0,0,,13,31,Third Prize,Third Prize
+2019,227-239,Radek,Kusek,Radek Kusek,Jagiellonian University,,,,,,2,10,,0,,12,,4,10,,2,3,,19,31,Third Prize,Third Prize
+2019,227-239,Florian,Lang,Florian Lang,University of Vienna,,,,,10,,9,0,,,19,,10,,,,2,,12,31,Third Prize,Third Prize
+2019,227-239,Camille,Mau,Camille Mau,Nanyang Technological University,,,,,6,4,3,2,,,15,,4,10,0,0,2,,16,31,Third Prize,Third Prize
+2019,227-239,Mateo,Rodríguez Polo,Mateo Rodríguez Polo,Universidad Autonoma de Madrid,,,,,10,10,4,,,,24,,3,4,,0,,,7,31,Third Prize,Third Prize
+2019,227-239,Tongyang,Song,Tongyang Song,Xi'an Jiaotong-Liverpool University,,,,,0,8,3,0,0,,11,,10,10,0,0,0,,20,31,Third Prize,Third Prize
+2019,227-239,Stepan,Vakhrushev,Stepan Vakhrushev,Moscow Institute of Physics and Technology,,,,,10,10,0,,1,,21,,10,,,,,,10,31,Third Prize,Third Prize
+2019,227-239,Gabriëlle,Zwaneveld,Gabriëlle Zwaneveld,Delft University of Technology,,,,,10,5,3,0,0,,18,,3,10,0,0,0,,13,31,Third Prize,Third Prize
+2019,240-247,Federica,Bertolotti,Federica Bertolotti,University of Bonn,,,,,6,4,8,0,0,,18,,2,10,0,0,,,12,30,Third Prize,Third Prize
+2019,240-247,Gabriel,Collado Valverde,Gabriel Collado Valverde,Costa Rica National Team - UCR,,,,,10,6,,0,1,,17,,3,10,,,0,,13,30,Third Prize,Third Prize
+2019,240-247,Zhumazhenis,Dairabay,Zhumazhenis Dairabay,Nazarbayev University,,,,,10,,7,0,0,,17,,3,10,,0,,,13,30,Third Prize,Third Prize
+2019,240-247,Justus,Greve-Kramer,Justus Greve-Kramer,University of Gottingen,,,,,2,7,,,,,9,,9,10,0,2,0,,21,30,Third Prize,Third Prize
+2019,240-247,Mahdi,Haghshenas,Mahdi Haghshenas,Amirkabir University of Technology,,,,,0,2,4,0,,,6,,10,10,0,4,,,24,30,Third Prize,Third Prize
+2019,240-247,Pedro,Martins,Pedro Martins,Instituto Militar de Engenharia,,,,,6,8,3,0,1,,18,,3,9,0,0,,,12,30,Third Prize,Third Prize
+2019,240-247,Xiaowei,Tang,Xiaowei Tang,Nanyang Technological University,,,,,10,3,8,0,0,,21,,3,6,0,0,0,,9,30,Third Prize,Third Prize
+2019,240-247,Dimitrios,Tsintsilidas,Dimitrios Tsintsilidas,Aristotle University of Thessaloniki,,,,,10,10,,2,,,22,,3,5,,0,,,8,30,Third Prize,Third Prize
+2019,248-256,Constantijn,Dekker,Constantijn Dekker,University of Amsterdam,,,,,10,1,3,,,,14,,10,5,0,0,,,15,29,Third Prize,Third Prize
+2019,248-256,Florian,Esser,Florian Esser,University of Gottingen,,,,,0,9,0,,,,9,,10,10,,0,,,20,29,Third Prize,Third Prize
+2019,248-256,Saman,Hallajian,Saman Hallajian,Amirkabir University of Technology,,,,,3,1,6,,0,,10,,10,9,,0,,,19,29,Third Prize,Third Prize
+2019,248-256,Aryaman,Jal,Aryaman Jal,University of Warwick,,,,,10,,2,,1,,13,,10,2,,4,,,16,29,Third Prize,Third Prize
+2019,248-256,Ian,Luik,Ian Luik,Delft University of Technology,,,,,1,9,6,0,,,16,,3,10,0,0,0,,13,29,Third Prize,Third Prize
+2019,248-256,Vasileios,Makridis,Vasileios Makridis,Aristotle University of Thessaloniki,,,,,5,3,9,1,0,,18,,10,1,,0,0,,11,29,Third Prize,Third Prize
+2019,248-256,Inga,Noack,Inga Noack,University of Gottingen,,,,,1,10,3,,,,14,,5,10,0,,,,15,29,Third Prize,Third Prize
+2019,248-256,Peter,Súkeník,Peter Súkeník,Comenius University,,,,,5,4,3,,,,12,,3,10,0,4,,,17,29,Third Prize,Third Prize
+2019,248-256,Yingbo,Zhou,Yingbo Zhou,University of Warwick,,,,,6,10,6,0,,,22,,3,2,0,0,2,,7,29,Third Prize,Third Prize
+2019,257-265,Kristian Vedran,Budrovčan,Kristian Vedran Budrovčan,University of Zagreb,,,,,5,10,0,0,,,15,,3,10,0,,,,13,28,Third Prize,Third Prize
+2019,257-265,Cosmin Ionuţ,Bārāscu,Cosmin Ionuţ Bārāscu,University Politehnica of Bucharest,,,,,9,1,0,0,0,,10,,4,10,0,4,,,18,28,Third Prize,Third Prize
+2019,257-265,Konstantinos,Emmanouilidis,Konstantinos Emmanouilidis,Democritus University of Thrace,,,,,4,6,9,1,,,20,,4,0,,4,,,8,28,Third Prize,Third Prize
+2019,257-265,Dennis,Hilhorst,Dennis Hilhorst,Universiteit Utrecht,,,,,5,4,0,0,0,,9,,7,9,0,3,0,,19,28,Third Prize,Third Prize
+2019,257-265,Albert,Hoxha,Albert Hoxha,University of Prishtina ''Hasan Prishtina'',,,,,6,8,1,0,,,15,,3,10,0,0,,,13,28,Third Prize,Third Prize
+2019,257-265,Dimitrios,Konstantinidis,Dimitrios Konstantinidis,Aristotle University of Thessaloniki,,,,,,4,10,0,,,14,,3,10,0,1,0,,14,28,Third Prize,Third Prize
+2019,257-265,Redouane,Silvente,Redouane Silvente,ENSTA,,,,,4,3,8,0,,,15,,3,10,,0,,,13,28,Third Prize,Third Prize
+2019,257-265,Sander,Spoelstra,Sander Spoelstra,Eindhoven University of Technology,,,,,6,5,3,0,1,,15,,3,9,0,0,1,,13,28,Third Prize,Third Prize
+2019,257-265,Tomáš,Sásik,Tomáš Sásik,Comenius University,,,,,2,3,0,,,,5,,3,10,,10,,,23,28,Third Prize,Third Prize
+2019,266-270,Nartay,Aikyn,Nartay Aikyn,Nazarbayev University,,,,,10,7,0,0,0,,17,,3,7,0,0,0,,10,27,Third Prize,Third Prize
+2019,266-270,Seyed Amir,Hosseini,Seyed Amir Hosseini,Amirkabir University of Technology,,,,,6,2,5,,,,13,,4,10,,0,0,,14,27,Third Prize,Third Prize
+2019,266-270,Đorđe,Mitrović,Đorđe Mitrović,University of Primorska,,,,,6,2,7,,,,15,,10,2,0,0,0,,12,27,Third Prize,Third Prize
+2019,266-270,Kevin,Rojas,Kevin Rojas,Costa Rica National Team-UCR,,,,,5,1,3,,,,9,,8,9,,1,,,18,27,Third Prize,Third Prize
+2019,266-270,Lukasz,Stepien,Lukasz Stepien,AGH University of Science and Technology in Krakow,,,,,10,4,1,0,,,15,,7,2,,3,,,12,27,Third Prize,Third Prize
+2019,271-273,Dario,Domjanić,Dario Domjanić,University of Zagreb,,,,,5,,8,,,,13,,3,10,,0,,,13,26,Third Prize,Third Prize
+2019,271-273,Jakob,Schulz,Jakob Schulz,Technical University Munich,,,,,9,2,,,0,,11,,3,10,0,0,2,,15,26,Third Prize,Third Prize
+2019,271-273,Roman,Zhytar,Roman Zhytar,NTUU ''Igor Sikorsky Kyiv Polytechnic Institute'',,,,,0,10,3,,,,13,,3,10,0,,,,13,26,Third Prize,Third Prize
+2019,274-277,Bilegjargal,Altangerel,Bilegjargal Altangerel,New Mongol Institute of Technology,,,,,6,7,8,0,,,21,,3,1,,0,,,4,25,Third Prize,Third Prize
+2019,274-277,Doina,Chiroiu-Jitianu,Doina Chiroiu-Jitianu,University Politehnica of Bucharest,,,,,6,3,3,0,0,,12,,3,10,0,0,,,13,25,Third Prize,Third Prize
+2019,274-277,Gasper,Urh,Gasper Urh,University of Ljubljana,,,,,6,3,3,0,,,12,,3,10,,0,,,13,25,Third Prize,Third Prize
+2019,274-277,Oskar,Vikhamar-Sandberg,Oskar Vikhamar-Sandberg,NTNU,,,,,5,5,,,,,10,,3,9,0,3,,,15,25,Third Prize,Third Prize
+2019,278-283,Nicola,Cotumaccio,Nicola Cotumaccio,University of Udine,,,,,10,1,0,,,,11,,3,10,0,0,,,13,24,Third Prize,Third Prize
+2019,278-283,Muhammad Rizki,Fadillah,Muhammad Rizki Fadillah,Bandung Institute of Technology,,,,,0,5,7,0,0,,12,,4,8,0,0,0,,12,24,Third Prize,Third Prize
+2019,278-283,Erion,Hamiti,Erion Hamiti,University of Prishtina ''Hasan Prishtina'',,,,,2,8,,,,,10,,4,10,0,0,,,14,24,Third Prize,Third Prize
+2019,278-283,Sven,Holtrop,Sven Holtrop,Delft University of Technology,,,,,,5,6,0,0,,11,,3,10,0,0,0,,13,24,Third Prize,Third Prize
+2019,278-283,Bouke,Jansen,Bouke Jansen,Universiteit Utrecht,,,,,5,4,0,0,1,,10,,3,10,0,1,0,,14,24,Third Prize,Third Prize
+2019,278-283,Jacques,Rabie,Jacques Rabie,Stellenbosch University,,,,,4,1,6,0,0,,11,,3,10,,,,,13,24,Third Prize,Third Prize
+2019,284-288,Marcin,Baranek,Marcin Baranek,AGH University of Science and Technology in Krakow,,,,,5,6,,0,,,11,,3,9,,,,,12,23,Honourable Mention,Honourable Mention
+2019,284-288,Paolo,Bordignon,Paolo Bordignon,University of Udine,,,,,9,10,0,0,0,,19,,3,1,0,0,,,4,23,Honourable Mention,Honourable Mention
+2019,284-288,Javier,Rández,Javier Rández,Universidad de La Rioja,,,,,10,10,0,,,,20,,3,0,0,0,,,3,23,Honourable Mention,Honourable Mention
+2019,284-288,Sina,Schaeffler,Sina Schaeffler,École Polytechnique,,,,,1,2,0,,,,3,,10,10,,0,,,20,23,Honourable Mention,Honourable Mention
+2019,284-288,Tvrtko,Čupić,Tvrtko Čupić,"Odjel za Matematiku,Osijek",,,,,8,4,0,,,,12,,3,8,0,,0,,11,23,Honourable Mention,Honourable Mention
+2019,289-291,Mohammad Hossein,Banimostafa,Mohammad Hossein Banimostafa,K.N.Toosi University of Technology,,,,,0,1,7,0,0,,8,,3,10,0,0,1,,14,22,Honourable Mention,Honourable Mention
+2019,289-291,Amir,Khodaeian Karim,Amir Khodaeian Karim,Amirkabir University of Technology,,,,,0,1,1,,,,2,,10,10,,0,,,20,22,Honourable Mention,Honourable Mention
+2019,289-291,Gurbanmyrat,Yemshikov,Gurbanmyrat Yemshikov,The State Energy institute of Turkmenistan,,,,,10,0,4,,,,14,,3,5,,,,,8,22,Honourable Mention,Honourable Mention
+2019,292-297,Johan Fernando,Guillen Meza,Johan Fernando Guillen Meza,Costa Rica National Team-TEC,,,,,2,6,0,,1,,9,,3,9,0,0,0,,12,21,Honourable Mention,Honourable Mention
+2019,292-297,Nina,Hronkovičová,Nina Hronkovičová,Comenius University,,,,,4,1,3,0,,,8,,3,10,,,,,13,21,Honourable Mention,Honourable Mention
+2019,292-297,Mateusz,Kamyczura,Mateusz Kamyczura,AGH University of Science and Technology in Krakow,,,,,6,2,3,0,,,11,,0,10,,0,,,10,21,Honourable Mention,Honourable Mention
+2019,292-297,Marco Josué,Masís Cerda,Marco Josué Masís Cerda,Costa Rica National Team-UCR,,,,,9,,7,,,,16,,4,1,0,0,,,5,21,Honourable Mention,Honourable Mention
+2019,292-297,Basilis-Daniel,Tsepele,Basilis-Daniel Tsepele,Aristotle University of Thessaloniki,,,,,10,0,3,0,1,,14,,7,0,0,0,,,7,21,Honourable Mention,Honourable Mention
+2019,292-297,Xianghe,Zhu,Xianghe Zhu,University of Bristol,,,,,10,3,3,0,1,,17,,3,1,0,0,,,4,21,Honourable Mention,Honourable Mention
+2019,298-302,Fernando,Celaya,Fernando Celaya,Universidad Pontificia Comillas,,,,,5,5,0,,,,10,,3,7,,,0,,10,20,Honourable Mention,Honourable Mention
+2019,298-302,Guilherme,Goulart Kowalczuk,Guilherme Goulart Kowalczuk,ITA - Instituto Tecnologico de Aeronautica,,,,,,3,0,,1,,4,,3,9,0,2,2,,16,20,Honourable Mention,Honourable Mention
+2019,298-302,Ehsan,Kafshdar Goharshadi,Ehsan Kafshdar Goharshadi,Ferdowsi University of Mashhad,,,,,2,3,0,0,0,,5,,5,10,0,0,,,15,20,Honourable Mention,Honourable Mention
+2019,298-302,Ioannis,Liodis,Ioannis Liodis,Aristotle University of Thessaloniki,,,,,6,4,4,0,0,,14,,4,2,0,,0,,6,20,Honourable Mention,Honourable Mention
+2019,298-302,Simona,Veselá,Simona Veselá,Comenius University,,,,,6,10,0,,,,16,,3,1,0,,,,4,20,Honourable Mention,Honourable Mention
+2019,303-307,Dzianis,Kim,Dzianis Kim,Belarusian State University,,,,,,2,9,0,,,11,,3,5,0,0,,,8,19,Honourable Mention,Honourable Mention
+2019,303-307,Saeed,Odak,Saeed Odak,K. N. Toosi University of Technology,,,,,6,1,7,0,,,14,,3,2,0,,,,5,19,Honourable Mention,Honourable Mention
+2019,303-307,Fabian,Schuh,Fabian Schuh,Vienna University of Technology,,,,,,2,0,,,,2,,7,10,,,,,17,19,Honourable Mention,Honourable Mention
+2019,303-307,Juan Carlos,Sánchez Bernal,Juan Carlos Sánchez Bernal,University of Barcelona,,,,,10,2,3,0,0,,15,,3,1,,,0,,4,19,Honourable Mention,Honourable Mention
+2019,303-307,Tea,Štrekelj,Tea Štrekelj,University of Ljubljana,,,,,6,3,1,,,,10,,9,0,,0,,,9,19,Honourable Mention,Honourable Mention
+2019,308-310,Resulberdi,Annamuhammedov,Resulberdi Annamuhammedov,Turkmen Agricultural Institute,,,,,8,0,0,0,0,,8,,10,0,,0,,,10,18,Honourable Mention,Honourable Mention
+2019,308-310,Hamidbek,Hajiyev,Hamidbek Hajiyev,Magtymguly Turkmen State University,,,,,0,2,7,0,1,,10,,3,5,,0,,,8,18,Honourable Mention,Honourable Mention
+2019,308-310,Alexandr,Kravchenko,Alexandr Kravchenko,ITMO University,,,,,6,9,,,,,15,,3,0,,0,0,,3,18,Honourable Mention,Honourable Mention
+2019,311-315,David,Biesa,David Biesa,Universidad de Zaragoza,,,,,6,8,,,,,14,,3,0,0,,0,,3,17,Honourable Mention,Honourable Mention
+2019,311-315,Muyan,Jiang,Muyan Jiang,New York University Abu Dhabi,,,,,9,3,0,0,0,,12,,3,1,,0,1,,5,17,Honourable Mention,Honourable Mention
+2019,311-315,Sebastian,Petit,Sebastian Petit,Ghent University,,,,,0,5,0,0,0,,5,,3,9,0,0,0,,12,17,Honourable Mention,Honourable Mention
+2019,311-315,Grega,Saksida,Grega Saksida,University of Ljubljana,,,,,6,2,3,,,,11,,3,3,0,0,0,,6,17,Honourable Mention,Honourable Mention
+2019,311-315,Bart,Zondervan,Bart Zondervan,University of Amsterdam,,,,,10,0,3,0,,,13,,3,1,,0,,,4,17,Honourable Mention,Honourable Mention
+2019,316-322,Víctor,Blasco,Víctor Blasco,Universidad de Zaragoza,,,,,0,3,,,,,3,,3,10,0,,,,13,16,Honourable Mention,Honourable Mention
+2019,316-322,Spyridon Konstantinos,Dragazis,Spyridon Konstantinos Dragazis,National Technical University of Athens,,,,,5,0,0,1,,,6,,10,0,,0,,,10,16,Honourable Mention,Honourable Mention
+2019,316-322,Pablo,Gonzalez,Pablo Gonzalez,Universidad EIA,,,,,0,2,0,,,,2,,3,10,0,0,1,,14,16,Honourable Mention,Honourable Mention
+2019,316-322,Álvaro,Sánchez Hernández,Álvaro Sánchez Hernández,Universidad Complutense de Madrid,,,,,0,5,3,,,,8,,3,5,,,,,8,16,Honourable Mention,Honourable Mention
+2019,316-322,Aysa,Tajeri Emamchaei,Aysa Tajeri Emamchaei,K. N. Toosi University of Technology,,,,,0,2,3,,0,,5,,10,1,,,0,,11,16,Honourable Mention,Honourable Mention
+2019,316-322,Rasmus,Vikhamar-Sandberg,Rasmus Vikhamar-Sandberg,NTNU,,,,,,1,9,,,,10,,5,,0,0,1,,6,16,Honourable Mention,Honourable Mention
+2019,316-322,Yuliia,Zdanovska,Yuliia Zdanovska,Taras Shevchenko National University of Kyiv,,,,,4,9,,,,,13,,3,,,0,,,3,16,Honourable Mention,Honourable Mention
+2019,323-325,Jamba,Batgerel,Jamba Batgerel,New Mongol Institute of Technology,,,,,5,2,4,0,0,,11,,3,1,0,0,0,,4,15,Honourable Mention,Honourable Mention
+2019,323-325,Nikita,Rybkin,Nikita Rybkin,ITMO University,,,,,,8,3,,,,11,,3,1,0,0,,,4,15,Honourable Mention,Honourable Mention
+2019,323-325,Aman,Sher Agha,Aman Sher Agha,Aalto University,,,,,5,0,7,0,0,,12,,3,0,0,0,0,,3,15,Honourable Mention,Honourable Mention
+2019,326-328,Jepbar,Asgarov,Jepbar Asgarov,Turkmen State Institute of Architecture and Constr...,,,,,6,5,,0,,,11,,3,0,0,0,,,3,14,Honourable Mention,Honourable Mention
+2019,326-328,Anatole,Cirot,Anatole Cirot,ENSTA,,,,,1,5,0,0,0,,6,,6,2,,0,,,8,14,Honourable Mention,Honourable Mention
+2019,326-328,Lucas,Crijns,Lucas Crijns,Delft University of Technology,,,,,0,8,,,0,,8,,3,3,0,,0,,6,14,Honourable Mention,Honourable Mention
+2019,329-332,Monika,Bunjaku,Monika Bunjaku,University of Prishtina ''Hasan Prishtina'',,,,,3,5,,,,,8,,3,2,,0,0,,5,13,Honourable Mention,Honourable Mention
+2019,329-332,Pedro Henrique,Costa,Pedro Henrique Costa,Instituto Militar de Engenharia,,,,,0,10,,0,,,10,,3,0,0,,,,3,13,Honourable Mention,Honourable Mention
+2019,329-332,Yunxing,Dong,Yunxing Dong,Nanyang Technological University,,,,,0,1,0,,,,1,,3,9,,0,,,12,13,Honourable Mention,Honourable Mention
+2019,329-332,Panagiotis,Kostopanagiotis,Panagiotis Kostopanagiotis,National Technical University of Athens,,,,,0,1,9,0,,,10,,3,0,,0,,,3,13,Honourable Mention,Honourable Mention
+2019,333-336,Artur,Aganov,Artur Aganov,ITMO University,,,,,5,1,,,,,6,,3,1,,,2,,6,12,Honourable Mention,Honourable Mention
+2019,333-336,Abel,Atarés de Sus,Abel Atarés de Sus,Universidad de Zaragoza,,,,,,,,,,,0,,3,9,,,0,,12,12,Honourable Mention,Honourable Mention
+2019,333-336,Markus Valås,Hagen,Markus Valås Hagen,NTNU,,,,,4,2,0,0,1,,7,,3,2,,0,,,5,12,Honourable Mention,Honourable Mention
+2019,333-336,Diana,Sokhashvili,Diana Sokhashvili,Free University of Tbilisi,,,,,4,1,3,0,0,,8,,3,1,0,0,,,4,12,Honourable Mention,Honourable Mention
+2019,337-340,Petrit,Avdylaj,Petrit Avdylaj,University of Prishtina ''Hasan Prishtina'',,,,,5,1,,,,,6,,3,2,,,,,5,11,Honourable Mention,Honourable Mention
+2019,337-340,David,Farré Gil,David Farré Gil,University of Barcelona,,,,,0,3,1,0,,,4,,,7,,0,,,7,11,Honourable Mention,Honourable Mention
+2019,337-340,Doly,Hojakov,Doly Hojakov,The State Energy institute of Turkmenistan,,,,,10,0,0,0,0,,10,,1,0,,0,0,,1,11,Honourable Mention,Honourable Mention
+2019,337-340,Corijn,Rudrum,Corijn Rudrum,Universiteit Utrecht,,,,,0,8,0,0,0,,8,,3,0,0,0,0,,3,11,Honourable Mention,Honourable Mention
+2019,341-345,Ionut Petrisor,Anghel,Ionut Petrisor Anghel,University Politehnica of Bucharest,,,,,4,3,0,0,,,7,,3,0,0,0,0,,3,10,Honourable Mention,Honourable Mention
+2019,341-345,Sebastian,Arango Vergara,Sebastian Arango Vergara,Icesi University,,,,,6,,3,0,0,,9,,,1,,,0,,1,10,Honourable Mention,Honourable Mention
+2019,341-345,Carlos Javier,Guerra Peralta,Carlos Javier Guerra Peralta,Universidad de San Carlos de Guatemala,,,,,2,5,,0,1,,8,,2,,,0,,,2,10,Honourable Mention,Honourable Mention
+2019,341-345,Tuvshinbileg,Naidandorj,Tuvshinbileg Naidandorj,New Mongol Institute of Technology,,,,,0,2,5,0,0,,7,,3,0,0,0,0,,3,10,Honourable Mention,Honourable Mention
+2019,341-345,Karolina,Wojtyniak,Karolina Wojtyniak,Nicolaus Copernicus University in Torun,,,,,0,6,,,,,6,,3,1,0,0,,,4,10,Honourable Mention,Honourable Mention
+2019,346-348,Viktor,Cvrtila,Viktor Cvrtila,University of Ljubljana,,,,,,2,7,,,,9,,0,,,,,,0,9,Certificate,certificate
+2019,346-348,Koen,de Nooij,Koen de Nooij,Eindhoven University of Technology,,,,,,3,3,0,,,6,,3,0,0,0,0,,3,9,Certificate,certificate
+2019,346-348,Fabian,Richter,Fabian Richter,Technical University Munich,,,,,,1,,,,,1,,6,2,0,,,,8,9,Certificate,certificate
+2019,349-350,Delia,Fuente,Delia Fuente,Universidad Pontificia Comillas,,,,,3,1,0,,0,,4,,4,0,0,0,,,4,8,Certificate,certificate
+2019,349-350,Noah,Jadoenathmisier,Noah Jadoenathmisier,Delft University of Technology,,,,,,2,,,,,2,,3,3,,,,,6,8,Certificate,certificate
+2019,351-353,Nikolaos,Dimitrakopoulos,Nikolaos Dimitrakopoulos,University of Bristol,,,,,1,2,1,0,,,4,,3,,,0,,,3,7,Certificate,certificate
+2019,351-353,Jakub,Tomaszewski,Jakub Tomaszewski,AGH University of Science and Technology in Krakow,,,,,0,0,0,0,0,,0,,3,4,0,0,0,,7,7,Certificate,certificate
+2019,351-353,Anastasija,Trajanova,Anastasija Trajanova,University of Manchester,,,,,1,4,0,,,,5,,2,0,,0,,,2,7,Certificate,certificate
+2019,354-358,Muhammetnur,Bagbekov,Muhammetnur Bagbekov,International University for the Humanities and Development,,,,,1,0,,2,,,3,,2,1,,0,,,3,6,Certificate,certificate
+2019,354-358,Achraf,Daghar,Achraf Daghar,University of Bordeaux,,,,,4,,0,0,1,,5,,,1,,0,0,,1,6,Certificate,certificate
+2019,354-358,Arthur,Lund,Arthur Lund,NTNU,,,,,,3,,0,,,3,,3,0,0,0,,,3,6,Certificate,certificate
+2019,354-358,Erfan,Masoumi,Erfan Masoumi,University of Tabriz,,,,,0,3,,,0,,3,,3,0,,0,,,3,6,Certificate,certificate
+2019,354-358,Laura,Pozzetti,Laura Pozzetti,University of Bristol,,,,,0,2,2,0,0,,4,,2,0,0,0,0,,2,6,Certificate,certificate
+2019,359,Devon,Crowther,Devon Crowther,Stellenbosch University,,,,,0,2,,0,,,2,,3,0,,0,0,,3,5,Certificate,certificate
+2019,360,Jack,Zhao,Jack Zhao,University of Bristol,,,,,0,0,0,0,1,,1,,3,0,0,0,0,,3,4,Certificate,certificate

@@ -1,0 +1,664 @@
+Pos,Unnamed: 1,First name,Family name,University,City,Country,P1,P2,P3,P4,Day1,P5,P6,P7,P8,Day2,Sum,Prize,Year
+1–2.,,Ivan,Gaidai-Turlov,,Saint-Petersburg,,10,10.0,10.0,10.0,40.0,10.0,10.0,10.0,10.0,40.0,80.0,Grand Grand First Prize,2022
+1–2.,,Alexandr,Grebennikov,,Saint-Petersburg,,10,10.0,10.0,10.0,40.0,10.0,10.0,10.0,10.0,40.0,80.0,Grand Grand First Prize,2022
+3.,,Dimitrios Chrysovalantis,Melas,National and Kapodistrian University of Athens,Athens,Greece,10,10.0,10.0,10.0,40.0,10.0,9.0,10.0,10.0,39.0,79.0,Grand Grand First Prize,2022
+4–5.,,Ido,Karshon,Weizmann Institute of Science,Rehovot,Israel,10,10.0,10.0,8.0,38.0,10.0,10.0,10.0,10.0,40.0,78.0,Grand Grand First Prize,2022
+4–5.,,Noam,Tashma,Tel Aviv University,Tel Aviv,Israel,10,10.0,10.0,8.0,38.0,10.0,10.0,10.0,10.0,40.0,78.0,Grand Grand First Prize,2022
+6.,,Shvo,Regavim,Tel Aviv University,Tel Aviv,Israel,10,10.0,10.0,6.0,36.0,10.0,10.0,10.0,10.0,40.0,76.0,Grand First Prize,2022
+7.,,Radosław,Żak,Jagiellonian University,Krakow,Poland,10,10.0,10.0,5.0,35.0,10.0,10.0,10.0,10.0,40.0,75.0,Grand First Prize,2022
+8–11.,,Attila,Gáspár,Loránd Eötvös University,Budapest,Hungary,10,10.0,10.0,4.0,34.0,10.0,10.0,10.0,10.0,40.0,74.0,Grand First Prize,2022
+8–11.,,Lior,Hadassi,Tel Aviv University,Tel Aviv,Israel,10,8.0,10.0,8.0,36.0,10.0,10.0,10.0,8.0,38.0,74.0,Grand First Prize,2022
+8–11.,,Kosma Jan,Kasprzak,Jagiellonian University,Krakow,Poland,10,9.0,10.0,6.0,35.0,9.0,10.0,10.0,10.0,39.0,74.0,Grand First Prize,2022
+8–11.,,Łukasz Marek,Orski,Jagiellonian University,Krakow,Poland,10,10.0,10.0,4.0,34.0,10.0,10.0,10.0,10.0,40.0,74.0,Grand First Prize,2022
+12.,,Kristóf,Szabó,Loránd Eötvös University,Budapest,Hungary,10,10.0,10.0,4.0,34.0,10.0,9.0,10.0,10.0,39.0,73.0,Grand First Prize,2022
+13–14.,,Mikhail,Lozhkin,,Saint-Petersburg,,10,10.0,10.0,4.0,34.0,10.0,8.0,10.0,10.0,38.0,72.0,Grand First Prize,2022
+13–14.,,Алексей,Львов,,Saint-Petersburg,,10,10.0,10.0,4.0,34.0,10.0,10.0,10.0,8.0,38.0,72.0,Grand First Prize,2022
+15.,,Jonas,Walter,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10,10.0,10.0,1.0,31.0,10.0,10.0,10.0,10.0,40.0,71.0,Grand First Prize,2022
+16–17.,,Daniil,Ivanik,,Moscow,,10,10.0,10.0,,30.0,10.0,10.0,10.0,10.0,40.0,70.0,Grand First Prize,2022
+16–17.,,Yuval,Salant,Weizmann Institute of Science,Rehovot,Israel,10,10.0,10.0,1.0,31.0,10.0,10.0,10.0,9.0,39.0,70.0,Grand First Prize,2022
+18–20.,,Shahar,Friedman,Tel Aviv University,Tel Aviv,Israel,10,10.0,10.0,4.0,34.0,10.0,10.0,7.0,8.0,35.0,69.0,First Prize,2022
+18–20.,,Dmitrii,Kolupaev,,Moscow,,10,10.0,10.0,0.0,30.0,10.0,10.0,10.0,9.0,39.0,69.0,First Prize,2022
+18–20.,,Stanislav,Krymskii,,Saint-Petersburg,,10,10.0,10.0,,30.0,10.0,9.0,10.0,10.0,39.0,69.0,First Prize,2022
+21–22.,,Cezary Mikołaj,Botta,University of Warsaw,Warsaw,Poland,10,10.0,10.0,8.0,38.0,10.0,10.0,10.0,0.0,30.0,68.0,First Prize,2022
+21–22.,,Iaroslav,Lisniak,,Moscow,,10,9.0,10.0,0.0,29.0,9.0,10.0,10.0,10.0,39.0,68.0,First Prize,2022
+23–24.,,Antoni Jan,Puch,University of Warsaw,Warsaw,Poland,10,10.0,10.0,0.0,30.0,10.0,9.0,10.0,7.0,36.0,66.0,First Prize,2022
+23–24.,,Alikhan,Zimanov,,Moscow,,10,10.0,2.0,4.0,26.0,10.0,10.0,10.0,10.0,40.0,66.0,First Prize,2022
+25–28.,,Maximilian,Göbel,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10,10.0,10.0,0.0,30.0,9.0,10.0,10.0,6.0,35.0,65.0,First Prize,2022
+25–28.,,Luka,Horjak,University of Ljubljana,Ljubljana,Slovenia,10,10.0,10.0,0.0,30.0,10.0,5.0,10.0,10.0,35.0,65.0,First Prize,2022
+25–28.,,Fedor,Kuyanov,,Moscow,,10,10.0,1.0,4.0,25.0,10.0,10.0,10.0,10.0,40.0,65.0,First Prize,2022
+25–28.,,Lior,Schain,Tel Aviv University,Tel Aviv,Israel,10,10.0,10.0,1.0,31.0,10.0,10.0,10.0,4.0,34.0,65.0,First Prize,2022
+29–31.,,Vadym,Koval,Jagiellonian University,Krakow,Poland,10,10.0,10.0,0.0,30.0,10.0,10.0,10.0,4.0,34.0,64.0,First Prize,2022
+29–31.,,Vlad,Robu,University of Bucharest,Bucharest,Romania,10,10.0,10.0,0.0,30.0,10.0,10.0,10.0,4.0,34.0,64.0,First Prize,2022
+29–31.,,Aleksandre,Saatashvili,Massachusetts Institute of Technology,Cambridge,USA,10,10.0,2.0,4.0,26.0,9.0,9.0,10.0,10.0,38.0,64.0,First Prize,2022
+32–34.,,Shima,Adeli,Shahid Beheshti University,Tehran,Iran,10,10.0,10.0,4.0,34.0,10.0,10.0,9.0,,29.0,63.0,First Prize,2022
+32–34.,,Joseph Daniel,Altamirano Pacheco,University of Cambridge,Cambridge,UK,10,10.0,10.0,,30.0,10.0,10.0,5.0,8.0,33.0,63.0,First Prize,2022
+32–34.,,Semen,Słobodianiuk,University of Warsaw,Warsaw,Poland,10,9.0,10.0,,29.0,9.0,10.0,10.0,5.0,34.0,63.0,First Prize,2022
+35–37.,,Javad,Farokhnejad,Sharif University of Technology,Tehran,Iran,10,10.0,10.0,2.0,32.0,9.0,10.0,10.0,1.0,30.0,62.0,First Prize,2022
+35–37.,,Fredy,Yip,Knox Grammar School,Sydney,Australia,10,7.0,10.0,0.0,27.0,10.0,10.0,10.0,5.0,35.0,62.0,First Prize,2022
+35–37.,,Vladyslav,Zveryk,Jagiellonian University,Krakow,Poland,10,10.0,10.0,0.0,30.0,10.0,5.0,10.0,7.0,32.0,62.0,First Prize,2022
+38–40.,,Ludo,Dekker,University of Utrecht,Utrecht,Netherlands,10,10.0,10.0,0.0,30.0,10.0,10.0,10.0,1.0,31.0,61.0,First Prize,2022
+38–40.,,Nikolaos,Papadopoulos,Aristotle University of Thessaloniki,Thessaloniki,Greece,10,10.0,10.0,,30.0,10.0,10.0,10.0,1.0,31.0,61.0,First Prize,2022
+38–40.,,Marin,Varivoda,University of Zagreb,Zagreb,Croatia,10,6.0,10.0,1.0,27.0,10.0,10.0,10.0,4.0,34.0,61.0,First Prize,2022
+41–46.,,Matěj,Doležálek,Charles University,Prague,Czech Republic,10,10.0,10.0,0.0,30.0,10.0,10.0,10.0,,30.0,60.0,First Prize,2022
+41–46.,,Dror,Frid,Tel Aviv University,Tel Aviv,Israel,9,10.0,10.0,1.0,30.0,10.0,10.0,10.0,,30.0,60.0,First Prize,2022
+41–46.,,Marcelo,Machado Lage,Universidade de São Paulo,São Paulo,Brazil,10,10.0,10.0,,30.0,10.0,10.0,3.0,7.0,30.0,60.0,First Prize,2022
+41–46.,,Rozalina,Mirgalimova,,Saint-Petersburg,,10,3.0,10.0,,23.0,10.0,10.0,7.0,10.0,37.0,60.0,First Prize,2022
+41–46.,,Elizaveta,Popova,,Moscow,,10,10.0,1.0,,21.0,10.0,10.0,10.0,9.0,39.0,60.0,First Prize,2022
+41–46.,,Петр,Мишура,,Saint-Petersburg,,10,10.0,10.0,,30.0,10.0,10.0,,10.0,30.0,60.0,First Prize,2022
+47–48.,,Aleksei,Roze,,Saint-Petersburg,,10,7.0,10.0,1.0,28.0,10.0,7.0,10.0,4.0,31.0,59.0,First Prize,2022
+47–48.,,Levente,Szemerédi,Loránd Eötvös University,Budapest,Hungary,10,10.0,2.0,,22.0,10.0,8.0,10.0,9.0,37.0,59.0,First Prize,2022
+49–51.,,Daniel,Murawski,University of Warsaw,Warsaw,Poland,10,10.0,2.0,,22.0,10.0,6.0,10.0,10.0,36.0,58.0,First Prize,2022
+49–51.,,Alexander,Sokolikhin,,Moscow,,10,9.0,10.0,0.0,29.0,9.0,10.0,10.0,,29.0,58.0,First Prize,2022
+49–51.,,Gabriel,Tostes Messias Pereira,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,10.0,10.0,6.0,36.0,10.0,10.0,2.0,,22.0,58.0,First Prize,2022
+52–53.,,Alexander,Khudyakov,,Moscow,,10,10.0,10.0,4.0,34.0,,10.0,10.0,3.0,23.0,57.0,First Prize,2022
+52–53.,,Md Sabbir,Rahman,Bangladesh University of Engineering and Technology,Dhaka,Bangladesh,10,7.0,10.0,0.0,27.0,9.0,9.0,10.0,2.0,30.0,57.0,First Prize,2022
+54–57.,,Yevhenii,Azarov,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10,10.0,2.0,0.0,22.0,10.0,10.0,10.0,4.0,34.0,56.0,First Prize,2022
+54–57.,,Javier,Nistal Salas,BarcelonaTech,Barcelona,Spain,10,10.0,10.0,,30.0,9.0,10.0,7.0,,26.0,56.0,First Prize,2022
+54–57.,,Nils Per,Van de Berg,University of Utrecht,Utrecht,Netherlands,10,10.0,2.0,0.0,22.0,10.0,10.0,10.0,4.0,34.0,56.0,First Prize,2022
+54–57.,,Siebe,Verheijen,University of Amsterdam,Amsterdam,Netherlands,10,10.0,9.0,0.0,29.0,10.0,10.0,7.0,,27.0,56.0,First Prize,2022
+58.,,Minas,Margaritis,National and Kapodistrian University of Athens,Athens,Greece,10,10.0,10.0,0.0,30.0,10.0,5.0,10.0,,25.0,55.0,First Prize,2022
+59–63.,,Mekhron,Bobokhonov,,Moscow,,10,10.0,10.0,0.0,30.0,10.0,10.0,4.0,0.0,24.0,54.0,First Prize,2022
+59–63.,,Thomas,Chen,Universiteit Leiden,Leiden,Netherlands,10,10.0,3.0,0.0,23.0,10.0,5.0,10.0,6.0,31.0,54.0,First Prize,2022
+59–63.,,Ziad eddine,OUMZIL,École Polytechnique,Paris,France,10,10.0,9.0,,29.0,9.0,6.0,10.0,,25.0,54.0,First Prize,2022
+59–63.,,Temirkhan,Zimanov,,Moscow,,10,8.0,10.0,,28.0,9.0,10.0,7.0,0.0,26.0,54.0,First Prize,2022
+59–63.,,Azur,Đonlagić,Jagiellonian University,Krakow,Poland,10,10.0,2.0,,22.0,10.0,10.0,2.0,10.0,32.0,54.0,First Prize,2022
+64–66.,,Anton,Beletsky,,Moscow,,10,10.0,2.0,0.0,22.0,10.0,1.0,10.0,10.0,31.0,53.0,First Prize,2022
+64–66.,,Lammert,Westerdijk,University of Utrecht,Utrecht,Netherlands,10,10.0,10.0,0.0,30.0,10.0,5.0,7.0,1.0,23.0,53.0,First Prize,2022
+64–66.,,Tommy,Winetraub,Tel Aviv University,Tel Aviv,Israel,10,9.0,8.0,,27.0,10.0,10.0,6.0,,26.0,53.0,First Prize,2022
+67–70.,,Maciej,Białobrzeski,University of Warsaw,Warsaw,Poland,10,10.0,2.0,,22.0,10.0,10.0,10.0,,30.0,52.0,First Prize,2022
+67–70.,,Nikita,Khomenko,,Moscow,,10,9.0,10.0,,29.0,,10.0,9.0,4.0,23.0,52.0,First Prize,2022
+67–70.,,Jakov,Ljubičić,University of Zagreb,Zagreb,Croatia,10,10.0,2.0,0.0,22.0,10.0,10.0,10.0,,30.0,52.0,First Prize,2022
+67–70.,,Sebastian,Simon,École Polytechnique,Paris,France,10,10.0,2.0,0.0,22.0,10.0,10.0,10.0,,30.0,52.0,First Prize,2022
+71–79.,,Dumitrescu,Dan,University of Bucharest,Bucharest,Romania,10,10.0,2.0,0.0,22.0,10.0,9.0,10.0,0.0,29.0,51.0,First Prize,2022
+71–79.,,Jacek,Jakimiuk,University of Warsaw,Warsaw,Poland,10,10.0,3.0,0.0,23.0,10.0,2.0,6.0,10.0,28.0,51.0,First Prize,2022
+71–79.,,Aaron Jude,Naidu,University of KwaZulu-Natal,Durban,South Africa,10,10.0,10.0,0.0,30.0,10.0,9.0,2.0,0.0,21.0,51.0,First Prize,2022
+71–79.,,Dmytro,Shtefan,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10,10.0,5.0,0.0,25.0,10.0,1.0,10.0,5.0,26.0,51.0,First Prize,2022
+71–79.,,Kevin,van Dijk,University of Utrecht,Utrecht,Netherlands,10,10.0,2.0,0.0,22.0,10.0,10.0,5.0,4.0,29.0,51.0,First Prize,2022
+71–79.,,Eduardo,Ventilari Sodré,Universidade de São Paulo,São Paulo,Brazil,10,10.0,10.0,0.0,30.0,10.0,6.0,5.0,0.0,21.0,51.0,First Prize,2022
+71–79.,,Julian,Völlmecke,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10,10.0,10.0,0.0,30.0,10.0,8.0,3.0,,21.0,51.0,First Prize,2022
+71–79.,,Andrey,Voronin,,Moscow,,10,9.0,7.0,,26.0,10.0,3.0,3.0,9.0,25.0,51.0,First Prize,2022
+71–79.,,Lee-David,Watzlawik,University of Hagen / University of St.Gallen,Hagen / St. Gallen,Germany / Switzerland,10,10.0,3.0,0.0,23.0,10.0,1.0,10.0,7.0,28.0,51.0,First Prize,2022
+80–83.,,André Yuji,Hisatsuga,Universidade de São Paulo,São Paulo,Brazil,10,7.0,2.0,1.0,20.0,10.0,10.0,10.0,,30.0,50.0,First Prize,2022
+80–83.,,Larry Yuming,Huang,University of Cambridge,Cambridge,UK,10,8.0,3.0,,21.0,10.0,6.0,10.0,3.0,29.0,50.0,First Prize,2022
+80–83.,,Mikhail,Petrov,,Moscow,,10,10.0,6.0,,26.0,10.0,4.0,10.0,,24.0,50.0,First Prize,2022
+80–83.,,Anastasiia,Zhilina,,Moscow,,10,10.0,2.0,,22.0,10.0,10.0,8.0,,28.0,50.0,First Prize,2022
+84–87.,,Arben,Ajredini,"University of Prishtina ""Hasan Prishtina""",Prishtina,Kosovo,10,10.0,2.0,,22.0,10.0,10.0,7.0,0.0,27.0,49.0,First Prize,2022
+84–87.,,Engun,Bayasgalan,University of Warwick,Warwick,UK,10,10.0,4.0,0.0,24.0,10.0,10.0,5.0,0.0,25.0,49.0,First Prize,2022
+84–87.,,Ivan,Frolov,,Novosibirsk,,10,7.0,8.0,,25.0,10.0,10.0,,4.0,24.0,49.0,First Prize,2022
+84–87.,,Yoad,Yahalom Weiss,Bar Ilan University,Ramat Gan,Israel,10,10.0,2.0,0.0,22.0,10.0,5.0,10.0,2.0,27.0,49.0,First Prize,2022
+88–91.,,Atonu Roy,Chowdhury,BRAC University,Dhaka,Bangladesh,10,10.0,6.0,,26.0,9.0,3.0,10.0,,22.0,48.0,First Prize,2022
+88–91.,,Vahan,Martirosyan,Yerevan State University,Yerevan,Armenia,10,10.0,1.0,,21.0,10.0,7.0,10.0,,27.0,48.0,First Prize,2022
+88–91.,,Mehedi Hasan Nowshad,Mehedi Hasan Nowshad,University of Dhaka,Dhaka,Bangladesh,8,10.0,3.0,0.0,21.0,9.0,9.0,9.0,0.0,27.0,48.0,First Prize,2022
+88–91.,,Amirabbas,Mohammadi,Sharif University of Technology,Tehran,Iran,10,10.0,2.0,,22.0,10.0,6.0,10.0,,26.0,48.0,First Prize,2022
+92–98.,,Jepbar,Asgarov,Turkmen State Institute of Architecture and Construction,Ashgabat,Turkmenistan,9,10.0,3.0,,22.0,10.0,10.0,5.0,,25.0,47.0,First Prize,2022
+92–98.,,Serhii,Cheremshynskyi,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10,7.0,10.0,,27.0,10.0,,10.0,,20.0,47.0,First Prize,2022
+92–98.,,Jonas,De Schouwer,Katholieke Universiteit te Leuven,Leuven,Belgium,10,10.0,10.0,0.0,30.0,10.0,1.0,6.0,0.0,17.0,47.0,First Prize,2022
+92–98.,,George Lucas,Diniz Alencar,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,Brazil,10,10.0,2.0,0.0,22.0,10.0,10.0,0.0,5.0,25.0,47.0,First Prize,2022
+92–98.,,Vahe,Karagulyan,Yerevan State University,Yerevan,Armenia,10,10.0,3.0,,23.0,10.0,4.0,10.0,,24.0,47.0,First Prize,2022
+92–98.,,Gabriel,Ribeiro Paiva,Universidade Estadual de Campinas,São Paulo,Brazil,10,8.0,9.0,,27.0,10.0,10.0,,,20.0,47.0,First Prize,2022
+92–98.,,Tobias,Schnieders,Karls Eberhard Universitaet Tuebingen,Tuebingen,Germany,10,8.0,0.0,0.0,18.0,10.0,10.0,9.0,0.0,29.0,47.0,First Prize,2022
+99–103.,,Maksim,Andreev,,Moscow,,10,10.0,3.0,,23.0,3.0,10.0,10.0,,23.0,46.0,First Prize,2022
+99–103.,,Gia Huy,Duong,National Economic University,Hanoi,Vietnam,10,7.0,2.0,,19.0,10.0,8.0,9.0,,27.0,46.0,First Prize,2022
+99–103.,,Alba Vika,Sánchez Bernal,University of Barcelona,Barcelona,Spain,10,10.0,2.0,0.0,22.0,10.0,4.0,10.0,0.0,24.0,46.0,First Prize,2022
+99–103.,,Daniil,Yurshevich,Jagiellonian University,Krakow,Poland,10,10.0,2.0,,22.0,10.0,1.0,10.0,3.0,24.0,46.0,First Prize,2022
+99–103.,,Gabriëlle,Zwaneveld,University of Utrecht,Utrecht,Netherlands,10,10.0,2.0,0.0,22.0,4.0,10.0,10.0,,24.0,46.0,First Prize,2022
+104–109.,,Tigran,Chtchyan,Yerevan State University,Yerevan,Armenia,10,10.0,4.0,0.0,24.0,9.0,5.0,7.0,,21.0,45.0,First Prize,2022
+104–109.,,Lovro,Drofenik,University of Ljubljana,Ljubljana,Slovenia,10,10.0,4.0,,24.0,1.0,4.0,10.0,6.0,21.0,45.0,First Prize,2022
+104–109.,,Agoston,Gyorffy,Loránd Eötvös University,Budapest,Hungary,10,9.0,3.0,,22.0,10.0,10.0,3.0,0.0,23.0,45.0,First Prize,2022
+104–109.,,Iris Julia Paulina,Hebbeker,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10,10.0,2.0,,22.0,10.0,,10.0,3.0,23.0,45.0,First Prize,2022
+104–109.,,Rafaël Hesse Matthias,Houkes,Universiteit Leiden,Leiden,Netherlands,9,7.0,10.0,0.0,26.0,10.0,4.0,5.0,,19.0,45.0,First Prize,2022
+104–109.,,Fabiano,Menezes e Sousa,École Polytechnique,Paris,France,10,10.0,2.0,,22.0,10.0,3.0,10.0,,23.0,45.0,First Prize,2022
+110–115.,,Luan Arjuna,Fraga Ramires,Universidade de São Paulo,São Paulo,Brazil,10,7.0,2.0,,19.0,10.0,10.0,5.0,,25.0,44.0,First Prize,2022
+110–115.,,Matevž,Miščič,University of Ljubljana,Ljubljana,Slovenia,10,10.0,1.0,0.0,21.0,10.0,3.0,0.0,10.0,23.0,44.0,First Prize,2022
+110–115.,,Phuoc,Pham Van Long,Nanyang Technological University,Jurong West,Singapore,10,7.0,2.0,0.0,19.0,10.0,10.0,5.0,,25.0,44.0,First Prize,2022
+110–115.,,Resul,Shamuhammedov,Magtymguly Turkmen State University,Ashgabat,Turkmenistan,10,10.0,2.0,,22.0,10.0,2.0,10.0,,22.0,44.0,First Prize,2022
+110–115.,,Vladyslav,Shashkov,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10,10.0,2.0,0.0,22.0,2.0,10.0,10.0,0.0,22.0,44.0,First Prize,2022
+110–115.,,Tadej,Tukara,University of Zagreb,Zagreb,Croatia,10,10.0,2.0,0.0,22.0,10.0,0.0,10.0,2.0,22.0,44.0,First Prize,2022
+116–129.,,Muhammetnur,Bagbekov,International University for the Humanities and Development,Ashgabat,Turkmenistan,10,10.0,3.0,,23.0,10.0,,10.0,,20.0,43.0,First Prize,2022
+116–129.,,Arman,Bolatov,Nazarbayev University,Astana,Kazakhstan,10,10.0,1.0,,21.0,10.0,2.0,10.0,,22.0,43.0,First Prize,2022
+116–129.,,Guilherme Zeus,Dantas e Moura,Haverford College,Haverford,USA,10,5.0,2.0,0.0,17.0,9.0,8.0,,9.0,26.0,43.0,First Prize,2022
+116–129.,,Fahreezan Sheraz,Diyaldin,Universitas Gadjah Mada,Yogyakarta,Indonesia,10,10.0,2.0,0.0,22.0,10.0,1.0,10.0,0.0,21.0,43.0,First Prize,2022
+116–129.,,Michael,Glasner,Weizmann Institute of Science,Rehovot,Israel,10,10.0,2.0,,22.0,2.0,3.0,10.0,6.0,21.0,43.0,First Prize,2022
+116–129.,,Bogdan Octavian,Grecu,University College London,London,UK,10,10.0,1.0,,21.0,10.0,4.0,8.0,,22.0,43.0,First Prize,2022
+116–129.,,Dennis,Hilhorst,University of Utrecht,Utrecht,Netherlands,10,2.0,2.0,0.0,14.0,10.0,2.0,10.0,7.0,29.0,43.0,First Prize,2022
+116–129.,,Áron,Jánosik,Loránd Eötvös University,Budapest,Hungary,10,10.0,3.0,,23.0,10.0,0.0,10.0,,20.0,43.0,First Prize,2022
+116–129.,,Jiqing,Jiang,University of Melbourne,Melbourne,Australia,10,9.0,2.0,,21.0,10.0,8.0,4.0,0.0,22.0,43.0,First Prize,2022
+116–129.,,Florian,Lang,Universität Wien,Vienna,Austria,10,9.0,2.0,,21.0,,10.0,9.0,3.0,22.0,43.0,First Prize,2022
+116–129.,,Félix,Moreno Peñarrubia,BarcelonaTech,Barcelona,Spain,10,10.0,1.0,0.0,21.0,10.0,0.0,2.0,10.0,22.0,43.0,First Prize,2022
+116–129.,,Duart,Nishefci,"University of Prishtina ""Hasan Prishtina""",Prishtina,Kosovo,10,10.0,0.0,,20.0,10.0,3.0,10.0,,23.0,43.0,First Prize,2022
+116–129.,,Martin,Raška,Charles University,Prague,Czech Republic,8,1.0,2.0,,11.0,10.0,10.0,10.0,2.0,32.0,43.0,First Prize,2022
+116–129.,,启源,宋,Southern University of Science and Technology,Shenzhen,China,10,10.0,2.0,0.0,22.0,10.0,1.0,10.0,0.0,21.0,43.0,First Prize,2022
+130–135.,,Oriol,Baeza Guasch,BarcelonaTech,Barcelona,Spain,10,7.0,4.0,,21.0,10.0,6.0,5.0,,21.0,42.0,First Prize,2022
+130–135.,,Mikhail,Gorbunov,,Moscow,,10,10.0,2.0,,22.0,10.0,,10.0,,20.0,42.0,First Prize,2022
+130–135.,,Yauheni,Minau,Belarusian State University of Informatics and Radioelectronics,Minsk,Belarus,10,10.0,10.0,0.0,30.0,1.0,1.0,10.0,,12.0,42.0,First Prize,2022
+130–135.,,Neba Eddie Ibrahim,Polneau,Ecole Polytechnique,Palaiseau,France,10,10.0,2.0,,22.0,10.0,0.0,10.0,,20.0,42.0,First Prize,2022
+130–135.,,Marián,Poturnay,"Comenius University, Bratislava",Bratislava,Slovakia,10,9.0,3.0,0.0,22.0,10.0,7.0,1.0,2.0,20.0,42.0,First Prize,2022
+130–135.,,Mateus,Siqueira Thimoteo,Ecole Polytechnique,Palaiseau,France,10,9.0,2.0,,21.0,10.0,10.0,1.0,,21.0,42.0,First Prize,2022
+136–151.,,Abdulkadyr,Buchaev,,Moscow,,10,9.0,2.0,,21.0,10.0,10.0,0.0,,20.0,41.0,First Prize,2022
+136–151.,,Bruno,Costa Alves Freire,École Polytechnique,Paris,France,10,10.0,1.0,0.0,21.0,1.0,9.0,10.0,0.0,20.0,41.0,First Prize,2022
+136–151.,,Magomedrasul,Gasanov,,Moscow,,9,3.0,0.0,,12.0,10.0,10.0,9.0,,29.0,41.0,First Prize,2022
+136–151.,,Florin,Grigore,Babeș-Bolyai University,Cluj-Napoca,Romania,10,10.0,2.0,,22.0,,9.0,10.0,,19.0,41.0,First Prize,2022
+136–151.,,Sahan,Karawita,University of Colombo,Colombo,Sri Lanka,10,10.0,1.0,,21.0,10.0,1.0,9.0,,20.0,41.0,First Prize,2022
+136–151.,,Uri,Kreitner,Tel Aviv University,Tel Aviv,Israel,10,7.0,2.0,,19.0,10.0,6.0,6.0,0.0,22.0,41.0,First Prize,2022
+136–151.,,Yuliya,Kryvitskaya,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10,9.0,1.0,,20.0,10.0,1.0,10.0,,21.0,41.0,First Prize,2022
+136–151.,,Aymane,Maaitat,École Polytechnique,Paris,France,10,10.0,1.0,0.0,21.0,10.0,2.0,8.0,,20.0,41.0,First Prize,2022
+136–151.,,Soroush,Rezaei,Sharif University of Technology,Tehran,Iran,10,10.0,1.0,,21.0,10.0,6.0,4.0,,20.0,41.0,First Prize,2022
+136–151.,,Anatoli,Shatsila,Jagiellonian University,Krakow,Poland,10,10.0,3.0,0.0,23.0,10.0,2.0,6.0,0.0,18.0,41.0,First Prize,2022
+136–151.,,Artem,Skvorcov,,Saint-Petersburg,,10,10.0,3.0,,23.0,,8.0,10.0,,18.0,41.0,First Prize,2022
+136–151.,,Aleksandr,Snadin,,Novosibirsk,,10,10.0,1.0,,21.0,10.0,0.0,10.0,,20.0,41.0,First Prize,2022
+136–151.,,Anzhou,Song,University of Exeter,Exeter,UK,10,9.0,1.0,,20.0,10.0,3.0,8.0,,21.0,41.0,First Prize,2022
+136–151.,,Iskander,Trevor Mathews,University of Warwick,Warwick,UK,10,10.0,3.0,,23.0,10.0,3.0,4.0,1.0,18.0,41.0,First Prize,2022
+136–151.,,Jahongir,Turayev,National University of Uzbekistan,Tashkent,Uzbekistan,10,7.0,2.0,,19.0,2.0,10.0,10.0,,22.0,41.0,First Prize,2022
+136–151.,,Armel Randy,ZEBAZE,École Polytechnique,Paris,France,10,10.0,1.0,0.0,21.0,6.0,2.0,10.0,2.0,20.0,41.0,First Prize,2022
+152–160.,,Jairon,Batista,Fundação Getulio Vargas,Rio de Janeiro,Brazil,10,7.0,1.0,,18.0,9.0,10.0,3.0,,22.0,40.0,First Prize,2022
+152–160.,,Víctor,Conchello Vendrell,BarcelonaTech,Barcelona,Spain,10,5.0,4.0,,19.0,9.0,3.0,,9.0,21.0,40.0,First Prize,2022
+152–160.,,Gurt,Dovletov,State Energy Institute of Turkmenistan,Mary,Turkmenistan,10,9.0,0.0,,19.0,10.0,1.0,10.0,,21.0,40.0,First Prize,2022
+152–160.,,LUCAS HIROSHI,HANKE HARADA,Universidade de São Paulo,São Paulo,Brazil,10,7.0,3.0,4.0,24.0,10.0,5.0,0.0,1.0,16.0,40.0,First Prize,2022
+152–160.,,Yana,Kolodach,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10,7.0,1.0,0.0,18.0,10.0,2.0,9.0,1.0,22.0,40.0,First Prize,2022
+152–160.,,Jubayer,Rahman,University of Dhaka,Dhaka,Bangladesh,10,2.0,2.0,0.0,14.0,10.0,0.0,10.0,6.0,26.0,40.0,First Prize,2022
+152–160.,,Dmitry,Tsarev,,Moscow,,10,7.0,2.0,0.0,19.0,8.0,1.0,4.0,8.0,21.0,40.0,First Prize,2022
+152–160.,,Kirill,Vishnevetskiy,,Moscow,,10,9.0,2.0,,21.0,9.0,10.0,,,19.0,40.0,First Prize,2022
+152–160.,,容名,印,Southern University of Science and Technology,Shenzhen,China,10,10.0,10.0,0.0,30.0,1.0,7.0,2.0,0.0,10.0,40.0,First Prize,2022
+161–167.,,Demetre,Gelashvili,Free University,Tbilisi,Georgia,10,10.0,2.0,,22.0,10.0,1.0,6.0,,17.0,39.0,Second Prize,2022
+161–167.,,Magdaléna,Mišinová,Charles University,Prague,Czech Republic,10,7.0,1.0,,18.0,10.0,10.0,0.0,1.0,21.0,39.0,Second Prize,2022
+161–167.,,Filip,Munteanu,Babeș-Bolyai University,Cluj-Napoca,Romania,10,10.0,2.0,,22.0,1.0,6.0,10.0,,17.0,39.0,Second Prize,2022
+161–167.,,Denis,Rakhmankin,,Saint-Petersburg,,10,9.0,1.0,,20.0,10.0,9.0,,0.0,19.0,39.0,Second Prize,2022
+161–167.,,Issam,Tauil,École Polytechnique,Paris,France,10,9.0,3.0,,22.0,,5.0,10.0,2.0,17.0,39.0,Second Prize,2022
+161–167.,,Stepan,Vakhrushev,,Moscow,,10,9.0,2.0,,21.0,10.0,0.0,2.0,6.0,18.0,39.0,Second Prize,2022
+161–167.,,Aelly,Zeltzer,Technion,Haifa,Israel,10,10.0,1.0,,21.0,10.0,1.0,7.0,,18.0,39.0,Second Prize,2022
+168–175.,,Abdushukur,Akhadov,National University of Uzbekistan,Tashkent,Uzbekistan,10,3.0,8.0,,21.0,10.0,5.0,2.0,,17.0,38.0,Second Prize,2022
+168–175.,,Noam,Baruch,Technion,Haifa,Israel,10,10.0,1.0,,21.0,8.0,0.0,9.0,,17.0,38.0,Second Prize,2022
+168–175.,,Vedran,Cifrek,University of Zagreb,Zagreb,Croatia,10,10.0,3.0,,23.0,10.0,5.0,0.0,,15.0,38.0,Second Prize,2022
+168–175.,,Leonardo,Costa Lesage,BarcelonaTech,Barcelona,Spain,10,10.0,5.0,,25.0,1.0,10.0,2.0,,13.0,38.0,Second Prize,2022
+168–175.,,Martín,Gómez Abejón,Universidad Complutense de Madrid,Madrid,Spain,10,10.0,2.0,0.0,22.0,1.0,5.0,10.0,0.0,16.0,38.0,Second Prize,2022
+168–175.,,Ivan,Mikhailov,,Moscow,,10,0.0,2.0,0.0,12.0,10.0,6.0,10.0,,26.0,38.0,Second Prize,2022
+168–175.,,Asiiat,Musaeva,,Moscow,,10,10.0,0.0,,20.0,9.0,0.0,9.0,,18.0,38.0,Second Prize,2022
+168–175.,,Yam,Stern,Technion,Haifa,Israel,10,5.0,3.0,0.0,18.0,10.0,0.0,10.0,0.0,20.0,38.0,Second Prize,2022
+176–189.,,Mobina,Azimi Baviloliyaei,Sharif University of Technology,Tehran,Iran,10,10.0,2.0,,22.0,10.0,0.0,5.0,,15.0,37.0,Second Prize,2022
+176–189.,,Duc,Cao,University College London,London,UK,10,10.0,2.0,,22.0,10.0,2.0,3.0,,15.0,37.0,Second Prize,2022
+176–189.,,Caio Augusto,de Carvalho Costa,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,6.0,1.0,,17.0,4.0,4.0,2.0,10.0,20.0,37.0,Second Prize,2022
+176–189.,,Victor Hugo,de Souza Daniel,Universidade de São Paulo,São Paulo,Brazil,10,7.0,1.0,0.0,18.0,10.0,,9.0,,19.0,37.0,Second Prize,2022
+176–189.,,Nika,Glunchadze,Free University,Tbilisi,Georgia,10,10.0,2.0,,22.0,10.0,2.0,3.0,,15.0,37.0,Second Prize,2022
+176–189.,,Muhammetmyrat,Gochmyradov,Turkmen State Institute of Architecture and Construction,Ashgabat,Turkmenistan,10,2.0,3.0,,15.0,10.0,10.0,2.0,,22.0,37.0,Second Prize,2022
+176–189.,,Dmitriy,Gorovoy,Jagiellonian University,Krakow,Poland,10,9.0,2.0,,21.0,10.0,6.0,0.0,,16.0,37.0,Second Prize,2022
+176–189.,,Daniil,Homza,Jagiellonian University,Krakow,Poland,10,10.0,1.0,,21.0,10.0,6.0,,0.0,16.0,37.0,Second Prize,2022
+176–189.,,Amir,Lavi,Bar Ilan University,Ramat Gan,Israel,10,7.0,10.0,0.0,27.0,0.0,0.0,10.0,0.0,10.0,37.0,Second Prize,2022
+176–189.,,Arthur,Moreira Martins Vieira,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,Brazil,10,10.0,2.0,,22.0,10.0,1.0,4.0,,15.0,37.0,Second Prize,2022
+176–189.,,Calin George,Pop,Babeș-Bolyai University,Cluj-Napoca,Romania,10,10.0,1.0,0.0,21.0,10.0,2.0,4.0,0.0,16.0,37.0,Second Prize,2022
+176–189.,,Konstantinos,Prattis,Aristotle University of Thessaloniki,Thessaloniki,Greece,10,10.0,2.0,,22.0,1.0,4.0,10.0,0.0,15.0,37.0,Second Prize,2022
+176–189.,,Steven Fernaldy,Tanno,University of Indonesia,Depok,Indonesia,10,9.0,2.0,0.0,21.0,10.0,5.0,1.0,0.0,16.0,37.0,Second Prize,2022
+176–189.,,Yang,Zhang,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10,6.0,1.0,0.0,17.0,10.0,3.0,7.0,0.0,20.0,37.0,Second Prize,2022
+190–201.,,Bralinov,Almas,,Nur-Sultan,Kazakhstan,10,3.0,2.0,,15.0,10.0,2.0,9.0,,21.0,36.0,Second Prize,2022
+190–201.,,Jorge,Casanova Moya,Universidad de Zaragoza,Zaragoza,Spain,10,10.0,2.0,,22.0,10.0,0.0,4.0,,14.0,36.0,Second Prize,2022
+190–201.,,Lucie,Gatzmaga,University of Warwick,Warwick,UK,10,10.0,1.0,0.0,21.0,10.0,4.0,1.0,0.0,15.0,36.0,Second Prize,2022
+190–201.,,Zifan,Hua,University of Nottingham Ningbo China,Ningbo,China,10,10.0,1.0,0.0,21.0,10.0,0.0,5.0,0.0,15.0,36.0,Second Prize,2022
+190–201.,,Jan,Kus,University of Warwick,Warwick,UK,10,8.0,2.0,0.0,20.0,10.0,6.0,0.0,0.0,16.0,36.0,Second Prize,2022
+190–201.,,Edward,Li,Northwest Junior Highschool,Iowa City,USA,10,6.0,,,16.0,10.0,,5.0,5.0,20.0,36.0,Second Prize,2022
+190–201.,,Giorgio,Mangioni,Scuola Normale Superiore,Pisa,Italy,10,10.0,2.0,0.0,22.0,10.0,0.0,4.0,,14.0,36.0,Second Prize,2022
+190–201.,,Jônatas,Marinho,Universidade Federal de Alagoas,Maceió,Brazil,10,10.0,0.0,0.0,20.0,5.0,1.0,10.0,0.0,16.0,36.0,Second Prize,2022
+190–201.,,Dimosthenis,Pavlidis,Aristotle University of Thessaloniki,Thessaloniki,Greece,10,10.0,2.0,,22.0,,4.0,10.0,,14.0,36.0,Second Prize,2022
+190–201.,,Arthur,Queiroz Moura,Universidade de São Paulo,São Paulo,Brazil,10,2.0,0.0,,12.0,10.0,4.0,10.0,,24.0,36.0,Second Prize,2022
+190–201.,,Johannes Elias Joseph,Salomão,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,5,10.0,2.0,,17.0,0.0,10.0,9.0,,19.0,36.0,Second Prize,2022
+190–201.,,Aleksandr,Tarasenko,,Novosibirsk,,7,9.0,0.0,,16.0,10.0,,9.0,1.0,20.0,36.0,Second Prize,2022
+202–210.,,Abdillah,Ahmad,Bandung Institute of Technology,Bandung,Indonesia,10,10.0,3.0,0.0,23.0,10.0,0.0,2.0,0.0,12.0,35.0,Second Prize,2022
+202–210.,,Artur César,Araújo Alves,École Polytechnique,Paris,France,10,9.0,1.0,,20.0,10.0,0.0,5.0,,15.0,35.0,Second Prize,2022
+202–210.,,Pavel,Arkhipov,,Moscow,,4,9.0,2.0,,15.0,10.0,0.0,7.0,3.0,20.0,35.0,Second Prize,2022
+202–210.,,Jens,Bloemen,University of Amsterdam,Amsterdam,Netherlands,10,7.0,1.0,,18.0,10.0,5.0,2.0,,17.0,35.0,Second Prize,2022
+202–210.,,Ahmed,Chahlaoui,École Polytechnique,Paris,France,10,10.0,1.0,,21.0,0.0,4.0,10.0,,14.0,35.0,Second Prize,2022
+202–210.,,Andre,Dal Bosco,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,6.0,2.0,,18.0,10.0,0.0,5.0,2.0,17.0,35.0,Second Prize,2022
+202–210.,,Jasurbek,Imomov,National University of Uzbekistan,Tashkent,Uzbekistan,10,7.0,6.0,,23.0,10.0,2.0,0.0,,12.0,35.0,Second Prize,2022
+202–210.,,Sergey,Postnov,,Moscow,,10,10.0,2.0,,22.0,,4.0,9.0,,13.0,35.0,Second Prize,2022
+202–210.,,Tom,Waknine,Technion,Haifa,Israel,10,7.0,2.0,0.0,19.0,0.0,,10.0,6.0,16.0,35.0,Second Prize,2022
+211–225.,,bahar,bagheri,University of Tehran,Tehran,Iran,10,7.0,1.0,0.0,18.0,10.0,6.0,,,16.0,34.0,Second Prize,2022
+211–225.,,Mikhail,Chernavskikh,,Moscow,,10,3.0,2.0,0.0,15.0,2.0,0.0,10.0,7.0,19.0,34.0,Second Prize,2022
+211–225.,,Viktor,Csaplár,Loránd Eötvös University,Budapest,Hungary,8,7.0,2.0,,17.0,10.0,5.0,2.0,,17.0,34.0,Second Prize,2022
+211–225.,,Javier Fernando,González Guzmán,Universidad Nacional de Colombia,Bogota,Colombia,10,10.0,3.0,,23.0,,,7.0,4.0,11.0,34.0,Second Prize,2022
+211–225.,,Ido,Goorevitch,Technion,Haifa,Israel,10,9.0,0.0,0.0,19.0,10.0,0.0,,5.0,15.0,34.0,Second Prize,2022
+211–225.,,Javier,Herrero Cañedo,University of Seville,Sevilla,Spain,4,10.0,1.0,,15.0,9.0,0.0,10.0,,19.0,34.0,Second Prize,2022
+211–225.,,Gagik,Melkumyan,Yerevan State University,Yerevan,Armenia,10,10.0,1.0,,21.0,1.0,0.0,10.0,2.0,13.0,34.0,Second Prize,2022
+211–225.,,Davit,Modebadze,Free University,Tbilisi,Georgia,10,10.0,1.0,,21.0,10.0,0.0,3.0,,13.0,34.0,Second Prize,2022
+211–225.,,Enzo,Pontes Saraiva de Moraes,Universidade Estadual de Campinas,São Paulo,Brazil,10,,10.0,,20.0,10.0,4.0,,,14.0,34.0,Second Prize,2022
+211–225.,,Yvens Ian,Prado Porto,Universidade Estadual de Campinas,São Paulo,Brazil,10,2.0,3.0,,15.0,10.0,5.0,0.0,4.0,19.0,34.0,Second Prize,2022
+211–225.,,Maksym,Pushkar,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10,10.0,2.0,0.0,22.0,0.0,1.0,3.0,8.0,12.0,34.0,Second Prize,2022
+211–225.,,Vasiliki,Rizou,Aristotle University of Thessaloniki,Thessaloniki,Greece,10,9.0,0.0,0.0,19.0,9.0,1.0,1.0,4.0,15.0,34.0,Second Prize,2022
+211–225.,,Àlex,Rodríguez García,BarcelonaTech,Barcelona,Spain,10,10.0,10.0,,30.0,,4.0,,,4.0,34.0,Second Prize,2022
+211–225.,,Andi,Sejdiu,"University of Prishtina ""Hasan Prishtina""",Prishtina,Kosovo,10,2.0,2.0,,14.0,10.0,10.0,,,20.0,34.0,Second Prize,2022
+211–225.,,Robin,Simoens,Ghent University,Ghent,Belgium,10,7.0,2.0,0.0,19.0,9.0,6.0,,0.0,15.0,34.0,Second Prize,2022
+226–239.,,Kadyrberdi,Annabayev,Turkmen State Institute of Architecture and Construction,Ashgabat,Turkmenistan,10,0.0,3.0,,13.0,10.0,10.0,0.0,,20.0,33.0,Second Prize,2022
+226–239.,,Matheus,Barreto,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,7.0,0.0,0.0,17.0,9.0,5.0,2.0,,16.0,33.0,Second Prize,2022
+226–239.,,Rojan,Dangol,New York University Abu Dhabi,Abu Dhabi,United Arab Emirates,10,10.0,3.0,,23.0,0.0,0.0,10.0,,10.0,33.0,Second Prize,2022
+226–239.,,Rashid,Fazylov,,Moscow,,10,7.0,2.0,,19.0,10.0,4.0,,,14.0,33.0,Second Prize,2022
+226–239.,,Lukáš,Gáborik,"Comenius University, Bratislava",Bratislava,Slovakia,9,9.0,2.0,,20.0,10.0,1.0,2.0,,13.0,33.0,Second Prize,2022
+226–239.,,Ilan,Levin,Bar Ilan University,Ramat Gan,Israel,10,10.0,2.0,,22.0,1.0,0.0,10.0,,11.0,33.0,Second Prize,2022
+226–239.,,Fran,Mišković,University of Zagreb,Zagreb,Croatia,10,10.0,1.0,,21.0,10.0,,2.0,,12.0,33.0,Second Prize,2022
+226–239.,,Paul,Müller,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10,5.0,2.0,0.0,17.0,9.0,4.0,1.0,2.0,16.0,33.0,Second Prize,2022
+226–239.,,Robert,Pop,Babeș-Bolyai University,Cluj-Napoca,Romania,10,10.0,2.0,0.0,22.0,0.0,1.0,10.0,0.0,11.0,33.0,Second Prize,2022
+226–239.,,Murat,Sapayev,Magtymguly Turkmen State University,Ashgabat,Turkmenistan,10,10.0,2.0,,22.0,1.0,,10.0,,11.0,33.0,Second Prize,2022
+226–239.,,Ruiqi,Song,Nanyang Technological University,Jurong West,Singapore,10,9.0,3.0,,22.0,,0.0,10.0,1.0,11.0,33.0,Second Prize,2022
+226–239.,,Zijian,Wang,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10,10.0,3.0,0.0,23.0,3.0,0.0,4.0,3.0,10.0,33.0,Second Prize,2022
+226–239.,,Yurii,Yarosh,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,10,10.0,1.0,0.0,21.0,1.0,1.0,10.0,0.0,12.0,33.0,Second Prize,2022
+226–239.,,Maša,Žaucer,University of Ljubljana,Ljubljana,Slovenia,10,5.0,2.0,0.0,17.0,9.0,0.0,6.0,1.0,16.0,33.0,Second Prize,2022
+240–260.,,Žan,Bajuk,University of Ljubljana,Ljubljana,Slovenia,10,7.0,2.0,,19.0,0.0,0.0,10.0,3.0,13.0,32.0,Second Prize,2022
+240–260.,,Oleg,Brygar,,Moscow,,10,5.0,1.0,0.0,16.0,10.0,3.0,3.0,,16.0,32.0,Second Prize,2022
+240–260.,,Ilya,Danilin,,Moscow,,3,10.0,9.0,,22.0,,,10.0,,10.0,32.0,Second Prize,2022
+240–260.,,Maarten,de Coen,Ghent University,Ghent,Belgium,1,9.0,1.0,0.0,11.0,10.0,1.0,10.0,0.0,21.0,32.0,Second Prize,2022
+240–260.,,Marco,Della Penna,Università degli studi di Milano,Milan,Italy,10,10.0,0.0,,20.0,10.0,2.0,,,12.0,32.0,Second Prize,2022
+240–260.,,Arman,Fahradyan,Russian-Armenian University,Yerevan,Armenia,8,10.0,2.0,,20.0,2.0,,10.0,,12.0,32.0,Second Prize,2022
+240–260.,,Roberto,Gesteira Miñarro,Universidad Nacional de Educación a Distancia,Madrid,Spain,10,10.0,0.0,,20.0,,9.0,3.0,,12.0,32.0,Second Prize,2022
+240–260.,,Manuel,González Santana,University of Granada,Granada,Spain,10,9.0,0.0,,19.0,,3.0,10.0,,13.0,32.0,Second Prize,2022
+240–260.,,Caio,Graça Gomes,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,7.0,1.0,,18.0,10.0,3.0,1.0,,14.0,32.0,Second Prize,2022
+240–260.,,Peter,Hyland,University of Warwick,Warwick,UK,10,2.0,3.0,0.0,15.0,9.0,7.0,1.0,0.0,17.0,32.0,Second Prize,2022
+240–260.,,Danila,Ivanov,,Moscow,,10,2.0,2.0,0.0,14.0,9.0,9.0,,0.0,18.0,32.0,Second Prize,2022
+240–260.,,Nikita,Leo,University of Tartu,Tartu,Estonia,10,0.0,2.0,0.0,12.0,10.0,10.0,,0.0,20.0,32.0,Second Prize,2022
+240–260.,,Luka,Macharashvili,Free University,Tbilisi,Georgia,10,10.0,2.0,,22.0,9.0,1.0,0.0,,10.0,32.0,Second Prize,2022
+240–260.,,Ioannis,Nakos,Aristotle University of Thessaloniki,Thessaloniki,Greece,10,10.0,1.0,,21.0,1.0,,10.0,,11.0,32.0,Second Prize,2022
+240–260.,,Rovshen,Ovezmyradov,Magtymguly Turkmen State University,Ashgabat,Turkmenistan,10,10.0,0.0,0.0,20.0,1.0,1.0,10.0,,12.0,32.0,Second Prize,2022
+240–260.,,Hydyrberdi,Redjepov,Magtymguly Turkmen State University,Ashgabat,Turkmenistan,10,10.0,2.0,,22.0,,,10.0,,10.0,32.0,Second Prize,2022
+240–260.,,Juan David,Restrepo Rojas,Universidad Nacional de Colombia,Bogota,Colombia,10,10.0,1.0,,21.0,,10.0,1.0,,11.0,32.0,Second Prize,2022
+240–260.,,Yonatan,Shulman,Technion,Haifa,Israel,10,10.0,1.0,0.0,21.0,2.0,2.0,7.0,,11.0,32.0,Second Prize,2022
+240–260.,,João Pedro,Tanaka Montalvão,École Polytechnique,Paris,France,10,10.0,0.0,,20.0,2.0,,10.0,,12.0,32.0,Second Prize,2022
+240–260.,,Paul,Vögele,Karls Eberhard Universitaet Tuebingen,Tuebingen,Germany,10,9.0,2.0,0.0,21.0,,1.0,10.0,,11.0,32.0,Second Prize,2022
+240–260.,,Artem,Zakharenko,,Saint-Petersburg,,10,10.0,1.0,0.0,21.0,,,3.0,8.0,11.0,32.0,Second Prize,2022
+261–274.,,Sofía,Albizu-Campos Rodríguez,University of Havana,Havana,Cuba,10,10.0,1.0,,21.0,10.0,,,,10.0,31.0,Second Prize,2022
+261–274.,,Miguel,Asensio Díaz,University of Barcelona,Barcelona,Spain,10,10.0,1.0,,21.0,0.0,0.0,10.0,,10.0,31.0,Second Prize,2022
+261–274.,,Isaías Fernando,De la Fuente Jiménez,Universidad de Guanajuato/CIMAT,Guanajuato,Mexico,10,,2.0,,12.0,10.0,6.0,3.0,,19.0,31.0,Second Prize,2022
+261–274.,,Mor Yaguel,de Lame,Tel Aviv University,Tel Aviv,Israel,10,10.0,0.0,,20.0,9.0,1.0,1.0,,11.0,31.0,Second Prize,2022
+261–274.,,José Julián,Díaz Pérez,University of Havana,Havana,Cuba,10,4.0,2.0,,16.0,10.0,5.0,,,15.0,31.0,Second Prize,2022
+261–274.,,Mohamed Farouk,Drira,National Institute of Applied Sciences and Technology,Tunis,Tunisia,10,10.0,1.0,0.0,21.0,0.0,0.0,10.0,0.0,10.0,31.0,Second Prize,2022
+261–274.,,Konstantinos,Fotopoulos,National Technical University of Athens,Athens,Greece,10,9.0,1.0,0.0,20.0,10.0,1.0,,,11.0,31.0,Second Prize,2022
+261–274.,,Alexander,Kovrigin,,Saint-Petersburg,,10,2.0,2.0,,14.0,0.0,10.0,5.0,2.0,17.0,31.0,Second Prize,2022
+261–274.,,Dmitry,Kroo,,Moscow,,4,5.0,1.0,,10.0,10.0,1.0,,10.0,21.0,31.0,Second Prize,2022
+261–274.,,MICHAIL,LOLIS,University of Patras,Patras,Greece,10,10.0,2.0,0.0,22.0,0.0,2.0,7.0,,9.0,31.0,Second Prize,2022
+261–274.,,MD.Hasan Kibria,MD.Hasan Kibria,University of Dhaka,Dhaka,Bangladesh,10,10.0,1.0,0.0,21.0,0.0,0.0,10.0,0.0,10.0,31.0,Second Prize,2022
+261–274.,,Oganes,Mirzoyan,,Moscow,,10,9.0,0.0,,19.0,10.0,,2.0,,12.0,31.0,Second Prize,2022
+261–274.,,Pedro Luiz,Moreira Santos Silva,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,10.0,0.0,0.0,20.0,1.0,0.0,10.0,0.0,11.0,31.0,Second Prize,2022
+261–274.,,Alexander,Tolmachev,,Moscow,,10,8.0,2.0,0.0,20.0,10.0,1.0,0.0,0.0,11.0,31.0,Second Prize,2022
+275–287.,,Riccardo,Berforini D'Aquino,Universitè di Modena e Reggio-Emilia,Modena,Italy,9,4.0,2.0,,15.0,10.0,0.0,5.0,,15.0,30.0,Third Prize,2022
+275–287.,,Juliet,Bringas Miranda,University of Havana,Havana,Cuba,10,7.0,1.0,,18.0,10.0,0.0,2.0,,12.0,30.0,Third Prize,2022
+275–287.,,Václav Vladimír,Janáček,Charles University,Prague,Czech Republic,10,0.0,2.0,,12.0,9.0,4.0,0.0,5.0,18.0,30.0,Third Prize,2022
+275–287.,,Santiago,Jiménez Salazar,Universidad Nacional de Colombia,Bogota,Colombia,10,7.0,1.0,,18.0,10.0,2.0,0.0,,12.0,30.0,Third Prize,2022
+275–287.,,Alexandros,Kaiopoulos,Aristotle University of Thessaloniki,Thessaloniki,Greece,10,10.0,0.0,0.0,20.0,0.0,0.0,10.0,0.0,10.0,30.0,Third Prize,2022
+275–287.,,Tyrone Chibuzo,Kasi,University of Cape Town,Cape Town,South Africa,9,2.0,1.0,,12.0,10.0,8.0,,,18.0,30.0,Third Prize,2022
+275–287.,,Samuel Christiaan,Lind,University of Amsterdam,Amsterdam,Netherlands,10,7.0,1.0,,18.0,10.0,1.0,1.0,,12.0,30.0,Third Prize,2022
+275–287.,,ALEXANDROS,NTAGKAS,University of Patras,Patras,Greece,10,3.0,2.0,,15.0,1.0,10.0,4.0,,15.0,30.0,Third Prize,2022
+275–287.,,Daniel Josué,Perdomo Pérez,University of Havana,Havana,Cuba,10,7.0,1.0,,18.0,9.0,,3.0,,12.0,30.0,Third Prize,2022
+275–287.,,Constantin Johannes,Pfannschmidt,Technische Universität München,Munich,Germany,10,10.0,0.0,,20.0,1.0,9.0,,,10.0,30.0,Third Prize,2022
+275–287.,,Georgios-Nikolaos,Polychronidis,Aristotle University of Thessaloniki,Thessaloniki,Greece,10,10.0,2.0,0.0,22.0,0.0,0.0,7.0,1.0,8.0,30.0,Third Prize,2022
+275–287.,,Nitay,Reiter,Bar Ilan University,Ramat Gan,Israel,10,9.0,1.0,0.0,20.0,0.0,5.0,5.0,0.0,10.0,30.0,Third Prize,2022
+275–287.,,Lennard,Trautmann,Universität Wien,Vienna,Austria,10,8.0,0.0,,18.0,9.0,,3.0,,12.0,30.0,Third Prize,2022
+288–292.,,Miguel,Batista,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,Brazil,10,10.0,1.0,0.0,21.0,1.0,4.0,3.0,,8.0,29.0,Third Prize,2022
+288–292.,,Andrei,Lukianov,,Novosibirsk,,10,4.0,1.0,0.0,15.0,8.0,1.0,3.0,2.0,14.0,29.0,Third Prize,2022
+288–292.,,Duco,Mensink,Universiteit Leiden,Leiden,Netherlands,10,7.0,2.0,0.0,19.0,2.0,2.0,2.0,4.0,10.0,29.0,Third Prize,2022
+288–292.,,Madalin Gabriel,Mitrofan,Babeș-Bolyai University,Cluj-Napoca,Romania,10,10.0,1.0,0.0,21.0,,4.0,4.0,,8.0,29.0,Third Prize,2022
+288–292.,,Beno,Učakar,University of Ljubljana,Ljubljana,Slovenia,10,10.0,1.0,0.0,21.0,2.0,,0.0,6.0,8.0,29.0,Third Prize,2022
+293–299.,,Renato,da Paixão Alves,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,4.0,1.0,0.0,15.0,0.0,10.0,3.0,0.0,13.0,28.0,Third Prize,2022
+293–299.,,Violeta,Hernández Palacios,Universidad de Guanajuato/CIMAT,Guanajuato,Mexico,10,7.0,1.0,,18.0,0.0,10.0,,,10.0,28.0,Third Prize,2022
+293–299.,,Nikita,Khomich,University of Cambridge,Cambridge,UK,9,0.0,9.0,,18.0,10.0,0.0,0.0,,10.0,28.0,Third Prize,2022
+293–299.,,Oree,Leibowitz,Weizmann Institute of Science,Rehovot,Israel,10,2.0,1.0,0.0,13.0,10.0,3.0,2.0,,15.0,28.0,Third Prize,2022
+293–299.,,SEYED ALIREZA,TABIB POUR,Sharif University of Technology,Tehran,Iran,10,7.0,1.0,,18.0,1.0,,6.0,3.0,10.0,28.0,Third Prize,2022
+293–299.,,Serafim,Vinogrodskii,,Moscow,,10,7.0,1.0,,18.0,,,10.0,,10.0,28.0,Third Prize,2022
+293–299.,,Jaka,Vrhovnik,University of Ljubljana,Ljubljana,Slovenia,10,10.0,1.0,0.0,21.0,2.0,4.0,1.0,,7.0,28.0,Third Prize,2022
+300–311.,,Elizaveta,Bulgakova,,Novosibirsk,,10,4.0,0.0,,14.0,10.0,0.0,3.0,,13.0,27.0,Third Prize,2022
+300–311.,,Ramyro,Corrêa Aquines,FB Uni,Fortaleza,Brazil,10,0.0,1.0,0.0,11.0,10.0,6.0,0.0,0.0,16.0,27.0,Third Prize,2022
+300–311.,,Vachagan,Dilanyan,Yerevan State University,Yerevan,Armenia,8,9.0,1.0,,18.0,9.0,0.0,,,9.0,27.0,Third Prize,2022
+300–311.,,Artyom,Erokhin,,Moscow,,10,7.0,,,17.0,10.0,,0.0,,10.0,27.0,Third Prize,2022
+300–311.,,Carlos Andrés,Granada Palacio,University of Antioquia,Medellín,Colombia,10,10.0,1.0,,21.0,6.0,,,,6.0,27.0,Third Prize,2022
+300–311.,,Lorenz,Hübel,Universität Wien,Vienna,Austria,10,10.0,2.0,,22.0,2.0,3.0,,,5.0,27.0,Third Prize,2022
+300–311.,,Francisco,Nazário Pereira Júnior,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,2.0,2.0,,14.0,8.0,5.0,,,13.0,27.0,Third Prize,2022
+300–311.,,Lucas,Nelson,Haverford College,Haverford,USA,10,7.0,,,17.0,,0.0,10.0,,10.0,27.0,Third Prize,2022
+300–311.,,Tita Philine,Rosemeyer,École Polytechnique,Paris,France,10,2.0,1.0,,13.0,10.0,3.0,,1.0,14.0,27.0,Third Prize,2022
+300–311.,,Jorge Isaac,Rubiano Murcia,Universidad Nacional de Colombia,Bogota,Colombia,10,10.0,1.0,,21.0,,1.0,1.0,4.0,6.0,27.0,Third Prize,2022
+300–311.,,Sofia,Sampaio Lacerda,Universidade de São Paulo,São Paulo,Brazil,10,5.0,2.0,,17.0,,8.0,2.0,,10.0,27.0,Third Prize,2022
+300–311.,,Kostiantyn,Slovak,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,10,2.0,2.0,,14.0,10.0,3.0,0.0,,13.0,27.0,Third Prize,2022
+312–323.,,Renan,Almeida Ferreira,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,9,4.0,0.0,,13.0,10.0,,3.0,,13.0,26.0,Third Prize,2022
+312–323.,,Jamba,Batgerel,New Mongol Institute of Technology,Ulaanbaatar,Mongolia,10,2.0,1.0,,13.0,0.0,4.0,9.0,,13.0,26.0,Third Prize,2022
+312–323.,,Tomer,Cohen,Technion,Haifa,Israel,10,10.0,2.0,,22.0,0.0,0.0,4.0,,4.0,26.0,Third Prize,2022
+312–323.,,Dennis Joaquín,Díaz Díaz,Universidad de Guanajuato/CIMAT,Guanajuato,Mexico,10,,3.0,0.0,13.0,10.0,3.0,,,13.0,26.0,Third Prize,2022
+312–323.,,Gustavo,Ewbank Rodrigues Danon,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,5.0,6.0,,21.0,3.0,0.0,2.0,,5.0,26.0,Third Prize,2022
+312–323.,,Rafael,Fernandes Moura,Universidade Federal do Ceará,Fortaleza,Brazil,4,10.0,1.0,,15.0,,1.0,10.0,,11.0,26.0,Third Prize,2022
+312–323.,,Davit,Khvedelidze,Free University,Tbilisi,Georgia,10,2.0,2.0,0.0,14.0,10.0,2.0,,,12.0,26.0,Third Prize,2022
+312–323.,,Veronika Maria,Körber,Karls Eberhard Universitaet Tuebingen,Tuebingen,Germany,10,0.0,1.0,0.0,11.0,10.0,2.0,0.0,3.0,15.0,26.0,Third Prize,2022
+312–323.,,Ruslan,Kulagin,,Moscow,,10,2.0,1.0,0.0,13.0,10.0,1.0,2.0,0.0,13.0,26.0,Third Prize,2022
+312–323.,,Ramazan,Nuryagdyyev,Turkmen Agricultural Institute,Dashoguz,Turkmenistan,10,2.0,1.0,,13.0,10.0,1.0,0.0,2.0,13.0,26.0,Third Prize,2022
+312–323.,,Sergey,Shimanskiy,,Saint-Petersburg,,10,0.0,3.0,,13.0,10.0,,,3.0,13.0,26.0,Third Prize,2022
+312–323.,,Luca,Silveira Escopelli,Fundação Getulio Vargas,Rio de Janeiro,Brazil,10,0.0,2.0,0.0,12.0,10.0,4.0,0.0,0.0,14.0,26.0,Third Prize,2022
+324–334.,,Aygul,Begenjova,International University for the Humanities and Development,Ashgabat,Turkmenistan,10,10.0,,,20.0,,,5.0,,5.0,25.0,Third Prize,2022
+324–334.,,Maria Clara,de Lacerda Werneck,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,Brazil,10,9.0,1.0,0.0,20.0,1.0,3.0,1.0,0.0,5.0,25.0,Third Prize,2022
+324–334.,,Gabriel,Franceschi Libardi,Universidade de São Paulo,São Paulo,Brazil,10,7.0,3.0,0.0,20.0,,3.0,2.0,,5.0,25.0,Third Prize,2022
+324–334.,,Héctor de Jesús,García Escamilla,Universidad Autónoma de Querétaro,Querétaro,México,10,6.0,0.0,,16.0,9.0,,,,9.0,25.0,Third Prize,2022
+324–334.,,Hernan Gabriel,Ibarra Mejia,University of Sheffield,Sheffield,UK,10,10.0,1.0,,21.0,0.0,4.0,0.0,,4.0,25.0,Third Prize,2022
+324–334.,,Kati,Iher,University of Tartu,Tartu,Estonia,10,,1.0,,11.0,10.0,4.0,,,14.0,25.0,Third Prize,2022
+324–334.,,Denys,Lohvynov,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,10,10.0,0.0,0.0,20.0,,,5.0,,5.0,25.0,Third Prize,2022
+324–334.,,Mohammadreza,Motabar,University of Tehran,Tehran,Iran,10,,2.0,,12.0,10.0,,3.0,,13.0,25.0,Third Prize,2022
+324–334.,,Kerry Jean,Porrill,Stellenbosch University,Stellenbosch,South Africa,10,0.0,2.0,0.0,12.0,9.0,4.0,0.0,0.0,13.0,25.0,Third Prize,2022
+324–334.,,Parsa,Tasbihgou,University of Tehran,Tehran,Iran,10,0.0,1.0,0.0,11.0,10.0,0.0,0.0,4.0,14.0,25.0,Third Prize,2022
+324–334.,,Ivan,Vojvodić,University of Zagreb,Zagreb,Croatia,10,2.0,2.0,0.0,14.0,7.0,4.0,0.0,0.0,11.0,25.0,Third Prize,2022
+335–348.,,Leo,Andersson,Chalmers University of Technology,Gothenburg,Sweden,10,2.0,1.0,,13.0,,,10.0,1.0,11.0,24.0,Third Prize,2022
+335–348.,,Meylis,Babayev,Turkmen Agricultural Institute,Dashoguz,Turkmenistan,10,0.0,1.0,,11.0,10.0,,3.0,0.0,13.0,24.0,Third Prize,2022
+335–348.,,Dzhamil,Badardinov,,Novosibirsk,,10,10.0,0.0,0.0,20.0,0.0,0.0,4.0,0.0,4.0,24.0,Third Prize,2022
+335–348.,,Kamil,Burkiewicz,AGH University of Science and Technology,Krakow,Poland,10,7.0,1.0,,18.0,,6.0,,,6.0,24.0,Third Prize,2022
+335–348.,,Barnabás,Gárgyán,University of Szeged,Szeged,Hungary,10,7.0,1.0,,18.0,1.0,5.0,,,6.0,24.0,Third Prize,2022
+335–348.,,Lior,Grauer,Technion,Haifa,Israel,10,8.0,1.0,,19.0,,0.0,3.0,2.0,5.0,24.0,Third Prize,2022
+335–348.,,ARIEF RACHMAN,HAKIM,Universitas Negeri Surabaya,Surabaya,Indonesia,10,0.0,1.0,0.0,11.0,10.0,0.0,3.0,0.0,13.0,24.0,Third Prize,2022
+335–348.,,Mahdi,Kooranifar,University of Tehran,Tehran,Iran,10,2.0,2.0,0.0,14.0,9.0,0.0,1.0,0.0,10.0,24.0,Third Prize,2022
+335–348.,,Gabriel,Laurentino Silva Henriques,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,9.0,1.0,,20.0,1.0,0.0,3.0,,4.0,24.0,Third Prize,2022
+335–348.,,Danilo,Marinho Fernandes,École Polytechnique,Paris,France,10,10.0,1.0,,21.0,0.0,,3.0,,3.0,24.0,Third Prize,2022
+335–348.,,Breno,Marot,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,Brazil,10,10.0,0.0,0.0,20.0,1.0,0.0,3.0,0.0,4.0,24.0,Third Prize,2022
+335–348.,,Nabixon,Nabixonov,National University of Uzbekistan,Tashkent,Uzbekistan,10,10.0,1.0,,21.0,,2.0,1.0,,3.0,24.0,Third Prize,2022
+335–348.,,Darío,Palmero-Ledon,University of Havana,Havana,Cuba,10,2.0,2.0,,14.0,10.0,,,,10.0,24.0,Third Prize,2022
+335–348.,,Alexander,Vlasov,,Moscow,,10,0.0,2.0,0.0,12.0,9.0,0.0,3.0,0.0,12.0,24.0,Third Prize,2022
+349–369.,,Willyan,Almeida Lima,Fundação Universidade Federal do ABC,São Paulo,Brazil,10,10.0,,,20.0,,,3.0,,3.0,23.0,Third Prize,2022
+349–369.,,Vincent Nicholas,Batens,Ghent University,Ghent,Belgium,10,3.0,2.0,,15.0,8.0,0.0,0.0,,8.0,23.0,Third Prize,2022
+349–369.,,Brecht,Boeykens,Ghent University,Ghent,Belgium,10,,1.0,,11.0,10.0,,2.0,,12.0,23.0,Third Prize,2022
+349–369.,,Igor,Caldeira Magalhães,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,7.0,1.0,0.0,18.0,2.0,0.0,3.0,0.0,5.0,23.0,Third Prize,2022
+349–369.,,Joshua Juan Yin,Chan,Nanyang Technological University,Jurong West,Singapore,4,9.0,1.0,,14.0,9.0,,0.0,,9.0,23.0,Third Prize,2022
+349–369.,,Luis Enrique,Fernández Machado,University of Havana,Havana,Cuba,10,2.0,,,12.0,1.0,10.0,,,11.0,23.0,Third Prize,2022
+349–369.,,Ivan,Kalinin,,Saint-Petersburg,,10,0.0,1.0,0.0,11.0,10.0,0.0,0.0,2.0,12.0,23.0,Third Prize,2022
+349–369.,,Danielle,Kleyn,Stellenbosch University,Stellenbosch,South Africa,10,0.0,1.0,0.0,11.0,1.0,9.0,2.0,0.0,12.0,23.0,Third Prize,2022
+349–369.,,Rasul,Kushnazarov,Urgench State University,Urgench,Uzbekistan,10,10.0,1.0,,21.0,,,2.0,,2.0,23.0,Third Prize,2022
+349–369.,,Chuang,Li,University of Nottingham Ningbo China,Ningbo,China,10,7.0,2.0,0.0,19.0,1.0,,3.0,,4.0,23.0,Third Prize,2022
+349–369.,,Sérgio,Maciel,Universidade de São Paulo,São Paulo,Brazil,10,10.0,1.0,,21.0,,,2.0,,2.0,23.0,Third Prize,2022
+349–369.,,Sofya,Markova,,Moscow,,10,3.0,,,13.0,10.0,0.0,0.0,,10.0,23.0,Third Prize,2022
+349–369.,,Alejandro,Martínez de Guinea García,Universidad Pontificia Comillas,Madrid,Spain,10,2.0,1.0,,13.0,,10.0,0.0,,10.0,23.0,Third Prize,2022
+349–369.,,Erik,Mjaanes,Norwegian University of Science and Technology,Trondheim,Norway,10,0.0,2.0,,12.0,10.0,1.0,,,11.0,23.0,Third Prize,2022
+349–369.,,Gerard,Romero Álvarez,University of Barcelona,Barcelona,Spain,10,0.0,2.0,0.0,12.0,10.0,1.0,,,11.0,23.0,Third Prize,2022
+349–369.,,Daniel,Sánchez Sánchez,Universidad Pontificia Comillas,Madrid,Spain,9,0.0,0.0,,9.0,1.0,10.0,3.0,,14.0,23.0,Third Prize,2022
+349–369.,,GEORGIOS,SOUKARAS,University of Patras,Patras,Greece,10,2.0,1.0,0.0,13.0,,0.0,10.0,,10.0,23.0,Third Prize,2022
+349–369.,,Kyle,Thompson,University of Warwick,Warwick,UK,10,7.0,2.0,0.0,19.0,0.0,4.0,0.0,0.0,4.0,23.0,Third Prize,2022
+349–369.,,Artem,Urazovskyi,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10,0.0,3.0,0.0,13.0,9.0,1.0,0.0,0.0,10.0,23.0,Third Prize,2022
+349–369.,,Ludovicus Bavo,van Wieringen,University of Utrecht,Utrecht,Netherlands,10,0.0,1.0,,11.0,10.0,1.0,1.0,,12.0,23.0,Third Prize,2022
+349–369.,,Audrick Raúl,Veliz Hernández,Universidad de San Carlos de Guatemala,Guatemala City,Guatemala,10,10.0,,,20.0,3.0,,,,3.0,23.0,Third Prize,2022
+370–387.,,Jose Miguel,Contreras Mantilla,Universidad Nacional de Colombia,Bogota,Colombia,10,6.0,1.0,0.0,17.0,1.0,1.0,3.0,0.0,5.0,22.0,Third Prize,2022
+370–387.,,Nikita,Denisov,,Saint-Petersburg,,10,0.0,1.0,0.0,11.0,1.0,10.0,0.0,0.0,11.0,22.0,Third Prize,2022
+370–387.,,Caio,Diniz Santana,Universidade de São Paulo,São Paulo,Brazil,9,3.0,,,12.0,,2.0,8.0,,10.0,22.0,Third Prize,2022
+370–387.,,Aditya,Dwianto,Bandung Institute of Technology,Bandung,Indonesia,8,7.0,2.0,0.0,17.0,2.0,2.0,1.0,0.0,5.0,22.0,Third Prize,2022
+370–387.,,Bruno,Foschiani Ricardo,Universidade de São Paulo,São Paulo,Brazil,10,7.0,1.0,,18.0,0.0,0.0,3.0,1.0,4.0,22.0,Third Prize,2022
+370–387.,,Anna Réka,Geretovszky,University of Szeged,Szeged,Hungary,10,6.0,1.0,,17.0,4.0,1.0,0.0,,5.0,22.0,Third Prize,2022
+370–387.,,Konstantin,Gordeev,,Moscow,,10,0.0,1.0,0.0,11.0,1.0,,0.0,10.0,11.0,22.0,Third Prize,2022
+370–387.,,Yunhao,Jiang,Southern University of Science and Technology,ShenZhen,China,10,10.0,0.0,0.0,20.0,0.0,0.0,2.0,0.0,2.0,22.0,Third Prize,2022
+370–387.,,Nazar,Kuznetsov,,Moscow,,10,9.0,3.0,,22.0,,0.0,,,0.0,22.0,Third Prize,2022
+370–387.,,Giuseppe,La Scala,Università degli Studi di Napoli Federico II,Naples,Italy,10,8.0,1.0,,19.0,,,2.0,1.0,3.0,22.0,Third Prize,2022
+370–387.,,Mahmud,Mohamad Hussein Ali Neto,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,2.0,0.0,0.0,12.0,0.0,10.0,0.0,0.0,10.0,22.0,Third Prize,2022
+370–387.,,Jakhongir,Norboev,National University of Uzbekistan,Tashkent,Uzbekistan,10,0.0,2.0,,12.0,,,10.0,,10.0,22.0,Third Prize,2022
+370–387.,,Oskar,Olander,Chalmers University of Technology,Gothenburg,Sweden,10,7.0,1.0,,18.0,,4.0,,,4.0,22.0,Third Prize,2022
+370–387.,,Daniel,Pinedo,Universidad Nacional de Colombia,Bogota,Colombia,10,3.0,1.0,0.0,14.0,0.0,4.0,4.0,,8.0,22.0,Third Prize,2022
+370–387.,,Igor,Prado Teixeira Borja,Universidade Federal da Bahia,Salvador,Brazil,10,5.0,1.0,,16.0,,6.0,0.0,,6.0,22.0,Third Prize,2022
+370–387.,,Nagym,Tanrygulyyev,Turkmen State Institute of Architecture and Construction,Ashgabat,Turkmenistan,10,,2.0,,12.0,10.0,,,,10.0,22.0,Third Prize,2022
+370–387.,,Boyan,Wang,University College London,London,UK,9,7.0,2.0,0.0,18.0,2.0,2.0,,,4.0,22.0,Third Prize,2022
+370–387.,,Andrew,Williams,Stellenbosch University,Stellenbosch,South Africa,10,0.0,2.0,0.0,12.0,10.0,0.0,0.0,0.0,10.0,22.0,Third Prize,2022
+388–399.,,Ilya,Alimov,,Saint-Petersburg,,10,0.0,,,10.0,,,1.0,10.0,11.0,21.0,Third Prize,2022
+388–399.,,Manuel,Cuetos Piñón,Universidad de Oviedo,Oviedo,Spain,10,0.0,1.0,0.0,11.0,10.0,0.0,0.0,0.0,10.0,21.0,Third Prize,2022
+388–399.,,Diar,Gashi,University of Primorska,Primorska,Slovenia,10,7.0,0.0,,17.0,2.0,1.0,1.0,,4.0,21.0,Third Prize,2022
+388–399.,,Kuvvatmammet,Hajyyev,International University for the Humanities and Development,Ashgabat,Turkmenistan,10,7.0,,,17.0,,,4.0,,4.0,21.0,Third Prize,2022
+388–399.,,Mykola,Heneralov,V. N. Karazin Kharkiv National University,Kharkiv,Ukraine,10,7.0,1.0,0.0,18.0,0.0,0.0,3.0,0.0,3.0,21.0,Third Prize,2022
+388–399.,,Tobias,Lewerissa,Universiteit Leiden,Leiden,Netherlands,10,6.0,1.0,0.0,17.0,3.0,0.0,1.0,,4.0,21.0,Third Prize,2022
+388–399.,,Alexandre,Raulik Neto,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,7.0,2.0,,19.0,,,2.0,0.0,2.0,21.0,Third Prize,2022
+388–399.,,Fani Haerul Anam,Rofi'i,Universitas Gadjah Mada,Yogyakarta,Indonesia,0,0.0,1.0,0.0,1.0,10.0,10.0,0.0,0.0,20.0,21.0,Third Prize,2022
+388–399.,,Jeki,Saputra,Universitas Hasanuddin,Makassar,Indonesia,10,9.0,0.0,,19.0,,0.0,2.0,,2.0,21.0,Third Prize,2022
+388–399.,,Joao Pedro,Sedeu Godoi,École Polytechnique,Paris,France,10,2.0,2.0,0.0,14.0,2.0,5.0,0.0,0.0,7.0,21.0,Third Prize,2022
+388–399.,,Yan Victor,Souza Guimarães,Universidade Estadual de Campinas,São Paulo,Brazil,10,,1.0,,11.0,10.0,0.0,,,10.0,21.0,Third Prize,2022
+388–399.,,Shao Zhe,Tan,Nanyang Technological University,Jurong West,Singapore,10,7.0,0.0,,17.0,,0.0,4.0,,4.0,21.0,Third Prize,2022
+400–410.,,Bartosz,Fober,AGH University of Science and Technology,Krakow,Poland,10,0.0,1.0,,11.0,1.0,8.0,,,9.0,20.0,Third Prize,2022
+400–410.,,David,Gabidullin,,Moscow,,10,8.0,1.0,,19.0,,0.0,1.0,,1.0,20.0,Third Prize,2022
+400–410.,,ziyin,hu,Southern University of Science and Technology,Shenzhen,China,10,9.0,1.0,0.0,20.0,,,,,0.0,20.0,Third Prize,2022
+400–410.,,Aleksandr,Kirilenko,,Moscow,,10,0.0,0.0,,10.0,0.0,,10.0,,10.0,20.0,Third Prize,2022
+400–410.,,Felipe,Knöller Nunes,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,7.0,1.0,0.0,18.0,1.0,0.0,1.0,0.0,2.0,20.0,Third Prize,2022
+400–410.,,Łukasz,Kotlewski,Nicolaus Copernicus University,Toruń,Poland,10,7.0,1.0,,18.0,1.0,0.0,1.0,,2.0,20.0,Third Prize,2022
+400–410.,,João,Laudissi,Universidade de São Paulo,São Paulo,Brazil,10,0.0,,,10.0,10.0,,,,10.0,20.0,Third Prize,2022
+400–410.,,FELIPE,LINS DOS SANTOS,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,0,9.0,1.0,,10.0,10.0,0.0,0.0,,10.0,20.0,Third Prize,2022
+400–410.,,Rafael Ryoma,Nagai Matsutane,Ecole Polytechnique,Palaiseau,France,10,9.0,1.0,,20.0,0.0,,,,0.0,20.0,Third Prize,2022
+400–410.,,Jiachen,Qian,University of Sheffield,Sheffield,UK,10,0.0,0.0,,10.0,10.0,0.0,,,10.0,20.0,Third Prize,2022
+400–410.,,Aviv Avraham,Ruimi,Weizmann Institute of Science,Rehovot,Israel,10,4.0,0.0,,14.0,2.0,,2.0,2.0,6.0,20.0,Third Prize,2022
+411–418.,,Daria,Berezhnaia,École Polytechnique,Paris,France,8,2.0,1.0,,11.0,8.0,,,0.0,8.0,19.0,Honourable Mention,2022
+411–418.,,Vitor,de Azevedo Meneses,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,4.0,1.0,0.0,15.0,1.0,0.0,3.0,,4.0,19.0,Honourable Mention,2022
+411–418.,,Tom,Hapke,Technische Universität München,Munich,Germany,10,5.0,1.0,0.0,16.0,0.0,0.0,3.0,,3.0,19.0,Honourable Mention,2022
+411–418.,,Sadhu Gunawan,I Komang,Universitas Gadjah Mada,Yogyakarta,Indonesia,10,2.0,2.0,0.0,14.0,1.0,2.0,2.0,0.0,5.0,19.0,Honourable Mention,2022
+411–418.,,Marko,Kachaikin,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10,0.0,0.0,0.0,10.0,0.0,0.0,9.0,0.0,9.0,19.0,Honourable Mention,2022
+411–418.,,Yauhen,Lisouski,Belarusian State University of Informatics and Radioelectronics,Minsk,Belarus,10,7.0,2.0,,19.0,,,0.0,0.0,0.0,19.0,Honourable Mention,2022
+411–418.,,Oktam,Sultonmurotov,Urgench State University,Urgench,Uzbekistan,10,0.0,0.0,,10.0,,1.0,8.0,,9.0,19.0,Honourable Mention,2022
+411–418.,,Piotr,Łukasiewicz,AGH University of Science and Technology,Krakow,Poland,10,3.0,2.0,,15.0,0.0,1.0,0.0,3.0,4.0,19.0,Honourable Mention,2022
+419–429.,,Akmuhammet,Akmyradov,Magtymguly Turkmen State University,Ashgabat,Turkmenistan,10,2.0,1.0,,13.0,1.0,4.0,,,5.0,18.0,Honourable Mention,2022
+419–429.,,Akmuhammet,Gurbangeldiyev,State Energy Institute of Turkmenistan,Mary,Turkmenistan,10,,2.0,,12.0,,,6.0,,6.0,18.0,Honourable Mention,2022
+419–429.,,Feng,Jiang,University of Nottingham Ningbo China,Ningbo,China,10,2.0,1.0,,13.0,,,5.0,,5.0,18.0,Honourable Mention,2022
+419–429.,,Hikmat,Karimov,Urgench State University,Urgench,Uzbekistan,10,0.0,0.0,,10.0,,,8.0,,8.0,18.0,Honourable Mention,2022
+419–429.,,Sebastian,Kober,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,10,2.0,2.0,,14.0,0.0,0.0,4.0,,4.0,18.0,Honourable Mention,2022
+419–429.,,Joel,Kollenberg,RWTH Aachen University,Aachen,Germany,10,2.0,1.0,0.0,13.0,2.0,,0.0,3.0,5.0,18.0,Honourable Mention,2022
+419–429.,,Bariyat,Medzhidova,,Moscow,,10,4.0,0.0,,14.0,0.0,1.0,3.0,,4.0,18.0,Honourable Mention,2022
+419–429.,,Sarangan,Raveendranathan,University of Moratuwa,Moratuwa,Sri Lanka,10,2.0,2.0,0.0,14.0,,4.0,0.0,,4.0,18.0,Honourable Mention,2022
+419–429.,,Armanbyek,Soltanmurat,Budapest Univeristy of Technology and Economics,Budapest,Hungary,3,2.0,1.0,0.0,6.0,10.0,0.0,2.0,0.0,12.0,18.0,Honourable Mention,2022
+419–429.,,Jean Michael,Weight,Stellenbosch University,Stellenbosch,South Africa,10,0.0,3.0,0.0,13.0,0.0,3.0,2.0,0.0,5.0,18.0,Honourable Mention,2022
+419–429.,,Daniel,Yamamoto Damico,Universidade Estadual de Campinas,São Paulo,Brazil,10,2.0,1.0,,13.0,1.0,,,4.0,5.0,18.0,Honourable Mention,2022
+430–436.,,Artem,Dvornyi,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,10,2.0,1.0,0.0,13.0,0.0,0.0,2.0,2.0,4.0,17.0,Honourable Mention,2022
+430–436.,,Hector Julian,Gutierrez Hoyos,Universidad Nacional de Colombia,Bogota,Colombia,10,7.0,,,17.0,,,,,0.0,17.0,Honourable Mention,2022
+430–436.,,Abdulla,Ismatov,National University of Uzbekistan,Tashkent,Uzbekistan,10,2.0,1.0,,13.0,,,4.0,,4.0,17.0,Honourable Mention,2022
+430–436.,,Bahoz,Mirweis,Durham University,Durham,UK,10,,1.0,,11.0,1.0,5.0,,,6.0,17.0,Honourable Mention,2022
+430–436.,,Joan,Núñez Corbacho,University of Barcelona,Barcelona,Spain,0,6.0,1.0,0.0,7.0,,,10.0,,10.0,17.0,Honourable Mention,2022
+430–436.,,Simone,Pizzirani,Universitè di Modena e Reggio-Emilia,Modena,Italy,4,0.0,2.0,0.0,6.0,10.0,1.0,0.0,,11.0,17.0,Honourable Mention,2022
+430–436.,,Volodymyr,Sahan,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,10,0.0,2.0,0.0,12.0,0.0,5.0,,0.0,5.0,17.0,Honourable Mention,2022
+437–443.,,Hugo,Bäckman,Chalmers University of Technology,Gothenburg,Sweden,6,8.0,2.0,,16.0,0.0,,,,0.0,16.0,Honourable Mention,2022
+437–443.,,samith,Karunathilake,University of Moratuwa,Moratuwa,Sri Lanka,10,0.0,2.0,0.0,12.0,,4.0,0.0,,4.0,16.0,Honourable Mention,2022
+437–443.,,Hithem,Lamri,ESI,Algiers,Algeria,10,1.0,0.0,,11.0,0.0,0.0,5.0,0.0,5.0,16.0,Honourable Mention,2022
+437–443.,,Douglas,Massahiro Kotsubo,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,0,,2.0,,2.0,10.0,0.0,4.0,,14.0,16.0,Honourable Mention,2022
+437–443.,,Kinga,Nagy,University of Szeged,Szeged,Hungary,10,2.0,1.0,,13.0,,0.0,,3.0,3.0,16.0,Honourable Mention,2022
+437–443.,,Gabriele,Taurasi,Universitè di Modena e Reggio-Emilia,Modena,Italy,10,2.0,1.0,,13.0,1.0,,2.0,,3.0,16.0,Honourable Mention,2022
+437–443.,,雨桥,李,Southern University of Science and Technology,Shenzhen,China,10,0.0,2.0,0.0,12.0,0.0,3.0,1.0,0.0,4.0,16.0,Honourable Mention,2022
+444–459.,,Muhammet,Annayev,State Energy Institute of Turkmenistan,Mary,Turkmenistan,10,2.0,1.0,0.0,13.0,1.0,,1.0,,2.0,15.0,Honourable Mention,2022
+444–459.,,LL,Bosman,University of Pretoria,Pretoria,South Africa,10,,1.0,,11.0,1.0,,,3.0,4.0,15.0,Honourable Mention,2022
+444–459.,,Eduard,Dalman,University of Barcelona,Barcelona,Spain,10,0.0,0.0,,10.0,,4.0,1.0,,5.0,15.0,Honourable Mention,2022
+444–459.,,Samuel,Figueredo,Universidade Federal de Alagoas,Maceió,Brazil,10,2.0,,,12.0,,0.0,3.0,,3.0,15.0,Honourable Mention,2022
+444–459.,,Oleksii,Galganov,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,4,5.0,1.0,,10.0,,,2.0,3.0,5.0,15.0,Honourable Mention,2022
+444–459.,,Cassidy,Kevorkian-Mielly,École Polytechnique,Paris,France,10,4.0,1.0,,15.0,,,0.0,,0.0,15.0,Honourable Mention,2022
+444–459.,,mohammad,khalili,Amirkabir University of Technology,Tehran,Iran,10,2.0,1.0,,13.0,0.0,2.0,,,2.0,15.0,Honourable Mention,2022
+444–459.,,Alexander,Korotkov,,Moscow,,10,0.0,,,10.0,,,5.0,,5.0,15.0,Honourable Mention,2022
+444–459.,,Zhizhou,Liu,Southern University of Science and Technology,Shenzhen,China,10,0.0,1.0,0.0,11.0,0.0,1.0,3.0,0.0,4.0,15.0,Honourable Mention,2022
+444–459.,,Dimitrios,Lyngitsos,National and Kapodistrian University of Athens,Athens,Greece,4,10.0,0.0,0.0,14.0,0.0,0.0,1.0,0.0,1.0,15.0,Honourable Mention,2022
+444–459.,,Eli,Meril,Tel Aviv University,Tel Aviv,Israel,4,6.0,0.0,0.0,10.0,1.0,2.0,2.0,0.0,5.0,15.0,Honourable Mention,2022
+444–459.,,Dren,Neziri,University of Primorska,Primorska,Slovenia,10,3.0,1.0,,14.0,,1.0,,,1.0,15.0,Honourable Mention,2022
+444–459.,,João Pedro,Oliveira,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,2.0,1.0,0.0,13.0,0.0,1.0,1.0,0.0,2.0,15.0,Honourable Mention,2022
+444–459.,,Alfredo,Quintella Pinto,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,2.0,1.0,0.0,13.0,1.0,1.0,0.0,0.0,2.0,15.0,Honourable Mention,2022
+444–459.,,João Lucas,Rocha Rolim,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,2.0,2.0,0.0,14.0,0.0,1.0,0.0,0.0,1.0,15.0,Honourable Mention,2022
+444–459.,,Corvin Andreas,Schamschule,Universität Wien,Vienna,Austria,9,0.0,1.0,,10.0,,3.0,2.0,,5.0,15.0,Honourable Mention,2022
+460–473.,,Arsaryyev Serdar,Arsaryyev Serdar,Magtymguly Turkmen State University,Ashgabat,Turkmenistan,10,2.0,,,12.0,,,2.0,,2.0,14.0,Honourable Mention,2022
+460–473.,,Antonio,Caravaca Lopez,Instituto Tecnológico de Costa Rica,Cartago,Costa Rica,6,0.0,1.0,0.0,7.0,0.0,7.0,0.0,0.0,7.0,14.0,Honourable Mention,2022
+460–473.,,Ioannis,Iakovakis,Aristotle University of Thessaloniki,Thessaloniki,Greece,10,,1.0,,11.0,0.0,3.0,,,3.0,14.0,Honourable Mention,2022
+460–473.,,Javokhir,Iskandarov,National University of Uzbekistan,Tashkent,Uzbekistan,10,2.0,0.0,,12.0,,,2.0,,2.0,14.0,Honourable Mention,2022
+460–473.,,Annika,Jaakson,University of Tartu,Tartu,Estonia,1,0.0,1.0,,2.0,10.0,,2.0,,12.0,14.0,Honourable Mention,2022
+460–473.,,Adam,Konysz,Nicolaus Copernicus University,Toruń,Poland,10,0.0,1.0,,11.0,3.0,0.0,,,3.0,14.0,Honourable Mention,2022
+460–473.,,Mateus,Lima Silveira,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,2.0,1.0,0.0,13.0,,1.0,0.0,0.0,1.0,14.0,Honourable Mention,2022
+460–473.,,Malwande,Nkonyane,University of the Witwatersrand,Johannesburg,South Africa,10,2.0,1.0,,13.0,1.0,,,,1.0,14.0,Honourable Mention,2022
+460–473.,,Bruno Johannes,Perreaux,Universität Wien,Vienna,Austria,10,3.0,0.0,,13.0,1.0,,,,1.0,14.0,Honourable Mention,2022
+460–473.,,Mirza,Redzic,University of Primorska,Primorska,Slovenia,4,2.0,0.0,,6.0,8.0,,,,8.0,14.0,Honourable Mention,2022
+460–473.,,Marina,Salamero Cebollero,Universidad de Zaragoza,Zaragoza,Spain,10,0.0,1.0,,11.0,0.0,0.0,3.0,,3.0,14.0,Honourable Mention,2022
+460–473.,,Tereza,Škublová,"Comenius University, Bratislava",Bratislava,Slovakia,,,2.0,,2.0,10.0,2.0,,,12.0,14.0,Honourable Mention,2022
+460–473.,,Robert,Suigusaar,University of Tartu,Tartu,Estonia,10,2.0,0.0,0.0,12.0,2.0,,,,2.0,14.0,Honourable Mention,2022
+460–473.,,Jose Alfredo,Urrea Moreno,Universidad Nacional de Colombia,Bogota,Colombia,10,0.0,1.0,,11.0,,,3.0,0.0,3.0,14.0,Honourable Mention,2022
+474–497.,,Tobias Jan,Amelingmeyer,RWTH Aachen University,Aachen,Germany,10,2.0,1.0,,13.0,,,,,0.0,13.0,Honourable Mention,2022
+474–497.,,Adrian Alexander,Angulo Paniagua,Universidad de Costa Rica,San Pedro Montes de Oca,Costa Rica,10,2.0,1.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,Honourable Mention,2022
+474–497.,,Michał,Balicki,University of Silesia,Katowice,Polska,10,,0.0,,10.0,,3.0,,,3.0,13.0,Honourable Mention,2022
+474–497.,,David,Belobrad,"Comenius University, Bratislava",Bratislava,Slovakia,2,,1.0,,3.0,10.0,,,,10.0,13.0,Honourable Mention,2022
+474–497.,,Brendon,Borck,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,,3.0,,13.0,,,,,0.0,13.0,Honourable Mention,2022
+474–497.,,Tassandro,Cavalcante Leitão,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,2.0,0.0,,12.0,0.0,,1.0,,1.0,13.0,Honourable Mention,2022
+474–497.,,Kaustav,Choubey,University of Sheffield,Sheffield,UK,10,0.0,2.0,0.0,12.0,1.0,0.0,,,1.0,13.0,Honourable Mention,2022
+474–497.,,Sarvar,Eshboltayev,National University of Uzbekistan,Tashkent,Uzbekistan,10,2.0,,0.0,12.0,0.0,1.0,0.0,0.0,1.0,13.0,Honourable Mention,2022
+474–497.,,Sergio,Herreros Pérez,Universidad Pontificia Comillas,Madrid,Spain,10,2.0,1.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,Honourable Mention,2022
+474–497.,,Muhammad,Husnul Khuluq,Universitas Brawijaya,Malang,Indonesia,10,2.0,1.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,Honourable Mention,2022
+474–497.,,Parahat,Iljanov,International University for the Humanities and Development,Ashgabat,Turkmenistan,10,0.0,,,10.0,,,3.0,,3.0,13.0,Honourable Mention,2022
+474–497.,,Tahir,Khayrullin,,Moscow,,10,2.0,1.0,,13.0,,,,,0.0,13.0,Honourable Mention,2022
+474–497.,,Bakhodir,Kholmurodov,National University of Uzbekistan,Tashkent,Uzbekistan,10,2.0,,,12.0,,1.0,0.0,,1.0,13.0,Honourable Mention,2022
+474–497.,,Callan,Kotzen,University of the Witwatersrand,Johannesburg,South Africa,10,0.0,1.0,0.0,11.0,1.0,0.0,1.0,0.0,2.0,13.0,Honourable Mention,2022
+474–497.,,Adam Klaudiusz,Menkiel,University of Silesia,Katowice,Poland,10,0.0,2.0,,12.0,,1.0,,,1.0,13.0,Honourable Mention,2022
+474–497.,,Lara,Ocón Madrid,Universidad Pontificia Comillas,Madrid,Spain,10,2.0,1.0,,13.0,0.0,0.0,0.0,,0.0,13.0,Honourable Mention,2022
+474–497.,,Liliia,Redina,,Moscow,,1,0.0,2.0,,3.0,10.0,0.0,0.0,,10.0,13.0,Honourable Mention,2022
+474–497.,,Emmanuel David,Silva Amaya,Universidad Nacional de Colombia,Bogota,Colombia,0,0.0,1.0,0.0,1.0,10.0,0.0,2.0,0.0,12.0,13.0,Honourable Mention,2022
+474–497.,,Lucas Vinícius,Silveira de Lima,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,1.0,1.0,,12.0,,1.0,,,1.0,13.0,Honourable Mention,2022
+474–497.,,Gergő,Széphegyi,University of Szeged,Szeged,Hungary,0,2.0,1.0,,3.0,10.0,,,,10.0,13.0,Honourable Mention,2022
+474–497.,,Marcos,Tirador Del Riego,University of Havana,Havana,Cuba,,,2.0,,2.0,9.0,2.0,,,11.0,13.0,Honourable Mention,2022
+474–497.,,Furkat,Vafoev,National University of Uzbekistan,Tashkent,Uzbekistan,10,3.0,,0.0,13.0,0.0,0.0,0.0,,0.0,13.0,Honourable Mention,2022
+474–497.,,Gaoke,Zhang,University College London,London,UK,10,2.0,1.0,,13.0,0.0,,0.0,,0.0,13.0,Honourable Mention,2022
+474–497.,,Πλάτων,Σταμπουλίδης,Aristotle University of Thessaloniki,Thessaloniki,Greece,4,3.0,1.0,0.0,8.0,,,5.0,,5.0,13.0,Honourable Mention,2022
+498–518.,,Yohan,Abeysinghe,University of Moratuwa,Moratuwa,Sri Lanka,10,0.0,1.0,0.0,11.0,0.0,0.0,1.0,0.0,1.0,12.0,Honourable Mention,2022
+498–518.,,Jan,Ackermann,RWTH Aachen University,Aachen,Germany,1,2.0,1.0,0.0,4.0,2.0,2.0,4.0,0.0,8.0,12.0,Honourable Mention,2022
+498–518.,,Bryan,Borck,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,0.0,,0.0,10.0,1.0,1.0,,0.0,2.0,12.0,Honourable Mention,2022
+498–518.,,André Filipe,Diogo Castro,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,2.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,12.0,Honourable Mention,2022
+498–518.,,Fevin,Fevin,Universitas Sumatera Utara,Medan,Indonesia,0,0.0,0.0,0.0,0.0,1.0,9.0,2.0,0.0,12.0,12.0,Honourable Mention,2022
+498–518.,,Litong,Fu,Southern University of Science and Technology,Shenzhen,China,10,0.0,0.0,0.0,10.0,0.0,0.0,2.0,0.0,2.0,12.0,Honourable Mention,2022
+498–518.,,Gabriel,Gandour,Instituto Tecnológico de Aeronáutica,São Paulo,Brazil,10,,2.0,,12.0,0.0,0.0,0.0,,0.0,12.0,Honourable Mention,2022
+498–518.,,Jordan,Heugh,University of Cape Town,Cape Town,South Africa,10,,1.0,,11.0,0.0,1.0,,,1.0,12.0,Honourable Mention,2022
+498–518.,,Islombek,Ismailov,Urgench State University,Urgench,Uzbekistan,10,0.0,,,10.0,,,2.0,,2.0,12.0,Honourable Mention,2022
+498–518.,,Juan esteban,Londoño velasquez,University of Antioquia,Medellín,Colombia,10,2.0,,,12.0,0.0,0.0,,,0.0,12.0,Honourable Mention,2022
+498–518.,,José Eduardo,López Corella,Universidad de Costa Rica,San Pedro Montes de Oca,Costa Rica,10,0.0,1.0,0.0,11.0,1.0,0.0,0.0,0.0,1.0,12.0,Honourable Mention,2022
+498–518.,,Leonardo,Loria Vinueza,Universidad de Costa Rica,San Pedro Montes de Oca,Costa Rica,0,0.0,1.0,0.0,1.0,1.0,10.0,0.0,0.0,11.0,12.0,Honourable Mention,2022
+498–518.,,Nícolas,Meira Sinott Lopes,Ecole Polytechnique,Palaiseau,France,4,4.0,0.0,0.0,8.0,4.0,0.0,0.0,0.0,4.0,12.0,Honourable Mention,2022
+498–518.,,Viktor,Moskvoretskii,,Moscow,,10,2.0,0.0,,12.0,,,0.0,,0.0,12.0,Honourable Mention,2022
+498–518.,,Valerii,Mykhailov,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,10,2.0,0.0,,12.0,,0.0,0.0,0.0,0.0,12.0,Honourable Mention,2022
+498–518.,,Andrei Esteban,Oses Amaya,Universidad de Costa Rica,San Pedro Montes de Oca,Costa Rica,10,0.0,2.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,12.0,Honourable Mention,2022
+498–518.,,Mikhail,Petrochenkov,,Saint-Petersburg,,10,0.0,2.0,,12.0,,0.0,0.0,,0.0,12.0,Honourable Mention,2022
+498–518.,,Flavio,Principato,Technische Universität München,Munich,Germany,10,0.0,1.0,,11.0,,1.0,,,1.0,12.0,Honourable Mention,2022
+498–518.,,Menli,Rahmedova,Magtymguly Turkmen State University,Ashgabat,Turkmenistan,10,,1.0,,11.0,1.0,,0.0,,1.0,12.0,Honourable Mention,2022
+498–518.,,Luis,Varona Ramírez,Universidad de La Rioja,Logroño,Spain,10,,1.0,,11.0,1.0,,,0.0,1.0,12.0,Honourable Mention,2022
+498–518.,,Diana,Zalilova,,Saint-Petersburg,,8,2.0,1.0,0.0,11.0,1.0,0.0,0.0,0.0,1.0,12.0,Honourable Mention,2022
+519–535.,,Anjana Sayuru Shenal,Amugoda,University of Moratuwa,Moratuwa,Sri Lanka,0,,1.0,,1.0,10.0,,,,10.0,11.0,Honourable Mention,2022
+519–535.,,Todor,Antić,University of Primorska,Primorska,Slovenia,3,,0.0,,3.0,8.0,,0.0,,8.0,11.0,Honourable Mention,2022
+519–535.,,Irina,Bykovskaya,,Moscow,,10,0.0,0.0,0.0,10.0,0.0,,1.0,,1.0,11.0,Honourable Mention,2022
+519–535.,,Oguljan,Charyyeva,State Energy Institute of Turkmenistan,Mary,Turkmenistan,10,,0.0,,10.0,,,1.0,,1.0,11.0,Honourable Mention,2022
+519–535.,,Xujian,Chen,Southern University of Science and Technology,Shenzhen,China,10,0.0,1.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,Honourable Mention,2022
+519–535.,,Alina,Chigireva,,Moscow,,10,0.0,1.0,,11.0,,0.0,0.0,,0.0,11.0,Honourable Mention,2022
+519–535.,,Felipe,Colar Aizic,Universidade Federal do Rio de Janeiro,Rio de Janeiro,Brazil,1,,2.0,,3.0,1.0,7.0,,,8.0,11.0,Honourable Mention,2022
+519–535.,,Leonidas,Feidakis,ETH Zurich,Zürich,Switzerland,10,0.0,1.0,,11.0,,,,,0.0,11.0,Honourable Mention,2022
+519–535.,,Rowan Lepley,Gabriel,University of Amsterdam,Amsterdam,Netherlands,9,0.0,1.0,,10.0,1.0,0.0,0.0,,1.0,11.0,Honourable Mention,2022
+519–535.,,Chinmayi,Gajula,Indian Institute of Technology Madras,Chennai,India,10,,1.0,,11.0,,,,,0.0,11.0,Honourable Mention,2022
+519–535.,,Krzysztof,Hernik,AGH University of Science and Technology,Krakow,Poland,10,1.0,0.0,,11.0,,0.0,0.0,0.0,0.0,11.0,Honourable Mention,2022
+519–535.,,Vasiliy,Kadykov,,Moscow,,,,0.0,,0.0,10.0,1.0,,,11.0,11.0,Honourable Mention,2022
+519–535.,,Anton,Pieshkov,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,10,0.0,1.0,,11.0,,,,,0.0,11.0,Honourable Mention,2022
+519–535.,,Ian,Ribeiro de Faria Leite,Universidade de São Paulo,São Paulo,Brazil,10,,0.0,0.0,10.0,,1.0,,,1.0,11.0,Honourable Mention,2022
+519–535.,,Julia,Sánchez Loscertales,Universidad de Zaragoza,Zaragoza,Spain,10,1.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,Honourable Mention,2022
+519–535.,,Azymgeldi,Shyhov,International University for the Humanities and Development,Ashgabat,Turkmenistan,10,,,,10.0,1.0,,,,1.0,11.0,Honourable Mention,2022
+519–535.,,Ivan,Skoroplias,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,10,,1.0,,11.0,,0.0,,,0.0,11.0,Honourable Mention,2022
+536–551.,,Dinuka Sandun Udayantha,Battagodage,University of Moratuwa,Moratuwa,Sri Lanka,4,6.0,0.0,0.0,10.0,0.0,0.0,0.0,,0.0,10.0,Honourable Mention,2022
+536–551.,,Thomas,Chadderton,University of Sheffield,Sheffield,UK,9,0.0,1.0,,10.0,,,,,0.0,10.0,Honourable Mention,2022
+536–551.,,Marcos Paulo,de Souza Campanha,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,10,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,Honourable Mention,2022
+536–551.,,Jayden Thomas,Dickson,Stellenbosch University,Stellenbosch,South Africa,0,0.0,1.0,0.0,1.0,9.0,0.0,,0.0,9.0,10.0,Honourable Mention,2022
+536–551.,,Weverton,Dos Santos Alves,Bridgewater State University,Bridgewater,United States of America,10,,,,10.0,,,,,0.0,10.0,Honourable Mention,2022
+536–551.,,Daniil,Dryabin,,Moscow,,10,0.0,,,10.0,,,,,0.0,10.0,Honourable Mention,2022
+536–551.,,Uluğbek,Erkinov,Bukhara State University,Bukhara,Uzbekistan,10,0.0,,,10.0,,0.0,0.0,0.0,0.0,10.0,Honourable Mention,2022
+536–551.,,Dovletmyrat,Esenov,International University for the Humanities and Development,Ashgabat,Turkmenistan,10,0.0,,,10.0,,,,,0.0,10.0,Honourable Mention,2022
+536–551.,,Anderson Davi,Fernandes Moreira,Instituto Militar de Engenharia,Rio de Janeiro,Brazil,1,2.0,2.0,0.0,5.0,0.0,1.0,3.0,1.0,5.0,10.0,Honourable Mention,2022
+536–551.,,Orlando Porfirio,Jiménez Jiménez,Universidad Nacional Autónoma de México,Mexico City,Mexico,0,0.0,,,0.0,10.0,0.0,,,10.0,10.0,Honourable Mention,2022
+536–551.,,Anna,Novikova,,Moscow,,0,,0.0,,0.0,10.0,0.0,,0.0,10.0,10.0,Honourable Mention,2022
+536–551.,,Akja,Potdyyeva,International University for the Humanities and Development,Ashgabat,Turkmenistan,10,,,0.0,10.0,,0.0,,,0.0,10.0,Honourable Mention,2022
+536–551.,,Maximus,Smith,Durham University,Durham,UK,4,2.0,0.0,0.0,6.0,1.0,2.0,0.0,1.0,4.0,10.0,Honourable Mention,2022
+536–551.,,Hasan,Tuyliyev,National University of Uzbekistan,Tashkent,Uzbekistan,10,0.0,,,10.0,,0.0,0.0,,0.0,10.0,Honourable Mention,2022
+536–551.,,Koen Johan Hendrik,van Baar,University of Amsterdam,Amsterdam,Netherlands,7,0.0,0.0,,7.0,1.0,0.0,2.0,,3.0,10.0,Honourable Mention,2022
+536–551.,,Gurbanmyrat,Yemshikov,State Energy Institute of Turkmenistan,Mary,Turkmenistan,10,,0.0,,10.0,,,0.0,,0.0,10.0,Honourable Mention,2022
+552–556.,,Ric,Chan,Nanyang Technological University,Jurong West,Singapore,4,3.0,0.0,0.0,7.0,0.0,0.0,2.0,0.0,2.0,9.0,Honourable Mention,2022
+552–556.,,Salihbek,Dovletmyradov,Magtymguly Turkmen State University,Ashgabat,Turkmenistan,0,9.0,,,9.0,,0.0,0.0,,0.0,9.0,Honourable Mention,2022
+552–556.,,Beatriz,Marín Gimeno,Universidad de Zaragoza,Zaragoza,Spain,4,2.0,0.0,0.0,6.0,,1.0,2.0,,3.0,9.0,Honourable Mention,2022
+552–556.,,Alejandro,Maris,Cornell University,Ithaca,USA,4,2.0,0.0,0.0,6.0,,1.0,2.0,,3.0,9.0,Honourable Mention,2022
+552–556.,,Edison David,Serrano Cardenas,Universidad Nacional de Colombia,Bogota,Colombia,?,4.0,1.0,,5.0,,,,4.0,4.0,9.0,Honourable Mention,2022
+557–563.,,Al Farabie,Akanda,Haverford College,Haverford,USA,8,,0.0,0.0,8.0,,,,,0.0,8.0,Honourable Mention,2022
+557–563.,,Finn,Hogan,Durham University,Durham,UK,4,4.0,0.0,,8.0,,0.0,,,0.0,8.0,Honourable Mention,2022
+557–563.,,Farrukh,Makhmudov,National University of Uzbekistan,Tashkent,Uzbekistan,4,0.0,1.0,0.0,5.0,,,3.0,,3.0,8.0,Honourable Mention,2022
+557–563.,,Jeann,Rocha,Universidade Federal de Alagoas,Maceió,Brazil,0,0.0,1.0,,1.0,0.0,7.0,0.0,,7.0,8.0,Honourable Mention,2022
+557–563.,,Danny Steven,Solórzano Mayorga,Universidad de Costa Rica,San Pedro Montes de Oca,Costa Rica,0,2.0,1.0,0.0,3.0,0.0,5.0,0.0,0.0,5.0,8.0,Honourable Mention,2022
+557–563.,,Sevinch,Xamdamkulova,National University of Uzbekistan,Tashkent,Uzbekistan,1,7.0,0.0,,8.0,,0.0,0.0,,0.0,8.0,Honourable Mention,2022
+557–563.,,Bo,Ying,University of Nottingham Ningbo China,Ningbo,China,3,0.0,0.0,,3.0,0.0,5.0,,,5.0,8.0,Honourable Mention,2022
+564–566.,,Muhammad Nur,Fadli,Diponegoro University,Semarang,Indonesia,4,2.0,1.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,certificate,2022
+564–566.,,ZIYI,OU,University of Sheffield,Sheffield,UK,5,0.0,1.0,0.0,6.0,1.0,0.0,0.0,,1.0,7.0,certificate,2022
+564–566.,,Nicholas,Sander,Stellenbosch University,Stellenbosch,South Africa,6,0.0,1.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,certificate,2022
+567–569.,,Marharyta,Koliakova,Taras Shevchenko National University of Kyiv,Kyiv,Ukraine,0,2.0,1.0,0.0,3.0,3.0,0.0,0.0,0.0,3.0,6.0,certificate,2022
+567–569.,,Narges,Shavali Kohshor,Kharazmi University,Tehran,Iran,4,0.0,1.0,,5.0,1.0,0.0,0.0,,1.0,6.0,certificate,2022
+567–569.,,Bingheng,Yang,University College London,London,UK,2,4.0,0.0,,6.0,0.0,0.0,0.0,,0.0,6.0,certificate,2022
+570–571.,,Aleksandra,Lewandowska,Nicolaus Copernicus University,Toruń,Poland,2,0.0,0.0,,2.0,1.0,0.0,2.0,,3.0,5.0,certificate,2022
+570–571.,,Linda Julieth,Mendez Aroca,Universidad Nacional de Colombia,Bogota,Colombia,0,2.0,1.0,,3.0,,,2.0,,2.0,5.0,certificate,2022
+572–578.,,Paula,Heim,Universität Heidelberg,Heidelberg,Deutschland,0,0.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,3.0,4.0,certificate,2022
+572–578.,,Melike,Jumayeva,Turkmen State Pedagogical Institute named after S.Seydi,Turkmenabat,Turkmenistan,4,0.0,0.0,,4.0,,,0.0,,0.0,4.0,certificate,2022
+572–578.,,Iason,Kazazis,National and Kapodistrian University of Athens,Athens,Greece,2,0.0,0.0,0.0,2.0,0.0,0.0,2.0,,2.0,4.0,certificate,2022
+572–578.,,Pablo,Moreno Souto de Melo,Fundação Getulio Vargas,Rio de Janeiro,Brazil,1,0.0,1.0,0.0,2.0,1.0,1.0,0.0,0.0,2.0,4.0,certificate,2022
+572–578.,,Gabriel,Oliveira,Universidade Federal de Alagoas,Maceió,Brazil,4,0.0,,,4.0,,,,,0.0,4.0,certificate,2022
+572–578.,,Dorotea,Redžepi,University of Primorska,Primorska,Slovenia,1,0.0,0.0,,1.0,0.0,0.0,0.0,3.0,3.0,4.0,certificate,2022
+572–578.,,Alsu,Surmeeva,,Moscow,,4,0.0,0.0,,4.0,0.0,0.0,,,0.0,4.0,certificate,2022
+579–589.,,Karl-Joan,Alesma,University of Tartu,Tartu,Estonia,0,0.0,,0.0,0.0,1.0,,2.0,0.0,3.0,3.0,certificate,2022
+579–589.,,Hilola,Atanazarova,Urgench State University,Urgench,Uzbekistan,0,2.0,1.0,,3.0,,,,,0.0,3.0,certificate,2022
+579–589.,,Jonathan,Boardman,University College London,London,UK,1,2.0,0.0,0.0,3.0,0.0,,,0.0,0.0,3.0,certificate,2022
+579–589.,,Álvaro,Pereira Chagoyen,Universidad Pontificia Comillas,Madrid,Spain,0,0.0,0.0,,0.0,1.0,0.0,2.0,,3.0,3.0,certificate,2022
+579–589.,,Juan David,Salcedo Hernandez,University of Antioquia,Medellín,Colombia,3,0.0,,,3.0,0.0,0.0,,,0.0,3.0,certificate,2022
+579–589.,,Artyom,Smorodskij,,Saint-Petersburg,,2,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2022
+579–589.,,Miguel Mandilas,Torres,University of the Witwatersrand,Johannesburg,South Africa,0,0.0,1.0,,1.0,0.0,2.0,,,2.0,3.0,certificate,2022
+579–589.,,Jan,Trias Terol,University of Barcelona,Barcelona,Spain,0,2.0,0.0,,2.0,,1.0,,,1.0,3.0,certificate,2022
+579–589.,,ALEXANDROS,TZIORTZIS,Aristotle University of Thessaloniki,Thessaloniki,Greece,0,1.0,0.0,,1.0,,0.0,2.0,,2.0,3.0,certificate,2022
+579–589.,,Yudha,Widianto,Universitas Sanata Dharma,Yogyakarta,Indonesia,,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,3.0,3.0,certificate,2022
+579–589.,,ZHICHEN,WU,University of Sheffield,Sheffield,UK,0,2.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,certificate,2022
+590–598.,,Tianran,Chen,University College London,London,UK,,,,,0.0,0.0,2.0,0.0,,2.0,2.0,certificate,2022
+590–598.,,Aref,Esmaeily,University of Tabriz,Tabriz,Iran,0,0.0,0.0,,0.0,1.0,1.0,0.0,,2.0,2.0,certificate,2022
+590–598.,,Gerson,Ferreira Santos Junior,Universidade Federal de Alagoas,Maceió,Brazil,0,,2.0,,2.0,,0.0,,,0.0,2.0,certificate,2022
+590–598.,,Bartosz,Glowacki,AGH University of Science and Technology,Krakow,Poland,0,0.0,1.0,0.0,1.0,0.0,1.0,,0.0,1.0,2.0,certificate,2022
+590–598.,,Md Raihan,Khan,Khulna University of Engineering & Technology,Khulna,Bangladesh,0,1.0,,,1.0,,1.0,0.0,,1.0,2.0,certificate,2022
+590–598.,,Qinglan,Ouyang,University College London,London,UK,0,2.0,0.0,,2.0,0.0,0.0,0.0,,0.0,2.0,certificate,2022
+590–598.,,Ajla,Šehović,University of Primorska,Primorska,Slovenia,0,2.0,0.0,,2.0,0.0,0.0,,,0.0,2.0,certificate,2022
+590–598.,,Ekaterina,Shaldunova,,Moscow,,0,2.0,,,2.0,,0.0,,,0.0,2.0,certificate,2022
+590–598.,,Yijia,Zeng,Lund University,Lund,Sweden,1,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,2.0,certificate,2022
+599–611.,,Chathura,Gunasekara,University of Moratuwa,Moratuwa,Sri Lanka,1,0.0,0.0,0.0,1.0,0.0,0.0,,,0.0,1.0,certificate,2022
+599–611.,,Elizaveta,Ivanova,,Moscow,,0,,0.0,,0.0,1.0,,,,1.0,1.0,certificate,2022
+599–611.,,Andronikos,Loukaidis,University of Patras,Patras,Greece,0,0.0,0.0,0.0,0.0,1.0,,,,1.0,1.0,certificate,2022
+599–611.,,Barathraj,Manthiramoorthy,University of Moratuwa,Moratuwa,Sri Lanka,0,0.0,0.0,0.0,0.0,1.0,0.0,,0.0,1.0,1.0,certificate,2022
+599–611.,,Hansa Niluka Bandara,Marasinghe,University of Moratuwa,Moratuwa,Sri Lanka,1,,0.0,,1.0,,0.0,,,0.0,1.0,certificate,2022
+599–611.,,Muhammad Uthman,Moola,University of the Witwatersrand,Johannesburg,South Africa,0,0.0,1.0,,1.0,,0.0,,,0.0,1.0,certificate,2022
+599–611.,,Navin Philip,Ninan,University of the Witwatersrand,Johannesburg,South Africa,0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,certificate,2022
+599–611.,,Hu An,Tan,University of Amsterdam,Amsterdam,Netherlands,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,1.0,1.0,certificate,2022
+599–611.,,Viktoria,Tarasenko,Igor Sikorsky Kyiv Polytechnic Institute,Kyiv,Ukraine,0,0.0,0.0,0.0,0.0,1.0,0.0,,,1.0,1.0,certificate,2022
+599–611.,,Tserenlkham,Tegshjargal,National University of Mongolia,Ulaanbaatar,Mongolia,0,0.0,,,0.0,,1.0,,,1.0,1.0,certificate,2022
+599–611.,,Arkhip,Vasilev,,Moscow,,,,1.0,,1.0,0.0,,,,0.0,1.0,certificate,2022
+599–611.,,Ben,Victor,University of Pretoria,Pretoria,South Africa,0,0.0,1.0,0.0,1.0,,,,,0.0,1.0,certificate,2022
+599–611.,,Aymaral,Yazmyradova,International University for the Humanities and Development,Ashgabat,Turkmenistan,0,0.0,,,0.0,0.0,,1.0,,1.0,1.0,certificate,2022
+612–663.,,Shayan,Ahmad,New York University Abu Dhabi,Abu Dhabi,United Arab Emirates,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Lucas Henrique,Azevedo dos Santos,Universidade Federal de Pernambuco,Recife,Brazil,0,,,,0.0,0.0,0.0,0.0,,0.0,0.0,certificate,2022
+612–663.,,Rahat,Babaniyazov,Turkmen State Pedagogical Institute named after S.Seydi,Turkmenabat,Turkmenistan,0,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Artem,Belskii,,Moscow,,0,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Igor,Białecki,Nicolaus Copernicus University,Toruń,Poland,0,0.0,0.0,,0.0,,0.0,,,0.0,0.0,certificate,2022
+612–663.,,JORGE RICARDO,CABRERA MURILLO,Universidad San Francisco de Quito,Quito,Ecuador,,0.0,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Dmitry,Chegodaev,,Saint-Petesburg,,0,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Svyatoslav,Chmil,Lviv Polytechnic National University,Lviv,Ukraine,0,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Armen,Dallakyan,,Moscow,,0,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Johannes Zerwick,De Lange,University of Pretoria,Pretoria,South Africa,0,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Lucas Hiroshi,dos Santos Nakagawa,Universidade Federal de Alagoas,Maceió,Brazil,,,0.0,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Alexander,Ganibaev,,Moscow,,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Yaseen Fajrie Yudha,Ghozali,University of Indonesia,Depok,Indonesia,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Brandon,Haris Effendi,Prasetiya Mulya University,Tangerang Selatan,Indonesia,,,,,0.0,,0.0,,,0.0,0.0,certificate,2022
+612–663.,,Yuxin,He,Southern University of Science and Technology,Shenzhen,China,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Yelyzaveta,Hlushchuk,I. I. Mechnikov National University,Odessa,Ukraine,,0.0,,,0.0,,,0.0,,0.0,0.0,certificate,2022
+612–663.,,Rovshen,Hommadov,State Energy Institute of Turkmenistan,Mary,Turkmenistan,0,0.0,,0.0,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Qinglan,Huang,University of Newcastle,Newcastle,Australia,,0.0,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Alexandr,Ivanov,,Moscow,,,0.0,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Nikita,Kiselev,,Moscow,,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Georgii,Kuksa,,Saint-Petersburg,,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Nam,Le,Ton Duc Thang university,Ho chi Minh city,Vietnam,,0.0,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Ivan,Lysikov,V. N. Karazin Kharkiv National University,Kharkiv,Ukraine,0,0.0,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Karolina Dagmara,Marek,AGH University of Science and Technology,Krakow,Poland,0,0.0,0.0,0.0,0.0,,0.0,,,0.0,0.0,certificate,2022
+612–663.,,Antonio,Martins Sasaki,Universidade Federal do Rio de Janeiro,Rio de Janeiro,Brazil,,,,,0.0,,0.0,0.0,,0.0,0.0,certificate,2022
+612–663.,,Shuting,Mi,University College London,London,UK,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Kundyz,Muktar,New York University Abu Dhabi,Abu Dhabi,United Arab Emirates,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Marina,Oliveira,Universidade Federal de Alagoas,Maceió,Brazil,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Veronika,Ostapenko,Kyiv National Economic University named after Vadym Hetman,Kyiv,Ukraine,0,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Aayan,Pathan,New York University Abu Dhabi,Abu Dhabi,United Arab Emirates,0,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Stanislav,Petrov,,Moscow,,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Xinyi,Ping,University College London,London,UK,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Valeria,Plohotniuk,,Moscow,,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Ignat,Romanov,,Moscow,,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Mykhailo,Rudenko,Kyiv National Economic University named after Vadym Hetman,Kyiv,Ukraine,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Almira,Shabakaeva,,Moscow,,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Georgyi,Shalygin,,Moscow,,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Agata,Shchebletsova,,Moscow,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,certificate,2022
+612–663.,,Peiyu,Shi,University College London,London,UK,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Alex,Sierra,University of Havana,Havana,Cuba,0,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Petar,Stanic,University College London,London,UK,0,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,LINLIN,SU,University College London,London,UK,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Anton,Trevor,Ukrainian Catholic University,Lviv,Ukraine,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Md Rifat,Ur Rahman,Bangladesh University of Engineering and Technology,Dhaka,Bangladesh,0,0.0,,,0.0,,0.0,,,0.0,0.0,certificate,2022
+612–663.,,Chamundeshwari Rajputri Vadamalai,Vadamalai,University College London,London,UK,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Roman,Vsemirnov,,Saint-Petersburg,,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Caosheng,Wang,University of Sheffield,Sheffield,UK,0,0.0,,,0.0,0.0,0.0,,,0.0,0.0,certificate,2022
+612–663.,,Rui,Wang,University of Edinburgh,Edinburgh,UK,,0.0,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Chenghui,Xu,University College London,London,UK,,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Jia,Xu,University College London,London,UK,0,0.0,0.0,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Klymentii,Zolotarov,V. N. Karazin Kharkiv National University,Kharkiv,Ukraine,0,,,,0.0,,,,,0.0,0.0,certificate,2022
+612–663.,,Nikita,Zvonkov,,Moscow,,0,,,,0.0,,,,,0.0,0.0,certificate,2022

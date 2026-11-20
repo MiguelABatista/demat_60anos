@@ -1,0 +1,242 @@
+Year,Pos,First name,Family name,Full name,University,Team,City,Country,Code_D1,D1_P1,D1_P2,D1_P3,D1_P4,D1_P5,D1_P6,Day1,Code_D2,D2_P1,D2_P2,D2_P3,D2_P4,D2_P5,D2_P6,Day2,Sum,Prize,Prize_raw
+2006,1,Oleksandr,Rybak,Oleksandr Rybak,Kiev Polytechnic Institute,,,,179,20,20,20,20,20,8,108,211,20,20,15,20,20,1,96,204,Grand First Prize,Grand First Prize
+2006,2,Alexander,Efimov,Alexander Efimov,The Lomonosov Moscow State University,,,,133,18,20,19,19,0,20,96,30,20,20,,20,20,17,97,193,Grand First Prize,Grand First Prize
+2006,3,Claudiu,Raicu,Claudiu Raicu,University of Bucharest,,,,63,20,20,20,20,20,0,100,221,20,20,0,20,20,0,80,180,Grand First Prize,Grand First Prize
+2006,4,Mohammad,Gharakhani,Mohammad Gharakhani,Sharif University of Technology,,,,86,20,20,18,20,20,0,98,60,20,20,,20,20,,80,178,Grand First Prize,Grand First Prize
+2006,5,Mateusz,Michałek,Mateusz Michałek,Jagiellonian University,,,,204,20,15,18,18,20,0,91,185,20,20,4,20,20,,84,175,Grand First Prize,Grand First Prize
+2006,6,Aleksander,Zabłocki,Aleksander Zabłocki,Warsaw University,,,,68,20,20,17,20,20,0,97,95,20,8,,20,19,0,67,164,First Prize,First Prize
+2006,7,Marek,Tesař,Marek Tesař,Charles University Prague,,,,34,20,20,12,6,3,0,61,241,20,20,20,20,20,0,100,161,First Prize,First Prize
+2006,8,Béla András,Rácz,Béla András Rácz,Eötvös Loránd University Budapest,,,,61,20,20,18,20,1,,79,151,20,20,2,20,20,,82,161,First Prize,First Prize
+2006,9,Humberto Silva,Naves,Humberto Silva Naves,ITA - Instituto Tecnologico de Aeronautica,,,,206,20,20,10,20,,8,78,180,20,20,2,20,20,0,82,160,First Prize,First Prize
+2006,10,Fábio,Moreira,Fábio Moreira,Pontifícia Universidade Católica do Rio de Janeiro,,,,213,20,17,19,1,20,0,77,172,20,20,3,20,20,,83,160,First Prize,First Prize
+2006,11,Ilija,Jovceski,Ilija Jovceski,St. Cyrilius and Metodius-Skopje,,,,85,20,20,1,5,19,0,65,50,18,20,20,15,20,0,93,158,First Prize,First Prize
+2006,12,Aram,Tumanyan,Aram Tumanyan,Kyiv National Taras Shevchenko University,,,,22,20,20,18,,20,,78,118,20,20,0,20,19,,79,157,First Prize,First Prize
+2006,13,Dzmitry,Dudko,Dzmitry Dudko,Belarusian State University,,,,127,19,20,18,0,0,20,77,27,20,18,3,20,18,0,79,156,First Prize,First Prize
+2006,14,Oleksiy,Adamov,Oleksiy Adamov,Odessa National I.I. Mechnikov University,,,,167,20,20,15,18,2,0,75,12,20,20,2,20,19,,81,156,First Prize,First Prize
+2006,15,Pál Péter,Pach,Pál Péter Pach,Eötvös Loránd University Budapest,,,,192,20,20,11,4,0,,55,145,20,19,20,20,20,0,99,154,First Prize,First Prize
+2006,16,Tomasz,Warszawski,Tomasz Warszawski,Jagiellonian University,,,,60,20,20,,18,20,,78,122,18,20,0,18,20,,76,154,First Prize,First Prize
+2006,17,Ali,Khezeli,Ali Khezeli,Sharif University of Technology,,,,175,18,20,17,20,0,0,75,199,15,20,3,20,19,0,77,152,First Prize,First Prize
+2006,18,Paweł,Januszewski,Paweł Januszewski,Jagiellonian University,,,,113,20,20,15,20,2,,77,91,20,20,,15,19,,74,151,First Prize,First Prize
+2006,19,Dmytro,Petrovskyy,Dmytro Petrovskyy,Kyiv National Taras Shevchenko University,,,,182,18,20,,0,20,0,58,163,18,19,16,20,20,0,93,151,First Prize,First Prize
+2006,20,Pavel,Kozlov,Pavel Kozlov,The Lomonosov Moscow State University,,,,237,20,20,0,5,20,,65,225,20,20,5,20,20,,85,150,First Prize,First Prize
+2006,21,Anton,Lunov,Anton Lunov,Donetsk National University,,,,221,20,20,1,0,20,1,62,108,20,20,20,20,5,0,85,147,First Prize,First Prize
+2006,22,Armin,Morabbi,Armin Morabbi,Ecole Polytechnique Paris,,,,202,20,20,14,8,2,2,66,177,20,20,3,20,18,0,81,147,First Prize,First Prize
+2006,23,Irina,Mustata,Irina Mustata,International University Bremen,,,,25,20,20,,2,20,1,63,133,20,20,4,20,20,,84,147,First Prize,First Prize
+2006,24,Ali Akbar,Daemi,Ali Akbar Daemi,Sharif University of Technology,,,,118,20,20,0,2,20,2,64,28,20,20,3,20,20,0,83,147,First Prize,First Prize
+2006,25,Victoria,Lebed,Victoria Lebed,Belarusian State University,,,,234,19,20,20,2,,2,63,229,20,20,2,20,20,0,82,145,First Prize,First Prize
+2006,26,Dávid,Kunszenti-Kovács,Dávid Kunszenti-Kovács,Eötvös Loránd University Budapest,,,,101,20,20,14,5,20,1,80,48,20,20,3,3,19,,65,145,First Prize,First Prize
+2006,27,Martin,Pettai,Martin Pettai,University of Tartu,,,,70,20,20,,4,20,,64,219,20,20,1,20,20,,81,145,First Prize,First Prize
+2006,28,Anton,Karputkin,Anton Karputkin,University of Tartu,,,,82,20,20,5,17,0,0,62,51,20,15,17,12,18,0,82,144,First Prize,First Prize
+2006,29,Matthias,Warkentin,Matthias Warkentin,University of Bonn,,,,55,20,20,19,2,0,,61,137,20,20,1,20,20,0,81,142,First Prize,First Prize
+2006,30,Ahmad,Peivandi Karizbodaghi,Ahmad Peivandi Karizbodaghi,Sharif University of Technology,,,,197,17,15,20,5,1,1,59,148,20,20,5,20,18,0,83,142,First Prize,First Prize
+2006,31,Katarína,Quittnerová,Katarína Quittnerová,Charles university Prague,,,,58,20,20,18,1,0,,59,216,20,20,2,20,20,,82,141,First Prize,First Prize
+2006,32,Vítězslav,Kala,Vítězslav Kala,Charles University Prague,,,,99,20,20,0,20,0,,60,42,20,20,1,19,20,,80,140,First Prize,First Prize
+2006,33,Balázs,Strenner,Balázs Strenner,Eötvös Loránd University Budapest,,,,35,19,20,0,,0,1,40,98,20,20,20,20,20,0,100,140,First Prize,First Prize
+2006,34,Taras,Tymoshkevych,Taras Tymoshkevych,Kyiv National Taras Shevchenko University,,,,8,20,20,0,5,1,0,46,196,20,19,19,16,20,0,94,140,First Prize,First Prize
+2006,35,Maxim,Kalinin,Maxim Kalinin,The Lomonosov Moscow State University,,,,91,20,15,19,,4,,58,210,20,20,2,20,20,,82,140,First Prize,First Prize
+2006,36,Andrei,Negut,Andrei Negut,Princeton University,,,,187,20,20,5,5,0,,50,135,20,20,4,20,20,4,88,138,First Prize,First Prize
+2006,37,Thiago,Barros Rodrigues Costa,Thiago Barros Rodrigues Costa,"UNICAMP, Brazil",,,,164,15,16,18,5,,4,58,77,20,18,3,20,19,,80,138,First Prize,First Prize
+2006,38,Mostafa,Einollahzadeh Samadi,Mostafa Einollahzadeh Samadi,Sharif University of Technology,,,,119,20,20,0,,,,40,40,20,20,18,20,19,,97,137,First Prize,First Prize
+2006,39,Michal,Burger,Michal Burger,Comenius University in Bratislava,,,,151,15,20,,,20,,55,5,20,20,1,19,20,,80,135,First Prize,First Prize
+2006,40,Yaroslav,Zhurba,Yaroslav Zhurba,Kyiv National Taras Shevchenko University,,,,11,20,18,20,,0,0,58,128,20,19,2,18,18,0,77,135,First Prize,First Prize
+2006,41,Péter,Kevei,Péter Kevei,University of Szeged,,,,180,20,20,17,5,,0,62,11,20,12,2,20,19,,73,135,First Prize,First Prize
+2006,42,Robert,Kucharczyk,Robert Kucharczyk,University of Bonn,,,,231,20,20,12,20,0,,72,235,10,19,,18,15,,62,134,First Prize,First Prize
+2006,43,Ioan,Mărcuţ,Ioan Mărcuţ,"Babes-Bolyai University, Cluj",,,,217,20,20,18,18,0,0,76,107,20,20,1,,16,,57,133,First Prize,First Prize
+2006,44,Michał,Adamaszek,Michał Adamaszek,Warsaw University,,,,143,19,20,14,,,,53,81,20,20,,20,20,,80,133,First Prize,First Prize
+2006,45,Omid,Hatami Varzaneh,Omid Hatami Varzaneh,Sharif University of Technology,,,,84,20,15,,20,2,,57,61,20,20,0,20,16,0,76,133,First Prize,First Prize
+2006,46,Michał,Lasoń,Michał Lasoń,Jagiellonian University,,,,242,20,15,16,5,0,0,56,233,20,18,,20,18,,76,132,First Prize,First Prize
+2006,47,Bernardo Freitas Paulo,Da Costa,Bernardo Freitas Paulo Da Costa,Ecole Polytechnique Paris,,,,129,18,20,0,8,20,0,66,26,20,20,3,17,5,,65,131,First Prize,First Prize
+2006,48,Ján,Mazák,Ján Mazák,Comenius University in Bratislava,,,,224,20,15,18,5,5,,63,116,20,20,5,20,2,,67,130,First Prize,First Prize
+2006,49,Andrej,Osuský,Andrej Osuský,Comenius University in Bratislava,,,,194,20,20,0,6,,,46,143,20,2,20,20,20,,82,128,Second Prize,Second Prize
+2006,50,Yuri,Kartashov,Yuri Kartashov,Kyiv National Taras Shevchenko University,,,,76,20,18,15,5,3,2,63,58,20,20,3,20,2,0,65,128,Second Prize,Second Prize
+2006,51,Yevgen,Rysai,Yevgen Rysai,Kyiv National Taras Shevchenko University,,,,59,20,20,18,2,4,2,66,220,20,20,2,20,,,62,128,Second Prize,Second Prize
+2006,52,Illés Antal,Horváth,Illés Antal Horváth,Technical University Budapest,,,,108,20,20,0,8,20,,68,44,20,20,0,,20,,60,128,Second Prize,Second Prize
+2006,53,Lauri,Ahlroth,Lauri Ahlroth,Helsinki University of Technology,,,,163,20,20,0,2,5,,47,202,20,19,1,20,20,,80,127,Second Prize,Second Prize
+2006,54,Klemen,Šivic,Klemen Šivic,University of Ljubljana,,,,47,20,20,0,20,1,0,61,115,20,20,4,20,1,0,65,126,Second Prize,Second Prize
+2006,55,Piotr,Achinger,Piotr Achinger,Warsaw University,,,,181,20,20,,0,,7,47,171,20,20,20,,19,,79,126,Second Prize,Second Prize
+2006,56,Simion,Filip,Simion Filip,Princeton University,,,,125,19,20,5,,0,0,44,34,20,20,2,20,19,0,81,125,Second Prize,Second Prize
+2006,57,Gabriel,Kreindler,Gabriel Kreindler,Princeton University,,,,233,19,20,15,9,0,0,63,130,20,20,,4,18,,62,125,Second Prize,Second Prize
+2006,58,Łukasz,Grabowski,Łukasz Grabowski,University of Szczecin,,,,81,20,15,15,,,,50,46,19,20,,20,15,,74,124,Second Prize,Second Prize
+2006,59,Sergiy,Slobodyanyuk,Sergiy Slobodyanyuk,Kyiv National Taras Shevchenko University,,,,9,20,20,4,,19,1,64,100,20,19,2,,18,,59,123,Second Prize,Second Prize
+2006,60,Erfan,Salavati,Erfan Salavati,Sharif University of Technology,,,,49,20,20,15,15,0,,70,97,19,20,,14,,,53,123,Second Prize,Second Prize
+2006,61,Balázs,Gerencsér,Balázs Gerencsér,Eötvös Loránd University Budapest,,,,83,20,20,15,2,3,,60,49,20,20,2,20,0,,62,122,Second Prize,Second Prize
+2006,62,Alena,Pirutka,Alena Pirutka,Belarusian State University,,,,74,20,15,,,6,0,41,214,20,20,0,20,20,,80,121,Second Prize,Second Prize
+2006,63,Juan Manuel,Hernández,Juan Manuel Hernández,Universidad de los Andes,,,,128,18,20,17,2,0,,57,22,20,20,0,8,16,,64,121,Second Prize,Second Prize
+2006,64,Mikhail,Blotski,Mikhail Blotski,Belarusian State University,,,,174,18,20,5,2,,,45,8,19,20,16,20,,,75,120,Second Prize,Second Prize
+2006,65,Viktoriya,Ozornova,Viktoriya Ozornova,Ruhr-Universität Bochum,,,,186,20,20,14,2,0,0,56,149,20,20,1,3,20,0,64,120,Second Prize,Second Prize
+2006,66,Artur Masis,Kirkoryan,Artur Masis Kirkoryan,"University of Sofia ""St. Kliment Ohridski""",,,,239,17,15,15,0,0,,47,231,15,20,0,20,18,0,73,120,Second Prize,Second Prize
+2006,67,Bartłomiej,Bzdęga,Bartłomiej Bzdęga,Adam Mickiewicz University,,,,140,18,20,0,,20,,58,86,20,20,,,20,,60,118,Second Prize,Second Prize
+2006,68,Milan,Novakovič,Milan Novakovič,Belgrade University,,,,183,20,20,15,2,0,,57,147,20,20,1,20,,0,61,118,Second Prize,Second Prize
+2006,69,Dmytro,Skorokhodov,Dmytro Skorokhodov,Dniepropetrovsk National University,,,,5,17,20,,20,0,1,58,197,20,20,0,0,20,,60,118,Second Prize,Second Prize
+2006,70,Aleksandar Dimitrov,Lishkov,Aleksandar Dimitrov Lishkov,Princeton University,,,,235,20,20,0,0,6,0,46,99,20,20,17,,15,,72,118,Second Prize,Second Prize
+2006,71,Tien Duc,Luu,Tien Duc Luu,Ecole Polytechnique Paris,,,,56,20,15,,5,,12,52,111,20,20,5,,20,0,65,117,Second Prize,Second Prize
+2006,72,Marko,Radovanović,Marko Radovanović,Belgrade University,,,,57,20,15,18,2,0,,55,213,20,20,2,,19,,61,116,Second Prize,Second Prize
+2006,73,Georgiy,Yesebua,Georgiy Yesebua,Kharkov National University,,,,10,20,20,0,2,20,,62,129,20,20,4,,10,,54,116,Second Prize,Second Prize
+2006,74,Martin,Tancer,Martin Tancer,Charles University Prague,,,,26,20,20,10,20,0,,70,119,20,20,2,3,,,45,115,Second Prize,Second Prize
+2006,75,Roman,Cheplyaka,Roman Cheplyaka,Odessa National I.I. Mechnikov University,,,,146,20,20,15,,,,55,16,20,20,,,20,,60,115,Second Prize,Second Prize
+2006,76,Alexandr,Medvedev,Alexandr Medvedev,Belarusian State University,,,,205,20,20,18,,,0,58,184,20,18,,18,,0,56,114,Second Prize,Second Prize
+2006,77,Ivan,Bliznets,Ivan Bliznets,Belarussian State University,,,,166,15,20,0,2,0,0,37,73,15,20,20,,20,0,75,112,Second Prize,Second Prize
+2006,78,Yauhen,Mikulich,Yauhen Mikulich,Grodno State University,,,,212,18,2,20,0,0,,40,103,20,20,3,19,10,,72,112,Second Prize,Second Prize
+2006,79,Larisa,Homenko,Larisa Homenko,Kyiv National Taras Shevchenko University,,,,123,20,5,20,2,3,1,51,38,20,20,1,0,20,,61,112,Second Prize,Second Prize
+2006,80,Anton,Tkachuk,Anton Tkachuk,"National Technical University ""K PI""",,,,1,20,20,15,2,,,57,194,10,18,2,5,20,,55,112,Second Prize,Second Prize
+2006,81,Ana,Caraiani,Ana Caraiani,Princeton University,,,,159,20,20,1,,,,41,72,20,20,1,10,18,0,69,110,Second Prize,Second Prize
+2006,82,Endre,Csóka,Endre Csóka,Eötvös Loránd University Budapest,,,,162,20,20,3,0,7,0,50,70,20,19,0,0,20,,59,109,Second Prize,Second Prize
+2006,83,Uladzimir,Yahorau,Uladzimir Yahorau,Belarussian State University,,,,7,20,20,20,5,0,,65,228,20,20,0,,3,,43,108,Second Prize,Second Prize
+2006,84,Philipp,Lampe,Philipp Lampe,University of Bonn,,,,131,15,20,0,,2,0,37,36,20,6,6,20,19,,71,108,Second Prize,Second Prize
+2006,85,Vardan,Voskanyan,Vardan Voskanyan,Yerevan State University,,,,2,20,15,19,,,14,68,192,20,20,,,,,40,108,Second Prize,Second Prize
+2006,86,Albertas,Zinevičius,Albertas Zinevičius,International University Bremen,,,,33,20,20,,5,2,,47,240,20,20,1,16,3,,60,107,Second Prize,Second Prize
+2006,87,Olexandr,Kravetz,Olexandr Kravetz,Kyiv National Taras Shevchenko University,,,,230,20,20,5,,,,45,236,20,20,2,20,0,0,62,107,Second Prize,Second Prize
+2006,88,Tomasz,Kazana,Tomasz Kazana,Warsaw University,,,,87,20,20,0,4,,,44,47,20,20,,20,3,,63,107,Second Prize,Second Prize
+2006,89,Thai Khanh Hiep,Pham,Thai Khanh Hiep Pham,Ecole Polytechnique Paris,,,,65,20,15,1,2,10,0,48,154,20,18,0,,20,,58,106,Second Prize,Second Prize
+2006,90,Bogdan,Vioreanu,Bogdan Vioreanu,International University Bremen,,,,39,20,20,20,2,2,,64,188,20,20,2,0,,0,42,106,Second Prize,Second Prize
+2006,91,Juan Ignacio,Restrepo,Juan Ignacio Restrepo,Universidad de los Andes,,,,168,20,20,0,4,0,0,44,1,20,20,2,,20,,62,106,Second Prize,Second Prize
+2006,92,Otto,Urpelainen,Otto Urpelainen,University of Turku,,,,12,20,19,20,3,,,62,167,20,19,,4,1,,44,106,Second Prize,Second Prize
+2006,93,Ivan,Livinsky,Ivan Livinsky,Kyiv National Taras Shevchenko University,,,,218,20,20,,2,0,,42,110,20,20,5,,18,,63,105,Second Prize,Second Prize
+2006,94,José Miguel,Manzano Prego,José Miguel Manzano Prego,Universidad Politécnica de Cataluña,,,,225,20,20,20,0,0,0,60,104,20,16,4,4,1,,45,105,Second Prize,Second Prize
+2006,95,František,Simančík,František Simančík,University of Oxford,,,,40,20,20,,20,,,60,126,20,20,5,,0,,45,105,Second Prize,Second Prize
+2006,96,Oleg,Koshik,Oleg Koshik,University of Tartu,,,,229,20,20,0,5,,,45,223,20,17,,4,19,,60,105,Second Prize,Second Prize
+2006,97,Marko,Živković,Marko Živković,University of Zagreb,,,,32,19,20,15,,0,0,54,186,20,20,2,9,,,51,105,Second Prize,Second Prize
+2006,98,Daniel Marius,Drulea,Daniel Marius Drulea,Techinical University Cluj-Napoca,,,,111,20,7,0,0,20,0,47,204,20,17,0,,20,,57,104,Third Prize,Third Prize
+2006,99,Maite,Peña Alcaraz,Maite Peña Alcaraz,Universidad Pontificia Comillas,,,,184,19,10,10,5,0,,44,146,20,20,4,14,2,0,60,104,Third Prize,Third Prize
+2006,100,Peter,Vandendriessche,Peter Vandendriessche,Universiteit Ghent,,,,50,20,20,0,6,18,,64,157,20,20,0,,,,40,104,Third Prize,Third Prize
+2006,101,Diarmuid,Early,Diarmuid Early,University College Cork,,,,130,20,20,0,2,2,0,44,25,20,20,3,2,15,0,60,104,Third Prize,Third Prize
+2006,102,Matija,Bašić,Matija Bašić,University of Zagreb,,,,152,20,15,18,4,0,0,57,75,20,8,1,17,1,0,47,104,Third Prize,Third Prize
+2006,103,Xudoyor,Mamayusupov,Xudoyor Mamayusupov,Karshi State University,,,,30,20,0,3,3,5,0,31,189,20,18,2,12,20,0,72,103,Third Prize,Third Prize
+2006,104,Oleksiy,Klurman,Oleksiy Klurman,Kyiv National Taras Shevchenko University,,,,227,19,15,0,4,,,38,93,20,20,4,,20,,64,102,Third Prize,Third Prize
+2006,105,Mykola,Matviichuk,Mykola Matviichuk,Kyiv National Taras Shevchenko University,,,,17,20,0,20,2,0,,42,120,20,20,0,20,,,60,102,Third Prize,Third Prize
+2006,106,Sergey,Smirnov,Sergey Smirnov,The Lomonosov Moscow State University,,,,23,20,20,20,4,,0,64,159,20,6,4,8,,,38,102,Third Prize,Third Prize
+2006,107,Markus,Ojala,Markus Ojala,Helsinki University of Technology,,,,193,20,20,,1,0,0,41,142,20,20,0,20,,0,60,101,Third Prize,Third Prize
+2006,108,Aleksi,Saarela,Aleksi Saarela,University of Turku,,,,64,20,15,20,5,0,0,60,217,20,18,0,0,3,,41,101,Third Prize,Third Prize
+2006,109,Remus,Radu,Remus Radu,International University Bremen,,,,67,19,2,,2,,12,35,218,20,20,1,20,4,,65,100,Third Prize,Third Prize
+2006,110,Dominik,Klein,Dominik Klein,University of Bonn,,,,240,19,20,0,2,,0,41,238,20,20,0,19,0,0,59,100,Third Prize,Third Prize
+2006,111,Alin,Gălăţan,Alin Gălăţan,University of Bucharest,,,,115,19,20,0,20,1,0,60,62,20,20,0,0,0,0,40,100,Third Prize,Third Prize
+2006,112,Paul-Fiete,Hartmann,Paul-Fiete Hartmann,Georg-August-University,,,,112,20,20,15,1,,,56,20,20,20,3,,0,,43,99,Third Prize,Third Prize
+2006,113,Alex Mauricio,Zamudio,Alex Mauricio Zamudio,Universidad Del Valle,,,,51,20,15,,3,,,38,123,20,20,,20,,,60,98,Third Prize,Third Prize
+2006,114,Ambrus,Zsbán,Ambrus Zsbán,Technical University Budapest,,,,6,20,20,0,5,,14,59,164,20,18,0,,,,38,97,Third Prize,Third Prize
+2006,115,Janez,Šter,Janez Šter,University of Ljubljana,,,,48,20,20,0,0,0,,40,187,20,20,0,17,0,,57,97,Third Prize,Third Prize
+2006,116,Alexandru-Petre,Tache,Alexandru-Petre Tache,University of Bucharest,,,,21,20,20,0,5,0,2,47,96,20,6,0,3,20,0,49,96,Third Prize,Third Prize
+2006,117,Eoin Patrick,Long,Eoin Patrick Long,Trinity College Dublin,,,,216,20,20,0,2,0,0,42,105,20,18,0,14,1,,53,95,Third Prize,Third Prize
+2006,118,Jonathan de Jesús,Montaño Martínez,Jonathan de Jesús Montaño Martínez,Universidad Nacional de Colombia Sede Bogotá,,,,222,20,15,14,0,0,,49,173,20,20,0,6,,,46,95,Third Prize,Third Prize
+2006,119,Tommi,Penttinen,Tommi Penttinen,University of Turku,,,,198,20,20,,,,,40,121,20,17,0,18,,,55,95,Third Prize,Third Prize
+2006,120,Valentin,Haddad,Valentin Haddad,Ecole Polytechnique Paris,,,,105,19,2,5,4,0,4,34,53,20,20,1,19,0,,60,94,Third Prize,Third Prize
+2006,121,Ivan Guillermo,Contreras Palacios,Ivan Guillermo Contreras Palacios,Universidad de los Andes,,,,170,18,20,,4,0,,42,7,20,17,2,,13,,52,94,Third Prize,Third Prize
+2006,122,Ferenc,Bartha,Ferenc Bartha,University of Szeged,,,,145,17,20,0,,0,,37,85,20,20,0,17,,,57,94,Third Prize,Third Prize
+2006,123,Dmytro,Popovich,Dmytro Popovich,Kyiv National Taras Shevchenko University,,,,72,15,20,0,1,20,,56,153,20,15,1,,0,,36,92,Third Prize,Third Prize
+2006,124,Rupert,Swarbrick,Rupert Swarbrick,University of Warwick,,,,28,20,15,16,0,1,0,52,131,20,19,,0,,,39,91,Third Prize,Third Prize
+2006,125,Esther,Bod,Esther Bod,Utrecht University,,,,149,20,20,0,2,1,0,43,90,20,20,3,0,4,0,47,90,Third Prize,Third Prize
+2006,126,Tamás,Darvas,Tamás Darvas,"Babes-Bolyai University, Cluj",,,,132,20,,3,5,,,28,33,20,20,,20,0,0,60,88,Third Prize,Third Prize
+2006,127,Prastudy,Mungkas Fauzi,Prastudy Mungkas Fauzi,Indonesia University,,,,211,20,20,0,,0,,40,179,20,5,3,0,20,,48,88,Third Prize,Third Prize
+2006,128,Constantin,Jucovschi,Constantin Jucovschi,International University Bremen,,,,89,20,20,8,,0,,48,59,20,17,3,,0,,40,88,Third Prize,Third Prize
+2006,129,Bence,Béky,Bence Béky,Technical University Budapest,,,,142,20,20,1,,0,4,45,13,20,20,3,,,,43,88,Third Prize,Third Prize
+2006,130,Javier,Gómez Serrano,Javier Gómez Serrano,Universidad Politécnica de Cataluña,,,,124,15,15,3,2,12,,47,23,20,15,3,3,0,,41,88,Third Prize,Third Prize
+2006,131,Andrew,McDowell,Andrew McDowell,University College London,,,,201,19,8,0,0,0,,27,182,19,20,3,,19,0,61,88,Third Prize,Third Prize
+2006,132,Rudi,Mrazović,Rudi Mrazović,University of Zagreb,,,,199,20,20,4,2,0,,46,222,19,20,2,0,1,,42,88,Third Prize,Third Prize
+2006,133,Bogdan,Nagirniak,Bogdan Nagirniak,Kiev Polytechnic Institute,,,,207,20,0,0,3,,,23,176,20,20,,10,14,,64,87,Third Prize,Third Prize
+2006,134,Luis,Hernández Corbato,Luis Hernández Corbato,Universidad Complutense de Madrid,,,,116,20,20,0,0,7,,47,35,20,20,0,0,0,,40,87,Third Prize,Third Prize
+2006,135,Elisa,Lorenzo García,Elisa Lorenzo García,Universidad Complutense de Madrid,,,,73,19,15,0,5,0,,39,117,20,3,5,,20,,48,87,Third Prize,Third Prize
+2006,136,Jakub,Závodný,Jakub Závodný,University of Oxford,,,,36,20,20,0,5,,,45,191,20,20,2,,,,42,87,Third Prize,Third Prize
+2006,137,Aleksandar,Pejčev,Aleksandar Pejčev,Belgrade University,,,,189,19,15,0,8,0,,42,144,20,18,4,0,2,,44,86,Third Prize,Third Prize
+2006,138,Boris,Baydenko,Boris Baydenko,Kiev Polytechnic Institute,,,,178,20,20,0,1,0,,41,9,20,9,0,0,16,,45,86,Third Prize,Third Prize
+2006,139,Niko,Vuokko,Niko Vuokko,University of Turku,,,,15,19,20,0,1,0,0,40,152,20,20,3,,3,,46,86,Third Prize,Third Prize
+2006,140,Nanang,Susyanto,Nanang Susyanto,Gajah Mada University,,,,44,19,20,0,0,4,0,43,160,20,3,16,3,0,0,42,85,Third Prize,Third Prize
+2006,141,Sjoerd,Boersma,Sjoerd Boersma,Utrecht University,,,,138,18,18,7,0,1,0,44,88,20,20,0,0,1,0,41,85,Third Prize,Third Prize
+2006,142,Armen,Nurbetyan,Armen Nurbetyan,Yerevan State University,,,,188,20,20,0,,,,40,141,20,20,0,5,,,45,85,Third Prize,Third Prize
+2006,143,Johannes,Schmidt-Hieber,Johannes Schmidt-Hieber,Georg-August-University,,,,20,20,20,0,2,0,,42,132,20,20,1,0,1,,42,84,Third Prize,Third Prize
+2006,144,Behrour,Touri,Behrour Touri,Isfahan University of Technology,,,,150,20,20,0,2,,,42,14,20,20,2,0,,,42,84,Third Prize,Third Prize
+2006,145,Kirill,Vedensky,Kirill Vedensky,Kiev Polytechnic Institute,,,,52,20,20,,,,0,40,166,20,20,4,,0,,44,84,Third Prize,Third Prize
+2006,146,Seamus Shea,O' Boyle,Seamus Shea O' Boyle,Trinity College Dublin,,,,196,18,4,0,1,0,0,23,136,20,18,0,3,20,0,61,84,Third Prize,Third Prize
+2006,147,Peter,Bella,Peter Bella,Charles University Prague,,,,153,20,15,,2,1,0,38,15,20,20,2,,3,,45,83,Third Prize,Third Prize
+2006,148,Václav,Vlasák,Václav Vlasák,Charles University Prague,,,,27,20,20,0,,0,,40,239,20,20,,3,,,43,83,Third Prize,Third Prize
+2006,149,Rastislav,Lenhardt,Rastislav Lenhardt,Comenius University in Bratislava,,,,215,17,20,5,,0,,42,109,20,20,1,0,,,41,83,Third Prize,Third Prize
+2006,150,Péter,Móra,Péter Móra,Technical University Budapest,,,,203,20,5,9,2,0,,36,183,20,20,3,2,1,,46,82,Third Prize,Third Prize
+2006,151,Gustavo,Gomes de Araujo,Gustavo Gomes de Araujo,Universidade de São Paulo,,,,77,18,15,0,0,6,0,39,68,20,19,4,0,,,43,82,Third Prize,Third Prize
+2006,152,Iris,Smit,Iris Smit,University of Amsterdam,,,,29,20,20,,1,,,41,226,20,20,0,0,1,0,41,82,Third Prize,Third Prize
+2006,153,Jack,Grahl,Jack Grahl,University College London,,,,96,20,15,,2,,,37,43,20,16,0,,8,,44,81,Third Prize,Third Prize
+2006,154,Victor,Pessers,Victor Pessers,University of Amsterdam,,,,190,20,20,,0,,,40,140,20,20,,,,,40,80,Third Prize,Third Prize
+2006,155,Johannes,Steenstra,Johannes Steenstra,Utrecht University,,,,24,20,20,0,0,,,40,224,20,20,0,,,,40,80,Third Prize,Third Prize
+2006,156,Attila,Szalai,Attila Szalai,University of Szeged,,,,46,19,15,0,0,0,0,34,134,18,19,4,3,1,,45,79,Honourable Mention,Honourable Mention
+2006,157,Vili,Krainz,Vili Krainz,University of Zagreb,,,,238,20,18,0,1,,,39,227,20,20,0,0,,,40,79,Honourable Mention,Honourable Mention
+2006,158,Edmond James,Daly,Edmond James Daly,Trinity College Dublin,,,,114,19,15,15,0,2,,51,66,20,6,0,0,1,,27,78,Honourable Mention,Honourable Mention
+2006,159,Rodrigo,Roque Dias,Rodrigo Roque Dias,Universidade de São Paulo,,,,71,18,15,,5,,,38,150,20,20,,0,0,,40,78,Honourable Mention,Honourable Mention
+2006,160,Jerry,Buckley,Jerry Buckley,University College Cork,,,,134,20,20,,1,0,0,41,89,15,19,,3,0,0,37,78,Honourable Mention,Honourable Mention
+2006,161,Mario,Šikić,Mario Šikić,University of Ljubljana,,,,53,20,2,0,1,,1,24,156,20,12,2,20,0,0,54,78,Honourable Mention,Honourable Mention
+2006,162,Teodosi,Geninski,Teodosi Geninski,"University of Sofia ""St. Kliment Ohridski""",,,,78,20,15,0,2,0,,37,55,19,20,0,,2,,41,78,Honourable Mention,Honourable Mention
+2006,163,Richard,O' Riordan,Richard O' Riordan,University College Cork,,,,223,20,15,0,1,2,,38,139,20,18,0,,1,,39,77,Honourable Mention,Honourable Mention
+2006,164,Behzad,Mehrdad,Behzad Mehrdad,Sharif University of Technology,,,,214,20,8,,5,0,0,33,175,20,5,,3,16,0,44,77,Honourable Mention,Honourable Mention
+2006,165,Zeinab,Maleki,Zeinab Maleki,Isfahan University of Technology,,,,208,20,6,5,2,,,33,181,12,20,1,10,,,43,76,Honourable Mention,Honourable Mention
+2006,166,Amin,Sadri,Amin Sadri,Isfahan University of Technology,,,,191,20,12,2,2,,,36,168,20,18,2,0,,,40,76,Honourable Mention,Honourable Mention
+2006,167,Andriy,Anikushin,Andriy Anikushin,Kyiv National Taras Shevchenko University,,,,161,17,15,0,2,,2,36,10,20,20,,0,,,40,76,Honourable Mention,Honourable Mention
+2006,168,Sander,Kupers,Sander Kupers,Utrecht University,,,,232,18,5,2,5,0,,30,237,20,20,2,4,0,0,46,76,Honourable Mention,Honourable Mention
+2006,169,Alami Mohamed,Ben Driss Alami,Alami Mohamed Ben Driss Alami,Ecole Polytechnique Paris,,,,177,17,15,,1,,,33,71,20,20,2,0,,,42,75,Honourable Mention,Honourable Mention
+2006,170,Azin,Golbaharan,Azin Golbaharan,Isfahan University of Technology,,,,106,20,2,7,,,,29,206,20,20,3,2,0,,45,74,Honourable Mention,Honourable Mention
+2006,171,Paweł,Skórzewski,Paweł Skórzewski,Adam Mickiewicz University,,,,37,20,15,0,0,0,0,35,102,20,18,0,0,,,38,73,Honourable Mention,Honourable Mention
+2006,172,Muhammad,Fajrin Rasyid,Muhammad Fajrin Rasyid,Bandung Institute of Technology,,,,126,15,20,0,0,0,0,35,31,20,15,3,0,0,0,38,73,Honourable Mention,Honourable Mention
+2006,173,Kirstin,Strokorb,Kirstin Strokorb,Georg-August-University,,,,19,20,4,12,0,0,,36,195,20,17,,,0,0,37,73,Honourable Mention,Honourable Mention
+2006,174,Stephen,Casey,Stephen Casey,University College Cork,,,,154,11,15,0,2,1,0,29,82,20,18,3,1,2,,44,73,Honourable Mention,Honourable Mention
+2006,175,Estillac,Lins Maciel Borges Filho,Estillac Lins Maciel Borges Filho,Instituto Tecnológico de Aeronáutica,,,,228,20,10,1,,,,31,234,20,18,3,,0,,41,72,Honourable Mention,Honourable Mention
+2006,176,Atarsaikhan,Ganbat,Atarsaikhan Ganbat,National University of Mongolia,,,,109,20,20,,1,7,,48,24,20,3,1,,0,,24,72,Honourable Mention,Honourable Mention
+2006,177,Carl,Beasley,Carl Beasley,University of Warwick,,,,160,16,20,,,,0,36,200,20,14,2,,0,,36,72,Honourable Mention,Honourable Mention
+2006,178,Ovidiu,Bagdasar,Ovidiu Bagdasar,"Babes-Bolyai University, Cluj",,,,172,20,2,0,2,0,2,26,4,20,20,5,0,0,,45,71,Honourable Mention,Honourable Mention
+2006,179,Tsenguun,Enkhbaatar,Tsenguun Enkhbaatar,Mongolian University of Science and Technology,,,,94,9,15,0,,4,,28,45,19,5,0,,19,,43,71,Honourable Mention,Honourable Mention
+2006,180,Mohammad Ebrahim,Aharpour,Mohammad Ebrahim Aharpour,University of Tehran,,,,136,15,15,,,1,,31,84,19,20,1,,0,,40,71,Honourable Mention,Honourable Mention
+2006,181,Arnold,Moldovan Daniel,Arnold Moldovan Daniel,"Babes-Bolyai University, Cluj",,,,210,20,6,0,0,0,0,26,174,20,20,1,3,,,44,70,Honourable Mention,Honourable Mention
+2006,182,Khalil,Benatiya Andaloussi,Khalil Benatiya Andaloussi,Ecole Polytechnique Paris,,,,147,18,20,0,4,0,,42,3,15,11,2,,,,28,70,Honourable Mention,Honourable Mention
+2006,183,Sergio,Millán López,Sergio Millán López,Universidad Politécnica de Cataluña,,,,209,20,4,,2,0,,26,178,20,20,3,,1,,44,70,Honourable Mention,Honourable Mention
+2006,184,Sadegh,Esmailzadeh Soudjani,Sadegh Esmailzadeh Soudjani,University of Tehran,,,,93,10,19,0,1,1,0,31,54,15,20,2,,1,0,38,69,Honourable Mention,Honourable Mention
+2006,185,Oleksandr,Tytchenko,Oleksandr Tytchenko,Odessa National I.I. Mechnikov University,,,,13,20,2,,,0,0,22,155,20,20,1,,5,0,46,68,Honourable Mention,Honourable Mention
+2006,186,Aleksandra,Franc,Aleksandra Franc,University of Ljubljana,,,,100,19,1,2,3,1,0,26,32,20,20,1,1,0,0,42,68,Honourable Mention,Honourable Mention
+2006,187,Kristina,Škreb,Kristina Škreb,University of Zagreb,,,,31,20,5,0,0,,,25,92,20,20,3,0,0,,43,68,Honourable Mention,Honourable Mention
+2006,188,Tapio,Heimo,Tapio Heimo,Helsinki University of Technology,,,,92,18,2,0,0,0,0,20,56,20,20,3,3,1,,47,67,Honourable Mention,Honourable Mention
+2006,189,Eoin Pearse,Quinn,Eoin Pearse Quinn,Trinity College Dublin,,,,62,20,4,0,0,0,0,24,215,20,18,1,3,1,0,43,67,Honourable Mention,Honourable Mention
+2006,190,Michał,Jabłonowski,Michał Jabłonowski,University of Gdańsk,,,,117,18,5,0,,,,23,37,20,3,,,20,,43,66,Honourable Mention,Honourable Mention
+2006,191,András,Jankó,András Jankó,University of Szeged,,,,103,20,20,,,0,,40,52,20,3,,2,1,,26,66,Honourable Mention,Honourable Mention
+2006,192,Anush,Martirosyan,Anush Martirosyan,Yerevan State University,,,,43,19,2,0,2,2,,25,112,20,20,0,,0,,40,65,Honourable Mention,Honourable Mention
+2006,193,Chagnaadorj,Sugardorj,Chagnaadorj Sugardorj,National University of Mongolia,,,,45,19,12,0,1,,,32,190,20,5,2,,5,,32,64,Honourable Mention,Honourable Mention
+2006,194,Octavian,Cuibus,Octavian Cuibus,Techinical University Cluj-Napoca,,,,155,18,1,0,2,0,0,21,74,20,20,2,0,1,0,43,64,Honourable Mention,Honourable Mention
+2006,195,Ivan,Bulhakau,Ivan Bulhakau,Grodno State University,,,,144,8,15,10,0,,,33,87,20,10,0,,,,30,63,Honourable Mention,Honourable Mention
+2006,196,Adrian,Cosinschi,Adrian Cosinschi,Techinical University Cluj-Napoca,,,,169,20,0,0,2,,0,22,2,20,20,1,0,0,0,41,63,Honourable Mention,Honourable Mention
+2006,197,Georgel,Călin,Georgel Călin,International University Bremen,,,,135,17,10,0,,12,,39,79,10,3,2,3,5,,23,62,Honourable Mention,Honourable Mention
+2006,198,Rasool,Etesami,Rasool Etesami,Isfahan University of Technology,,,,88,20,1,,,3,,24,205,20,15,3,0,,,38,62,Honourable Mention,Honourable Mention
+2006,199,Cătălin,Golban,Cătălin Golban,Techinical University Cluj-Napoca,,,,102,17,2,,,2,1,22,21,20,15,3,2,,,40,62,Honourable Mention,Honourable Mention
+2006,200,Tyge,Tiessen,Tyge Tiessen,Georg-August-University,,,,18,20,4,,,,,24,193,20,15,2,,,,37,61,Honourable Mention,Honourable Mention
+2006,201,Dan Adrian,Alistarh,Dan Adrian Alistarh,International University Bremen,,,,148,17,0,0,0,0,0,17,6,20,20,1,,3,,44,61,Honourable Mention,Honourable Mention
+2006,202,Bojan,Prangoski,Bojan Prangoski,St. Cyrilius and Metodius-Skopje,,,,66,20,2,,,,,22,212,17,20,2,,,,39,61,Honourable Mention,Honourable Mention
+2006,203,Bogdan,Banu,Bogdan Banu,University of Bucharest,,,,176,20,2,0,0,0,0,22,198,19,20,,,0,,39,61,Honourable Mention,Honourable Mention
+2006,204,Armen,Inants,Armen Inants,Yerevan State University,,,,97,19,2,,,,,21,208,20,18,0,,,,38,59,Honourable Mention,Honourable Mention
+2006,205,Yauheni,Hireika,Yauheni Hireika,Belarusian State University,,,,98,20,2,0,2,0,0,24,19,20,10,3,,0,0,33,57,Honourable Mention,Honourable Mention
+2006,206,Tomasz,Lechowski,Tomasz Lechowski,University of Warwick,,,,75,18,0,0,0,1,0,19,113,18,20,0,0,0,,38,57,Honourable Mention,Honourable Mention
+2006,207,Yauheni,Zhydok,Yauheni Zhydok,Grodno State University,,,,4,11,20,,,,,31,94,20,5,0,0,0,,25,56,Honourable Mention,Honourable Mention
+2006,208,Arno,Kret,Arno Kret,University of Amsterdam,,,,241,20,15,,0,0,,35,232,,20,0,,1,,21,56,Honourable Mention,Honourable Mention
+2006,209,Tigran,Abovyan,Tigran Abovyan,State Engineering University of Armenia,,,,195,18,0,,0,0,0,18,138,18,19,,,,,37,55,Honourable Mention,Honourable Mention
+2006,210,Moyses,Cohen,Moyses Cohen,"UFRJ, Brazil",,,,139,7,20,0,,1,,28,18,20,3,3,,0,,26,54,Honourable Mention,Honourable Mention
+2006,211,Thomas,Decru,Thomas Decru,Universiteit Ghent,,,,122,10,15,0,4,0,0,29,39,14,5,3,0,1,0,23,52,Honourable Mention,Honourable Mention
+2006,212,Fedir,Zubach,Fedir Zubach,Kiev Polytechnic Institute,,,,16,20,0,,,,0,20,125,20,6,5,,,,31,51,Honourable Mention,Honourable Mention
+2006,213,Bohdan,Kamensky,Bohdan Kamensky,Lviv Ivan Franko National University,,,,80,19,2,0,0,3,1,25,57,20,0,3,3,0,0,26,51,Honourable Mention,Honourable Mention
+2006,214,David,García Soriano,David García Soriano,Universidad Complutense de Madrid,,,,120,20,15,,2,,,37,41,6,8,,,,,14,51,Honourable Mention,Honourable Mention
+2006,215,Christoforos,Neofytides,Christoforos Neofytides,University of Cyprus,,,,141,12,5,5,0,0,,22,17,5,3,1,20,,,29,51,Honourable Mention,Honourable Mention
+2006,216,Oleksii,Chubenko,Oleksii Chubenko,Kyiv National Taras Shevchenko University,,,,171,5,2,,2,0,0,9,78,20,18,3,0,,,41,50,Honourable Mention,Honourable Mention
+2006,217,Ioulia,Televantou,Ioulia Televantou,University of Cyprus,,,,110,18,2,0,2,,,22,207,20,3,2,0,0,0,25,47,Honourable Mention,Honourable Mention
+2006,218,Naser,Golestani Kavirabadi,Naser Golestani Kavirabadi,University of Tehran,,,,95,20,0,0,,0,,20,63,20,5,2,,0,,27,47,Honourable Mention,Honourable Mention
+2006,219,Michael,Jones,Michael Jones,University of Warwick,,,,90,17,15,0,2,,0,34,65,10,1,0,0,,,11,45,Honourable Mention,Honourable Mention
+2006,220,Dorin,Simina,Dorin Simina,Techinical University Cluj-Napoca,,,,14,10,,0,4,0,,14,127,20,3,5,1,1,,30,44,Honourable Mention,Honourable Mention
+2006,221,Sergiy,Cherkasov,Sergiy Cherkasov,Odessa National I.I. Mechnikov University,,,,157,11,0,0,,,,11,69,10,,,,20,,30,41,Certificate,Certificate
+2006,222,Cezar,Lupu,Cezar Lupu,University of Bucharest,,,,226,10,0,0,0,0,0,10,114,5,20,4,,1,,30,40,Certificate,Certificate
+2006,223,Ali,Kakhbod,Ali Kakhbod,Isfahan University of Technology,,,,165,10,5,0,,,,15,201,20,3,1,,,,24,39,Certificate,Certificate
+2006,224,Kaveh,Kasebian,Kaveh Kasebian,University of Tehran,,,,104,19,0,,,,0,19,67,,20,0,0,,,20,39,Certificate,Certificate
+2006,225,Hossein,Lamei Ramandi,Hossein Lamei Ramandi,University of Tehran,,,,236,20,5,2,,,,27,230,0,9,2,,,,11,38,Certificate,Certificate
+2006,226,Rangga,Ganzar Noegraha,Rangga Ganzar Noegraha,Bandung Institute of Technology,,,,79,20,2,5,0,0,,27,64,2,4,2,0,1,,9,36,Certificate,Certificate
+2006,227,Piotr,Polak,Piotr Polak,University of Szczecin,,,,69,20,10,,,,,30,158,,6,0,,,,6,36,Certificate,Certificate
+2006,228,Kunj,Patel,Kunj Patel,New Jersey Institute of Technology,,,,219,19,3,0,,0,,22,106,5,3,4,,,,12,34,Certificate,Certificate
+2006,229,Giorgos,Ioannou,Giorgos Ioannou,University of Cyprus,,,,107,20,0,2,0,0,0,22,209,8,1,0,0,0,0,9,31,Certificate,Certificate
+2006,230,Ramón,Valencia Mora,Ramón Valencia Mora,Universidad Pontificia Comillas,,,,54,5,2,,,,,7,124,20,1,1,,,,22,29,Certificate,Certificate
+2006,231,Alicia,Peña Alcaraz,Alicia Peña Alcaraz,Universidad Pontificia Comillas,,,,185,2,3,0,,0,,5,170,20,1,1,,,,22,27,Certificate,Certificate
+2006,232,Colm William,Bates,Colm William Bates,Trinity College Dublin,,,,173,8,0,0,1,0,0,9,76,12,3,0,0,0,,15,24,Certificate,Certificate
+2006,233,Alberto,Requena,Alberto Requena,Universidad Pontificia Comillas,,,,41,10,0,0,,,0,10,161,10,3,,,,,13,23,Certificate,Certificate
+2006,234,Alvaro,Turrión Aguirre de Cárcer,Alvaro Turrión Aguirre de Cárcer,Universidad Pontificia Comillas,,,,42,12,0,,,,,12,162,5,0,,,,,5,17,Certificate,Certificate
+2006,235,Ioannou,Ermioni,Ioannou Ermioni,University of Cyprus,,,,121,9,0,0,0,0,0,9,29,0,2,0,0,0,0,2,11,Certificate,Certificate
+2006,236,Tapani,Alasaarela,Tapani Alasaarela,Helsinki University of Technology,,,,137,2,0,0,0,1,1,4,83,1,3,1,,,,5,9,Certificate,Certificate
+2006,237,Jargalan,Chuluunkhuu,Jargalan Chuluunkhuu,Mongoloian University of Science and Technology,,,,156,1,0,,,,,1,203,,5,0,,,,5,6,Certificate,Certificate
+2006,238,Rahul,Nilawar,Rahul Nilawar,University College London,,,,220,0,0,0,0,0,0,0,169,2,3,0,0,0,,5,5,Certificate,Certificate
+2006,239,Ganbayar,Bayasgalan,Ganbayar Bayasgalan,Mongolian University of Science and Technology,,,,158,0,2,1,,0,0,3,80,,0,0,,0,,0,3,Certificate,Certificate
+2006,240,Baasansuren,Sanjaasuren,Baasansuren Sanjaasuren,Mongolian University of Science and Technology,,,,3,0,0,,,0,0,0,101,,3,0,,,,3,3,Certificate,Certificate
+2006,241,Anna,Mazankiewicz,Anna Mazankiewicz,Academy of Mining and Metalurgy,,,,200,0,,,,,,0,165,,0,,,,,0,0,Certificate,Certificate

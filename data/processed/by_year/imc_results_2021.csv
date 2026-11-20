@@ -1,0 +1,590 @@
+Year,Pos,First name,Family name,Full name,University,Team,City,Country,Code_D1,D1_P1,D1_P2,D1_P3,D1_P4,D1_P5,D1_P6,Day1,Code_D2,D2_P1,D2_P2,D2_P3,D2_P4,D2_P5,D2_P6,Day2,Sum,Prize,Prize_raw
+2021,1,Attila,Gáspár,Attila Gáspár,Loránd Eötvös University,,Budapest,Hungary,,10,10,10,10,,,40,,10,10,10,0,,,30,70,Grand Grand First Prize,grand grand first prize
+2021,2,Alexandr,Grebennikov,Alexandr Grebennikov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,10,5,,,35,,10,10,10,0,,,30,65,Grand First Prize,grand first prize
+2021,3–7,Nikita,Dobronravov,Nikita Dobronravov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,10,0,,,30,,10,10,10,0,,,30,60,Grand First Prize,grand first prize
+2021,3–7,Mikhail,Ivanov,Mikhail Ivanov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,10,0,,,30,,10,10,10,0,,,30,60,Grand First Prize,grand first prize
+2021,3–7,Stanislav,Krymskii,Stanislav Krymskii,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,10,2,,,32,,10,8,10,0,,,28,60,Grand First Prize,grand first prize
+2021,3–7,Shvo,Regavim,Shvo Regavim,Tel Aviv University,,Tel Aviv,Israel,,10,10,10,0,,,30,,10,10,10,0,,,30,60,Grand First Prize,grand first prize
+2021,3–7,Azur,Đonlagić,Azur Đonlagić,Jagiellonian University,,Krakow,Poland,,10,10,10,0,,,30,,10,10,10,0,,,30,60,Grand First Prize,grand first prize
+2021,8,Martín,Gómez Abejón,Martín Gómez Abejón,Universidad Complutense de Madrid,,Madrid,Spain,,10,10,10,0,,,30,,10,9,10,0,,,29,59,Grand First Prize,grand first prize
+2021,9,Marat,Abdrahmanov,Marat Abdrahmanov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,9,9,0,,,28,,10,10,10,0,,,30,58,Grand First Prize,grand first prize
+2021,10–14,Matolcsi,Dávid,Matolcsi Dávid,Loránd Eötvös University,,Budapest,Hungary,,10,10,10,0,,,30,,10,9,7,0,,,26,56,First Prize,first prize
+2021,10–14,Rafah,Hajjar Muñoz,Rafah Hajjar Muñoz,BarcelonaTech,,Barcelona,Spain,,10,9,10,0,,,29,,10,10,7,0,,,27,56,First Prize,first prize
+2021,10–14,Nikita,Karagodin,Nikita Karagodin,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,7,0,,,27,,10,10,9,0,,,29,56,First Prize,first prize
+2021,10–14,Ido,Karshon,Ido Karshon,Weizmann Institute of Science,,Rehovot,Israel,,10,10,7,3,,,30,,10,10,6,0,,,26,56,First Prize,first prize
+2021,10–14,Elad,Sayag,Elad Sayag,Tel Aviv University,,Tel Aviv,Israel,,10,10,4,2,,,26,,10,10,10,0,,,30,56,First Prize,first prize
+2021,15–16,Matouš,Menčík,Matouš Menčík,Charles University,,Prague,Czech Republic,,10,10,7,0,,,27,,9,9,10,0,,,28,55,First Prize,first prize
+2021,15–16,Dmitry,Yarcev,Dmitry Yarcev,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,10,10,,,40,,10,5,0,0,,,15,55,First Prize,first prize
+2021,17–18,Lior,Hadassi,Lior Hadassi,Tel Aviv University,,Tel Aviv,Israel,,10,8,10,0,,,28,,10,7,8,1,,,26,54,First Prize,first prize
+2021,17–18,Vladimir,Yankovskiy,Vladimir Yankovskiy,Lomonosov Moscow State University,,Moscow,Russia,,10,10,1,3,,,24,,10,10,10,0,,,30,54,First Prize,first prize
+2021,19–21,Egor,Dobronravov,Egor Dobronravov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,4,0,,,24,,10,9,10,0,,,29,53,First Prize,first prize
+2021,19–21,Artyom,Gevorgyan,Artyom Gevorgyan,Shanghai Jiao Tong University,,Shanghai,China,,10,10,10,0,,,30,,10,7,1,5,,,23,53,First Prize,first prize
+2021,19–21,DIMITRIOS CHRYSOVALANTIS,MELAS,DIMITRIOS CHRYSOVALANTIS MELAS,National and Kapodestian University of Athens,,Athens,Greece,,10,10,4,0,,,24,,10,9,10,0,,,29,53,First Prize,first prize
+2021,22,Pavel,Hudec,Pavel Hudec,Charles University,,Prague,Czech Republic,,10,10,8,0,,,28,,10,10,4,0,,,24,52,First Prize,first prize
+2021,23–25,Jan,Fornal,Jan Fornal,Jagiellonian University,,Krakow,Poland,,10,10,10,0,,,30,,10,10,1,0,,,21,51,First Prize,first prize
+2021,23–25,Ivan,Safonov,Ivan Safonov,Higher School of Economics,,Moscow,Russia,,10,10,10,0,,,30,,10,10,1,0,,,21,51,First Prize,first prize
+2021,23–25,Semen,Słobodianiuk,Semen Słobodianiuk,University of Warsaw,,Warsaw,Poland,,10,10,1,0,,,21,,10,10,10,0,,,30,51,First Prize,first prize
+2021,26–31,Andrei-Robert,Bâra,Andrei-Robert Bâra,University of Bucharest,,Bucharest,Romania,,10,10,6,0,,,26,,10,7,7,0,,,24,50,First Prize,first prize
+2021,26–31,Matěj,Doležálek,Matěj Doležálek,Charles University,,Prague,Czech Republic,,10,10,10,0,,,30,,10,10,0,0,,,20,50,First Prize,first prize
+2021,26–31,Oliver,Hayman,Oliver Hayman,University of Oxford,,Oxford,UK,,10,10,10,0,,,30,,10,10,0,0,,,20,50,First Prize,first prize
+2021,26–31,Szymon,Stolarczyk,Szymon Stolarczyk,University of Warsaw,,Warsaw,Poland,,10,10,10,0,,,30,,10,0,10,0,,,20,50,First Prize,first prize
+2021,26–31,Kristóf,Szabó,Kristóf Szabó,Loránd Eötvös University,,Budapest,Hungary,,10,9,10,0,,,29,,10,9,1,1,,,21,50,First Prize,first prize
+2021,26–31,Kirill,Tyshchuk,Kirill Tyshchuk,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,0,0,,,20,,10,10,10,0,,,30,50,First Prize,first prize
+2021,32–37,Márton,Borbényi,Márton Borbényi,Loránd Eötvös University,,Budapest,Hungary,,10,10,7,2,,,29,,10,0,10,0,,,20,49,First Prize,first prize
+2021,32–37,Tijs,Buggenhout,Tijs Buggenhout,Katholieke Universiteit te Leuven,,Leuven,Belgium,,10,10,10,0,,,30,,10,9,0,0,,,19,49,First Prize,first prize
+2021,32–37,Luka,Horjak,Luka Horjak,University of Ljubljana,,Ljubljana,Slovenia,,10,10,10,0,,,30,,10,9,0,0,,,19,49,First Prize,first prize
+2021,32–37,Jacek,Jakimiuk,Jacek Jakimiuk,University of Warsaw,,Warsaw,Poland,,8,10,10,0,,,28,,10,10,1,0,,,21,49,First Prize,first prize
+2021,32–37,Steppan,Konoplev,Steppan Konoplev,University of Maryland,,College Park,USA,,10,10,4,0,,,24,,9,10,6,0,,,25,49,First Prize,first prize
+2021,32–37,Vadym,Koval,Vadym Koval,Jagiellonian University,,Krakow,Poland,,10,10,8,0,,,28,,10,10,1,0,,,21,49,First Prize,first prize
+2021,38,Aleksandre,Saatashvili,Aleksandre Saatashvili,Massachusetts Institute of Technology,,Cambridge,USA,,10,10,9,0,,,29,,10,9,0,0,,,19,48,First Prize,first prize
+2021,39,Tomasz,Kiełbasa,Tomasz Kiełbasa,University of Warsaw,,Warsaw,Poland,,10,10,10,0,,,30,,10,7,0,0,,,17,47,First Prize,first prize
+2021,40,Nikita,Andreev,Nikita Andreev,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,10,8,0,10,,,28,,10,8,0,0,,,18,46,First Prize,first prize
+2021,41–43,Dror,Frid,Dror Frid,Tel Aviv University,,Tel Aviv,Israel,,10,10,4,0,,,24,,10,10,1,0,,,21,45,First Prize,first prize
+2021,41–43,Konstantin,Makhnev,Konstantin Makhnev,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,10,10,4,0,,,24,,10,10,1,0,,,21,45,First Prize,first prize
+2021,41–43,Kyprianos-Iason,Prodromidis,Kyprianos-Iason Prodromidis,National and Kapodestian University of Athens,,Athens,Greece,,10,10,4,0,,,24,,10,10,1,0,,,21,45,First Prize,first prize
+2021,44–50,Maksim,Andreev,Maksim Andreev,Lomonosov Moscow State University,,Moscow,Russia,,3,10,10,0,,,23,,10,10,1,0,,,21,44,First Prize,first prize
+2021,44–50,Damian,Burczyk,Damian Burczyk,University of Warsaw,,Warsaw,Poland,,10,10,0,0,,,20,,10,4,10,0,,,24,44,First Prize,first prize
+2021,44–50,Yujeong,Han,Yujeong Han,University of Cambridge,,Cambridge,UK,,10,0,4,0,,,14,,10,10,10,0,,,30,44,First Prize,first prize
+2021,44–50,Fedor,Kuyanov,Fedor Kuyanov,Higher School of Economics,,Moscow,Russia,,10,10,4,0,,,24,,10,10,0,0,,,20,44,First Prize,first prize
+2021,44–50,Félix,Moreno Peñarrubia,Félix Moreno Peñarrubia,BarcelonaTech,,Barcelona,Spain,,10,4,0,8,,,22,,10,2,10,0,,,22,44,First Prize,first prize
+2021,44–50,Daniel,Vitas,Daniel Vitas,University of Ljubljana,,Ljubljana,Slovenia,,8,10,0,0,,,18,,10,10,6,0,,,26,44,First Prize,first prize
+2021,44–50,Fredy,Yip,Fredy Yip,Knox Grammar School,,Sydney,Australia,,10,5,10,0,,,25,,8,10,1,0,,,19,44,First Prize,first prize
+2021,51–56,Maciej,Białobrzeski,Maciej Białobrzeski,University of Warsaw,,Warsaw,Poland,,10,9,4,0,,,23,,10,10,0,0,,,20,43,First Prize,first prize
+2021,51–56,DUMITRESCU,DAN,DUMITRESCU DAN,University of Bucharest,,Bucharest,Romania,,8,10,0,0,,,18,,10,5,10,0,,,25,43,First Prize,first prize
+2021,51–56,Minas,Margaritis,Minas Margaritis,National and Kapodestian University of Athens,,Athens,Greece,,10,10,4,0,,,24,,10,9,0,0,,,19,43,First Prize,first prize
+2021,51–56,Daniel Kacper,Murawski,Daniel Kacper Murawski,University of Warsaw,,Warsaw,Poland,,10,10,4,0,,,24,,10,8,1,0,,,19,43,First Prize,first prize
+2021,51–56,Semyon,Panenko,Semyon Panenko,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,4,0,,,24,,10,9,0,0,,,19,43,First Prize,first prize
+2021,51–56,Kirill,Vishnevetskiy,Kirill Vishnevetskiy,Lomonosov Moscow State University,,Moscow,Russia,,10,10,4,0,,,24,,10,9,0,0,,,19,43,First Prize,first prize
+2021,57–58,Heorhii,Ivanchyk,Heorhii Ivanchyk,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,10,10,0,,,30,,10,2,0,0,,,12,42,First Prize,first prize
+2021,57–58,Uri,Kreitner,Uri Kreitner,Tel Aviv University,,Tel Aviv,Israel,,10,10,0,0,,,20,,10,10,1,1,,,22,42,First Prize,first prize
+2021,59–67,Filipp,Buryak,Filipp Buryak,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,10,6,0,,,26,,10,4,1,0,,,15,41,First Prize,first prize
+2021,59–67,Alex,Colling,Alex Colling,Universiteit Leiden,,Leiden,Netherlands,,10,10,0,0,,,20,,10,10,1,0,,,21,41,First Prize,first prize
+2021,59–67,Bruno,Costa Alves Freire,Bruno Costa Alves Freire,École Polytechnique,,Paris,France,,10,7,4,0,,,21,,9,1,10,0,,,20,41,First Prize,first prize
+2021,59–67,Saúl,Rodríguez Martín,Saúl Rodríguez Martín,Universidad Complutense de Madrid,,Madrid,Spain,,10,10,1,0,,,21,,10,9,1,0,,,20,41,First Prize,first prize
+2021,59–67,Anatoli,Shatsila,Anatoli Shatsila,Jagiellonian University,,Krakow,Poland,,10,10,0,0,,,20,,10,10,1,0,,,21,41,First Prize,first prize
+2021,59–67,Levente,Szemerédi,Levente Szemerédi,Loránd Eötvös University,,Budapest,Hungary,,10,10,0,0,,,20,,10,10,1,0,,,21,41,First Prize,first prize
+2021,59–67,Alexandr,Tolmachev,Alexandr Tolmachev,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,1,0,,,21,,9,10,1,0,,,20,41,First Prize,first prize
+2021,59–67,Tähvend,Uustalu,Tähvend Uustalu,University of Tartu,,Tartu,Estonia,,10,10,10,0,,,30,,10,1,0,0,,,11,41,First Prize,first prize
+2021,59–67,Nikola,Velov,Nikola Velov,University of Belgrade,,Belgrade,Serbia,,10,10,0,0,,,20,,10,10,1,0,,,21,41,First Prize,first prize
+2021,68–82,Aymen,Echarghaoui,Aymen Echarghaoui,École Polytechnique,,Paris,France,,10,10,0,0,,,20,,10,0,10,0,,,20,40,First Prize,first prize
+2021,68–82,Florian,Fürnsinn,Florian Fürnsinn,Universität Wien,,Vienna,Austria,,10,10,2,0,,,22,,8,10,0,0,,,18,40,First Prize,first prize
+2021,68–82,Daniil,Ivanik,Daniil Ivanik,Higher School of Economics,,Moscow,Russia,,10,10,1,0,,,21,,10,9,0,0,,,19,40,First Prize,first prize
+2021,68–82,Adel,Khalilov,Adel Khalilov,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,9,0,,,29,,10,1,0,0,,,11,40,First Prize,first prize
+2021,68–82,Iaroslav,Lisniak,Iaroslav Lisniak,Higher School of Economics,,Moscow,Russia,,10,10,10,0,,,30,,10,0,0,0,,,10,40,First Prize,first prize
+2021,68–82,Erfan,Masoumi,Erfan Masoumi,University of Tabriz,,Tabriz,Iran,,10,10,0,0,,,20,,10,0,10,0,,,20,40,First Prize,first prize
+2021,68–82,Javier,Nistal Salas,Javier Nistal Salas,BarcelonaTech,,Barcelona,Spain,,10,10,10,0,,,30,,10,0,0,0,,,10,40,First Prize,first prize
+2021,68–82,Andrei Tiberiu,Pantea,Andrei Tiberiu Pantea,University of Bucharest,,Bucharest,Romania,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2021,68–82,Bruno Johannes,Perreaux,Bruno Johannes Perreaux,Universität Wien,,Vienna,Austria,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2021,68–82,Elizaveta,Popova,Elizaveta Popova,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2021,68–82,Marián,Poturnay,Marián Poturnay,"Comenius University, Bratislava",,Bratislava,Slovakia,,10,10,0,0,,,20,,10,9,1,0,,,20,40,First Prize,first prize
+2021,68–82,Martin,Raška,Martin Raška,Charles University,,Prague,Czech Republic,,10,10,1,0,,,21,,9,10,0,0,,,19,40,First Prize,first prize
+2021,68–82,Siebe,Verheijen,Siebe Verheijen,University of Amsterdam,,Amsterdam,Netherlands,,10,9,0,0,,,19,,10,10,1,0,,,21,40,First Prize,first prize
+2021,68–82,Hendrik,Vija,Hendrik Vija,University of Tartu,,Tartu,Estonia,,10,10,10,0,,,30,,0,10,0,0,,,10,40,First Prize,first prize
+2021,68–82,Lammert,Westerdijk,Lammert Westerdijk,University of Utrecht,,Utrecht,Netherlands,,10,10,0,0,,,20,,10,10,0,0,,,20,40,First Prize,first prize
+2021,83–87,Dmitrii,Kolupaev,Dmitrii Kolupaev,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,9,10,0,0,,,19,39,First Prize,first prize
+2021,83–87,Benedek,Kovács,Benedek Kovács,Loránd Eötvös University,,Budapest,Hungary,,10,10,1,0,,,21,,8,10,0,0,,,18,39,First Prize,first prize
+2021,83–87,Sergiu-Ionut,Novac,Sergiu-Ionut Novac,University of Bucharest,,Bucharest,Romania,,10,8,0,0,,,18,,10,10,1,0,,,21,39,First Prize,first prize
+2021,83–87,Ricardo Felipe,Rosada Canesin,Ricardo Felipe Rosada Canesin,Universidade de São Paulo,,São Paulo,Brazil,,10,4,4,0,,,18,,10,10,1,0,,,21,39,First Prize,first prize
+2021,83–87,Cheng-Yen,Wu,Cheng-Yen Wu,École Polytechnique,,Paris,France,,10,5,3,0,,,18,,10,10,1,0,,,21,39,First Prize,first prize
+2021,88–91,Volodymyr,Fedynyak,Volodymyr Fedynyak,Ukrainian Catholic University,,Lviv,Ukraine,,10,10,8,0,,,28,,10,0,0,0,,,10,38,First Prize,first prize
+2021,88–91,Vladislav,Mosin,Vladislav Mosin,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,10,4,4,0,,,18,,10,10,0,0,,,20,38,First Prize,first prize
+2021,88–91,Mikhail,Novikov,Mikhail Novikov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,0,0,,,20,,8,0,10,0,,,18,38,First Prize,first prize
+2021,88–91,Rodion,Zaytsev,Rodion Zaytsev,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,9,8,1,0,,,18,38,First Prize,first prize
+2021,92–96,Muhammad Harun Ali,Khan,Muhammad Harun Ali Khan,Imperial College London,,London,UK,,10,10,0,0,,,20,,10,6,1,0,,,17,37,First Prize,first prize
+2021,92–96,Miroslav,Marinov,Miroslav Marinov,University of Oxford,,Oxford,UK,,10,10,0,0,,,20,,10,6,1,0,,,17,37,First Prize,first prize
+2021,92–96,Maksym,Pushkar,Maksym Pushkar,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,10,0,0,,,20,,10,6,1,0,,,17,37,First Prize,first prize
+2021,92–96,Gyorgy,Totos,Gyorgy Totos,Babeș-Bolyai University,,Cluj-Napoca,Romania,,10,10,0,0,,,20,,10,5,1,1,,,17,37,First Prize,first prize
+2021,92–96,IOANNIS,TZACHRISTAS,IOANNIS TZACHRISTAS,National Technical University of Athens,,Athens,Greece,,10,10,0,0,,,20,,7,0,0,10,,,17,37,First Prize,first prize
+2021,97–102,Alberto,Angurel Andrés,Alberto Angurel Andrés,Universidad Complutense de Madrid,,Madrid,Spain,,10,8,6,0,,,24,,10,2,0,0,,,12,36,First Prize,first prize
+2021,97–102,Leon,Jurić,Leon Jurić,University of Zagreb,,Zagreb,Croatia,,0,10,8,0,,,18,,8,10,0,0,,,18,36,First Prize,first prize
+2021,97–102,Markus,Reibnegger,Markus Reibnegger,Universität Wien,,Vienna,Austria,,10,10,0,0,,,20,,10,6,0,0,,,16,36,First Prize,first prize
+2021,97–102,Issam,Tauil,Issam Tauil,École Polytechnique,,Paris,France,,10,4,0,0,,,14,,10,10,1,1,,,22,36,First Prize,first prize
+2021,97–102,Hoang Anh,Tran,Hoang Anh Tran,Loránd Eötvös University,,Budapest,Hungary,,10,8,1,0,,,19,,8,9,0,0,,,17,36,First Prize,first prize
+2021,97–102,Maciej,Wojtala,Maciej Wojtala,University of Warsaw,,Warsaw,Poland,,10,10,0,0,,,20,,10,4,1,1,,,16,36,First Prize,first prize
+2021,103–106,Lautaro,Decara,Lautaro Decara,Universidad de Buenos Aires,,Buenos Aires,Argentina,,10,10,4,0,,,24,,10,0,1,0,,,11,35,First Prize,first prize
+2021,103–106,Andrey,Jhen Shan Chen,Andrey Jhen Shan Chen,Universidade Estadual de Campinas,,São Paulo,Brazil,,10,0,5,0,,,15,,10,10,0,0,,,20,35,First Prize,first prize
+2021,103–106,Calin-George,Pop,Calin-George Pop,Babeș-Bolyai University,,Cluj-Napoca,Romania,,10,10,0,0,,,20,,10,4,1,0,,,15,35,First Prize,first prize
+2021,103–106,Hopein Christofen,Tang,Hopein Christofen Tang,Bandung Institute of Technology,,Bandung,Indonesia,,10,10,4,0,,,24,,10,0,1,0,,,11,35,First Prize,first prize
+2021,107–114,Abdushukur,Akhadov,Abdushukur Akhadov,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,10,3,0,,,23,,10,1,0,0,,,11,34,First Prize,first prize
+2021,107–114,Thomas,Chen,Thomas Chen,Universiteit Leiden,,Leiden,Netherlands,,10,9,3,0,,,22,,10,1,1,0,,,12,34,First Prize,first prize
+2021,107–114,Daniil,Homza,Daniil Homza,Jagiellonian University,,Krakow,Poland,,10,4,4,0,,,18,,8,8,0,0,,,16,34,First Prize,first prize
+2021,107–114,Jasurbek,Imomov,Jasurbek Imomov,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,10,0,0,,,20,,10,4,0,0,,,14,34,First Prize,first prize
+2021,107–114,Lucia,Krajcoviechova,Lucia Krajcoviechova,University of Cambridge,,Cambridge,UK,,10,10,3,0,,,23,,10,1,0,0,,,11,34,First Prize,first prize
+2021,107–114,Soroush,Rezaei,Soroush Rezaei,Sharif University of Technology,,Tehran,Iran,,7,10,0,0,,,17,,8,9,0,0,,,17,34,First Prize,first prize
+2021,107–114,Robert,Szafarczyk,Robert Szafarczyk,University of Warsaw,,Warsaw,Poland,,10,4,0,0,,,14,,9,10,0,1,,,20,34,First Prize,first prize
+2021,107–114,Kristóf,Zólomy,Kristóf Zólomy,Loránd Eötvös University,,Budapest,Hungary,,8,10,0,0,,,18,,10,5,1,0,,,16,34,First Prize,first prize
+2021,115–117,Caio,Costa,Caio Costa,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,8,10,0,0,,,18,,10,5,0,0,,,15,33,First Prize,first prize
+2021,115–117,Rodrigo,Ribeiro da Silva,Rodrigo Ribeiro da Silva,Fundação Getulio Vargas,,Rio de Janeiro,Brazil,,10,9,4,0,,,23,,10,0,0,0,,,10,33,First Prize,first prize
+2021,115–117,Alba Vika,Sánchez Bernal,Alba Vika Sánchez Bernal,University of Barcelona,,Barcelona,Spain,,10,5,2,0,,,17,,8,7,1,0,,,16,33,First Prize,first prize
+2021,118–130,Sofía,Albizu-Campos Rodríguez,Sofía Albizu-Campos Rodríguez,University of Havana,,Havana,Cuba,,10,9,3,0,,,22,,10,0,0,0,,,10,32,First Prize,first prize
+2021,118–130,Konstantin,Chelpanov,Konstantin Chelpanov,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,10,0,0,,,20,,10,1,1,0,,,12,32,First Prize,first prize
+2021,118–130,Gergely Kál,Csáji,Gergely Kál Csáji,Loránd Eötvös University,,Budapest,Hungary,,10,4,0,0,,,14,,10,2,6,0,,,18,32,First Prize,first prize
+2021,118–130,Rashid,Fazylov,Rashid Fazylov,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,10,0,0,2,,,12,32,First Prize,first prize
+2021,118–130,Jonáš,Havelka,Jonáš Havelka,Charles University,,Prague,Czech Republic,,10,9,0,0,,,19,,6,7,0,0,,,13,32,First Prize,first prize
+2021,118–130,Kostiantyn,Lutsenko,Kostiantyn Lutsenko,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,2,10,10,0,,,22,,10,0,0,0,,,10,32,First Prize,first prize
+2021,118–130,Igor,Melnikov,Igor Melnikov,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,8,0,0,,,18,,9,5,0,0,,,14,32,First Prize,first prize
+2021,118–130,Aaron Jude,Naidu,Aaron Jude Naidu,University of KwaZulu-Natal,,Durban,South Africa,,10,10,2,0,,,22,,10,0,0,0,,,10,32,First Prize,first prize
+2021,118–130,Timothy John,Schlesinger,Timothy John Schlesinger,University of Cape Town,,Cape Town,South Africa,,10,10,0,0,,,20,,10,1,1,0,,,12,32,First Prize,first prize
+2021,118–130,Veronika,Schreitter,Veronika Schreitter,Universität Wien,,Vienna,Austria,,10,10,0,0,,,20,,10,2,0,0,,,12,32,First Prize,first prize
+2021,118–130,Vladyslav,Shashkov,Vladyslav Shashkov,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,2,0,0,,,12,,10,9,1,0,,,20,32,First Prize,first prize
+2021,118–130,Eduardo,Ventilari Sodré,Eduardo Ventilari Sodré,Universidade de São Paulo,,São Paulo,Brazil,,10,5,0,0,,,15,,10,6,1,0,,,17,32,First Prize,first prize
+2021,118–130,Andry,Wijaya,Andry Wijaya,University of Indonesia,,Depok,Indonesia,,10,10,0,0,,,20,,10,2,0,0,,,12,32,First Prize,first prize
+2021,131–145,Arben,Ajredini,Arben Ajredini,"University of Prishtina ""Hasan Prishtina""",,Prishtina,Kosovo,,8,9,0,0,,,17,,10,4,0,0,,,14,31,First Prize,first prize
+2021,131–145,Sotiris,Armeniakos,Sotiris Armeniakos,National and Kapodestian University of Athens,,Athens,Greece,,10,10,0,0,,,20,,10,0,1,0,,,11,31,First Prize,first prize
+2021,131–145,Iulian,Giliazev,Iulian Giliazev,Moscow Institute of Physics and Technology,,Moscow,Russia,,2,10,10,0,,,22,,9,0,0,0,,,9,31,First Prize,first prize
+2021,131–145,André Yuji,Hisatsuga,André Yuji Hisatsuga,Universidade de São Paulo,,São Paulo,Brazil,,10,7,0,0,,,17,,8,5,1,0,,,14,31,First Prize,first prize
+2021,131–145,Sahan Manodya,Karawita,Sahan Manodya Karawita,University of Colombo,,Colombo,Sri Lanka,,10,6,0,0,,,16,,10,4,1,0,,,15,31,First Prize,first prize
+2021,131–145,Eduardo Alexis,Llamoca Palomino,Eduardo Alexis Llamoca Palomino,Pontifical Catholic University of Peru,,Lima,Peru,,10,10,4,0,,,24,,7,0,0,0,,,7,31,First Prize,first prize
+2021,131–145,Vahan,Martirosyan,Vahan Martirosyan,Yerevan State University,,Yerevan,Armenia,,10,10,0,0,,,20,,10,0,1,0,,,11,31,First Prize,first prize
+2021,131–145,Filip,Munteanu,Filip Munteanu,Babeș-Bolyai University,,Cluj-Napoca,Romania,,10,3,0,0,,,13,,10,1,7,0,,,18,31,First Prize,first prize
+2021,131–145,Serhii,Mytsyk,Serhii Mytsyk,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2021,131–145,Antoni,Puch,Antoni Puch,University of Warsaw,,Warsaw,Poland,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2021,131–145,Maftuna,Samatboyeva,Maftuna Samatboyeva,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2021,131–145,Arman,Shirdel,Arman Shirdel,University of Tabriz,,Tabriz,Iran,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2021,131–145,Alexandr,Snadin,Alexandr Snadin,Novosibirsk State University,,Novosibirsk,Russia,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2021,131–145,Vlad Titus,Spataru,Vlad Titus Spataru,International Computer Highschool Bucharest,,Bucharest,Romania,,10,10,0,0,,,20,,10,1,0,0,,,11,31,First Prize,first prize
+2021,131–145,Tadej Petar,Tukara,Tadej Petar Tukara,University of Zagreb,,Zagreb,Croatia,,10,10,0,0,,,20,,10,0,1,0,,,11,31,First Prize,first prize
+2021,146–162,Lorenzo,Andreaus,Lorenzo Andreaus,Universidade de São Paulo,,São Paulo,Brazil,,3,2,4,0,,,9,,10,10,1,0,,,21,30,First Prize,first prize
+2021,146–162,Muhammad Alif,Aqsha,Muhammad Alif Aqsha,Bandung Institute of Technology,,Bandung,Indonesia,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2021,146–162,Adam,Barański,Adam Barański,University of Warsaw,,Warsaw,Poland,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2021,146–162,Ana Teodora,Bercaru,Ana Teodora Bercaru,University of Bucharest,,Bucharest,Romania,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2021,146–162,Juliet,Bringas Miranda,Juliet Bringas Miranda,University of Havana,,Havana,Cuba,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2021,146–162,Gurt,Dovletov,Gurt Dovletov,State Energy Institute of Turkmenistan,,Mary,Turkmenistan,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2021,146–162,Islombek,Ismailov,Islombek Ismailov,Urgench State University,,Urgench,Uzbekistan,,10,4,4,0,,,18,,2,0,10,0,,,12,30,First Prize,first prize
+2021,146–162,Dmitry,Kroo,Dmitry Kroo,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2021,146–162,Andrii,Naidenko,Andrii Naidenko,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2021,146–162,Sergey,Postnov,Sergey Postnov,Financial University under the Government of the Russian Federation,,Moscow,Russia,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2021,146–162,Maciej,Raczuk,Maciej Raczuk,University of Warsaw,,Warsaw,Poland,,10,5,4,0,,,19,,10,1,0,0,,,11,30,First Prize,first prize
+2021,146–162,Vlad-Nicolae,Robu,Vlad-Nicolae Robu,University of Bucharest,,Bucharest,Romania,,10,10,0,0,,,20,,9,1,0,0,,,10,30,First Prize,first prize
+2021,146–162,Kamal,Sadikov,Kamal Sadikov,Karakalpak State University after named Berdakh,,Nukus,Uzbekistan,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2021,146–162,Jonathan,Shulman,Jonathan Shulman,Technion,,Haifa,Israel,,10,4,0,0,,,14,,10,6,0,0,,,16,30,First Prize,first prize
+2021,146–162,Mateus,Siqueira Thimoteo,Mateus Siqueira Thimoteo,École Polytechnique,,Paris,France,,10,6,4,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2021,146–162,Andrey,Voronin,Andrey Voronin,Lomonosov Moscow State University,,Moscow,Russia,,10,0,0,0,,,10,,10,10,0,0,,,20,30,First Prize,first prize
+2021,146–162,Anthony Dante,Yataco Torres,Anthony Dante Yataco Torres,Pontifical Catholic University of Peru,,Lima,Peru,,10,10,0,0,,,20,,10,0,0,0,,,10,30,First Prize,first prize
+2021,163–172,Stefan Razvan,Balauca,Stefan Razvan Balauca,Alexandru Ioan Cuza University,,Iași,Romania,,2,8,7,0,,,17,,10,2,0,0,,,12,29,Second Prize,second prize
+2021,163–172,Mekhron,Bobokhonov,Mekhron Bobokhonov,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,9,0,0,,,19,,10,0,0,0,,,10,29,Second Prize,second prize
+2021,163–172,Shokhzod,Kurokboev,Shokhzod Kurokboev,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,10,0,0,,,20,,8,1,0,0,,,9,29,Second Prize,second prize
+2021,163–172,Florian,Lang,Florian Lang,Universität Wien,,Vienna,Austria,,10,4,4,0,,,18,,10,1,0,0,,,11,29,Second Prize,second prize
+2021,163–172,Nicolás,López Funes,Nicolás López Funes,University of Granada,,Granada,Spain,,10,0,0,0,,,10,,9,10,0,0,,,19,29,Second Prize,second prize
+2021,163–172,Akeyla Pradia,Naufal,Akeyla Pradia Naufal,Bandung Institute of Technology,,Bandung,Indonesia,,10,10,0,0,,,20,,8,1,0,0,,,9,29,Second Prize,second prize
+2021,163–172,Irakli,Shalibashvili,Irakli Shalibashvili,Free University,,Tbilisi,Georgia,,10,10,0,0,,,20,,8,1,0,0,,,9,29,Second Prize,second prize
+2021,163–172,Kelvin,Tenata,Kelvin Tenata,University of Indonesia,,Depok,Indonesia,,10,10,0,0,,,20,,9,0,0,0,,,9,29,Second Prize,second prize
+2021,163–172,Gabriel,Tostes Messias Pereira,Gabriel Tostes Messias Pereira,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,10,0,0,,,20,,8,1,0,0,,,9,29,Second Prize,second prize
+2021,163–172,Doniyor,Yazdonov,Doniyor Yazdonov,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,10,0,0,,,20,,7,1,1,0,,,9,29,Second Prize,second prize
+2021,173–181,Emil,Alkin,Emil Alkin,Moscow Institute of Physics and Technology,,Moscow,Russia,,10,8,1,0,,,19,,9,0,0,0,,,9,28,Second Prize,second prize
+2021,173–181,Matheus,Andrade Barreto,Matheus Andrade Barreto,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,10,0,0,,,20,,7,1,0,0,,,8,28,Second Prize,second prize
+2021,173–181,Daniyar,Aubekerov,Daniyar Aubekerov,Suffolk University,,Boston,USA,,10,10,0,0,,,20,,8,0,0,0,,,8,28,Second Prize,second prize
+2021,173–181,Arman,Bayramyan,Arman Bayramyan,Yerevan State University,,Yerevan,Armenia,,10,2,0,0,,,12,,8,8,0,0,,,16,28,Second Prize,second prize
+2021,173–181,Vachagan,Dilanyan,Vachagan Dilanyan,Yerevan State University,,Yerevan,Armenia,,8,10,0,0,,,18,,10,0,0,0,,,10,28,Second Prize,second prize
+2021,173–181,Zurab,Jashi,Zurab Jashi,New York University Abu Dhabi,,Abu Dhabi,United Arab Emirates,,10,8,0,0,,,18,,10,0,0,0,,,10,28,Second Prize,second prize
+2021,173–181,Dimitri,Korkotashvili,Dimitri Korkotashvili,École Polytechnique,,Paris,France,,10,4,0,0,,,14,,10,4,0,0,,,14,28,Second Prize,second prize
+2021,173–181,Ralph,McDougall,Ralph McDougall,Stellenbosch University,,Stellenbosch,South Africa,,8,4,2,0,,,14,,10,4,0,0,,,14,28,Second Prize,second prize
+2021,173–181,Guillem,Quingles Daví,Guillem Quingles Daví,University of Barcelona,,Barcelona,Spain,,8,5,0,0,,,13,,10,5,0,0,,,15,28,Second Prize,second prize
+2021,182–189,Skvorcov,Artyom,Skvorcov Artyom,Saint-Petersburg State University,,Saint-Petersburg,Russia,,10,3,0,0,,,13,,10,0,4,0,,,14,27,Second Prize,second prize
+2021,182–189,Mikhail,Chernavskikh,Mikhail Chernavskikh,Lomonosov Moscow State University,,Moscow,Russia,,10,2,0,0,,,12,,10,5,0,0,,,15,27,Second Prize,second prize
+2021,182–189,James Murray,Louw,James Murray Louw,University of Pretoria,,Pretoria,South Africa,,10,10,0,0,,,20,,6,1,0,0,,,7,27,Second Prize,second prize
+2021,182–189,Maxim,Surkov,Maxim Surkov,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,10,4,0,0,,,14,,10,3,0,0,,,13,27,Second Prize,second prize
+2021,182–189,Roger David,Trujillo Ibáñez,Roger David Trujillo Ibáñez,Universidad Nacional de Colombia,,Bogota,Colombia,,10,3,0,0,,,13,,4,10,0,0,,,14,27,Second Prize,second prize
+2021,182–189,Dmitry,Tsarev,Dmitry Tsarev,Moscow Institute of Physics and Technology,,Moscow,Russia,,4,10,0,0,,,14,,10,2,1,0,,,13,27,Second Prize,second prize
+2021,182–189,Aelly,Zeltzer,Aelly Zeltzer,Technion,,Haifa,Israel,,2,2,4,0,,,8,,10,9,0,0,,,19,27,Second Prize,second prize
+2021,182–189,Альберт,Акопян,Альберт Акопян,Moscow Institute of Physics and Technology,,Moscow,Russia,,8,8,0,0,,,16,,10,1,0,0,,,11,27,Second Prize,second prize
+2021,190–201,Alen,Abdrakhmanov,Alen Abdrakhmanov,Kazakh-British Technical University,,Almaty,Kazakhstan,,10,10,0,0,,,20,,2,4,0,0,,,6,26,Second Prize,second prize
+2021,190–201,Evgenii,Borisenko,Evgenii Borisenko,Lomonosov Moscow State University,,Moscow,Russia,,8,8,0,0,,,16,,10,0,0,0,,,10,26,Second Prize,second prize
+2021,190–201,Samprit,Chakraborty,Samprit Chakraborty,Indian Statistical Institute,,Kolkata,India,,8,10,0,0,,,18,,8,0,0,0,,,8,26,Second Prize,second prize
+2021,190–201,Arman,Fahradyan,Arman Fahradyan,Russian-Armenian University,,Yerevan,Armenia,,10,5,0,0,,,15,,10,1,0,0,,,11,26,Second Prize,second prize
+2021,190–201,Anish,Gupta,Anish Gupta,University of Warwick,,Warwick,UK,,10,3,0,0,,,13,,10,2,1,0,,,13,26,Second Prize,second prize
+2021,190–201,Vahe,Karagulyan,Vahe Karagulyan,Yerevan State University,,Yerevan,Armenia,,10,4,0,0,,,14,,10,2,0,0,,,12,26,Second Prize,second prize
+2021,190–201,Eirini,Miliori,Eirini Miliori,National Technical University of Athens,,Athens,Greece,,8,2,0,0,,,10,,10,0,6,0,,,16,26,Second Prize,second prize
+2021,190–201,Márcio,Peixoto,Márcio Peixoto,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,10,5,0,0,,,15,,10,0,1,0,,,11,26,Second Prize,second prize
+2021,190–201,Jorge Isaac,Rubiano Murcia,Jorge Isaac Rubiano Murcia,Universidad Nacional de Colombia,,Bogota,Colombia,,10,0,0,0,,,10,,10,0,6,0,,,16,26,Second Prize,second prize
+2021,190–201,Lucas Vinicius,Silveira de Lima,Lucas Vinicius Silveira de Lima,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,5,0,0,,,15,,10,1,0,0,,,11,26,Second Prize,second prize
+2021,190–201,Jahongir,Turayev,Jahongir Turayev,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,6,0,0,,,16,,10,0,0,0,,,10,26,Second Prize,second prize
+2021,190–201,Nikolay,Yakimanskiy,Nikolay Yakimanskiy,Lomonosov Moscow State University,,Moscow,Russia,,10,5,0,0,,,15,,10,1,0,0,,,11,26,Second Prize,second prize
+2021,202–216,Jaime,Benabent Guerrero,Jaime Benabent Guerrero,University of Seville,,Sevilla,Spain,,10,10,0,0,,,20,,0,4,1,0,,,5,25,Second Prize,second prize
+2021,202–216,Guilherme Zeus,Dantas e Moura,Guilherme Zeus Dantas e Moura,Haverford College,,Haverford,USA,,10,10,4,0,,,24,,1,0,0,0,,,1,25,Second Prize,second prize
+2021,202–216,João Pedro,de Abreu Marciano,João Pedro de Abreu Marciano,Fundação Getulio Vargas,,Rio de Janeiro,Brazil,,10,5,0,0,,,15,,10,0,0,0,,,10,25,Second Prize,second prize
+2021,202–216,Oguldondi,Gulyyeva,Oguldondi Gulyyeva,International University for the Humanities and Development,,Ashgabat,Turkmenistan,,10,10,0,0,,,20,,5,0,0,0,,,5,25,Second Prize,second prize
+2021,202–216,Nikita,Leo,Nikita Leo,University of Tartu,,Tartu,Estonia,,10,2,3,0,,,15,,0,10,0,0,,,10,25,Second Prize,second prize
+2021,202–216,Bartłomiej,Lewandowski,Bartłomiej Lewandowski,University of Warsaw,,Warsaw,Poland,,10,4,1,0,,,15,,10,0,0,0,,,10,25,Second Prize,second prize
+2021,202–216,George,Lucas,George Lucas,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,10,4,0,0,,,14,,10,0,1,0,,,11,25,Second Prize,second prize
+2021,202–216,Mehdi,Makni,Mehdi Makni,École Polytechnique,,Paris,France,,10,5,0,0,,,15,,10,0,0,0,,,10,25,Second Prize,second prize
+2021,202–216,Matevž,Miščič,Matevž Miščič,University of Ljubljana,,Ljubljana,Slovenia,,2,4,6,0,,,12,,2,5,6,0,,,13,25,Second Prize,second prize
+2021,202–216,Jakhongir,Norboev,Jakhongir Norboev,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,5,0,0,,,15,,10,0,0,0,,,10,25,Second Prize,second prize
+2021,202–216,Mateo,Rodriguez Polo,Mateo Rodriguez Polo,Universidad Autonoma de Madrid,,Madrid,Spain,,8,5,0,0,,,13,,10,1,1,0,,,12,25,Second Prize,second prize
+2021,202–216,Carlo Maria,Russian,Carlo Maria Russian,University of Warwick,,Warwick,UK,,10,0,0,0,,,10,,8,1,6,0,,,15,25,Second Prize,second prize
+2021,202–216,HAU TIAN,TEO,HAU TIAN TEO,Nanyang Technological University,,Jurong West,Singapore,,10,4,0,0,,,14,,10,1,0,0,,,11,25,Second Prize,second prize
+2021,202–216,Daniel Estuardo,Tobar López,Daniel Estuardo Tobar López,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,10,4,0,0,,,14,,10,0,1,0,,,11,25,Second Prize,second prize
+2021,202–216,Andreas,Vermeiren,Andreas Vermeiren,Katholieke Universiteit te Leuven,,Leuven,Belgium,,10,5,0,0,,,15,,10,0,0,0,,,10,25,Second Prize,second prize
+2021,217–231,André,Boscariol Rasera,André Boscariol Rasera,Universidade Estadual de Campinas,,São Paulo,Brazil,,10,4,0,0,,,14,,0,10,0,0,,,10,24,Second Prize,second prize
+2021,217–231,Victor Hugo,de Souza Daniel,Victor Hugo de Souza Daniel,Universidade de São Paulo,,São Paulo,Brazil,,10,2,0,0,,,12,,10,2,0,0,,,12,24,Second Prize,second prize
+2021,217–231,Sergio,Estañ Ruiz,Sergio Estañ Ruiz,University of Warwick,,Warwick,UK,,10,4,0,0,,,14,,8,1,1,0,,,10,24,Second Prize,second prize
+2021,217–231,Ágoston,Győrffy,Ágoston Győrffy,Loránd Eötvös University,,Budapest,Hungary,,10,4,0,0,,,14,,10,0,0,0,,,10,24,Second Prize,second prize
+2021,217–231,Jakub,Jagiełła,Jakub Jagiełła,University of Warsaw,,Warsaw,Poland,,10,2,0,0,,,12,,10,2,0,0,,,12,24,Second Prize,second prize
+2021,217–231,Sze Chong,Khor,Sze Chong Khor,Nanyang Technological University,,Jurong West,Singapore,,10,4,0,0,,,14,,10,0,0,0,,,10,24,Second Prize,second prize
+2021,217–231,Luka,Macharashvili,Luka Macharashvili,Free University,,Tbilisi,Georgia,,10,4,0,0,,,14,,9,1,0,0,,,10,24,Second Prize,second prize
+2021,217–231,Andraž,Maier,Andraž Maier,University of Ljubljana,,Ljubljana,Slovenia,,10,3,0,0,,,13,,10,1,0,0,,,11,24,Second Prize,second prize
+2021,217–231,Zayd,Maradni,Zayd Maradni,New York University Abu Dhabi,,Abu Dhabi,United Arab Emirates,,10,6,0,0,,,16,,8,0,0,0,,,8,24,Second Prize,second prize
+2021,217–231,Madalin Gabriel,Mitrofan,Madalin Gabriel Mitrofan,Babeș-Bolyai University,,Cluj-Napoca,Romania,,10,4,0,0,,,14,,10,0,0,0,,,10,24,Second Prize,second prize
+2021,217–231,Naelufa Syifna Wifaqotul,Muna,Naelufa Syifna Wifaqotul Muna,Universitas Gadjah Mada,,Yogyakarta,Indonesia,,10,9,0,0,,,19,,3,1,1,0,,,5,24,Second Prize,second prize
+2021,217–231,Yehor,Panchenko,Yehor Panchenko,Igor Sikorsky Kyiv Polytechnic Institute,,Kyiv,Ukraine,,10,4,0,0,,,14,,10,0,0,0,,,10,24,Second Prize,second prize
+2021,217–231,Mikhail,Petrochenkov,Mikhail Petrochenkov,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,10,7,0,0,,,17,,0,7,0,0,,,7,24,Second Prize,second prize
+2021,217–231,Nikos,Polychronidis,Nikos Polychronidis,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,10,10,0,0,,,20,,4,0,0,0,,,4,24,Second Prize,second prize
+2021,217–231,Murat,Sapayev,Murat Sapayev,Magtymguly Turkmen State University,,Ashgabat,Turkmenistan,,10,4,0,0,,,14,,10,0,0,0,,,10,24,Second Prize,second prize
+2021,232–247,Sahar,Bakhshandenezhad,Sahar Bakhshandenezhad,Ferdowsi University of Mashhad,,Mashhad,Iran,,9,5,0,0,,,14,,9,0,0,0,,,9,23,Second Prize,second prize
+2021,232–247,Diego,Campos Laboissiere Villela,Diego Campos Laboissiere Villela,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,4,0,0,,,14,,9,0,0,0,,,9,23,Second Prize,second prize
+2021,232–247,Andreas,Charalampopoulos,Andreas Charalampopoulos,National Technical University of Athens,,Athens,Greece,,10,3,0,0,,,13,,10,0,0,0,,,10,23,Second Prize,second prize
+2021,232–247,Gustavo Roque,Collado Romero,Gustavo Roque Collado Romero,University of Seville,,Sevilla,Spain,,10,10,0,0,,,20,,2,0,1,0,,,3,23,Second Prize,second prize
+2021,232–247,Artem,Dvornyi,Artem Dvornyi,Igor Sikorsky Kyiv Polytechnic Institute,,Kyiv,Ukraine,,10,4,0,0,,,14,,9,0,0,0,,,9,23,Second Prize,second prize
+2021,232–247,Oleksii,Galganov,Oleksii Galganov,Igor Sikorsky Kyiv Polytechnic Institute,,Kyiv,Ukraine,,10,3,0,0,,,13,,10,0,0,0,,,10,23,Second Prize,second prize
+2021,232–247,Jorge Santiago,Ibáñez Marcos,Jorge Santiago Ibáñez Marcos,Universidad de Zaragoza,,Zaragoza,Spain,,10,2,0,0,,,12,,10,0,1,0,,,11,23,Second Prize,second prize
+2021,232–247,Aleksandre,Khokhiashvili,Aleksandre Khokhiashvili,Free University,,Tbilisi,Georgia,,10,3,0,0,,,13,,10,0,0,0,,,10,23,Second Prize,second prize
+2021,232–247,Felipe,Knöller Nunes,Felipe Knöller Nunes,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,5,0,0,,,15,,8,0,0,0,,,8,23,Second Prize,second prize
+2021,232–247,Fabiano,Menezes e Sousa,Fabiano Menezes e Sousa,École Polytechnique,,Paris,France,,10,5,0,0,,,15,,8,0,0,0,,,8,23,Second Prize,second prize
+2021,232–247,Jairon Henrique,Nóia Batista,Jairon Henrique Nóia Batista,Fundação Getulio Vargas,,Rio de Janeiro,Brazil,,2,10,0,0,,,12,,10,1,0,0,,,11,23,Second Prize,second prize
+2021,232–247,Davrbek,Oltiboev,Davrbek Oltiboev,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,5,0,0,,,15,,8,0,0,0,,,8,23,Second Prize,second prize
+2021,232–247,Besfort,Shala,Besfort Shala,University of Primorska,,Primorska,Slovenia,,1,10,0,0,,,11,,10,1,1,0,,,12,23,Second Prize,second prize
+2021,232–247,Resul,Shamuhammedov,Resul Shamuhammedov,Magtymguly Turkmen State University,,Ashgabat,Turkmenistan,,10,3,0,0,,,13,,10,0,0,0,,,10,23,Second Prize,second prize
+2021,232–247,Anzhou,Song,Anzhou Song,University of Exeter,,Exeter,UK,,8,3,0,0,,,11,,8,4,0,0,,,12,23,Second Prize,second prize
+2021,232–247,Alina,Yan,Alina Yan,Charles University,,Prague,Czech Republic,,10,10,3,0,,,23,,0,0,0,0,,,0,23,Second Prize,second prize
+2021,248–265,Igor,Caldeira Magalhães,Igor Caldeira Magalhães,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,8,3,0,0,,,11,,10,1,0,0,,,11,22,Second Prize,second prize
+2021,248–265,Jemisson Daniel,Coronel Baldeon,Jemisson Daniel Coronel Baldeon,Pontifical Catholic University of Peru,,Lima,Peru,,10,10,0,0,,,20,,2,0,0,0,,,2,22,Second Prize,second prize
+2021,248–265,Aditya,Dwianto,Aditya Dwianto,Bandung Institute of Technology,,Bandung,Indonesia,,4,10,0,0,,,14,,6,1,0,1,,,8,22,Second Prize,second prize
+2021,248–265,Luan Arjuna,Fraga Ramires,Luan Arjuna Fraga Ramires,Universidade de São Paulo,,São Paulo,Brazil,,5,5,4,0,,,14,,8,0,0,0,,,8,22,Second Prize,second prize
+2021,248–265,Leonardo,Joau,Leonardo Joau,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,4,0,0,,,14,,8,0,0,0,,,8,22,Second Prize,second prize
+2021,248–265,Alexander,Kharchenko,Alexander Kharchenko,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,8,4,0,0,,,12,,8,1,1,0,,,10,22,Second Prize,second prize
+2021,248–265,Andrey,Lukyanov,Andrey Lukyanov,Novosibirsk State University,,Novosibirsk,Russia,,10,3,1,0,,,14,,8,0,0,0,,,8,22,Second Prize,second prize
+2021,248–265,Waffiq,Maaroja,Waffiq Maaroja,Universitas Gadjah Mada,,Yogyakarta,Indonesia,,10,9,0,0,,,19,,2,0,1,0,,,3,22,Second Prize,second prize
+2021,248–265,Breno,Marot,Breno Marot,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,10,2,0,0,,,12,,10,0,0,0,,,10,22,Second Prize,second prize
+2021,248–265,Ruwimal,Pathiraja,Ruwimal Pathiraja,University of Colombo,,Colombo,Sri Lanka,,2,10,0,0,,,12,,10,0,0,0,,,10,22,Second Prize,second prize
+2021,248–265,Mikhail,Petrov,Mikhail Petrov,Higher School of Economics,,Moscow,Russia,,10,9,0,0,,,19,,2,0,1,0,,,3,22,Second Prize,second prize
+2021,248–265,Robert,Pop,Robert Pop,Babeș-Bolyai University,,Cluj-Napoca,Romania,,8,3,0,0,,,11,,10,1,0,0,,,11,22,Second Prize,second prize
+2021,248–265,João Pedro,Sedeu Godoi,João Pedro Sedeu Godoi,Universidade de São Paulo,,São Paulo,Brazil,,2,10,0,0,,,12,,10,0,0,0,,,10,22,Second Prize,second prize
+2021,248–265,Robin,Simoens,Robin Simoens,Ghent University,,Ghent,Belgium,,8,4,0,0,,,12,,10,0,0,0,,,10,22,Second Prize,second prize
+2021,248–265,Ibrahim,Suleiman,Ibrahim Suleiman,New York University Abu Dhabi,,Abu Dhabi,United Arab Emirates,,10,2,0,0,,,12,,10,0,0,0,,,10,22,Second Prize,second prize
+2021,248–265,Emile,Tredoux,Emile Tredoux,University of Cape Town,,Cape Town,South Africa,,8,4,4,0,,,16,,1,5,0,0,,,6,22,Second Prize,second prize
+2021,248–265,Timofey,Vasilevskij,Timofey Vasilevskij,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,2,10,0,0,,,12,,10,0,0,0,,,10,22,Second Prize,second prize
+2021,248–265,Hrach,Yeghiazaryan,Hrach Yeghiazaryan,American University of Armenia,,Yerevan,Armenia,,10,2,0,0,,,12,,10,0,0,0,,,10,22,Second Prize,second prize
+2021,266–285,Artur César,Araújo Alves,Artur César Araújo Alves,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,8,5,0,0,,,13,,8,0,0,0,,,8,21,Second Prize,second prize
+2021,266–285,Pavel,Arkhipov,Pavel Arkhipov,Moscow Institute of Physics and Technology,,Moscow,Russia,,9,0,0,0,,,9,,10,1,1,0,,,12,21,Second Prize,second prize
+2021,266–285,Tigran,Chtchyan,Tigran Chtchyan,Yerevan State University,,Yerevan,Armenia,,10,0,0,0,,,10,,10,1,0,0,,,11,21,Second Prize,second prize
+2021,266–285,Alejandro,Fernández Jiménez,Alejandro Fernández Jiménez,Universidad Autonoma de Madrid,,Madrid,Spain,,5,4,0,0,,,9,,10,1,1,0,,,12,21,Second Prize,second prize
+2021,266–285,Caio,Graça Gomes,Caio Graça Gomes,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,8,0,0,,,18,,3,0,0,0,,,3,21,Second Prize,second prize
+2021,266–285,Bogdan Octavian,Grecu,Bogdan Octavian Grecu,University College London,,London,UK,,8,3,0,0,,,11,,10,0,0,0,,,10,21,Second Prize,second prize
+2021,266–285,Davit,Khvedelidze,Davit Khvedelidze,Free University,,Tbilisi,Georgia,,10,0,10,0,,,20,,1,0,0,0,,,1,21,Second Prize,second prize
+2021,266–285,Felipe,Martins Gomes,Felipe Martins Gomes,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,2,0,0,,,12,,9,0,0,0,,,9,21,Second Prize,second prize
+2021,266–285,Lugo,Mihovilic,Lugo Mihovilic,University of Zagreb,,Zagreb,Croatia,,0,10,0,0,,,10,,10,0,1,0,,,11,21,Second Prize,second prize
+2021,266–285,Yauheni,Minau,Yauheni Minau,Belarusian State University of Informatics and Radioelectronics,,Minsk,Belarus,,10,0,0,0,,,10,,10,1,0,0,,,11,21,Second Prize,second prize
+2021,266–285,Fran,Mišković,Fran Mišković,University of Zagreb,,Zagreb,Croatia,,10,0,0,0,,,10,,10,0,1,0,,,11,21,Second Prize,second prize
+2021,266–285,Duart,Nishefci,Duart Nishefci,"University of Prishtina ""Hasan Prishtina""",,Prishtina,Kosovo,,10,3,0,0,,,13,,8,0,0,0,,,8,21,Second Prize,second prize
+2021,266–285,Lucas,Ogawa,Lucas Ogawa,Universidade de São Paulo,,São Paulo,Brazil,,10,0,1,0,,,11,,0,10,0,0,,,10,21,Second Prize,second prize
+2021,266–285,Miguel,Pineda Martin,Miguel Pineda Martin,University of Seville,,Sevilla,Spain,,8,3,0,0,,,11,,8,2,0,0,,,10,21,Second Prize,second prize
+2021,266–285,Alexandre,Raulik Neto,Alexandre Raulik Neto,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,10,0,0,0,,,10,,10,0,1,0,,,11,21,Second Prize,second prize
+2021,266–285,Reynald,Saputra,Reynald Saputra,Bandung Institute of Technology,,Bandung,Indonesia,,10,10,0,0,,,20,,0,0,1,0,,,1,21,Second Prize,second prize
+2021,266–285,Rivaldo Billy,Sebastian,Rivaldo Billy Sebastian,Nanyang Technological University,,Jurong West,Singapore,,10,9,2,0,,,21,,0,0,0,0,,,0,21,Second Prize,second prize
+2021,266–285,Tjaž,Silovšek,Tjaž Silovšek,University of Ljubljana,,Ljubljana,Slovenia,,8,3,0,0,,,11,,10,0,0,0,,,10,21,Second Prize,second prize
+2021,266–285,Kirill,Ufimtsev,Kirill Ufimtsev,Novosibirsk State University,,Novosibirsk,Russia,,6,4,0,0,,,10,,10,0,1,0,,,11,21,Second Prize,second prize
+2021,266–285,Xiaoming,Yu,Xiaoming Yu,Nanyang Technological University,,Jurong West,Singapore,,10,3,0,0,,,13,,8,0,0,0,,,8,21,Second Prize,second prize
+2021,286–298,Abdumalik,Abdukayumov,Abdumalik Abdukayumov,Tashkent State University of Economics,,Tashkent,Uzbekistan,,8,4,0,0,,,12,,8,0,0,0,,,8,20,Second Prize,second prize
+2021,286–298,Akmuhammet,Akmyradov,Akmuhammet Akmyradov,Magtymguly Turkmen State University,,Ashgabat,Turkmenistan,,8,4,0,0,,,12,,8,0,0,0,,,8,20,Second Prize,second prize
+2021,286–298,Amin,Almasi,Amin Almasi,University of Tehran,,Tehran,Iran,,10,0,0,0,,,10,,9,1,0,0,,,10,20,Second Prize,second prize
+2021,286–298,Žan,Bajuk,Žan Bajuk,University of Ljubljana,,Ljubljana,Slovenia,,10,7,0,0,,,17,,2,0,1,0,,,3,20,Second Prize,second prize
+2021,286–298,Matheus,Barros da Silveira,Matheus Barros da Silveira,Universidade Federal do Ceará,,Fortaleza,Brazil,,10,10,0,0,,,20,,0,0,0,0,,,0,20,Second Prize,second prize
+2021,286–298,José Julián,Díaz Pérez,José Julián Díaz Pérez,University of Havana,,Havana,Cuba,,10,0,0,0,,,10,,10,0,0,0,,,10,20,Second Prize,second prize
+2021,286–298,Giorgi,Gogaberishvili,Giorgi Gogaberishvili,Free University,,Tbilisi,Georgia,,10,0,0,0,,,10,,10,0,0,0,,,10,20,Second Prize,second prize
+2021,286–298,Byron Abel Raul,Hernández Pacay,Byron Abel Raul Hernández Pacay,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,10,0,0,0,,,10,,10,0,0,0,,,10,20,Second Prize,second prize
+2021,286–298,Santiago,Jiménez Salazar,Santiago Jiménez Salazar,Universidad Nacional de Colombia,,Bogota,Colombia,,10,10,0,0,,,20,,0,0,0,0,,,0,20,Second Prize,second prize
+2021,286–298,Ehsan,Kafshdar Goharshady,Ehsan Kafshdar Goharshady,Ferdowsi University of Mashhad,,Mashhad,Iran,,10,9,0,0,,,19,,0,0,1,0,,,1,20,Second Prize,second prize
+2021,286–298,Maksym,Protsyk,Maksym Protsyk,Ukrainian Catholic University,,Lviv,Ukraine,,2,10,0,0,,,12,,8,0,0,0,,,8,20,Second Prize,second prize
+2021,286–298,Panagiotis,Theodoropoulos,Panagiotis Theodoropoulos,National and Kapodestian University of Athens,,Athens,Greece,,10,0,0,0,,,10,,10,0,0,0,,,10,20,Second Prize,second prize
+2021,286–298,Jean,Weight,Jean Weight,Stellenbosch University,,Stellenbosch,South Africa,,10,10,0,0,,,20,,0,0,0,0,,,0,20,Second Prize,second prize
+2021,299–307,Muhammad Reza,Ardhana,Muhammad Reza Ardhana,Institut Pertanian Bogor,,Bogor,Indonesia,,1,10,0,0,,,11,,8,0,0,0,,,8,19,Third Prize,third prize
+2021,299–307,Aygul,Begenjova,Aygul Begenjova,International University for the Humanities and Development,,Ashgabat,Turkmenistan,,10,1,0,0,,,11,,8,0,0,0,,,8,19,Third Prize,third prize
+2021,299–307,Ismael,El Yassini,Ismael El Yassini,University of Sherbrooke,,Sherbrooke,Canada,,8,1,0,0,,,9,,10,0,0,0,,,10,19,Third Prize,third prize
+2021,299–307,Muh.,Fadlan,Muh. Fadlan,Universitas Gadjah Mada,,Yogyakarta,Indonesia,,10,6,0,0,,,16,,2,0,1,0,,,3,19,Third Prize,third prize
+2021,299–307,César,Herrera Garro,César Herrera Garro,Universidad de Costa Rica,,San Pedro Montes de Oca,Costa Rica,,10,0,0,0,,,10,,7,1,1,0,,,9,19,Third Prize,third prize
+2021,299–307,Roman,Kopyl,Roman Kopyl,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,8,10,0,0,,,18,,1,0,0,0,,,1,19,Third Prize,third prize
+2021,299–307,Edward,Li,Edward Li,Northwest Junior Highschool,,Iowa City,USA,,2,4,3,0,,,9,,6,4,0,0,,,10,19,Third Prize,third prize
+2021,299–307,Urmas,Luhaäär,Urmas Luhaäär,University of Tartu,,Tartu,Estonia,,10,2,0,0,,,12,,7,0,0,0,,,7,19,Third Prize,third prize
+2021,299–307,Syaifullah Hi,Nurdin,Syaifullah Hi Nurdin,Universitas Hasanuddin,,Makassar,Indonesia,,9,0,0,0,,,9,,10,0,0,0,,,10,19,Third Prize,third prize
+2021,308–313,Laziz,Abdullaev,Laziz Abdullaev,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,5,0,0,,,15,,3,0,0,0,,,3,18,Third Prize,third prize
+2021,308–313,Julián Alberto,Alzate Cárdenas,Julián Alberto Alzate Cárdenas,Universidad Industrial de santander,,Bucaramanga,Colombia,,10,4,0,0,,,14,,3,0,1,0,,,4,18,Third Prize,third prize
+2021,308–313,Illia,Bovtriuk,Illia Bovtriuk,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,8,0,0,0,,,8,,10,0,0,0,,,10,18,Third Prize,third prize
+2021,308–313,Maria Clara,de Lacerda Werneck,Maria Clara de Lacerda Werneck,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,10,4,0,0,,,14,,4,0,0,0,,,4,18,Third Prize,third prize
+2021,308–313,Gustavo,Ewbank Rodrigues Danon,Gustavo Ewbank Rodrigues Danon,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,3,5,0,0,,,8,,10,0,0,0,,,10,18,Third Prize,third prize
+2021,308–313,Yaroslav,Romanus,Yaroslav Romanus,Ukrainian Catholic University,,Lviv,Ukraine,,8,10,0,0,,,18,,0,0,0,0,,,0,18,Third Prize,third prize
+2021,314–320,Andrey,Chekryshov,Andrey Chekryshov,Novosibirsk State University,,Novosibirsk,Russia,,4,0,1,0,,,5,,10,1,1,0,,,12,17,Third Prize,third prize
+2021,314–320,Javier Fernando,Gonzalez Guzman,Javier Fernando Gonzalez Guzman,Universidad Nacional de Colombia,,Bogota,Colombia,,10,5,0,0,,,15,,0,2,0,0,,,2,17,Third Prize,third prize
+2021,314–320,Jaan Kristjan,Kaasik,Jaan Kristjan Kaasik,University of Tartu,,Tartu,Estonia,,10,4,0,0,,,14,,2,0,1,0,,,3,17,Third Prize,third prize
+2021,314–320,Philip,Kmentt,Philip Kmentt,University of Sheffield,,Sheffield,UK,,10,7,0,0,,,17,,0,0,0,0,,,0,17,Third Prize,third prize
+2021,314–320,Jose de Jesus,Liceaga Martinez,Jose de Jesus Liceaga Martinez,Universidad de Guanajuato/CIMAT,,Guanajuato,Mexico,,10,5,0,0,,,15,,0,2,0,0,,,2,17,Third Prize,third prize
+2021,314–320,Lianne,Liu,Lianne Liu,University of Cambridge,,Cambridge,UK,,3,3,0,0,,,6,,10,1,0,0,,,11,17,Third Prize,third prize
+2021,314–320,Nilufar,Rajabova,Nilufar Rajabova,National University of Uzbekistan,,Tashkent,Uzbekistan,,10,4,0,0,,,14,,3,0,0,0,,,3,17,Third Prize,third prize
+2021,321–329,Aram,Arakelyan,Aram Arakelyan,Moscow Institute of Physics and Technology,,Moscow,Russia,,8,5,3,0,,,16,,0,0,0,0,,,0,16,Third Prize,third prize
+2021,321–329,Noam,Baruch,Noam Baruch,Technion,,Haifa,Israel,,3,2,0,0,,,5,,10,1,0,0,,,11,16,Third Prize,third prize
+2021,321–329,Duc,Cao,Duc Cao,University College London,,London,UK,,10,4,0,0,,,14,,2,0,0,0,,,2,16,Third Prize,third prize
+2021,321–329,Aime Richard,MAGAMBO,Aime Richard MAGAMBO,AIMS Rwanda,,Kigali,Rwanda,,10,5,0,0,,,15,,0,1,0,0,,,1,16,Third Prize,third prize
+2021,321–329,Danilo,Marinho Fernandes,Danilo Marinho Fernandes,École Polytechnique,,Paris,France,,3,3,0,0,,,6,,10,0,0,0,,,10,16,Third Prize,third prize
+2021,321–329,Ghadi,Nehme,Ghadi Nehme,École Polytechnique,,Paris,France,,1,5,0,0,,,6,,7,2,1,0,,,10,16,Third Prize,third prize
+2021,321–329,Małgorzata,Rojek,Małgorzata Rojek,University of Warsaw,,Warsaw,Poland,,3,0,0,0,,,3,,10,3,0,0,,,13,16,Third Prize,third prize
+2021,321–329,Mathieu,Wydra,Mathieu Wydra,University College London,,London,UK,,10,0,0,0,,,10,,4,2,0,0,,,6,16,Third Prize,third prize
+2021,321–329,Zyad,Yasser,Zyad Yasser,New York University Abu Dhabi,,Abu Dhabi,United Arab Emirates,,4,0,0,0,,,4,,10,2,0,0,,,12,16,Third Prize,third prize
+2021,330–344,Yevhenii,Azarov,Yevhenii Azarov,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,5,4,0,0,,,9,,2,4,0,0,,,6,15,Third Prize,third prize
+2021,330–344,Miguel,Batista,Miguel Batista,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,10,4,0,0,,,14,,0,1,0,0,,,1,15,Third Prize,third prize
+2021,330–344,Manuel Vicente,Bolaños Quesada,Manuel Vicente Bolaños Quesada,University of Granada,,Granada,Spain,,10,4,0,0,,,14,,1,0,0,0,,,1,15,Third Prize,third prize
+2021,330–344,Alejandro,Camón Fernández,Alejandro Camón Fernández,Universidad de Zaragoza,,Zaragoza,Spain,,8,4,0,0,,,12,,2,0,1,0,,,3,15,Third Prize,third prize
+2021,330–344,Gabriel,Collado Valverde,Gabriel Collado Valverde,Universidad de Costa Rica,,San Pedro Montes de Oca,Costa Rica,,10,3,0,0,,,13,,1,0,1,0,,,2,15,Third Prize,third prize
+2021,330–344,Qiming,Cui,Qiming Cui,University of Liverpool,,Liverpool,UK,,8,5,0,0,,,13,,1,0,1,0,,,2,15,Third Prize,third prize
+2021,330–344,Marcos,Escartín Ferrer,Marcos Escartín Ferrer,Universidad de Zaragoza,,Zaragoza,Spain,,10,0,3,0,,,13,,0,1,1,0,,,2,15,Third Prize,third prize
+2021,330–344,Luis Enrique,Fernández Machado,Luis Enrique Fernández Machado,University of Havana,,Havana,Cuba,,6,1,0,0,,,7,,8,0,0,0,,,8,15,Third Prize,third prize
+2021,330–344,Jarah Che,Fluxman,Jarah Che Fluxman,University of the Witwatersrand,,Johannesburg,South Africa,,10,5,0,0,,,15,,0,0,0,0,,,0,15,Third Prize,third prize
+2021,330–344,Asror,Jabborov,Asror Jabborov,Karshi State University,,Karshi,Uzbekistan,,10,3,0,0,,,13,,1,0,1,0,,,2,15,Third Prize,third prize
+2021,330–344,Iskander Trevor,Mathews,Iskander Trevor Mathews,University of Warwick,,Warwick,UK,,10,3,0,0,,,13,,2,0,0,0,,,2,15,Third Prize,third prize
+2021,330–344,Mateusz,Pieszczek,Mateusz Pieszczek,University of Silesia,,Katowice,Poland,,8,4,3,0,,,15,,0,0,0,0,,,0,15,Third Prize,third prize
+2021,330–344,Eduardo,Salas Jiménez,Eduardo Salas Jiménez,Universidad de Costa Rica,,San Pedro Montes de Oca,Costa Rica,,10,2,0,0,,,12,,3,0,0,0,,,3,15,Third Prize,third prize
+2021,330–344,Andi,Sejdiu,Andi Sejdiu,"University of Prishtina ""Hasan Prishtina""",,Prishtina,Kosovo,,10,4,0,0,,,14,,0,1,0,0,,,1,15,Third Prize,third prize
+2021,330–344,Tongyang,Song,Tongyang Song,Xi'an Jiaotong-Liverpool University,,Suzhou,China,,8,5,0,0,,,13,,2,0,0,0,,,2,15,Third Prize,third prize
+2021,345–354,Robert,Antohi,Robert Antohi,Alexandru Ioan Cuza University,,Iași,Romania,,9,0,4,0,,,13,,1,0,0,0,,,1,14,Third Prize,third prize
+2021,345–354,Engun,Bayasgalan,Engun Bayasgalan,University of Warwick,,Warwick,UK,,2,4,0,0,,,6,,7,1,0,0,,,8,14,Third Prize,third prize
+2021,345–354,Isaías Fernando,De la Fuente Jiménez,Isaías Fernando De la Fuente Jiménez,Universidad de Guanajuato/CIMAT,,Guanajuato,Mexico,,2,10,0,0,,,12,,2,0,0,0,,,2,14,Third Prize,third prize
+2021,345–354,Alvian Alif,Hidayatullah,Alvian Alif Hidayatullah,Institut Teknologi Sepuluh Nopember,,Surabaya,Indonesia,,10,0,0,0,,,10,,0,4,0,0,,,4,14,Third Prize,third prize
+2021,345–354,Mateus,Lima Silveira,Mateus Lima Silveira,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,10,4,0,0,,,14,,0,0,0,0,,,0,14,Third Prize,third prize
+2021,345–354,"Jia Sheng, Colin",Loh,"Jia Sheng, Colin Loh",Nanyang Technological University,,Jurong West,Singapore,,4,0,0,0,,,4,,8,1,1,0,,,10,14,Third Prize,third prize
+2021,345–354,Nabil,Mahatir,Nabil Mahatir,Universitas Pendidikan Indonesia,,Bandung,Indonesia,,10,2,0,0,,,12,,1,0,1,0,,,2,14,Third Prize,third prize
+2021,345–354,Marcos Manuel,Tirador del Riego,Marcos Manuel Tirador del Riego,University of Havana,,Havana,Cuba,,10,4,0,0,,,14,,0,0,0,0,,,0,14,Third Prize,third prize
+2021,345–354,Jose Alfredo,Urrea Moreno,Jose Alfredo Urrea Moreno,Universidad Nacional de Colombia,,Bogota,Colombia,,10,2,0,0,,,12,,1,1,0,0,,,2,14,Third Prize,third prize
+2021,345–354,Bruno,Visnadi da Luz,Bruno Visnadi da Luz,Fundação Getulio Vargas,,Rio de Janeiro,Brazil,,0,10,4,0,,,14,,0,0,0,0,,,0,14,Third Prize,third prize
+2021,355–364,Erfan,Aliannezhadi,Erfan Aliannezhadi,Ferdowsi University of Mashhad,,Mashhad,Iran,,10,2,0,0,,,12,,0,1,0,0,,,1,13,Third Prize,third prize
+2021,355–364,Felipe,Bezerra de Menezes Benício de Sousa,Felipe Bezerra de Menezes Benício de Sousa,Universidade Federal do Ceará,,Fortaleza,Brazil,,10,3,0,0,,,13,,0,0,0,0,,,0,13,Third Prize,third prize
+2021,355–364,Chan Ric,Chan,Chan Ric Chan,Nanyang Technological University,,Jurong West,Singapore,,10,3,0,0,,,13,,0,0,0,0,,,0,13,Third Prize,third prize
+2021,355–364,Mahboubeh,Faregh,Mahboubeh Faregh,Ferdowsi University of Mashhad,,Mashhad,Iran,,10,0,0,0,,,10,,3,0,0,0,,,3,13,Third Prize,third prize
+2021,355–364,Chinmayi,Gajula,Chinmayi Gajula,Indian Institute of Technology Madras,,Chennai,India,,2,10,0,0,,,12,,1,0,0,0,,,1,13,Third Prize,third prize
+2021,355–364,Roberto,Gesteira,Roberto Gesteira,Universidad Pontificia Comillas,,Madrid,Spain,,10,0,0,0,,,10,,2,1,0,0,,,3,13,Third Prize,third prize
+2021,355–364,Lucas Hiroshi,Hanke Harada,Lucas Hiroshi Hanke Harada,Universidade de São Paulo,,São Paulo,Brazil,,10,2,1,0,,,13,,0,0,0,0,,,0,13,Third Prize,third prize
+2021,355–364,Gabriel,Laurentino Silva Henriques,Gabriel Laurentino Silva Henriques,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,0,10,0,0,,,10,,1,1,1,0,,,3,13,Third Prize,third prize
+2021,355–364,Martin,Puškin,Martin Puškin,University of Tartu,,Tartu,Estonia,,10,0,0,0,,,10,,0,2,1,0,,,3,13,Third Prize,third prize
+2021,355–364,Yurii,Yarosh,Yurii Yarosh,Igor Sikorsky Kyiv Polytechnic Institute,,Kyiv,Ukraine,,0,2,1,0,,,3,,10,0,0,0,,,10,13,Third Prize,third prize
+2021,365–380,Tato,Badzgaradze,Tato Badzgaradze,Kutaisi International University,,Kutaisi,Georgia,,3,0,0,0,,,3,,8,1,0,0,,,9,12,Third Prize,third prize
+2021,365–380,Rofiud,Darojad,Rofiud Darojad,Universitas Negeri Malang,,Malang,Indonesia,,10,2,0,0,,,12,,0,0,0,0,,,0,12,Third Prize,third prize
+2021,365–380,Olimjon,Jalilov,Olimjon Jalilov,Gulistan State University,,Gulistan,Uzbekistan,,10,0,0,0,,,10,,2,0,0,0,,,2,12,Third Prize,third prize
+2021,365–380,Alexander,Korotkov,Alexander Korotkov,Peoples' Friendship University of Russia,,Moscow,Russia,,4,0,0,0,,,4,,8,0,0,0,,,8,12,Third Prize,third prize
+2021,365–380,Athanasios,Kotarelas,Athanasios Kotarelas,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,8,3,0,0,,,11,,0,0,1,0,,,1,12,Third Prize,third prize
+2021,365–380,Ruslan,Kulagin,Ruslan Kulagin,Bauman Moscow State Technical University,,Moscow,Russia,,0,10,0,0,,,10,,2,0,0,0,,,2,12,Third Prize,third prize
+2021,365–380,Denys,Lohvynov,Denys Lohvynov,Igor Sikorsky Kyiv Polytechnic Institute,,Kyiv,Ukraine,,10,2,0,0,,,12,,0,0,0,0,,,0,12,Third Prize,third prize
+2021,365–380,João Inácio,Martini Batista,João Inácio Martini Batista,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,8,4,0,0,,,12,,0,0,0,0,,,0,12,Third Prize,third prize
+2021,365–380,Michal,Mraz,Michal Mraz,University of Warwick,,Warwick,UK,,3,6,0,0,,,9,,2,0,1,0,,,3,12,Third Prize,third prize
+2021,365–380,Daniel,Pinedo,Daniel Pinedo,Universidad Nacional de Colombia,,Bogota,Colombia,,2,8,0,0,,,10,,2,0,0,0,,,2,12,Third Prize,third prize
+2021,365–380,Juan David,Restrepo Rojas,Juan David Restrepo Rojas,Universidad Nacional de Colombia,,Bogota,Colombia,,0,10,0,0,,,10,,2,0,0,0,,,2,12,Third Prize,third prize
+2021,365–380,Narges,Shavali Kohshor,Narges Shavali Kohshor,Kharazmi University,,Tehran,Iran,,8,1,3,0,,,12,,0,0,0,0,,,0,12,Third Prize,third prize
+2021,365–380,Jasraj,Singh,Jasraj Singh,Nanyang Technological University,,Jurong West,Singapore,,2,10,0,0,,,12,,0,0,0,0,,,0,12,Third Prize,third prize
+2021,365–380,Jahongir,Tursunboyev,Jahongir Tursunboyev,National University of Uzbekistan,,Tashkent,Uzbekistan,,8,2,0,0,,,10,,2,0,0,0,,,2,12,Third Prize,third prize
+2021,365–380,Audrick Raúl,Veliz Hernández,Audrick Raúl Veliz Hernández,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,0,10,0,0,,,10,,2,0,0,0,,,2,12,Third Prize,third prize
+2021,365–380,Александр,Кириленко,Александр Кириленко,Peoples' Friendship University of Russia,,Moscow,Russia,,10,0,0,0,,,10,,2,0,0,0,,,2,12,Third Prize,third prize
+2021,381–393,Lluís,Carmona Feliu,Lluís Carmona Feliu,University of Barcelona,,Barcelona,Spain,,10,0,0,0,,,10,,0,1,0,0,,,1,11,Third Prize,third prize
+2021,381–393,INGRID COSTA DE MOURA,CONDAL,INGRID COSTA DE MOURA CONDAL,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,1,10,0,0,,,11,,0,0,0,0,,,0,11,Third Prize,third prize
+2021,381–393,Mor Yaguel,de Lame,Mor Yaguel de Lame,Tel Aviv University,,Tel Aviv,Israel,,10,0,0,0,,,10,,1,0,0,0,,,1,11,Third Prize,third prize
+2021,381–393,Filipp,Denissov,Filipp Denissov,Kazakhstan Branch of Lomonosov Moscow State University,,Astana,Kazakhstan,,10,0,0,0,,,10,,1,0,0,0,,,1,11,Third Prize,third prize
+2021,381–393,Konstantin,Gordeev,Konstantin Gordeev,Lomonosov Moscow State University,,Moscow,Russia,,0,10,0,0,,,10,,0,1,0,0,,,1,11,Third Prize,third prize
+2021,381–393,David,Jiménez Sánchez,David Jiménez Sánchez,University of Seville,,Sevilla,Spain,,2,4,0,0,,,6,,0,5,0,0,,,5,11,Third Prize,third prize
+2021,381–393,Łukasz,Kotlewski,Łukasz Kotlewski,Nicolaus Copernicus University,,Toruń,Poland,,10,0,0,0,,,10,,1,0,0,0,,,1,11,Third Prize,third prize
+2021,381–393,Felipe,Lins dos Santos,Felipe Lins dos Santos,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,8,2,0,0,,,10,,1,0,0,0,,,1,11,Third Prize,third prize
+2021,381–393,Oganes,Mirzoyan,Oganes Mirzoyan,Bauman Moscow State Technical University,,Moscow,Russia,,10,0,0,0,,,10,,0,1,0,0,,,1,11,Third Prize,third prize
+2021,381–393,Hassan,Raja,Hassan Raja,University of Warwick,,Warwick,UK,,2,2,0,0,,,4,,7,0,0,0,,,7,11,Third Prize,third prize
+2021,381–393,Alexandr,Shakiyev,Alexandr Shakiyev,International University of Information Technologies,,Almaty,Kazakhstan,,0,10,0,0,,,10,,1,0,0,0,,,1,11,Third Prize,third prize
+2021,381–393,Hlib,Solodzhuk,Hlib Solodzhuk,Ukrainian Catholic University,,Lviv,Ukraine,,0,10,0,0,,,10,,0,1,0,0,,,1,11,Third Prize,third prize
+2021,381–393,昂然,陈,昂然 陈,Johns Hopkins University,,"Baltimore, MD",USA,,1,10,0,0,,,11,,0,0,0,0,,,0,11,Third Prize,third prize
+2021,394–410,Caio Jordan Di Pedro,Azevedo Toné,Caio Jordan Di Pedro Azevedo Toné,École Polytechnique,,Paris,France,,0,10,0,0,,,10,,0,0,0,0,,,0,10,Third Prize,third prize
+2021,394–410,Oguljan,Charyyeva,Oguljan Charyyeva,State Energy Institute of Turkmenistan,,Mary,Turkmenistan,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Third Prize,third prize
+2021,394–410,João Vitor,Cordeiro de Brito,João Vitor Cordeiro de Brito,Universidade Federal do Rio de Janeiro,,Rio de Janeiro,Brazil,,2,0,0,0,,,2,,8,0,0,0,,,8,10,Third Prize,third prize
+2021,394–410,Eduardo,García Caballero,Eduardo García Caballero,Instituto Tecnológico y de Estudios Superiores de Monterrey,,Nuevo León,México,,2,7,0,0,,,9,,0,1,0,0,,,1,10,Third Prize,third prize
+2021,394–410,Krzysztof,Hernik,Krzysztof Hernik,AGH University of Science and Technology,,Krakow,Poland,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Third Prize,third prize
+2021,394–410,Pavlo,Hlukhovskyi,Pavlo Hlukhovskyi,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Third Prize,third prize
+2021,394–410,Anthony Enrique,Huarcaya Palomino,Anthony Enrique Huarcaya Palomino,Pontifical Catholic University of Peru,,Lima,Peru,,3,5,0,0,,,8,,2,0,0,0,,,2,10,Third Prize,third prize
+2021,394–410,Kostyantyn,Krutoy,Kostyantyn Krutoy,Taras Shevchenko National University of Kyiv,,Kyiv,Ukraine,,8,0,0,0,,,8,,0,2,0,0,,,2,10,Third Prize,third prize
+2021,394–410,Ilan,Levin,Ilan Levin,Bar Ilan University,,Ramat Gan,Israel,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Third Prize,third prize
+2021,394–410,Mason,Nakamura,Mason Nakamura,Marist College,,Poughkeepsie,USA,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Third Prize,third prize
+2021,394–410,Matyas,Parrag,Matyas Parrag,University of Warwick,,Warwick,UK,,8,1,0,0,,,9,,1,0,0,0,,,1,10,Third Prize,third prize
+2021,394–410,Edison David,Serrano Cardenas,Edison David Serrano Cardenas,Universidad Nacional de Colombia,,Bogota,Colombia,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Third Prize,third prize
+2021,394–410,Emmanuel David,Silva Amaya,Emmanuel David Silva Amaya,Universidad Nacional de Colombia,,Bogota,Colombia,,8,0,0,0,,,8,,2,0,0,0,,,2,10,Third Prize,third prize
+2021,394–410,Ariel,Silva Claudino,Ariel Silva Claudino,Instituto Tecnológico de Aeronáutica,,Rio de Janeiro,Brazil,,2,0,0,0,,,2,,8,0,0,0,,,8,10,Third Prize,third prize
+2021,394–410,Hazael,Soledade de Araujo Jumonji,Hazael Soledade de Araujo Jumonji,Universidade de São Paulo,,São Paulo,Brazil,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Third Prize,third prize
+2021,394–410,Fabio Alejandro,Velandia Sierra,Fabio Alejandro Velandia Sierra,Universidad Nacional de Colombia,,Bogota,Colombia,,10,0,0,0,,,10,,0,0,0,0,,,0,10,Third Prize,third prize
+2021,394–410,Tianran,Zhang,Tianran Zhang,University College London,,London,UK,,7,3,0,0,,,10,,0,0,0,0,,,0,10,Third Prize,third prize
+2021,411–419,Muhammetnur,Bagbekov,Muhammetnur Bagbekov,International University for the Humanities and Development,,Ashgabat,Turkmenistan,,8,0,0,0,,,8,,1,0,0,0,,,1,9,Third Prize,third prize
+2021,411–419,Jamba,Batgerel,Jamba Batgerel,New Mongol Institute of Technology,,Ulaanbaatar,Mongolia,,8,0,0,0,,,8,,1,0,0,0,,,1,9,Third Prize,third prize
+2021,411–419,Merdangeldi,Bayramov,Merdangeldi Bayramov,Magtymguly Turkmen State University,,Ashgabat,Turkmenistan,,8,0,0,0,,,8,,1,0,0,0,,,1,9,Third Prize,third prize
+2021,411–419,Gabriel,Franceschi Libardi,Gabriel Franceschi Libardi,Universidade de São Paulo,,São Paulo,Brazil,,1,7,0,0,,,8,,0,1,0,0,,,1,9,Third Prize,third prize
+2021,411–419,Yutian,He,Yutian He,Nanyang Technological University,,Jurong West,Singapore,,2,7,0,0,,,9,,0,0,0,0,,,0,9,Third Prize,third prize
+2021,411–419,Hernan Gabriel,Ibarra Mejia,Hernan Gabriel Ibarra Mejia,University of Sheffield,,Sheffield,UK,,2,4,0,0,,,6,,2,1,0,0,,,3,9,Third Prize,third prize
+2021,411–419,Mehdi,Khoshtinat,Mehdi Khoshtinat,University of Tehran,,Tehran,Iran,,0,8,1,0,,,9,,0,0,0,0,,,0,9,Third Prize,third prize
+2021,411–419,Hasnat Mohammad,Nayeem,Hasnat Mohammad Nayeem,"Islamic University of Technology, OIC",,Dhaka,Bangladesh,,2,4,0,0,,,6,,2,0,1,0,,,3,9,Third Prize,third prize
+2021,411–419,Jiachen,Qian,Jiachen Qian,University of Sheffield,,Sheffield,UK,,2,3,0,0,,,5,,4,0,0,0,,,4,9,Third Prize,third prize
+2021,420–431,Thishanka,Alahakoon,Thishanka Alahakoon,University of Colombo,,Colombo,Sri Lanka,,3,5,0,0,,,8,,0,0,0,0,,,0,8,Honourable Mention,honorable mention
+2021,420–431,Anderson Davi,Fernandes Moreira,Anderson Davi Fernandes Moreira,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,2,4,0,0,,,6,,2,0,0,0,,,2,8,Honourable Mention,honorable mention
+2021,420–431,Akmuhammet,Gurbangeldiyev,Akmuhammet Gurbangeldiyev,State Energy Institute of Turkmenistan,,Mary,Turkmenistan,,8,0,0,0,,,8,,0,0,0,0,,,0,8,Honourable Mention,honorable mention
+2021,420–431,Md Raihan,Khan,Md Raihan Khan,Khulna University of Engineering & Technology,,Khulna,Bangladesh,,7,0,0,0,,,7,,0,0,1,0,,,1,8,Honourable Mention,honorable mention
+2021,420–431,Yauhen,Lisouski,Yauhen Lisouski,Belarusian State University of Informatics and Radioelectronics,,Minsk,Belarus,,8,0,0,0,,,8,,0,0,0,0,,,0,8,Honourable Mention,honorable mention
+2021,420–431,ALEXANDROS,NTAGKAS,ALEXANDROS NTAGKAS,University of Patras,,Patras,Greece,,4,3,0,0,,,7,,1,0,0,0,,,1,8,Honourable Mention,honorable mention
+2021,420–431,Vitória Aparecida,Santos Ferreira,Vitória Aparecida Santos Ferreira,Universidade Estadual de Campinas,,São Paulo,Brazil,,0,3,0,0,,,3,,3,2,0,0,,,5,8,Honourable Mention,honorable mention
+2021,420–431,Semyon,Shestakov,Semyon Shestakov,Novosibirsk State University,,Novosibirsk,Russia,,8,0,0,0,,,8,,0,0,0,0,,,0,8,Honourable Mention,honorable mention
+2021,420–431,Hui Ru Kimberley,Tan,Hui Ru Kimberley Tan,Nanyang Technological University,,Jurong West,Singapore,,0,4,3,0,,,7,,1,0,0,0,,,1,8,Honourable Mention,honorable mention
+2021,420–431,Bi Hong,Tiang,Bi Hong Tiang,Nanyang Technological University,,Jurong West,Singapore,,6,2,0,0,,,8,,0,0,0,0,,,0,8,Honourable Mention,honorable mention
+2021,420–431,Ntaniel Basilis,Tsepele,Ntaniel Basilis Tsepele,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,8,0,0,0,,,8,,0,0,0,0,,,0,8,Honourable Mention,honorable mention
+2021,420–431,Jean Carlos,Villegas Morales,Jean Carlos Villegas Morales,Universidad de Costa Rica,,San Pedro Montes de Oca,Costa Rica,,4,0,0,0,,,4,,4,0,0,0,,,4,8,Honourable Mention,honorable mention
+2021,432–441,Todor,Antic,Todor Antic,University of Primorska,,Primorska,Slovenia,,1,5,0,0,,,6,,0,1,0,0,,,1,7,Honourable Mention,honorable mention
+2021,432–441,Catulo,Axel,Catulo Axel,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,1,5,0,0,,,6,,1,0,0,0,,,1,7,Honourable Mention,honorable mention
+2021,432–441,Elizaveta,Bulgakova,Elizaveta Bulgakova,Novosibirsk State University,,Novosibirsk,Russia,,7,0,0,0,,,7,,0,0,0,0,,,0,7,Honourable Mention,honorable mention
+2021,432–441,Rodrigo,Fontenele Brilhante,Rodrigo Fontenele Brilhante,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,3,2,0,0,,,5,,2,0,0,0,,,2,7,Honourable Mention,honorable mention
+2021,432–441,Héctor de Jesús,García Escamilla,Héctor de Jesús García Escamilla,Universidad Autónoma de Querétaro,,Querétaro,México,,7,0,0,0,,,7,,0,0,0,0,,,0,7,Honourable Mention,honorable mention
+2021,432–441,Binul Dulsara,Gulawita Ganithage,Binul Dulsara Gulawita Ganithage,University of Colombo,,Colombo,Sri Lanka,,7,0,0,0,,,7,,0,0,0,0,,,0,7,Honourable Mention,honorable mention
+2021,432–441,Sergio Javier,Hernando Rivero,Sergio Javier Hernando Rivero,Universidad Complutense de Madrid,,Madrid,Spain,,4,3,0,0,,,7,,0,0,0,0,,,0,7,Honourable Mention,honorable mention
+2021,432–441,Daniil,Karzanov,Daniil Karzanov,Higher School of Economics,,Moscow,Russia,,7,0,0,0,,,7,,0,0,0,0,,,0,7,Honourable Mention,honorable mention
+2021,432–441,Garry,Kuwanto,Garry Kuwanto,Bandung Institute of Technology,,Bandung,Indonesia,,2,4,0,0,,,6,,0,1,0,0,,,1,7,Honourable Mention,honorable mention
+2021,432–441,Lakith Navodya,Rathnayake Liyanage,Lakith Navodya Rathnayake Liyanage,University of Colombo,,Colombo,Sri Lanka,,2,3,0,0,,,5,,2,0,0,0,,,2,7,Honourable Mention,honorable mention
+2021,442–456,Abdullah,Al-Monsur,Abdullah Al-Monsur,"Islamic University of Technology, OIC",,Dhaka,Bangladesh,,1,4,0,0,,,5,,1,0,0,0,,,1,6,Honourable Mention,honorable mention
+2021,442–456,Gabriel Vinícius,de Souza Silva,Gabriel Vinícius de Souza Silva,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,2,4,0,0,,,6,,0,0,0,0,,,0,6,Honourable Mention,honorable mention
+2021,442–456,Konstantinos,Fotopoulos,Konstantinos Fotopoulos,National Technical University of Athens,,Athens,Greece,,2,4,0,0,,,6,,0,0,0,0,,,0,6,Honourable Mention,honorable mention
+2021,442–456,Antonios,Katsampakos,Antonios Katsampakos,National Technical University of Athens,,Athens,Greece,,3,0,0,0,,,3,,2,0,1,0,,,3,6,Honourable Mention,honorable mention
+2021,442–456,Dimitrios,Konstantinidis,Dimitrios Konstantinidis,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,3,2,0,0,,,5,,0,0,1,0,,,1,6,Honourable Mention,honorable mention
+2021,442–456,Callan,Kotzen,Callan Kotzen,University of the Witwatersrand,,Johannesburg,South Africa,,2,4,0,0,,,6,,0,0,0,0,,,0,6,Honourable Mention,honorable mention
+2021,442–456,Mikhail,Malofeev,Mikhail Malofeev,HSE Campus in St. Petersburg,,Saint-Petersburg,Russia,,0,0,4,0,,,4,,2,0,0,0,,,2,6,Honourable Mention,honorable mention
+2021,442–456,Muhammad Uthman,Moola,Muhammad Uthman Moola,University of the Witwatersrand,,Johannesburg,South Africa,,1,5,0,0,,,6,,0,0,0,0,,,0,6,Honourable Mention,honorable mention
+2021,442–456,Joan,Núñez Corbacho,Joan Núñez Corbacho,University of Barcelona,,Barcelona,Spain,,1,4,0,0,,,5,,0,0,1,0,,,1,6,Honourable Mention,honorable mention
+2021,442–456,Ziyi,Ou,Ziyi Ou,University of Sheffield,,Sheffield,UK,,1,4,0,0,,,5,,1,0,0,0,,,1,6,Honourable Mention,honorable mention
+2021,442–456,Sofia,Sampaio Lacerda,Sofia Sampaio Lacerda,Universidade de São Paulo,,São Paulo,Brazil,,2,4,0,0,,,6,,0,0,0,0,,,0,6,Honourable Mention,honorable mention
+2021,442–456,Yi Yao,Tan,Yi Yao Tan,École Polytechnique,,Paris,France,,3,3,0,0,,,6,,0,0,0,0,,,0,6,Honourable Mention,honorable mention
+2021,442–456,Anastasija,Trajanova,Anastasija Trajanova,University of Novi Sad,,Novi Sad,Serbia,,2,0,0,0,,,2,,3,1,0,0,,,4,6,Honourable Mention,honorable mention
+2021,442–456,Victoria,Uvaricheva,Victoria Uvaricheva,Bauman Moscow State Technical University,,Moscow,Russia,,3,2,0,0,,,5,,0,1,0,0,,,1,6,Honourable Mention,honorable mention
+2021,442–456,Rizma,Yudatama,Rizma Yudatama,Universitas Sebelas Maret,,Surakarta,Indonesia,,1,4,0,0,,,5,,0,1,0,0,,,1,6,Honourable Mention,honorable mention
+2021,457–476,Jon Ander,Alonso Ortiz de Elguea,Jon Ander Alonso Ortiz de Elguea,Universidad de La Rioja,,Logroño,Spain,,2,3,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Hamid,Beheshtifard,Hamid Beheshtifard,Azad University of Azad Shahr,,Azad Shahr,iran,,5,0,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Bramantya Arya,Dewantara,Bramantya Arya Dewantara,Institut Pertanian Bogor,,Bogor,Indonesia,,1,3,0,0,,,4,,1,0,0,0,,,1,5,Honourable Mention,honorable mention
+2021,457–476,Jean,Du Plessis,Jean Du Plessis,Stellenbosch University,,Stellenbosch,South Africa,,2,3,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Lucas,Eccard Braga Moraes,Lucas Eccard Braga Moraes,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,0,5,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Johan Fernando,Guillén Meza,Johan Fernando Guillén Meza,Instituto Tecnológico de Costa Rica,,Cartago,Costa Rica,,0,3,0,0,,,3,,2,0,0,0,,,2,5,Honourable Mention,honorable mention
+2021,457–476,Vasiliy,Kadykov,Vasiliy Kadykov,Bauman Moscow State Technical University,,Moscow,Russia,,3,0,0,0,,,3,,2,0,0,0,,,2,5,Honourable Mention,honorable mention
+2021,457–476,Omar,Kallas,Omar Kallas,New York University Abu Dhabi,,Abu Dhabi,United Arab Emirates,,2,3,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Danielle,Kleyn,Danielle Kleyn,Stellenbosch University,,Stellenbosch,South Africa,,0,5,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Ivo,Lin,Ivo Lin,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,1,4,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Nikolaos,Liouliakis,Nikolaos Liouliakis,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,2,3,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Louis Jacobus,Nel,Louis Jacobus Nel,University of Pretoria,,Pretoria,South Africa,,0,4,0,0,,,4,,0,0,1,0,,,1,5,Honourable Mention,honorable mention
+2021,457–476,Daniel Josué,Perdomo Pérez,Daniel Josué Perdomo Pérez,University of Havana,,Havana,Cuba,,2,0,0,0,,,2,,2,0,1,0,,,3,5,Honourable Mention,honorable mention
+2021,457–476,Pol,Plans Calvo,Pol Plans Calvo,University of Barcelona,,Barcelona,Spain,,0,5,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Fani Haerul Anam,Rofi'i,Fani Haerul Anam Rofi'i,Universitas Gadjah Mada,,Yogyakarta,Indonesia,,2,3,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Marina,Salamero Cebollero,Marina Salamero Cebollero,Universidad de Zaragoza,,Zaragoza,Spain,,2,0,0,0,,,2,,3,0,0,0,,,3,5,Honourable Mention,honorable mention
+2021,457–476,Dwaipayan,Sarkar,Dwaipayan Sarkar,Indian Statistical Institute,,Kolkata,India,,2,0,0,0,,,2,,2,0,1,0,,,3,5,Honourable Mention,honorable mention
+2021,457–476,Lasitha,Senarathne,Lasitha Senarathne,University of Colombo,,Colombo,Sri Lanka,,3,2,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Yan Victor,Souza Guimaraes,Yan Victor Souza Guimaraes,Universidade Estadual de Campinas,,São Paulo,Brazil,,2,3,0,0,,,5,,0,0,0,0,,,0,5,Honourable Mention,honorable mention
+2021,457–476,Bowen,Xiong,Bowen Xiong,University of Sheffield,,Sheffield,UK,,3,0,0,0,,,3,,0,2,0,0,,,2,5,Honourable Mention,honorable mention
+2021,477–495,Lucas Henrique,Azevedo dos Santos,Lucas Henrique Azevedo dos Santos,Universidade Federal de Pernambuco,,Recife,Brazil,,3,1,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,Antonio,Caravaca,Antonio Caravaca,Universidad de Costa Rica,,San Pedro Montes de Oca,Costa Rica,,0,4,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,Joshua Juan Yin,Chan,Joshua Juan Yin Chan,Nanyang Technological University,,Jurong West,Singapore,,2,0,0,0,,,2,,2,0,0,0,,,2,4,Honourable Mention,honorable mention
+2021,477–495,Mauricio Javier,Ferradas Somocurcio,Mauricio Javier Ferradas Somocurcio,Pontifical Catholic University of Peru,,Lima,Peru,,3,1,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,Nodirbek,G'afforov,Nodirbek G'afforov,National University of Uzbekistan,,Tashkent,Uzbekistan,,3,0,0,0,,,3,,0,1,0,0,,,1,4,Honourable Mention,honorable mention
+2021,477–495,Javokhir,Iskandarov,Javokhir Iskandarov,National University of Uzbekistan,,Tashkent,Uzbekistan,,0,4,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,Sujith Uthsara,Kalansuriya Arachchi,Sujith Uthsara Kalansuriya Arachchi,University of Colombo,,Colombo,Sri Lanka,,2,0,0,0,,,2,,2,0,0,0,,,2,4,Honourable Mention,honorable mention
+2021,477–495,Iason,Kazazis,Iason Kazazis,National and Kapodestian University of Athens,,Athens,Greece,,4,0,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,Lael,Lima,Lael Lima,Universidade Estadual de Campinas,,São Paulo,Brazil,,0,4,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,Hiruja,Mahagedara,Hiruja Mahagedara,University of Colombo,,Colombo,Sri Lanka,,0,4,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,Nikitas,Mavrakis,Nikitas Mavrakis,University of Crete,,Heraclion,Greece,,2,2,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,José,Menéndez,José Menéndez,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,0,4,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,DIYAR,MEREDOV,DIYAR MEREDOV,Turkmen State Pedagogical Institute named after S.Seydi,,Turkmenabat,Turkmenistan,,2,0,0,0,,,2,,2,0,0,0,,,2,4,Honourable Mention,honorable mention
+2021,477–495,Pawel,Nosal,Pawel Nosal,University of Bristol,,Bristol,UK,,1,1,0,0,,,2,,1,1,0,0,,,2,4,Honourable Mention,honorable mention
+2021,477–495,Dorotea,Redzepi,Dorotea Redzepi,University of Primorska,,Primorska,Slovenia,,2,2,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,João Marcelo,Ribeiro Monteiro de Carvalho,João Marcelo Ribeiro Monteiro de Carvalho,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,0,2,0,0,,,2,,1,1,0,0,,,2,4,Honourable Mention,honorable mention
+2021,477–495,Jai Adam,Schrem,Jai Adam Schrem,University of Sheffield,,Sheffield,UK,,2,2,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,Trang Thi Thu,Vu,Trang Thi Thu Vu,Montgomery College,,Rockville,USA,,1,3,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,477–495,Liu,Yufei,Liu Yufei,Nanyang Technological University,,Jurong West,Singapore,,0,4,0,0,,,4,,0,0,0,0,,,0,4,Honourable Mention,honorable mention
+2021,496–514,Michael Coenraad,Beukman,Michael Coenraad Beukman,University of the Witwatersrand,,Johannesburg,South Africa,,3,0,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,496–514,Dmytro,Georgienko,Dmytro Georgienko,University of Bristol,,Bristol,UK,,1,2,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,496–514,Felicya,Irenea,Felicya Irenea,Universitas Prasetiya Mulya,,Tangerang Selatan,Indonesia,,3,0,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,496–514,Pamoda Induwari,Kathriarachchi,Pamoda Induwari Kathriarachchi,University of Colombo,,Colombo,Sri Lanka,,0,3,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,496–514,Bohdan,Mahometa,Bohdan Mahometa,Ukrainian Catholic University,,Lviv,Ukraine,,0,3,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,496–514,Lazar,Marković,Lazar Marković,University of Primorska,,Primorska,Slovenia,,1,2,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,496–514,Milan,Milivojčević,Milan Milivojčević,University of Primorska,,Primorska,Slovenia,,1,0,0,0,,,1,,2,0,0,0,,,2,3,Certificate,certificate
+2021,496–514,Viktor,Moskvoretskii,Viktor Moskvoretskii,Higher School of Economics,,Moscow,Russia,,2,0,0,0,,,2,,1,0,0,0,,,1,3,Certificate,certificate
+2021,496–514,Malwande,Nkonyane,Malwande Nkonyane,University of the Witwatersrand,,Johannesburg,South Africa,,2,0,0,0,,,2,,1,0,0,0,,,1,3,Certificate,certificate
+2021,496–514,Sardor,Saidov,Sardor Saidov,Karshi State University,,Karshi,Uzbekistan,,0,3,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,496–514,Artyom,Shvaryov,Artyom Shvaryov,Kazakhstan Branch of Lomonosov Moscow State University,,Astana,Kazakhstan,,1,0,0,0,,,1,,2,0,0,0,,,2,3,Certificate,certificate
+2021,496–514,Luca,Silveira Escopelli,Luca Silveira Escopelli,Fundação Getulio Vargas,,Rio de Janeiro,Brazil,,0,1,0,0,,,1,,2,0,0,0,,,2,3,Certificate,certificate
+2021,496–514,Luis,Varona Ramírez,Luis Varona Ramírez,Universidad de La Rioja,,Logroño,Spain,,1,2,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,496–514,Javier,Villar Ortega,Javier Villar Ortega,Universidad de La Rioja,,Logroño,Spain,,2,0,0,0,,,2,,1,0,0,0,,,1,3,Certificate,certificate
+2021,496–514,Roman,Vorotnikov,Roman Vorotnikov,Peoples' Friendship University of Russia,,Moscow,Russia,,0,3,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,496–514,Casper,Warnars,Casper Warnars,University of Amsterdam,,Amsterdam,Netherlands,,2,0,0,0,,,2,,1,0,0,0,,,1,3,Certificate,certificate
+2021,496–514,Khisal,Wijesinghe,Khisal Wijesinghe,University of Colombo,,Colombo,Sri Lanka,,1,2,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,496–514,Zahra,Yadegari,Zahra Yadegari,Payam Noor Zanjan University,,Zanjan,Iran,,1,2,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,496–514,Gurbanmyrat,Yemshikov,Gurbanmyrat Yemshikov,State Energy Institute of Turkmenistan,,Mary,Turkmenistan,,3,0,0,0,,,3,,0,0,0,0,,,0,3,Certificate,certificate
+2021,515–526,Hug,Camps Regas,Hug Camps Regas,University of Barcelona,,Barcelona,Spain,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2021,515–526,Ana Paulina,Castillo Velásquez,Ana Paulina Castillo Velásquez,Universidad Nacional de Colombia,,Bogota,Colombia,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2021,515–526,Konstantine,Gagnidze,Konstantine Gagnidze,Free University,,Tbilisi,Georgia,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2021,515–526,Luis Eduardo,Gomez Reyes,Luis Eduardo Gomez Reyes,Universidad Nacional de Colombia,,Bogota,Colombia,,0,2,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2021,515–526,Grigor,Grigoryan,Grigor Grigoryan,Yerevan State University,,Yerevan,Armenia,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2021,515–526,Emad,Izadifar,Emad Izadifar,Ferdowsi University of Mashhad,,Mashhad,Iran,,0,2,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2021,515–526,Ajla,Šehović,Ajla Šehović,University of Primorska,,Primorska,Slovenia,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2021,515–526,Andrii,Shkredko,Andrii Shkredko,Ukrainian Catholic University,,Lviv,Ukraine,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2021,515–526,Matthys,Steynberg,Matthys Steynberg,University of Pretoria,,Pretoria,South Africa,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2021,515–526,Aleksandr,Tarasenko,Aleksandr Tarasenko,Novosibirsk State University,,Novosibirsk,Russia,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2021,515–526,Ben,Victor,Ben Victor,University of Pretoria,,Pretoria,South Africa,,1,0,0,0,,,1,,0,1,0,0,,,1,2,Certificate,certificate
+2021,515–526,Jahongir,Xolmonov,Jahongir Xolmonov,Karshi State University,,Karshi,Uzbekistan,,2,0,0,0,,,2,,0,0,0,0,,,0,2,Certificate,certificate
+2021,527–550,Juan Sebastián,Algecira Flautero,Juan Sebastián Algecira Flautero,Universidad Nacional de Colombia,,Bogota,Colombia,,0,0,0,0,,,0,,0,1,0,0,,,1,1,Certificate,certificate
+2021,527–550,Muhammet,Annayev,Muhammet Annayev,State Energy Institute of Turkmenistan,,Mary,Turkmenistan,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Michał,Balicki,Michał Balicki,University of Silesia,,Katowice,Poland,,0,0,0,0,,,0,,1,0,0,0,,,1,1,Certificate,certificate
+2021,527–550,Cynthia,Clarissa,Cynthia Clarissa,Universitas Prasetiya Mulya,,Tangerang Selatan,Indonesia,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Iago,Figueirêdo,Iago Figueirêdo,Universidade Federal da Bahia,,Salvador,Brazil,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Muhammad Sahal,Goolam,Muhammad Sahal Goolam,University of the Witwatersrand,,Johannesburg,South Africa,,0,1,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Anton,Harkevich,Anton Harkevich,Belarusian State University of Informatics and Radioelectronics,,Minsk,Belarus,,0,1,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Jiayi,He,Jiayi He,University of Sheffield,,Sheffield,UK,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Anna,Iakovlenko,Anna Iakovlenko,Bauman Moscow State Technical University,,Moscow,Russia,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Nikola,Ivanov,Nikola Ivanov,Plovdiv University,,Plovdiv,Bulgaria,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Jaagup,Kirme,Jaagup Kirme,University of Tartu,,Tartu,Estonia,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Anjana Vimukthi,Kodikara,Anjana Vimukthi Kodikara,University of Colombo,,Colombo,Sri Lanka,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Adam,Konysz,Adam Konysz,Nicolaus Copernicus University,,Toruń,Poland,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Danica Bertha Lienaldi,Lienaldi,Danica Bertha Lienaldi Lienaldi,Universitas Prasetiya Mulya,,Tangerang Selatan,Indonesia,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Kisimbanyi Evariste,Migabo,Kisimbanyi Evariste Migabo,AIMS Rwanda,,Kigali,Rwanda,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Anna,Novikova,Anna Novikova,Peoples' Friendship University of Russia,,Moscow,Russia,,0,0,0,0,,,0,,0,0,1,0,,,1,1,Certificate,certificate
+2021,527–550,Juan Pablo,Pirir Montenegro,Juan Pablo Pirir Montenegro,Universidad de San Carlos de Guatemala,,Guatemala City,Guatemala,,0,1,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Buddhika,Rasanjana,Buddhika Rasanjana,University of Colombo,,Colombo,Sri Lanka,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Alexey,Ryzhkov,Alexey Ryzhkov,Peoples' Friendship University of Russia,,Moscow,Russia,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Alisson,Serracín Morales,Alisson Serracín Morales,Universidad de Costa Rica,,San Pedro Montes de Oca,Costa Rica,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,MD. SADID EHSAN,SUNNY,MD. SADID EHSAN SUNNY,"Islamic University of Technology, OIC",,Dhaka,Bangladesh,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Bin Jie,Teo,Bin Jie Teo,Nanyang Technological University,,Jurong West,Singapore,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Md Rifat,Ur Rahman,Md Rifat Ur Rahman,Bangladesh University of Engineering and Technology,,Dhaka,Bangladesh,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,527–550,Héctor Iván,Zepeda Santes,Héctor Iván Zepeda Santes,Universidad de Guanajuato/CIMAT,,Guanajuato,Mexico,,1,0,0,0,,,1,,0,0,0,0,,,0,1,Certificate,certificate
+2021,551–589,Manuel,Cuetos Piñón,Manuel Cuetos Piñón,Universidad de Oviedo,,Oviedo,Spain,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Farhan,Aghnoum,Farhan Aghnoum,Ferdowsi University of Mashhad,,Mashhad,Iran,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Dinmukhamed,Aldybergen,Dinmukhamed Aldybergen,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Shoymurod,Allanazarov,Shoymurod Allanazarov,Peoples' Friendship University of Russia,,Moscow,Russia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Saúl Antonio,Aranda Muñoz Leod,Saúl Antonio Aranda Muñoz Leod,Universidad de Guanajuato/CIMAT,,Guanajuato,Mexico,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Uku Hannes,Arismaa,Uku Hannes Arismaa,University of Tartu,,Tartu,Estonia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Kgaugelo Benedict,Bopape,Kgaugelo Benedict Bopape,University of Cape Town,,Cape Town,South Africa,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Laura Stephanie,Chandra,Laura Stephanie Chandra,Universitas Prasetiya Mulya,,Tangerang Selatan,Indonesia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Shujing,Chen,Shujing Chen,Imperial College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Renato,da Paixão Alves,Renato da Paixão Alves,Instituto Militar de Engenharia,,Rio de Janeiro,Brazil,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Victor,dos Santos,Victor dos Santos,Universidade Federal de São Carlos,,São Carlos,Brazil,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Hongyu,Duan,Hongyu Duan,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Samuel,Frerichs,Samuel Frerichs,Indiana University,,Bloomington,USA,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Jackson Breno,Gomes Ferreira,Jackson Breno Gomes Ferreira,Universidade de São Paulo,,São Paulo,Brazil,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Daniel Marc,Gradin Salah,Daniel Marc Gradin Salah,Pontifícia Universidade Católica do Rio de Janeiro,,Rio de Janeiro,Brazil,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Juang Bhakti,Hastyadi,Juang Bhakti Hastyadi,Universitas Brawijaya,,Malang,Indonesia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,MD. SHARIDUL,ISLAM,MD. SHARIDUL ISLAM,"Islamic University of Technology, OIC",,Dhaka,Bangladesh,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Orlando Porfirio,Jiménez Jiménez,Orlando Porfirio Jiménez Jiménez,Universidad Nacional Autónoma de México,,Mexico City,Mexico,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Jainam,Khakhra,Jainam Khakhra,Indian Statistical Institute,,Kolkata,India,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Aleksandr,Kim,Aleksandr Kim,Dongseo,,Busan,South Korea,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Yi Hong,Liew,Yi Hong Liew,Nanyang Technological University,,Jurong West,Singapore,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Victor Gachoki,Mwendia,Victor Gachoki Mwendia,University of Leeds,,Leeds,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Balázs,Nagyváradi,Balázs Nagyváradi,Aalto University,,Aalto,Finland,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Ioannis,Nakos,Ioannis Nakos,Aristotle University of Thessaloniki,,Thessaloniki,Greece,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Johann Adam,Neethling,Johann Adam Neethling,University of Pretoria,,Pretoria,South Africa,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Amanuel,Oli,Amanuel Oli,École Polytechnique,,Paris,France,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Louis,Olyslager,Louis Olyslager,Ghent University,,Ghent,Belgium,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Vihanga,Patabendige,Vihanga Patabendige,University of Colombo,,Colombo,Sri Lanka,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Felix,Puscasu,Felix Puscasu,University of Bucharest,,Bucharest,Romania,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Jefferson,Racines,Jefferson Racines,University College London,,London,UK,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Tumelo,Ranoto,Tumelo Ranoto,University of the Witwatersrand,,Johannesburg,South Africa,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Julia,Sánchez Loscertales,Julia Sánchez Loscertales,Universidad de Zaragoza,,Zaragoza,Spain,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Georgii,Shalygin,Georgii Shalygin,Peoples' Friendship University of Russia,,Moscow,Russia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Jahongir,Sharipov,Jahongir Sharipov,Peoples' Friendship University of Russia,,Moscow,Russia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Felipi Adenildo,Soares Sousa,Felipi Adenildo Soares Sousa,Universidade de São Paulo,,São Paulo,Brazil,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Yuxuan,Sun,Yuxuan Sun,Haverford College,,Haverford,USA,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Alicia Sophie,Suroso,Alicia Sophie Suroso,Universitas Prasetiya Mulya,,Tangerang Selatan,Indonesia,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Elika,Teimoori Barakoohi,Elika Teimoori Barakoohi,Ferdowsi University of Mashhad,,Mashhad,Iran,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate
+2021,551–589,Wiktor,Włodarski,Wiktor Włodarski,AGH University of Science and Technology,,Krakow,Poland,,0,0,0,0,,,0,,0,0,0,0,,,0,0,Certificate,certificate

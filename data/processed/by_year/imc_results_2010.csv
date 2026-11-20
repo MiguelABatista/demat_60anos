@@ -1,0 +1,329 @@
+Year,Pos,First name,Family name,Full name,University,Team,City,Country,Code_D1,D1_P1,D1_P2,D1_P3,D1_P4,D1_P5,D1_P6,Day1,Code_D2,D2_P1,D2_P2,D2_P3,D2_P4,D2_P5,D2_P6,Day2,Sum,Prize,Prize_raw
+2010,1,Przemysław,Mazur,Przemysław Mazur,Jagiellonian University,,,,291,10,10,10,8,10,,48,260,10,10,1,10,10,,41,89,Grand Grand First Prize,grand grand first prize
+2010,2,Ivan,Feshchenko,Ivan Feshchenko,Kyiv Taras Shevchenko National University,,,,125,10,10,10,10,3,,43,108,10,10,10,10,1,,41,84,Grand First Prize,grand first prize
+2010,3,Danylo,Radchenko,Danylo Radchenko,Kyiv Taras Shevchenko National University,,,,5,10,10,10,8,4,,42,6,10,10,10,10,0,,40,82,Grand First Prize,grand first prize
+2010,4,Dan,Carmon,Dan Carmon,Tel Aviv University,,,,134,10,10,10,10,0,,40,90,10,10,10,10,1,,41,81,Grand First Prize,grand first prize
+2010,5,Pavel,Zatitskiy,Pavel Zatitskiy,Saint-Petersburg State University,,,,263,10,10,10,3,10,,43,327,10,10,1,10,0,,31,74,First Prize,first prize
+2010,6,Evgeny,Gorinov,Evgeny Gorinov,Moscow State University,,,,68,10,10,10,9,,,39,110,9,10,10,3,1,,33,72,First Prize,first prize
+2010,7,Oleksandr,Shamov,Oleksandr Shamov,Kyiv Taras Shevchenko National University,,,,9,10,9,9,9,10,,47,3,5,9,,,10,,24,71,First Prize,first prize
+2010,8,Vladimir,Shmarov,Vladimir Shmarov,Moscow State University,,,,139,10,10,10,10,1,,41,126,9,10,10,,,,29,70,First Prize,first prize
+2010,9,Vladislav,Volkov,Vladislav Volkov,Saint-Petersburg State University,,,,260,10,9,10,10,0,,39,323,10,10,10,0,1,,31,70,First Prize,first prize
+2010,10,Ruslan,Maksimau,Ruslan Maksimau,Belarusian State University,,,,303,10,9,7,7,1,,34,261,10,10,10,4,0,,34,68,First Prize,first prize
+2010,11,K ę stutis,Česnavičius,K ę stutis Česnavičius,Jacobs University Bremen,,,,138,10,9,10,,,,29,129,10,10,10,5,0,,35,64,First Prize,first prize
+2010,12,Tomasz,Kociumaka,Tomasz Kociumaka,Warsaw University,,,,192,10,10,10,9,,,39,177,10,10,,5,,,25,64,First Prize,first prize
+2010,13,Seyedhesam,Firouzi,Seyedhesam Firouzi,Sharif University of Technology,,,,126,10,6,10,6,,,32,34,10,10,10,1,,,31,63,First Prize,first prize
+2010,14,Gerg ő,Gyenizse,Gerg ő Gyenizse,University of Szeged,,,,97,10,10,10,10,0,,40,81,10,10,2,,,,22,62,First Prize,first prize
+2010,15,Pavlo,Mishchenko,Pavlo Mishchenko,Moscow Institute of Physics and Technology,,,,238,10,10,10,10,0,,40,233,10,10,1,0,,,21,61,First Prize,first prize
+2010,16,László,Lovász,László Lovász,Loránd Eötvös University,,,,144,10,9,10,5,0,,34,215,10,2,10,4,0,,26,60,First Prize,first prize
+2010,17,Csaba,Nagy,Csaba Nagy,Loránd Eötvös University,,,,236,10,4,10,5,,,29,256,10,10,10,,0,,30,59,First Prize,first prize
+2010,18,Ivan,Bazhov,Ivan Bazhov,Moscow State University,,,,67,10,4,10,10,0,,34,99,9,10,5,,,,24,58,First Prize,first prize
+2010,19,Alexey,Gladkich,Alexey Gladkich,Tel Aviv University,,,,112,10,9,10,0,9,,38,123,10,9,1,,0,,20,58,First Prize,first prize
+2010,20,Che-Yu,Liu,Che-Yu Liu,Ecole Polytechnique,,,,170,10,10,10,1,,,31,175,10,10,5,1,,,26,57,First Prize,first prize
+2010,21,Yimin,Ge,Yimin Ge,Cambridge University,,,,59,10,4,10,1,0,,25,133,10,10,10,1,0,,31,56,First Prize,first prize
+2010,22,Quang Nhat,Le,Quang Nhat Le,Nanyang Technological University,,,,181,10,10,10,,0,,30,220,10,10,1,5,0,,26,56,First Prize,first prize
+2010,23,Régis Prado,Barbosa,Régis Prado Barbosa,Instituto Tecnológico de Aeronáutica,,,,63,10,8,10,7,0,,35,127,10,10,0,0,0,,20,55,First Prize,first prize
+2010,24,Beniamin,,Beniamin,West University Timisoara,,,,29,10,10,10,5,0,,35,44,10,10,0,0,0,,20,55,First Prize,first prize
+2010,25,Mikhail,Hlushchanka,Mikhail Hlushchanka,Belarusian State University,,,,179,10,10,10,0,0,,30,210,10,10,4,1,0,,25,55,First Prize,first prize
+2010,26,Mohammad Reza,Takapoui,Mohammad Reza Takapoui,Sharif University of Technology,,,,142,10,10,10,,1,,31,255,10,10,4,0,,,24,55,First Prize,first prize
+2010,27,Rostislav,Devyatov,Rostislav Devyatov,Moscow State University,,,,124,10,10,10,,0,,30,94,10,0,10,4,,,24,54,First Prize,first prize
+2010,28,Inna,Entova-Aizenbud,Inna Entova-Aizenbud,Tel Aviv University,,,,24,10,10,10,2,,,32,124,10,2,10,,,,22,54,First Prize,first prize
+2010,29,Albert,Gunawan,Albert Gunawan,Gadjah Mada University,,,,96,10,10,10,3,,,33,125,10,10,1,0,,,21,54,First Prize,first prize
+2010,30,Daniil,Rudenko,Daniil Rudenko,Saint-Petersburg State University,,,,22,10,10,10,,,,30,7,10,10,4,,,,24,54,First Prize,first prize
+2010,31,Enkhzaya,Enkhtaivan,Enkhzaya Enkhtaivan,National University of Mongolia,,,,103,10,8,10,0,9,,37,117,6,10,0,0,0,,16,53,First Prize,first prize
+2010,32,Sune Kristian,Jakobsen,Sune Kristian Jakobsen,Copenhagen University,,,,180,10,4,9,2,0,,25,159,10,10,3,5,0,,28,53,First Prize,first prize
+2010,33,Stefan,Sanduleanu,Stefan Sanduleanu,Moscow Institute of Physics and Technology,,,,19,10,10,10,1,1,,32,8,10,10,1,0,0,,21,53,First Prize,first prize
+2010,34,Jakub,Konieczny,Jakub Konieczny,Jagiellonian University,,,,195,10,7,10,0,0,,27,163,10,10,2,3,,,25,52,First Prize,first prize
+2010,35,Andrii,Korotkov,Andrii Korotkov,Kyiv Taras Shevchenko National University,,,,202,10,10,10,0,0,,30,225,10,10,1,1,,,22,52,First Prize,first prize
+2010,36,Andrey,Kotov,Andrey Kotov,Moscow Institute of Physics and Technology,,,,194,10,9,10,2,,,31,153,10,10,1,0,,,21,52,First Prize,first prize
+2010,37,Dzianis,Pirshtuk,Dzianis Pirshtuk,Belarusian State University,,,,277,10,10,10,0,1,,31,231,10,10,1,0,,,21,52,First Prize,first prize
+2010,38,Oleksandr,Tytchenko,Oleksandr Tytchenko,Odessa National Mechnikov University,,,,220,10,10,10,2,0,,32,192,10,10,0,0,0,,20,52,First Prize,first prize
+2010,39,Diego,Cifuentes,Diego Cifuentes,Olimpiadas Colombianas de Matematicas,,,,77,10,9,10,2,,,31,96,9,10,1,0,,,20,51,First Prize,first prize
+2010,40,Jessica,Fintzen,Jessica Fintzen,Jacobs University Bremen,,,,66,10,10,1,,,,21,132,10,10,10,0,0,,30,51,First Prize,first prize
+2010,41,Yu,Liu,Yu Liu,Ecole Polytechnique,,,,173,10,9,10,0,1,,30,165,10,10,0,1,,,21,51,First Prize,first prize
+2010,42,Vladimir,Serbinenko,Vladimir Serbinenko,ETH Zurich,,,,6,10,4,1,9,1,,25,1,10,10,3,3,0,,26,51,First Prize,first prize
+2010,43,Milad,Bakhshizadeh,Milad Bakhshizadeh,Sharif University of Technology,,,,52,10,4,9,7,,,30,136,10,10,0,,0,,20,50,First Prize,first prize
+2010,44,Alexander,Beknazaryan,Alexander Beknazaryan,Yerevan State University,,,,39,10,10,10,0,,,30,80,10,10,,,,,20,50,First Prize,first prize
+2010,45,Christophe,Debry,Christophe Debry,K. U. Leuven,,,,136,10,9,,10,0,,29,87,10,10,1,,0,,21,50,First Prize,first prize
+2010,46,Amirhossein,Ghodrati,Amirhossein Ghodrati,Amirkabir University of Technology,,,,23,10,4,10,,0,,24,140,7,10,9,0,,,26,50,First Prize,first prize
+2010,47,Artsiom,Hovarau,Artsiom Hovarau,Belarusian State University,,,,208,10,10,10,0,,,30,216,10,10,0,0,,,20,50,First Prize,first prize
+2010,48,Danh,Nguyen Luu,Danh Nguyen Luu,Nanyang Technological University,,,,274,10,7,10,5,1,,33,236,6,0,1,10,,,17,50,First Prize,first prize
+2010,49,Daniel,Poore,Daniel Poore,Budapest Semesters in Mathematics,,,,310,10,,10,10,0,,30,252,10,10,,,,,20,50,First Prize,first prize
+2010,50,Viacheslav,Sokolov,Viacheslav Sokolov,Saint-Petersburg State University,,,,317,10,9,10,,,,29,15,9,10,2,,0,,21,50,First Prize,first prize
+2010,51,István,Tomon,István Tomon,Loránd Eötvös University,,,,265,10,8,,2,1,,21,319,8,10,10,1,,,29,50,First Prize,first prize
+2010,52,Gal,Dor,Gal Dor,Open University,,,,47,10,9,5,0,,,24,122,10,9,2,4,0,,25,49,Second Prize,second prize
+2010,53,Vlad,Emanuel,Vlad Emanuel,University of Bucharest,,,,314,10,9,10,1,0,,30,293,10,0,8,1,,,19,49,Second Prize,second prize
+2010,54,Adam,Kanigowski,Adam Kanigowski,Nicolaus Copernicus University,,,,190,10,4,10,7,,,31,171,8,10,0,,,,18,49,Second Prize,second prize
+2010,55,Han Beng,Koe,Han Beng Koe,Nanyang Technological University,,,,147,10,8,10,0,0,,28,151,10,10,1,,,,21,49,Second Prize,second prize
+2010,56,Dániel,Korándi,Dániel Korándi,Loránd Eötvös University,,,,151,10,9,0,7,0,,26,198,10,2,10,1,0,,23,49,Second Prize,second prize
+2010,57,Trinh,Phuong Thu,Trinh Phuong Thu,Hanoi University of Science,,,,300,10,8,10,0,1,,29,300,10,10,0,0,0,,20,49,Second Prize,second prize
+2010,58,Maciej,Zdanowicz,Maciej Zdanowicz,Warsaw University,,,,269,10,9,10,9,3,,41,50,7,,,1,,,8,49,Second Prize,second prize
+2010,59,Ondrej,Budáč,Ondrej Budáč,Comenius University in Bratislava,,,,33,10,10,10,,,,30,25,10,6,1,0,1,,18,48,Second Prize,second prize
+2010,60,Marija,Jelić,Marija Jelić,Belgrade University,,,,143,10,5,10,,0,,25,179,10,10,3,,,,23,48,Second Prize,second prize
+2010,61,Mikhail,Khristoforov,Mikhail Khristoforov,Saint-Petersburg State University,,,,201,10,7,10,10,,,37,213,10,0,1,,,,11,48,Second Prize,second prize
+2010,62,Aleksis,Koski,Aleksis Koski,University of Helsinki,,,,213,10,9,0,8,,,27,157,10,10,1,,0,,21,48,Second Prize,second prize
+2010,63,Vlad,Matei,Vlad Matei,University of Bucharest,,,,223,10,8,10,1,0,,29,268,8,10,1,,,,19,48,Second Prize,second prize
+2010,64,Arnau,Messegué Buisan,Arnau Messegué Buisan,Universitat Politecnica de Catalunya,,,,233,10,9,10,2,,,31,254,7,10,0,,,,17,48,Second Prize,second prize
+2010,65,Iuliia,Semikina,Iuliia Semikina,Kyiv Taras Shevchenko National University,,,,7,10,10,0,7,,,27,9,7,10,4,,,,21,48,Second Prize,second prize
+2010,66,Laurent,Deproit,Laurent Deproit,Ecole Polytechnique,,,,44,10,10,2,,,,22,30,10,10,2,3,0,,25,47,Second Prize,second prize
+2010,67,Itamar,Hason,Itamar Hason,Tel Aviv University,,,,215,10,9,9,0,,,28,203,8,10,1,,0,,19,47,Second Prize,second prize
+2010,68,Michał,Pilipczuk,Michał Pilipczuk,Warsaw University,,,,322,10,10,10,1,3,,34,241,10,2,1,,0,,13,47,Second Prize,second prize
+2010,69,Dominic,Yeo,Dominic Yeo,Cambridge University,,,,282,10,8,0,9,,,27,246,10,0,10,,0,,20,47,Second Prize,second prize
+2010,70,Ilias,Zadik,Ilias Zadik,University of Athens,,,,227,10,6,10,3,0,,29,318,6,10,,2,0,,18,47,Second Prize,second prize
+2010,71,Guilherme Rodrigues,de Souza,Guilherme Rodrigues de Souza,Instituto Tecnologico de Aeronautica,,,,11,10,4,0,10,0,,24,12,8,10,4,0,,,22,46,Second Prize,second prize
+2010,72,Jose Alejandro,Samper Casas,Jose Alejandro Samper Casas,Olimpiadas Colombianas de Matematicas,,,,168,10,10,0,6,,,26,193,9,10,1,,0,,20,46,Second Prize,second prize
+2010,73,Vladimir,Arutyunov,Vladimir Arutyunov,Moscow State University,,,,57,10,4,10,,,,24,31,10,10,1,,,,21,45,Second Prize,second prize
+2010,74,Swee Hong,Chan,Swee Hong Chan,Nanyang Technological University,,,,116,10,8,10,0,0,,28,109,8,9,0,,,,17,45,Second Prize,second prize
+2010,75,Aleksandr,Chuklin,Aleksandr Chuklin,Moscow Institute of Physics and Technology,,,,115,10,4,10,0,0,,24,120,10,10,1,,,,21,45,Second Prize,second prize
+2010,76,Gilca,Dragos,Gilca Dragos,"Alexandru Ioan Cuza University, Iasi",,,,133,10,9,10,,,,29,111,6,10,0,,,,16,45,Second Prize,second prize
+2010,77,Dániel,Nagy,Dániel Nagy,Loránd Eötvös University,,,,245,10,10,6,,,,26,285,8,10,0,1,,,19,45,Second Prize,second prize
+2010,78,Korneel,Debaene,Korneel Debaene,Ghent University,,,,104,10,10,,2,,,22,95,9,10,2,1,0,,22,44,Second Prize,second prize
+2010,79,Trung,Hoang Duc,Trung Hoang Duc,Hanoi University of Science,,,,218,10,6,10,2,0,,28,154,6,10,0,0,0,,16,44,Second Prize,second prize
+2010,80,Ivan,Iurchenko,Ivan Iurchenko,Kyiv Taras Shevchenko National University,,,,145,10,10,10,0,1,,31,197,10,1,1,1,,,13,44,Second Prize,second prize
+2010,81,Julian,Lyczak,Julian Lyczak,Utrecht University,,,,161,10,10,9,,0,,29,217,6,8,1,0,0,,15,44,Second Prize,second prize
+2010,82,Sebastian,Ruszkowski,Sebastian Ruszkowski,Nicolaus Copernicus University,,,,13,10,4,10,0,,,24,10,10,10,,0,0,,20,44,Second Prize,second prize
+2010,83,Rafael,Sampaio de Rezende,Rafael Sampaio de Rezende,Ecole Polytechnique,,,,4,10,8,10,0,0,,28,13,6,10,,0,0,,16,44,Second Prize,second prize
+2010,84,Vitalii,Senin,Vitalii Senin,Kyiv Taras Shevchenko National University,,,,3,10,6,10,0,,,26,93,7,10,1,,0,,18,44,Second Prize,second prize
+2010,85,Marijana,Smailagić,Marijana Smailagić,Belgrade University,,,,20,10,8,1,6,2,,27,4,6,10,1,0,0,,17,44,Second Prize,second prize
+2010,86,Paul Jonas,Hamacher,Paul Jonas Hamacher,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,153,10,9,0,2,,,21,164,10,10,1,,0,,21,42,Second Prize,second prize
+2010,87,Urban,Jezernik,Urban Jezernik,University of Ljubljana,,,,150,10,10,1,,0,,21,182,10,10,1,0,0,,21,42,Second Prize,second prize
+2010,88,Christoph,Kröner,Christoph Kröner,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,174,10,10,2,0,0,,22,199,9,10,1,,0,,20,42,Second Prize,second prize
+2010,89,,Špenko,Špenko,University of Ljubljana,,,,278,10,10,1,6,1,,28,294,7,2,2,3,,,14,42,Second Prize,second prize
+2010,90,Josef,Tkadlec,Josef Tkadlec,Charles University Prague,,,,256,10,8,0,7,0,,25,328,6,10,1,,,,17,42,Second Prize,second prize
+2010,91,Daniel,Drimbe,Daniel Drimbe,University of Bucharest,,,,122,10,10,2,0,1,,23,29,7,10,1,0,0,,18,41,Second Prize,second prize
+2010,92,Mahmood,Etedadi Aliabadi,Mahmood Etedadi Aliabadi,Amirkabir University of Technology,,,,120,10,4,10,2,,,26,141,10,4,1,,0,,15,41,Second Prize,second prize
+2010,93,Ivan,Geffner Fuenmayor,Ivan Geffner Fuenmayor,Universitat Politecnica de Catalunya,,,,110,10,,,10,1,,21,100,9,10,1,,,,20,41,Second Prize,second prize
+2010,94,Felix,Günther,Felix Günther,Berlin Mathematical School,,,,132,10,10,1,0,0,,21,102,9,10,1,0,0,,20,41,Second Prize,second prize
+2010,95,Tigran,Hakobyan,Tigran Hakobyan,Yerevan State University,,,,207,10,10,1,0,0,,21,209,10,10,0,,0,,20,41,Second Prize,second prize
+2010,96,Heiki,Niglas,Heiki Niglas,University of Tartu,,,,301,10,4,10,0,0,,24,235,7,10,0,0,0,,17,41,Second Prize,second prize
+2010,97,Luka,Rimanić,Luka Rimanić,University of Zagreb,,,,70,10,4,10,0,0,,24,51,7,10,0,0,0,,17,41,Second Prize,second prize
+2010,98,Quang Phong,Trieu,Quang Phong Trieu,Hanoi University of Science,,,,200,10,4,10,5,1,,30,148,10,1,0,,0,,11,41,Second Prize,second prize
+2010,99,Rafael,Tupynambá Dutra,Rafael Tupynambá Dutra,Universidade Federal de Minas Gerais,,,,176,10,10,10,0,0,,30,320,9,1,1,0,0,,11,41,Second Prize,second prize
+2010,100,Nikita,Ardinartsev,Nikita Ardinartsev,Saint-Petersburg State University,,,,54,10,10,10,0,,,30,131,10,,,,,,10,40,Second Prize,second prize
+2010,101,Andrei-Florin,Deneanu,Andrei-Florin Deneanu,University of Bucharest,,,,93,10,5,1,0,1,,17,76,9,10,4,0,0,,23,40,Second Prize,second prize
+2010,102,Andrei,Golovko,Andrei Golovko,Moscow Institute of Physics and Technology,,,,62,10,10,1,0,1,,22,101,10,8,0,,,,18,40,Second Prize,second prize
+2010,103,Nina,Kamčev,Nina Kamčev,University of Zagreb,,,,166,10,10,0,0,,,20,208,10,10,0,0,0,,20,40,Second Prize,second prize
+2010,104,Iuriy,Shishatskiy,Iuriy Shishatskiy,Kyiv Taras Shevchenko National University,,,,21,10,9,10,,0,,29,128,8,2,1,,0,,11,40,Second Prize,second prize
+2010,105,Alexander,Slávik,Alexander Slávik,Charles University Prague,,,,14,10,10,,0,10,,30,20,9,,1,,0,,10,40,Second Prize,second prize
+2010,106,Igor,Uljarevic,Igor Uljarevic,Belgrade University,,,,268,10,6,2,8,,,26,317,8,,5,1,,,14,40,Second Prize,second prize
+2010,107,Adrian,Zahariuc,Adrian Zahariuc,Princeton University,,,,249,10,8,10,5,0,,33,308,4,,,3,,,7,40,Second Prize,second prize
+2010,108,Vahagn,Aslanyan,Vahagn Aslanyan,Yerevan State University,,,,40,10,9,,0,,,19,33,10,10,0,,0,,20,39,Second Prize,second prize
+2010,109,Radosław,Burny,Radosław Burny,Warsaw University,,,,69,10,9,,,,,19,59,10,10,,,,,20,39,Second Prize,second prize
+2010,110,Patrick,Thill,Patrick Thill,Budapest Semesters in Mathematics,,,,259,10,10,0,0,,,20,238,8,10,1,,0,,19,39,Second Prize,second prize
+2010,111,Christos,Tzamos,Christos Tzamos,National Technical University of Athens,,,,187,10,9,,0,,,19,160,9,10,1,,0,,20,39,Second Prize,second prize
+2010,112,Chaojun,Wang,Chaojun Wang,Ecole Polytechnique,,,,248,10,9,,0,,,19,145,9,10,1,0,0,,20,39,Second Prize,second prize
+2010,113,Bence,Borda,Bence Borda,Loránd Eötvös University,,,,107,10,10,1,6,,,27,82,10,,1,,,,11,38,Second Prize,second prize
+2010,114,Ohad,Livne Bar-On,Ohad Livne Bar-On,Open University,,,,214,10,9,,0,,,19,162,9,10,0,0,0,,19,38,Second Prize,second prize
+2010,115,Georgios,Moschidis,Georgios Moschidis,National Technical University of Athens,,,,308,10,10,0,0,,,20,167,7,10,0,1,,,18,38,Second Prize,second prize
+2010,116,László,Ozsvárt,László Ozsvárt,University of Szeged,,,,285,10,9,,2,,,21,273,6,10,1,,,,17,38,Second Prize,second prize
+2010,117,Tomás,Soto,Tomás Soto,University of Helsinki,,,,85,10,10,1,2,,,23,66,10,5,0,,,,15,38,Second Prize,second prize
+2010,118,Tomáš,Bzdušek,Tomáš Bzdušek,Comenius University in Bratislava,,,,79,10,10,0,,0,,20,73,6,10,1,0,0,,17,37,Second Prize,second prize
+2010,119,Mikolaj,Fraczyk,Mikolaj Fraczyk,Jagiellonian University,,,,45,10,8,8,0,,,26,106,10,0,1,,,,11,37,Second Prize,second prize
+2010,120,Ilias,Giechaskiel,Ilias Giechaskiel,Princeton University,,,,71,10,4,0,7,0,,21,71,6,10,0,,0,,16,37,Second Prize,second prize
+2010,121,Ali,Hoseinpouran Joneid Abadi,Ali Hoseinpouran Joneid Abadi,Ferdowsi University of Mashhad,,,,211,10,3,1,10,,,24,218,7,2,4,,0,,13,37,Second Prize,second prize
+2010,122,Giovanny Andres,Jaramillo Puentes,Giovanny Andres Jaramillo Puentes,Universidad Nacional de Colombia,,,,72,10,1,10,0,0,,21,121,6,10,0,,0,,16,37,Second Prize,second prize
+2010,123,Nerses,Khachatryan,Nerses Khachatryan,Yerevan State University,,,,159,10,10,1,,0,,21,176,6,10,0,,,,16,37,Second Prize,second prize
+2010,124,Mykyta,Makarov,Mykyta Makarov,Kyiv Taras Shevchenko National University,,,,296,10,6,,0,1,,17,271,10,10,0,,0,,20,37,Second Prize,second prize
+2010,125,Andrada,M ă ran,Andrada M ă ran,West University Timisoara,,,,235,10,4,10,,,,24,257,3,10,0,0,,,13,37,Second Prize,second prize
+2010,126,Stephan,Neupert,Stephan Neupert,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,299,10,4,0,0,,,14,282,9,10,3,1,0,,23,37,Second Prize,second prize
+2010,127,Ali Reza,Sadeghpour,Ali Reza Sadeghpour,Isfahan University of Technologh,,,,244,10,10,2,,0,,22,251,5,10,0,,,,15,37,Second Prize,second prize
+2010,128,Floris,van Doorn,Floris van Doorn,Utrecht University,,,,242,10,9,1,0,0,,20,168,8,9,0,0,0,,17,37,Second Prize,second prize
+2010,129,Maciej,Gawron,Maciej Gawron,Jagiellonian University,,,,28,10,4,0,5,1,,20,92,10,1,5,0,0,,16,36,Second Prize,second prize
+2010,130,Markus,Müller,Markus Müller,University of Vienna,,,,286,10,9,0,2,,,21,245,5,10,0,0,0,,15,36,Second Prize,second prize
+2010,131,Carlos,Pastor Alcoceba,Carlos Pastor Alcoceba,University of Alicante,,,,313,10,5,0,,,,15,264,10,10,1,0,,,21,36,Second Prize,second prize
+2010,132,Fabián Andrés,,Fabián Andrés,Olimpiadas Colombianas de Matematicas,,,,247,10,7,0,,,,17,292,7,10,2,,,,19,36,Second Prize,second prize
+2010,133,Made,Tantrawan,Made Tantrawan,Gadjah Mada University,,,,257,10,10,0,0,,,20,316,6,10,0,0,0,,16,36,Second Prize,second prize
+2010,134,Raca,Todosijević,Raca Todosijević,Belgrade University,,,,262,10,8,2,,0,,20,324,6,10,,0,,,16,36,Second Prize,second prize
+2010,135,Wester,van Urk,Wester van Urk,Utrecht University,,,,273,10,4,9,2,,,25,240,10,0,1,,,,11,36,Second Prize,second prize
+2010,136,Philipp,Weiß,Philipp Weiß,Jacobs University Bremen,,,,264,10,0,0,4,0,,14,321,10,10,1,1,0,,22,36,Second Prize,second prize
+2010,137,,Zadnik,Zadnik,University of Ljubljana,,,,281,10,4,,2,,,16,290,9,10,1,,0,,20,36,Second Prize,second prize
+2010,138,Hannah,Alpert,Hannah Alpert,Budapest Semesters in Mathematics,,,,30,10,4,,,,,14,35,10,10,1,0,0,,21,35,Third Prize,third prize
+2010,139,Érik Fernando,Amorim,Érik Fernando Amorim,Universidade de São Paulo,,,,32,10,9,0,0,0,,19,57,6,10,0,,,,16,35,Third Prize,third prize
+2010,140,Nikolaos,Kolliopoulos,Nikolaos Kolliopoulos,National Technical University of Athens,,,,216,10,4,10,0,,,24,191,10,1,,,,,11,35,Third Prize,third prize
+2010,141,Ana,Kontrec,Ana Kontrec,University of Zagreb,,,,155,10,9,,,0,,19,188,6,10,0,,,,16,35,Third Prize,third prize
+2010,142,Carlos Henrique,Melo Souza,Carlos Henrique Melo Souza,Instituto Tecnológico de Aeronáutica,,,,320,10,9,10,,,,29,272,6,,,,0,,6,35,Third Prize,third prize
+2010,143,Patryk,Miziuła,Patryk Miziuła,Nicolaus Copernicus University,,,,309,10,4,1,0,,,15,299,10,10,0,,,,20,35,Third Prize,third prize
+2010,144,Lois,Mutiara,Lois Mutiara,Indonesia University,,,,298,10,0,10,,,,20,247,5,10,0,0,,,15,35,Third Prize,third prize
+2010,145,Bruno,Santos,Bruno Santos,Universidade Federal do Rio de Janeiro,,,,88,10,9,10,,0,,29,62,6,,,,,,6,35,Third Prize,third prize
+2010,146,Alexander,Wietek,Alexander Wietek,University of Innsbruck,,,,167,10,9,,0,,,19,205,6,10,0,,,,16,35,Third Prize,third prize
+2010,147,Nguyen Nhut,Doan,Nguyen Nhut Doan,Hanoi University of Science,,,,113,0,5,10,,,,15,118,9,10,,0,0,,19,34,Third Prize,third prize
+2010,148,Flavian,Georgescu,Flavian Georgescu,University of Bucharest,,,,61,10,4,2,2,0,,18,135,7,8,1,0,0,,16,34,Third Prize,third prize
+2010,149,Alexander,Logunov,Alexander Logunov,Saint-Petersburg State University,,,,212,10,5,0,6,,,21,180,10,,3,,,,13,34,Third Prize,third prize
+2010,150,Leslie,Molag,Leslie Molag,Utrecht University,,,,311,10,10,2,0,0,,22,234,10,2,,0,,,12,34,Third Prize,third prize
+2010,151,Adenilson,Moura Junior,Adenilson Moura Junior,Universidade Federal do Ceará,,,,306,10,4,1,10,,,25,296,6,,0,3,0,,9,34,Third Prize,third prize
+2010,152,Peter,Stadler,Peter Stadler,University of Innsbruck,,,,172,10,5,0,,,,15,189,9,10,0,,0,,19,34,Third Prize,third prize
+2010,153,Michal,Takács,Michal Takács,Comenius University in Bratislava,,,,254,10,4,1,,,,15,314,9,10,0,0,,,19,34,Third Prize,third prize
+2010,154,Nikola,,Nikola,University of Zagreb,,,,48,10,1,9,,0,,20,78,6,7,0,,0,,13,33,Third Prize,third prize
+2010,155,András,Eisenberger,András Eisenberger,Budapest University of Technology and Economics,,,,135,10,1,8,0,,,19,83,10,2,1,1,0,,14,33,Third Prize,third prize
+2010,156,Felix,Geyer,Felix Geyer,Universität Göttingen,,,,78,10,4,,0,,,14,63,9,10,0,,0,,19,33,Third Prize,third prize
+2010,157,Emmanouil,Koukoutos,Emmanouil Koukoutos,National Technical University of Athens,,,,182,10,4,,,,,14,200,9,10,,,,,19,33,Third Prize,third prize
+2010,158,Vasileios,Nakos,Vasileios Nakos,National Technical University of Athens,,,,289,10,4,10,0,,,24,283,6,2,,1,,,9,33,Third Prize,third prize
+2010,159,Konstantinos,Pappelis,Konstantinos Pappelis,University of Athens,,,,297,10,4,2,0,0,,16,269,6,10,,1,,,17,33,Third Prize,third prize
+2010,160,Satria,Pramayoga,Satria Pramayoga,Institut Teknologi Sepuluh Nopember,,,,280,10,,1,2,0,,13,287,10,10,0,0,,,20,33,Third Prize,third prize
+2010,161,Pouria,Salehi Nowbandegani,Pouria Salehi Nowbandegani,Shiraz University,,,,158,10,4,0,0,0,,14,226,10,9,0,0,0,,19,33,Third Prize,third prize
+2010,162,Petar,Sirković,Petar Sirković,University of Zagreb,,,,17,10,4,1,0,,,15,18,6,10,1,1,0,,18,33,Third Prize,third prize
+2010,163,Rafael,Assato Ando,Rafael Assato Ando,Unicamp,,,,43,10,8,0,0,1,,19,37,10,3,,,0,,13,32,Third Prize,third prize
+2010,164,Dimitris,Chatzakos,Dimitris Chatzakos,University of Athens,,,,129,10,5,1,0,,,16,97,5,10,1,0,,,16,32,Third Prize,third prize
+2010,165,Gabriel,Fürstenheim Milerud,Gabriel Fürstenheim Milerud,Universidad Complutense de Madrid,,,,94,10,10,,5,,,25,98,6,1,,,0,,7,32,Third Prize,third prize
+2010,166,Kairi,Kangro,Kairi Kangro,University of Tartu,,,,177,10,4,0,,,,14,170,8,10,,,,,18,32,Third Prize,third prize
+2010,167,Konstantinos,Karatapanis,Konstantinos Karatapanis,University of Athens,,,,169,10,6,9,,,,25,147,7,,0,,,,7,32,Third Prize,third prize
+2010,168,István,Kolossváry,István Kolossváry,Budapest University of Technology and Economics,,,,206,10,6,0,0,0,,16,174,5,10,0,1,,,16,32,Third Prize,third prize
+2010,169,Niklas,Kulke,Niklas Kulke,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,210,10,8,3,0,0,,21,194,10,0,1,0,0,,11,32,Third Prize,third prize
+2010,170,Daniel,Remon,Daniel Remon,Universitat Politecnica de Catalunya,,,,10,10,,2,0,,,12,2,10,10,0,,,,20,32,Third Prize,third prize
+2010,171,John,Stogin,John Stogin,Princeton University,,,,266,10,4,,,0,,14,322,8,10,0,,,,18,32,Third Prize,third prize
+2010,172,Mihai,Barzu,Mihai Barzu,"Alexandru Ioan Cuza University, Iasi",,,,86,10,4,10,0,0,,24,54,5,2,0,0,,,7,31,Third Prize,third prize
+2010,173,Eva,Elduque Laburta,Eva Elduque Laburta,Universidad de Zaragoza,,,,137,10,4,1,0,,,15,119,6,10,0,,,,16,31,Third Prize,third prize
+2010,174,Mohammad Amin,Eskandani,Mohammad Amin Eskandani,Amirkabir University of Technology,,,,128,10,4,,0,,,14,115,7,10,0,0,,,17,31,Third Prize,third prize
+2010,175,Farzad,Fatehi Chenar,Farzad Fatehi Chenar,Shahid Bahonar University of Kerman,,,,109,10,4,0,0,,,14,36,6,10,1,,,,17,31,Third Prize,third prize
+2010,176,Filipp,Fil,Filipp Fil,National Technical University Kharkiv Polytechnic Institute,,,,55,10,,10,4,,,24,107,5,2,,,0,,7,31,Third Prize,third prize
+2010,177,Carlo,Pagano,Carlo Pagano,"Universita' di Roma ""Tor Vergata""",,,,293,10,4,,1,,,15,259,6,,10,,,,16,31,Third Prize,third prize
+2010,178,Vicente,Pérez Calabuig,Vicente Pérez Calabuig,Universidad de Valencia,,,,329,10,4,0,0,,,14,263,6,10,0,1,,,17,31,Third Prize,third prize
+2010,179,Adrián,Rodrigo Escudero,Adrián Rodrigo Escudero,Universidad de Zaragoza,,,,83,10,10,0,0,,,20,17,10,0,1,,,,11,31,Third Prize,third prize
+2010,180,Dimitra Dionysia,Stergiopoulou,Dimitra Dionysia Stergiopoulou,University of Athens,,,,188,10,4,2,0,0,,16,172,5,10,0,0,,,15,31,Third Prize,third prize
+2010,181,Pooya,Vahidi Ferdowsi,Pooya Vahidi Ferdowsi,Ferdowsi University of Mashhad,,,,152,10,,0,2,,,12,223,9,10,0,,,,19,31,Third Prize,third prize
+2010,182,Esa,Vesalainen,Esa Vesalainen,University of Helsinki,,,,294,10,4,1,4,0,,19,265,10,1,1,,,,12,31,Third Prize,third prize
+2010,183,Gabriel,Brito,Gabriel Brito,Instituto Militar de Engenharia,,,,60,10,4,0,0,0,,14,144,6,10,0,0,,,16,30,Third Prize,third prize
+2010,184,Alexander,Fick,Alexander Fick,Copenhagen University,,,,31,10,4,9,,,,23,49,6,1,0,0,0,,7,30,Third Prize,third prize
+2010,185,Asger Kjærulff,Jensen,Asger Kjærulff Jensen,Copenhagen University,,,,204,10,,10,,,,20,169,7,2,1,0,0,,10,30,Third Prize,third prize
+2010,186,Hossein,Karkeh Abadi,Hossein Karkeh Abadi,Sharif University of Technology,,,,198,10,4,1,,1,,16,195,9,1,4,0,0,,14,30,Third Prize,third prize
+2010,187,Sean,Moss,Sean Moss,Cambridge University,,,,318,10,10,,,,,20,237,10,0,0,,,,10,30,Third Prize,third prize
+2010,188,Mark,Pedron,Mark Pedron,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,228,10,10,0,0,0,,20,280,10,,,,,,10,30,Third Prize,third prize
+2010,189,Maryam,Piran,Maryam Piran,Isfahan University of Technology,,,,326,10,4,0,0,,,14,249,6,10,0,0,,,16,30,Third Prize,third prize
+2010,190,Erik,,Erik,Ghent University,,,,16,10,5,1,2,,,18,14,7,5,,0,0,,12,30,Third Prize,third prize
+2010,191,Ganbat,Batmunkh,Ganbat Batmunkh,National University of Mongolia,,,,102,10,4,0,,,,14,23,5,10,0,,0,,15,29,Third Prize,third prize
+2010,192,Alexandros,Georgakopoulos,Alexandros Georgakopoulos,National Technical University of Athens,,,,26,10,6,6,0,,,22,48,6,1,,,,,7,29,Third Prize,third prize
+2010,193,Seyyed Ali Asghar,Hosseini,Seyyed Ali Asghar Hosseini,Shiraz University,,,,196,10,2,1,0,,,13,219,6,10,0,0,,,16,29,Third Prize,third prize
+2010,194,Marcelo,Matheus Gauy,Marcelo Matheus Gauy,Universidade de São Paulo,,,,118,10,,0,2,,,12,105,6,10,1,,0,,17,29,Third Prize,third prize
+2010,195,Georgios,Sakellaris,Georgios Sakellaris,University of Athens,,,,140,10,8,1,0,,,19,39,9,1,0,0,0,,10,29,Third Prize,third prize
+2010,196,Davood,Solati Alkaran,Davood Solati Alkaran,Amirkabir University of Technology,,,,12,10,,1,,0,,11,19,8,10,0,,,,18,29,Third Prize,third prize
+2010,197,Thomás Yoiti,Sósaki Hoshina,Thomás Yoiti Sósaki Hoshina,Instituto Militar de Engenharia,,,,221,10,4,0,0,0,,14,266,5,10,0,0,0,,15,29,Third Prize,third prize
+2010,198,Ivan,Krijan,Ivan Krijan,University of Zagreb,,,,184,10,2,,0,,,12,149,6,10,0,0,,,16,28,Third Prize,third prize
+2010,199,Tom,Lovering,Tom Lovering,Cambridge University,,,,219,10,4,0,5,,,19,221,7,1,0,1,0,,9,28,Third Prize,third prize
+2010,200,Stefan,Mehner,Stefan Mehner,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,312,10,10,0,0,0,,20,284,7,,,1,0,,8,28,Third Prize,third prize
+2010,201,Armenak,Petrosyan,Armenak Petrosyan,Yerevan State University,,,,302,10,10,1,0,0,,21,275,6,1,,,0,,7,28,Third Prize,third prize
+2010,202,Jan,Va ň hara,Jan Va ň hara,Charles University Prague,,,,258,10,4,0,5,0,,19,329,7,1,1,0,0,,9,28,Third Prize,third prize
+2010,203,Dániel,Virosztek,Dániel Virosztek,Budapest University of Technology and Economics,,,,252,10,8,1,,,,19,310,6,,0,3,,,9,28,Third Prize,third prize
+2010,204,Zsolt,Bartha,Zsolt Bartha,Budapest University of Technology and Economics,,,,27,10,4,2,,,,16,75,9,,1,1,,,11,27,Third Prize,third prize
+2010,205,David,Gajser,David Gajser,University of Ljubljana,,,,53,10,4,1,0,,,15,130,10,0,2,0,0,,12,27,Third Prize,third prize
+2010,206,Harun,Immanuel,Harun Immanuel,Airlangga University,,,,321,10,4,5,2,0,,21,161,5,1,0,0,0,,6,27,Third Prize,third prize
+2010,207,Toomas,Krips,Toomas Krips,University of Tartu,,,,178,10,,1,0,0,,11,214,6,10,0,,0,,16,27,Third Prize,third prize
+2010,208,Andrea,Munaro,Andrea Munaro,University of Trento,,,,295,10,10,,0,,,20,303,5,2,,0,,,7,27,Third Prize,third prize
+2010,209,Niels,Olsen,Niels Olsen,Copenhagen University,,,,241,10,0,1,0,0,,11,288,5,10,1,,,,16,27,Third Prize,third prize
+2010,210,Melkior,Ornik,Melkior Ornik,University of Zagreb,,,,307,10,4,0,3,,,17,262,7,2,1,0,0,,10,27,Third Prize,third prize
+2010,211,Shahar,Papini,Shahar Papini,Technion,,,,276,10,7,1,0,0,,18,158,9,,,0,0,,9,27,Third Prize,third prize
+2010,212,Samuel,Ř iha,Samuel Ř iha,Charles University Prague,,,,15,10,0,0,0,0,,10,21,7,10,,,,,17,27,Third Prize,third prize
+2010,213,Teresa,Rodrigo Rey,Teresa Rodrigo Rey,Universidad Complutense de Madrid,,,,2,10,4,1,0,,,15,5,10,2,,,,,12,27,Third Prize,third prize
+2010,214,Jeroen,Van der Meeren,Jeroen Van der Meeren,Ghent University,,,,267,10,7,0,0,0,,17,312,9,1,0,0,,,10,27,Third Prize,third prize
+2010,215,Raquel,Vidaurre Gallart,Raquel Vidaurre Gallart,Universidad de Valencia,,,,148,10,,1,,,,11,183,6,10,0,,0,,16,27,Third Prize,third prize
+2010,216,Nilin,Abrahamsen,Nilin Abrahamsen,Copenhagen University,,,,90,10,6,,0,,,16,28,10,,0,,0,,10,26,Honourable Mention,honourable mention
+2010,217,Ebrahim,Amiri,Ebrahim Amiri,Isfahan University of Technology,,,,98,10,,1,,,,11,229,5,10,0,0,,,15,26,Honourable Mention,honourable mention
+2010,218,Petar,Bakić,Petar Bakić,University of Zagreb,,,,58,10,9,0,,,,19,116,7,,0,,0,,7,26,Honourable Mention,honourable mention
+2010,219,Daniel,Estévez Sánchez,Daniel Estévez Sánchez,Universidad Autonoma de Madrid,,,,141,10,0,0,0,,,10,38,6,9,1,,,,16,26,Honourable Mention,honourable mention
+2010,220,Rasmus,Johansen,Rasmus Johansen,Copenhagen University,,,,162,10,4,0,3,,,17,155,9,0,0,,0,,9,26,Honourable Mention,honourable mention
+2010,221,Guilherme,Lima Ferreira da Silva,Guilherme Lima Ferreira da Silva,UNESP - Universidade Estadual Paulista,,,,175,10,6,1,0,0,,17,207,9,,0,,,,9,26,Honourable Mention,honourable mention
+2010,222,Ramon,Nunes,Ramon Nunes,Universidade Federal do Ceará,,,,165,10,4,,0,,,14,228,10,1,0,1,,,12,26,Honourable Mention,honourable mention
+2010,223,,Pavlík,Pavlík,Charles University Prague,,,,327,10,3,,0,,,13,302,10,2,1,,,,13,26,Honourable Mention,honourable mention
+2010,224,Rafael,Pimentel,Rafael Pimentel,Instituto Tecnológico de Aeronáutica,,,,239,10,4,0,2,,,16,295,10,,,0,0,,10,26,Honourable Mention,honourable mention
+2010,225,Konstantinos,Psychas,Konstantinos Psychas,National Technical University of Athens,,,,272,10,10,0,0,0,,20,270,5,1,0,0,,,6,26,Honourable Mention,honourable mention
+2010,226,Egbert,Rijke,Egbert Rijke,Utrecht University,,,,279,10,9,0,,,,19,242,7,0,0,,0,,7,26,Honourable Mention,honourable mention
+2010,227,Luís Fernando,Schultz Xavier da Silveira,Luís Fernando Schultz Xavier da Silveira,Universidade Federal de Santa Catarina,,,,230,,4,,2,,,6,239,10,0,10,,0,,20,26,Honourable Mention,honourable mention
+2010,228,Johannes,Steenstra,Johannes Steenstra,Utrecht University,,,,275,10,7,0,1,0,,18,196,7,1,,0,,,8,26,Honourable Mention,honourable mention
+2010,229,David,Alfaya Sánchez,David Alfaya Sánchez,Universidad Autonoma de Madrid,,,,65,10,4,0,0,0,,14,112,10,0,0,1,,,11,25,Honourable Mention,honourable mention
+2010,230,Javier,Campos Frauca,Javier Campos Frauca,Universidad de Zaragoza,,,,82,10,,0,0,0,,10,69,5,10,0,,0,,15,25,Honourable Mention,honourable mention
+2010,231,Waltraud,Lederle,Waltraud Lederle,ETH Zurich,,,,193,10,2,0,5,0,,17,187,7,0,1,0,0,,8,25,Honourable Mention,honourable mention
+2010,232,Hossein,Passbani,Hossein Passbani,Shahid Bahonar University of Kerman,,,,283,10,4,1,,,,15,232,7,2,1,,,,10,25,Honourable Mention,honourable mention
+2010,233,Mehdi,Rostami Forooshani,Mehdi Rostami Forooshani,Isfahan University of Technology,,,,243,10,2,,0,,,12,250,5,8,0,0,0,,13,25,Honourable Mention,honourable mention
+2010,234,Masoumeh,Soleimani Amirshekari,Masoumeh Soleimani Amirshekari,Amirkabir University of Technology,,,,18,10,,1,,,,11,22,4,10,0,,,,14,25,Honourable Mention,honourable mention
+2010,235,Sergio,Calle Jimenez,Sergio Calle Jimenez,Universidad Complutense de Madrid,,,,123,10,9,0,0,0,,19,139,5,0,0,0,,,5,24,Honourable Mention,honourable mention
+2010,236,Caio,Ishizaka Costa,Caio Ishizaka Costa,Instituto Tecnologico de Aeronautica,,,,106,10,5,1,0,,,16,77,6,2,0,0,,,8,24,Honourable Mention,honourable mention
+2010,237,Janne,Junnila,Janne Junnila,University of Helsinki,,,,183,10,6,1,,,,17,204,6,0,1,,,,7,24,Honourable Mention,honourable mention
+2010,238,Paulo André,Melo,Paulo André Melo,Instituto Tecnológico de Aeronáutica,,,,222,10,4,0,5,,,19,243,5,0,,0,0,,5,24,Honourable Mention,honourable mention
+2010,239,Yosafat Eka,Pangalela,Yosafat Eka Pangalela,Institute Technologi Bandung,,,,319,10,4,2,,,,16,286,6,2,0,,,,8,24,Honourable Mention,honourable mention
+2010,240,Jakob,Preininger,Jakob Preininger,University of Vienna,,,,290,10,6,0,0,0,,16,281,6,1,1,0,0,,8,24,Honourable Mention,honourable mention
+2010,241,Vira,Semenova,Vira Semenova,Kyiv-Mohyla Academy & Kyiv Taras Shevchenko National Univ.,,,,1,10,6,0,,0,,16,11,8,0,,,0,,8,24,Honourable Mention,honourable mention
+2010,242,Pedro,Ciller Cutillas,Pedro Ciller Cutillas,Pontificia Comillas,,,,41,10,4,1,,,,15,47,6,2,,,,,8,23,Honourable Mention,honourable mention
+2010,243,Leonidas,Lambropoulos,Leonidas Lambropoulos,National Technical University of Athens,,,,186,10,4,1,0,1,,16,224,6,1,0,0,,,7,23,Honourable Mention,honourable mention
+2010,244,Pilip,Pronin,Pilip Pronin,Belarusian State University,,,,284,10,3,0,,,,13,253,8,0,1,1,,,10,23,Honourable Mention,honourable mention
+2010,245,Dániel,Soltész,Dániel Soltész,Budapest University of Technology and Economics,,,,36,10,3,,0,,,13,84,9,,,1,,,10,23,Honourable Mention,honourable mention
+2010,246,Mats,Vermeeren,Mats Vermeeren,K. U. Leuven,,,,229,10,4,1,0,,,15,325,6,0,1,1,,,8,23,Honourable Mention,honourable mention
+2010,247,Sina,Arefizadeh,Sina Arefizadeh,Ferdowsi University of Mashhad,,,,131,10,2,0,0,,,12,43,5,5,,,0,,10,22,Honourable Mention,honourable mention
+2010,248,Mohammad,Ashenab,Mohammad Ashenab,Shahid Bahonar University of Kerman,,,,80,10,1,0,0,,,11,60,10,1,0,0,,,11,22,Honourable Mention,honourable mention
+2010,249,Guilherme Philippe,Figueiredo,Guilherme Philippe Figueiredo,Universidade de São Paulo,,,,89,10,,,3,1,,14,68,8,,,,0,,8,22,Honourable Mention,honourable mention
+2010,250,Roland Esteban,Hablützel Marrero,Roland Esteban Hablützel Marrero,ETH Zurich,,,,205,10,6,0,0,0,,16,184,6,0,0,,,,6,22,Honourable Mention,honourable mention
+2010,251,Balázs,Udvari,Balázs Udvari,University of Szeged,,,,255,10,4,0,,0,,14,315,7,1,0,,,,8,22,Honourable Mention,honourable mention
+2010,252,Luka,,Luka,University of Zagreb,,,,35,10,4,1,,0,,15,40,7,,,,,,7,22,Honourable Mention,honourable mention
+2010,253,"Przemysł,aw",Berk,"Przemysł,aw Berk",Nicolaus Copernicus University,,,,81,10,5,0,0,,,15,74,5,1,0,,0,,6,21,Honourable Mention,honourable mention
+2010,254,Rubén,Blasco García,Rubén Blasco García,Universidad de Zaragoza,,,,99,10,4,0,0,,,14,41,6,1,,,,,7,21,Honourable Mention,honourable mention
+2010,255,Roger,Casals,Roger Casals,Universitat Politècnica de Catalunya,,,,108,10,1,0,,,,11,137,5,5,0,0,0,,10,21,Honourable Mention,honourable mention
+2010,256,Carlos,Coelho Lechner,Carlos Coelho Lechner,Universidade Federal do Rio de Janeiro,,,,114,10,4,0,0,0,,14,113,6,1,0,0,0,,7,21,Honourable Mention,honourable mention
+2010,257,Hugo,Fernández,Hugo Fernández,Universidad Complutense de Madrid,,,,105,10,,,2,,,12,143,8,,1,,,,9,21,Honourable Mention,honourable mention
+2010,258,Raisa,Galimova,Raisa Galimova,ETH Zurich,,,,75,10,4,0,0,0,,14,42,6,1,0,,0,,7,21,Honourable Mention,honourable mention
+2010,259,Hamid,Hosseinzadeh Mahabadi,Hamid Hosseinzadeh Mahabadi,Tarbiat Moallem University,,,,171,10,4,1,0,,,15,202,6,0,,,0,,6,21,Honourable Mention,honourable mention
+2010,260,Pavel,Paták,Pavel Paták,Charles University Prague,,,,224,10,,,0,,,10,304,10,,1,,0,,11,21,Honourable Mention,honourable mention
+2010,261,Katarína,Škrovinová,Katarína Škrovinová,Comenius University in Bratislava,,,,95,10,1,0,0,,,11,79,7,1,1,1,,,10,21,Honourable Mention,honourable mention
+2010,262,Igor,Voulis,Igor Voulis,Ghent University,,,,261,10,6,,0,,,16,326,5,0,0,0,,,5,21,Honourable Mention,honourable mention
+2010,263,Aghil,Abedzadeh,Aghil Abedzadeh,Ferdowsi University of Mashhad,,,,119,10,,0,0,,,10,32,10,,0,,0,,10,20,Honourable Mention,honourable mention
+2010,264,Branimir,,Branimir,University of Zagreb,,,,34,10,1,1,0,,,12,142,8,0,0,0,0,,8,20,Honourable Mention,honourable mention
+2010,265,Mohammad,Gholami,Mohammad Gholami,Shiraz University,,,,111,10,4,0,0,,,14,138,5,1,0,0,0,,6,20,Honourable Mention,honourable mention
+2010,266,Oleg,Grenrus,Oleg Grenrus,Aalto University,,,,84,10,4,0,0,0,,14,55,5,0,1,0,0,,6,20,Honourable Mention,honourable mention
+2010,267,Mohammad Mahdi,Karkhaneh,Mohammad Mahdi Karkhaneh,Tarbiat Moallem University,,,,163,10,4,0,0,,,14,201,6,0,,,0,,6,20,Honourable Mention,honourable mention
+2010,268,,Kereta,Kereta,University of Zagreb,,,,217,10,2,2,,,,14,186,6,0,0,0,0,,6,20,Honourable Mention,honourable mention
+2010,269,Seyyed Hamed,Mousavi,Seyyed Hamed Mousavi,Shiraz University,,,,315,10,2,2,0,,,14,114,6,0,,,,,6,20,Honourable Mention,honourable mention
+2010,270,Peter,,Peter,University of Primorska,,,,292,10,4,,0,0,,14,274,5,,1,,0,,6,20,Honourable Mention,honourable mention
+2010,271,Hanif,Rashtian,Hanif Rashtian,Shahid Beheshti University,,,,56,10,4,1,0,0,,15,88,5,,0,0,0,,5,20,Honourable Mention,honourable mention
+2010,272,Ioannis,Stamatopoulos,Ioannis Stamatopoulos,University of Athens,,,,191,10,4,1,,,,15,150,5,0,0,,0,,5,20,Honourable Mention,honourable mention
+2010,273,Ricardo,Turolla Bortolotti,Ricardo Turolla Bortolotti,Pontifícia Universidade Católica do Rio de Janeiro,,,,160,10,1,2,0,0,,13,307,7,0,0,0,0,,7,20,Honourable Mention,honourable mention
+2010,274,Filip,Barl,Filip Barl,University of Zagreb,,,,121,10,2,0,0,,,12,86,7,0,,,,,7,19,Honourable Mention,honourable mention
+2010,275,Frank Rodrigo,Duque,Frank Rodrigo Duque,Universidad de Antiquia,,,,73,10,4,,,,,14,70,5,,,,0,,5,19,Honourable Mention,honourable mention
+2010,276,Martin,Köberl,Martin Köberl,University of Vienna,,,,199,10,4,,,,,14,185,4,0,1,0,,,5,19,Honourable Mention,honourable mention
+2010,277,John,Parolas,John Parolas,National Technical University of Athens,,,,234,10,4,0,0,0,,14,306,5,0,,0,0,,5,19,Honourable Mention,honourable mention
+2010,278,Vadym,Paziy,Vadym Paziy,Universidad Complutense de Madrid,,,,288,10,4,0,,,,14,178,5,0,,,,,5,19,Honourable Mention,honourable mention
+2010,279,Nima,Rasekh,Nima Rasekh,Shiraz University,,,,197,10,4,0,,0,,14,146,5,0,0,0,0,,5,19,Honourable Mention,honourable mention
+2010,280,Eske,Sparsø,Eske Sparsø,Copenhagen University,,,,253,10,0,,0,,,10,309,6,,3,0,0,,9,19,Honourable Mention,honourable mention
+2010,281,Marko,,Marko,University of Zagreb,,,,91,10,,,0,0,,10,45,6,2,,,,,8,18,Honourable Mention,honourable mention
+2010,282,Mircea Ioan,,Mircea Ioan,"Alexandru Ioan Cuza University, Iasi",,,,87,10,,0,0,,,10,61,6,2,,,,,8,18,Honourable Mention,honourable mention
+2010,283,Lukas,Einkemmer,Lukas Einkemmer,University of Innsbruck,,,,50,10,2,,,,,12,53,6,,,,,,6,18,Honourable Mention,honourable mention
+2010,284,Lauri,Loiskekoski,Lauri Loiskekoski,Aalto University,,,,164,10,1,0,0,,,11,156,6,1,,,,,7,18,Honourable Mention,honourable mention
+2010,285,Angel David,Martinez Martinez,Angel David Martinez Martinez,Universidad de Valencia,,,,304,8,4,0,0,0,,12,258,5,0,,1,0,,6,18,Honourable Mention,honourable mention
+2010,286,Javad,Mirzayi,Javad Mirzayi,Isfahan University of Technology,,,,240,10,1,1,0,0,,12,248,6,,0,,0,,6,18,Honourable Mention,honourable mention
+2010,287,Flavia,Timpu,Flavia Timpu,ETH Zurich,,,,271,10,0,1,,,,11,206,5,2,,,,,7,18,Honourable Mention,honourable mention
+2010,288,Peter,Verraedt,Peter Verraedt,K. U. Leuven,,,,325,10,,,,,,10,313,7,1,,,,,8,18,Honourable Mention,honourable mention
+2010,289,Hamid,Asadollahi,Hamid Asadollahi,Shiraz University,,,,316,10,2,0,0,,,12,89,5,0,0,0,,,5,17,Honourable Mention,honourable mention
+2010,290,Navid,Asgari,Navid Asgari,Shahid Bahonar University of Kerman,,,,100,10,,,,0,,10,56,7,,0,,,,7,17,Honourable Mention,honourable mention
+2010,291,Nicolai,Fedotov,Nicolai Fedotov,Moscow Institute of Physics and Technology,,,,92,10,,,,,,10,104,6,,1,0,,,7,17,Honourable Mention,honourable mention
+2010,292,Marta,Latorre Balado,Marta Latorre Balado,Universidad de Valencia,,,,203,10,,0,0,,,10,173,6,1,0,,0,,7,17,Honourable Mention,honourable mention
+2010,293,Mahnamsadat,Mirmokhalesooni,Mahnamsadat Mirmokhalesooni,Shahid Bahonar University of Kerman,,,,287,10,1,0,0,0,,11,301,6,0,0,,,,6,17,Honourable Mention,honourable mention
+2010,294,Mehdi,Abdi Anbohi,Mehdi Abdi Anbohi,Shahid Beheshti University,,,,130,10,0,1,0,0,,11,85,5,,0,0,,,5,16,Certificate,certificate
+2010,295,Sebastian,Albert,Sebastian Albert,Universität Göttingen,,,,76,10,0,0,0,,,10,64,6,0,0,,0,,6,16,Certificate,certificate
+2010,296,Francisco de Borja,Morán Quijano,Francisco de Borja Morán Quijano,Universidad Politécnica de Madrid,,,,231,10,4,0,0,0,,14,278,0,2,,0,,,2,16,Certificate,certificate
+2010,297,Enzo,Moriyama,Enzo Moriyama,Universidade de São Paulo,,,,305,6,4,1,0,0,,11,305,5,0,,0,,,5,16,Certificate,certificate
+2010,298,Ákos,Nagy,Ákos Nagy,Budapest University of Technology and Economics,,,,225,10,1,0,,,,11,277,5,,,0,0,,5,16,Certificate,certificate
+2010,299,Emanuele,Natale,Emanuele Natale,"Universita' di Roma ""Tor Vergata""",,,,328,10,,,,,,10,276,6,,0,0,,,6,16,Certificate,certificate
+2010,300,Heikki,Pulkkinen,Heikki Pulkkinen,Aalto University,,,,246,10,,0,0,0,,10,298,6,0,,,0,,6,16,Certificate,certificate
+2010,301,Mohammad Reza,Rezaeian,Mohammad Reza Rezaeian,Shahid Beheshti University,,,,64,10,4,0,,,,14,134,0,1,1,,0,,2,16,Certificate,certificate
+2010,302,Velislava,Simova,Velislava Simova,University of Architecture,,,,8,10,4,0,,0,,14,16,0,2,,0,0,,2,16,Certificate,certificate
+2010,303,Deyan,Yosifov,Deyan Yosifov,University of Architecture,,,,209,10,2,2,,,,14,190,0,2,,0,0,,2,16,Certificate,certificate
+2010,304,Ahmad Agung,Ahkam,Ahmad Agung Ahkam,Institut Teknologi Telkom,,,,42,10,,,0,,,10,26,5,0,0,0,,,5,15,Certificate,certificate
+2010,305,Lutz,Helfrich,Lutz Helfrich,Universität Göttingen,,,,149,10,,,,,,10,166,5,0,0,,0,,5,15,Certificate,certificate
+2010,306,Jere,Mäkinen,Jere Mäkinen,Aalto University,,,,323,8,0,0,0,0,,8,244,5,2,,,,,7,15,Certificate,certificate
+2010,307,Sina,Hazratpour,Sina Hazratpour,Ferdowsi University of Mashhad,,,,154,0,4,0,0,0,,4,222,6,3,0,0,,,9,13,Certificate,certificate
+2010,308,Federico,Buonerba,Federico Buonerba,"Universita' di Roma ""Tor Vergata""",,,,25,10,0,1,0,,,11,27,0,1,0,,,,1,12,Certificate,certificate
+2010,309,Tiago,Fonseca,Tiago Fonseca,Universidade de São Paulo - São Carlos,,,,46,0,4,0,0,,,4,46,7,1,0,,,,8,12,Certificate,certificate
+2010,310,Emad,Nasrollahpoursamami,Emad Nasrollahpoursamami,Sharif University of Technology,,,,226,10,0,0,0,,,10,227,0,,1,1,,,2,12,Certificate,certificate
+2010,311,Marcell,Stippinger,Marcell Stippinger,Budapest University of Technology and Economics,,,,251,0,3,1,2,0,,6,311,3,2,0,0,0,,5,11,Certificate,certificate
+2010,312,Kamol,Rasulov,Kamol Rasulov,Samarkand State University,,,,185,,,,,,,0,211,,10,,,,,10,10,Certificate,certificate
+2010,313,Ralitsa,Georgieva,Ralitsa Georgieva,University of Architecture,,,,127,0,1,0,,0,,1,52,6,2,,,,,8,9,Certificate,certificate
+2010,314,Farid,Hoseyni Jafari,Farid Hoseyni Jafari,Shahid Beheshti University,,,,156,0,0,0,,0,,0,181,6,2,0,0,,,8,8,Certificate,certificate
+2010,315,Petri,Tuisku,Petri Tuisku,University of Helsinki,,,,250,0,0,0,0,0,,0,230,7,1,0,,0,,8,8,Certificate,certificate
+2010,316,Miguel Hernán,Delgado Sillero,Miguel Hernán Delgado Sillero,Politécnica de Madrid,,,,101,0,0,0,,0,,0,91,5,2,0,0,0,,7,7,Certificate,certificate
+2010,317,Isabel,Garro Ruiz-Zorrilla,Isabel Garro Ruiz-Zorrilla,Pontificia Comillas,,,,37,0,,0,,,,0,58,5,2,,0,,,7,7,Certificate,certificate
+2010,318,Manuel,Peña Alcaraz,Manuel Peña Alcaraz,Pontificia Comillas,,,,232,6,0,0,,0,,6,297,0,1,,0,,,1,7,Certificate,certificate
+2010,319,Alberto,Orgaz,Alberto Orgaz,Pontificia Comillas,,,,237,0,0,0,,,,0,279,6,,,,,,6,6,Certificate,certificate
+2010,320,Taha,Ezzati,Taha Ezzati,Shahid Beheshti University,,,,117,,,,,,,0,103,5,0,0,,,,5,5,Certificate,certificate
+2010,321,Nina,Otter,Nina Otter,ETH Zurich,,,,324,0,0,0,0,,,0,289,5,,0,,0,,5,5,Certificate,certificate
+2010,322,Cornelius,Quigley,Cornelius Quigley,"National University of Ireland, Cork",,,,270,0,3,0,0,0,,3,267,0,0,0,0,0,,0,3,Certificate,certificate
+2010,323,Violeta,Filipova,Violeta Filipova,University of Architecture,,,,74,0,1,0,,0,,1,72,0,0,,0,,,0,1,Certificate,certificate
+2010,324,Elizabeth,Jobson,Elizabeth Jobson,Princeton University,,,,146,0,0,0,0,0,,0,291,0,,0,0,,,0,0,Certificate,certificate
+2010,325,Orlim,Kolev,Orlim Kolev,University of Architecture,,,,189,0,0,0,,0,,0,212,0,0,,0,,,0,0,Certificate,certificate
+2010,326,Bayarmagnai,Batmunkh,Bayarmagnai Batmunkh,Mongolian University of Science and Technology,,,,38,disqualified,,,,,,0,67,,,,,,,0,0,Disqualified,disqualified
+2010,327,Adiyajav,Ganbold,Adiyajav Ganbold,Mongolian University of Science and Technology,,,,51,disqualified,,,,,,0,24,,,,,,,0,0,Disqualified,disqualified
+2010,328,Janlav,Khashbat,Janlav Khashbat,Mongolian University of Science and Technology,,,,157,disqualified,,,,,,0,152,,,,,,,0,0,Disqualified,disqualified

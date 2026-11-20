@@ -1,0 +1,118 @@
+Year,Pos,First name,Family name,Full name,University,Team,City,Country,Code_D1,D1_P1,D1_P2,D1_P3,D1_P4,D1_P5,D1_P6,Day1,Code_D2,D2_P1,D2_P2,D2_P3,D2_P4,D2_P5,D2_P6,Day2,Sum,Prize,Prize_raw
+2000,1,,,Tamas Terpai,"Eotvos University, Budapest",,,,,20,19,20,20,20,9,108,,17,20,19,20,19,20,115,223,Grand First Prize,Grand First Prize
+2000,2,,,Dmytro Borysyuk,Kiev Polytechnic Institute,,,,,20,20,20,17,20,5,102,,20,20,19,20,20,20,119,221,Grand First Prize,Grand First Prize
+2000,3,,,S. G.,Kyiv Taras Shevchenko University,,,,,19,20,20,20,20,4,103,,20,18,19,20,20,20,117,220,Grand First Prize,Grand First Prize
+2000,4,,,Anton Mellit,Kiev Polytechnic Institute,,,,,20,18,20,18,20,20,116,,15,20,19,20,7,20,101,217,Grand First Prize,Grand First Prize
+2000,5,,,Mozgovyy Sergiy,Kyiv Taras Shevchenko University,,,,,20,20,20,10,20,12,102,,20,20,19,20,15,20,114,216,Grand First Prize,Grand First Prize
+2000,6,,,Rebecca Palmer,Trinity College Cambridge,,,,,20,19,20,20,17,5,101,,20,20,19,20,2,20,101,202,First Prize,First prize
+2000,7,,,Arend Bayer,Bonn University,,,,,18,13,20,20,20,5,96,,20,10,19,20,15,20,104,200,First Prize,First prize
+2000,8,,,Ivan Ivanov,Trinity College Cambridge,,,,,20,19,20,20,20,7,106,,20,20,19,20,15,,94,200,First Prize,First prize
+2000,9,,,Kasra Alishahi,Sharif University of Technology,,,,,18,19,15,20,20,5,97,,17,20,19,5,20,20,101,198,First Prize,First prize
+2000,10,,,Armin Holschbach,Bonn University,,,,,20,13,20,10,20,5,88,,20,20,19,20,10,20,109,197,First Prize,First prize
+2000,11,,,Gabor Lippner,"Eotvos University, Budapest",,,,,20,18,20,17,20,5,100,,20,18,20,20,8,11,97,197,First Prize,First prize
+2000,12,,,Nayden D. Kambouchev,Sofia University,,,,,20,20,20,20,20,3,103,,20,20,19,20,15,,94,197,First Prize,First prize
+2000,13,,,Toby Gee,Trinity College Cambridge,,,,,20,19,20,4,20,5,88,,20,20,19,20,10,20,109,197,First Prize,First prize
+2000,14,,,Morteza Firoozabad Fotouhi,Sharif University of Technology,,,,,20,20,20,18,20,7,105,,20,20,19,5,7,20,91,196,First Prize,First prize
+2000,15,,,Mansur Boase,Trinity College Cambridge,,,,,20,20,20,11,20,5,96,,20,20,19,20,5,9,93,189,First Prize,First prize
+2000,16,,,Prymak Andriy,Kyiv Taras Shevchenko University,,,,,20,20,20,20,,5,85,,15,20,19,20,10,20,104,189,First Prize,First prize
+2000,17,,,Marcin Stefaniak,Warsaw University,,,,,20,20,20,19,20,3,102,,16,20,19,20,6,0,81,183,First Prize,First prize
+2000,18,,,Michal Benes,Charles University Prague,,,,,20,19,2,19,6,18,84,,20,20,19,20,8,11,98,182,First Prize,First prize
+2000,19,,,Igor Klep,Ljubljana University,,,,,20,20,20,15,20,2,97,,20,20,2,20,2,20,84,181,First Prize,First prize
+2000,20,,,Dusan Djukic,Belgrade University,,,,,20,19,20,20,20,,99,,20,20,19,20,2,0,81,180,First Prize,First prize
+2000,21,,,Libor Barto,Charles University Prague,,,,,20,20,20,20,7,7,94,,20,20,19,20,7,0,86,180,First Prize,First prize
+2000,22,,,Masood Aryapoor,Sharif University of Technology,,,,,20,14,20,19,20,4,97,,11,20,19,,18,11,79,176,First Prize,First prize
+2000,23,,,Pavel Podbrdsky,Charles University Prague,,,,,20,20,20,20,,4,84,,20,20,20,20,9,,89,173,First Prize,First prize
+2000,24,,,Adrian Sanders,Trinity College Cambridge,,,,,20,20,12,10,20,4,86,,16,20,19,20,8,,83,169,First Prize,First prize
+2000,25,,,Mihály Bárász,"Technical University, Budapest",,,,,20,18,18,,12,2,70,,20,20,19,20,15,,94,164,Second Prize,Second prize
+2000,26,,,Sergiy Torba,Kiev Polytechnic Institute,,,,,20,12,20,11,,7,70,,20,16,19,18,10,11,94,164,Second Prize,Second prize
+2000,27,,,Tomas Barta,Charles University Prague,,,,,20,20,13,10,,20,83,,20,20,19,10,2,9,80,163,Second Prize,Second prize
+2000,28,,,Hannu Niemistö,University of Helsinki,,,,,20,20,6,5,5,7,63,,20,20,19,20,20,,99,162,Second Prize,Second prize
+2000,29,,,Marcin Sawicki,Warsaw University,,,,,20,8,20,,10,3,61,,20,20,17,20,3,20,100,161,Second Prize,Second prize
+2000,30,,,Vjekoslav Kovac,University of Zagreb,,,,,20,20,20,10,20,,90,,20,20,19,12,0,0,71,161,Second Prize,Second prize
+2000,31,,,Gyula Pap,"Eotvos University, Budapest",,,,,15,16,5,5,10,20,71,,20,0,19,15,10,20,84,155,Second Prize,Second prize
+2000,32,,,Iovanov Miodrag,University of Bucharest,,,,,18,20,20,10,19,1,88,,13,10,19,5,,20,67,155,Second Prize,Second prize
+2000,33,,,Toby Kenney,Trinity College Cambridge,,,,,20,19,,11,7,19,76,,20,19,,17,2,20,78,154,Second Prize,Second prize
+2000,34,,,Andriy Konishevskiy,Kiev Polytechnic Institute,,,,,20,19,20,10,,3,72,,10,20,19,20,8,3,80,152,Second Prize,Second prize
+2000,35,,,Ivan Matic,Belgrade University,,,,,20,19,5,20,20,,84,,20,20,19,6,2,,67,151,Second Prize,Second prize
+2000,36,,,Charles Roddie,Trinity College Cambridge,,,,,20,7,16,17,10,2,72,,20,18,1,20,3,15,77,149,Second Prize,Second prize
+2000,37,,,Torsten Schoneborn,Bonn University,,,,,18,8,0,10,20,1,57,,20,20,19,15,8,9,91,148,Second Prize,Second prize
+2000,38,,,Piotr Przytycki,Warsaw University,,,,,18,19,20,10,10,0,77,,10,20,19,4,5,11,69,146,Second Prize,Second prize
+2000,39,,,Irina Goia,"MIT, USA",,,,,20,20,20,10,20,1,91,,10,,19,5,0,20,54,145,Second Prize,Second prize
+2000,40,,,Matjaz Konvalinka,Ljubljana University,,,,,20,20,20,19,20,5,104,,12,20,,1,7,,40,144,Second Prize,Second prize
+2000,41,,,Gabor Kun,"Eotvos University, Budapest",,,,,18,19,8,9,,7,61,,20,20,19,5,7,11,82,143,Second Prize,Second prize
+2000,42,,,Tuomas Hytonen,Helsinki University of Technology,,,,,20,11,20,20,,3,74,,10,10,19,15,15,,69,143,Second Prize,Second prize
+2000,43,,,Witold Jarnicki,Jagiellonan University,,,,,20,13,0,20,15,2,70,,20,18,20,10,5,0,73,143,Second Prize,Second prize
+2000,44,,,Mikolaj Zalewski,Jagiellonan University,,,,,20,19,20,0,1,,60,,20,20,20,20,2,0,82,142,Second Prize,Second prize
+2000,45,,,Nikolay Marinov Penev,Sofia University,,,,,20,19,6,11,10,0,66,,10,20,19,7,20,0,76,142,Second Prize,Second prize
+2000,46,,,Igor Ronkine,Bonn University,,,,,18,19,20,10,,,67,,10,19,20,5,,20,74,141,Second Prize,Second prize
+2000,47,,,Meelis Kull,University of Tartu,,,,,20,20,20,10,2,,72,,20,20,19,10,,,69,141,Second Prize,Second prize
+2000,48,,,Nicolae Mihalache-Ciurdea,University of Bucharest,,,,,20,19,19,18,,,76,,20,20,,17,0,7,64,140,Second Prize,Second prize
+2000,49,,,Bijan Ahmadi Kakavandi,Shahid Beheshti University,,,,,20,19,12,10,12,2,75,,3,20,15,,6,20,64,139,Second Prize,Second prize
+2000,50,,,Sergiy Shklyar,Kyiv Taras Shevchenko University,,,,,20,13,20,10,5,6,74,,20,3,20,20,2,0,65,139,Second Prize,Second prize
+2000,51,,,Julian Arndts,TU-Berlin Fachbereich Mathematik,,,,,14,20,20,11,20,1,86,,13,3,1,7,19,9,52,138,Second Prize,Second prize
+2000,52,,,Kalin Rahnev,Plovdiv University,,,,,15,18,20,10,1,0,64,,20,2,19,20,13,,74,138,Second Prize,Second prize
+2000,53,,,Rade Stanojevic,University of Nis,,,,,20,20,20,10,5,0,75,,17,5,19,,19,,60,135,Second Prize,Second prize
+2000,54,,,Jernej Tonejc,Ljubljana University,,,,,20,8,20,,5,1,54,,12,20,19,5,2,20,78,132,Second Prize,Second prize
+2000,55,,,Aleksander Toshkov Toshev,Sofia University,,,,,18,20,18,10,5,,71,,10,10,19,1,20,,60,131,Second Prize,Second prize
+2000,56,,,Jakub Wojtaszczyk,Warsaw University,,,,,20,19,0,9,1,20,69,,20,20,1,20,1,0,62,131,Second Prize,Second prize
+2000,57,,,Miklos Hartmann,University of Szeged,,,,,19,7,,11,20,,57,,20,20,19,5,2,,66,123,Second Prize,Second prize
+2000,58,,,Fateme Sadat Nabavi,Sharif University of Technology,,,,,20,19,12,10,5,1,67,,10,6,19,20,,0,55,122,Second Prize,Second prize
+2000,59,,,Michal Kapustka,Jagiellonan University,,,,,20,2,20,10,5,0,57,,20,18,16,10,1,0,65,122,Second Prize,Second prize
+2000,60,,,Gergely Rost,University of Szeged,,,,,20,2,8,11,5,0,46,,20,20,19,5,9,,73,119,Second Prize,Second prize
+2000,61,,,Antti Honkela,Helsinki University of Technology,,,,,20,20,,10,,,50,,20,5,19,20,2,,66,116,Third Prize,Third prize
+2000,62,,,András Orbán,"Technical University, Budapest",,,,,20,18,20,1,0,1,60,,20,10,,18,4,,52,112,Third Prize,Third prize
+2000,63,,,Fereydoun Derakhshami (aka Caucher Birkar),University of Tehran,,,,,19,8,20,10,12,,69,,10,20,,10,,,40,109,Third Prize,Third prize
+2000,64,,,Peter Hasto,University of Helsinki,,,,,10,19,,10,5,6,50,,20,0,8,20,9,,57,107,Third Prize,Third prize
+2000,65,,,Arash Nekoei,Sharif University of Technology,,,,,20,17,7,9,10,,63,,10,3,2,20,8,0,43,106,Third Prize,Third prize
+2000,66,,,Ante Djerek,University of Zagreb,,,,,20,,0,10,6,5,41,,10,18,19,7,,10,64,105,Third Prize,Third prize
+2000,67,,,Dmitrij Sverdlov,TU-Berlin Fachbereich Mathematik,,,,,20,9,20,10,7,0,66,,10,0,19,5,2,0,36,102,Third Prize,Third prize
+2000,68,,,Paulius Drungilas,Vilnius University Lithuania,,,,,20,20,0,10,,,50,,10,20,19,,,,49,99,Third Prize,Third prize
+2000,69,,,Jose Luis Gonzalez Zapata,"Nacional University, Columbia",,,,,20,18,,10,2,,50,,20,20,,2,4,,46,96,Third Prize,Third prize
+2000,70,,,Bojana Pejic,Oxford University,,,,,20,8,12,10,7,,57,,10,20,7,1,0,,38,95,Third Prize,Third prize
+2000,71,,,Marjan Praljak,University of Zagreb,,,,,10,,4,16,12,,42,,11,20,19,1,2,,53,95,Third Prize,Third prize
+2000,72,,,Nikolai Rangelov Kolev,Sofia University,,,,,13,4,20,4,5,0,46,,10,15,20,2,2,0,49,95,Third Prize,Third prize
+2000,73,,,Matija Kazalicki,University of Zagreb,,,,,20,,12,0,10,,42,,10,19,,5,8,0,42,84,Third Prize,Third prize
+2000,74,,,Andrej Vodopivec,Ljubljana University,,,,,10,18,,1,20,,49,,10,20,,,1,3,34,83,Third Prize,Third prize
+2000,75,,,Matt Harvey,Oxford University,,,,,14,16,0,10,6,,46,,10,4,3,16,2,0,35,81,Third Prize,Third prize
+2000,76,,,Andres Martinez,"Nacional University, Columbia",,,,,18,2,12,10,0,,42,,20,10,,0,8,,38,80,Third Prize,Third prize
+2000,77,,,Sven Laur,University of Tartu,,,,,10,8,0,14,5,0,37,,10,0,19,12,2,,43,80,Third Prize,Third prize
+2000,78,,,Balázs Rácz,"Technical University, Budapest",,,,,13,8,,,,,21,,20,18,,20,,,58,79,Third Prize,Third prize
+2000,79,,,Kim Ann Tan,ESIEE Paris,,,,,10,2,0,10,5,,27,,2,16,19,13,0,,50,77,Third Prize,Third prize
+2000,80,,,Chia Chiang Tan,University College London,,,,,12,9,20,10,0,0,51,,10,0,1,7,1,0,19,70,Third Prize,Third prize
+2000,81,,,Sandor Ortegon Pineda,"Los Andes University, Columbia",,,,,12,11,20,1,5,0,49,,10,2,7,2,0,,21,70,Third Prize,Third prize
+2000,82,,,Henry Liu,University College London,,,,,10,14,4,10,0,,38,,20,3,6,2,0,,31,69,Third Prize,Third prize
+2000,83,,,Mahdad Khatirinejad Fard,Sharif University of Technology,,,,,0,8,12,10,5,1,36,,10,10,8,5,0,0,33,69,Third Prize,Third prize
+2000,84,,,Lauri Hallila,University of Helsinki,,,,,10,20,0,10,0,0,40,,10,0,6,,8,,24,64,Third Prize,Third prize
+2000,85,,,Tapani Raiko,Helsinki University of Technology,,,,,20,2,,11,3,,36,,10,5,,5,8,,28,64,Third Prize,Third prize
+2000,86,,,Tihomir Bogomilov Gyulov,Ruse University,,,,,20,7,,10,5,,42,,20,2,,,,,22,64,Third Prize,Third prize
+2000,87,,,Reza Rezavand,University of Tehran,,,,,20,8,19,,,,47,,10,2,,,,,12,59,Honourable Mention,Honourable mention
+2000,88,,,Riikka Kangaslampi,Helsinki University of Technology,,,,,10,2,0,10,2,0,24,,10,5,14,1,3,,33,57,Honourable Mention,Honourable mention
+2000,89,,,Mindaugas Galvonas,Vilnius University Lithuania,,,,,12,19,8,,,,39,,13,0,,,4,,17,56,Honourable Mention,Honourable mention
+2000,90,,,Aleksei Nazarov,University of Tartu,,,,,10,7,,10,,,27,,20,2,,,5,,27,54,Honourable Mention,Honourable mention
+2000,91,,,Ghorban-Ali Bagheri Bardi,Shahid Beheshti University,,,,,8,7,20,10,6,,51,,0,3,0,0,0,,3,54,Honourable Mention,Honourable mention
+2000,92,,,Mindaugas Juodis,Vilnius University Lithuania,,,,,12,19,4,10,0,0,45,,,1,5,0,2,,8,53,Honourable Mention,Honourable mention
+2000,93,,,Yousef Shahsavand,Shahid Beheshti University,,,,,13,,,,7,,20,,9,20,4,,0,,33,53,Honourable Mention,Honourable mention
+2000,94,,,Narges Gharaghany,University of Tehran,,,,,20,,,12,,,32,,0,0,,5,,15,20,52,Honourable Mention,Honourable mention
+2000,95,,,Philip Neal,University of Birmingham,,,,,10,8,,,5,,23,,20,5,,,,,25,48,Honourable Mention,Honourable mention
+2000,96,,,Zita Helle,"Technical University, Budapest",,,,,20,7,,,2,,29,,10,2,,3,2,,17,46,Honourable Mention,Honourable mention
+2000,97,,,Mona Nabiei,Shahid Beheshti University,,,,,0,7,8,0,2,0,17,,0,16,8,0,2,0,26,43,Honourable Mention,Honourable mention
+2000,98,,,Anna Barat,University of Szeged,,,,,10,2,0,1,2,0,15,,10,8,3,5,1,0,27,42,Honourable Mention,Honourable mention
+2000,99,,,Daniel Jennings,University of Birmingham,,,,,18,2,,,5,,25,,10,,7,,,,17,42,Honourable Mention,Honourable mention
+2000,100,,,Luke Gutzwiller,The University of Iowa,,,,,10,,,,2,,12,,10,20,,0,,,30,42,Honourable Mention,Honourable mention
+2000,101,,,Jairo Andres Angel Cardenas,"Los Andes University, Columbia",,,,,10,,10,,0,,20,,10,10,,,,,20,40,Honourable Mention,Honourable mention
+2000,102,,,Romualdas Zove,Vilnius University Lithuania,,,,,12,7,,,5,,24,,10,0,,0,,,10,34,Certificate,Certificate
+2000,103,,,Jaime Andres Posada Restrepo,"Los Andes University, Columbia",,,,,10,,0,,0,,10,,0,20,3,,,,23,33,Certificate,Certificate
+2000,104,,,Jarno Talponen,University of Helsinki,,,,,20,2,,,,2,24,,,1,4,,1,,6,30,Certificate,Certificate
+2000,105,,,Peter Matejic,University of Birmingham,,,,,8,8,,0,,,16,,10,2,,,2,,14,30,Certificate,Certificate
+2000,106,,,Maryam Roshanaie,University of Tehran,,,,,10,7,,0,5,,22,,0,0,3,1,,,4,26,Certificate,Certificate
+2000,107,,,Andrew Price,University of Birmingham,,,,,10,2,,0,1,,13,,10,1,,,,,11,24,Certificate,Certificate
+2000,108,,,Eric Errthum,The University of Iowa,,,,,10,,,10,,,20,,,2,,,2,,4,24,Certificate,Certificate
+2000,109,,,Joshua Tokle,The University of Iowa,,,,,0,,,8,2,,10,,10,1,,,1,,12,22,Certificate,Certificate
+2000,110,,,Peter Wiesing,TU-Berlin Fachbereich Mathematik,,,,,0,2,5,,,,7,,10,,,2,,,12,19,Certificate,Certificate
+2000,111,,,Edward Moyle,University College London,,,,,10,,,,,,10,,0,2,,,,,2,12,Certificate,Certificate
+2000,112,,,Hartej Singh,University College London,,,,,10,,,0,1,,11,,,0,1,,,,1,12,Certificate,Certificate
+2000,113,,,Mercedes Aspland,University College London,,,,,0,7,5,0,0,0,12,,0,,,0,,0,0,12,Certificate,Certificate
+2000,114,,,Sarah Adamson,University College London,,,,,,2,4,,,,6,,,,0,1,,,1,7,Certificate,Certificate
+2000,115,,,Krisan Haira,University College London,,,,,0,2,,1,0,,3,,0,,2,0,,0,2,5,Certificate,Certificate
+2000,116,,,Jennifer McFate,The University of Iowa,,,,,,2,0,0,,,2,,,0,,0,,,0,2,Certificate,Certificate
+2000,117,,,Victoria Dain,University College London,,,,,0,,,,,,0,,,,,,,,0,0,Certificate,Certificate
