@@ -1,8 +1,11 @@
-"""Executa o pipeline completo de coleta, extração, validação e filtro de brasileiros da IMC.
+"""Executa o pipeline completo de coleta, extração, validação e normalização (IMC, CIIM e OBM).
 
 Uso:
-    .venv/bin/python run_pipeline.py            # gera e valida todos os CSVs a partir do cache local
-    .venv/bin/python run_pipeline.py --download # também baixa PDFs faltantes do site da IMC
+    .venv/bin/python run_pipeline.py                       # roda IMC + CIIM + OBM a partir do cache local
+    .venv/bin/python run_pipeline.py --competition imc     # roda somente IMC (1994-2026)
+    .venv/bin/python run_pipeline.py --competition ciim    # roda somente CIIM (2009-2026)
+    .venv/bin/python run_pipeline.py --competition obm     # roda somente OBM (1979-2025)
+    .venv/bin/python run_pipeline.py --download            # também baixa fontes oficiais faltantes
 """
 
 from __future__ import annotations
@@ -22,20 +25,51 @@ def run_step(script_name: str) -> None:
     subprocess.run([sys.executable, str(script)], check=True)
 
 
-def main() -> None:
-    parser = argparse.ArgumentParser(description="Pipeline IMC (1994-2026)")
-    parser.add_argument(
-        "--download",
-        action="store_true",
-        help="Baixa PDFs oficiais faltantes de imc-math.org.uk antes de gerar os CSVs.",
-    )
-    args = parser.parse_args()
-
-    if args.download:
+def run_imc(download: bool) -> None:
+    if download:
         run_step("download_imc_pdfs.py")
     run_step("build_imc_csvs.py")
     run_step("validate_imc_csvs.py")
     run_step("filter_brazil.py")
+
+
+def run_ciim(download: bool) -> None:
+    if download:
+        run_step("download_ciim.py")
+    run_step("build_ciim_csvs.py")
+    run_step("validate_ciim_csvs.py")
+    run_step("filter_ciim_brazil.py")
+
+
+def run_obm(download: bool) -> None:
+    if download:
+        run_step("download_obm.py")
+    run_step("build_obm_csvs.py")
+    run_step("validate_obm_csvs.py")
+    run_step("normalize_obm.py")
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Pipelines de resultados IMC (1994-2026), CIIM (2009-2026) e OBM (1979-2025)")
+    parser.add_argument(
+        "--competition",
+        choices=["all", "imc", "ciim", "obm"],
+        default="all",
+        help="Competição a processar (padrão: all).",
+    )
+    parser.add_argument(
+        "--download",
+        action="store_true",
+        help="Baixa fontes oficiais faltantes antes de gerar os CSVs.",
+    )
+    args = parser.parse_args()
+
+    if args.competition in {"all", "imc"}:
+        run_imc(args.download)
+    if args.competition in {"all", "ciim"}:
+        run_ciim(args.download)
+    if args.competition in {"all", "obm"}:
+        run_obm(args.download)
 
 
 if __name__ == "__main__":

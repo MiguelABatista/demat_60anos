@@ -1,0 +1,445 @@
+City_canonical,State,Total_awards,Nivel_Universitario,Ouro,Prata,Bronze,Mencao_Honrosa,Raw_city_variants_count,Raw_city_variants
+Fortaleza,CE,1581,153,146,303,418,702,1,Fortaleza
+São Paulo,SP,1057,159,123,200,275,446,3,São Paula | São Paullo | São Paulo
+Rio de Janeiro,RJ,1040,322,74,154,263,510,4,R. de Janeiro | Rio Janeiro | Rio de Janeio | Rio de Janeiro
+Belo Horizonte,MG,267,58,26,49,66,125,3,B.Horizonte | Belo H. | Belo Horizonte
+Brasília,DF,262,27,25,51,54,130,1,Brasília
+São José dos Campos,SP,212,149,14,35,52,111,9,S. J. dos C | S. J. dos C. | S. J. dos Campos | S.J. Campos | S.J. dos Campos | S.J.dos Campos | SJ dos Campos | São Jose dos Campos | São José dos Campos
+Recife,PE,209,29,17,31,46,115,1,Recife
+Salvador,BA,183,16,14,28,45,91,1,Salvador
+Curitiba,PR,146,8,5,18,31,92,2,Cuiritiba | Curitiba
+Porto Alegre,RS,135,18,10,24,35,66,2,Porto ALegre | Porto Alegre
+Campinas,SP,126,54,22,17,32,54,1,Campinas
+Teresina,PI,118,11,6,18,28,64,1,Teresina
+Goiânia,GO,84,9,12,8,19,45,2,Goiânia | Goiãnia
+Maceió,AL,62,12,1,10,16,35,1,Maceió
+Vitória,ES,61,7,5,5,24,27,2,Vitoria | Vitória
+Florianópolis,SC,59,13,6,10,17,25,3,Florianopolis | Florianópolis | Florianôopolis
+Niterói,RJ,43,16,11,4,12,15,1,Niterói
+São Carlos,SP,42,22,2,6,17,17,1,São Carlos
+Juíz de Fora,MG,42,2,2,4,10,24,2,Juiz de Fora | Juíz de Fora
+São José do Rio Preto,SP,35,7,3,7,10,15,5,S. J. do Rio Preto | S.J. do Rio Preto | S.J.Rio Preto | SJ de Rio Preto | São José do Rio Preto
+João Pessoa,PB,34,8,1,2,6,25,1,João Pessoa
+Guarulhos,SP,33,5,3,5,9,16,1,Guarulhos
+Belém,PA,33,4,1,1,6,25,2,Belem | Belém
+Santo André,SP,32,1,2,12,7,11,1,Santo André
+Campina Grande,PB,32,8,3,8,9,11,2,Campina G | Campina Grande
+Aracajú,SE,31,5,2,8,10,11,2,Aracaju | Aracajú
+Valinhos,SP,27,0,2,7,7,11,1,Valinhos
+Jaboatão dos Guararapes,PE,27,3,0,3,7,16,5,J. dos G. | J. dos Guararapes | Jaboatão dos G. | Jaboatão dos Guararapes | Joboatão dos Guararapes
+Ipatinga,MG,26,0,1,4,7,14,1,Ipatinga
+Mogi das Cruzes,SP,25,7,2,6,4,13,2,M. das Cruzes | Mogi das Cruzes
+Natal,RN,25,4,0,5,6,14,1,Natal
+Eusébio,CE,24,2,3,9,3,9,2,Eusebio | Eusébio
+Jundiaí,SP,24,1,0,4,11,9,1,Jundiaí
+Vila Velha,ES,23,8,2,4,7,9,1,Vila Velha
+Caucaia,CE,22,4,1,3,8,10,1,Caucaia
+Sorocaba,SP,21,2,1,5,4,11,1,Sorocaba
+Maringá,PR,20,4,2,2,4,12,1,Maringá
+Campo Grande,MS,20,0,0,2,6,12,1,Campo Grande
+São Bernardo do Campo,SP,19,0,0,2,4,13,3,S. B. do Campo | S.B. do Campo | São Bernardo do Campo
+Manaus,AM,17,0,1,0,7,9,1,Manaus
+Ribeirão Preto,SP,16,6,0,2,5,9,1,Ribeirão Preto
+Londrina,PR,16,3,0,1,3,12,1,Londrina
+Taubaté,SP,16,1,3,3,5,5,1,Taubaté
+Vinhedo,SP,16,0,3,0,5,8,1,Vinhedo
+Osasco,SP,16,1,2,2,5,7,1,Osasco
+Presidente Prudente,SP,15,0,2,1,2,10,2,P. Prudente | Presidente Prudente
+Piracicaba,SP,15,0,1,0,2,12,1,Piracicaba
+Rio Claro,SP,15,1,1,1,3,9,1,Rio Claro
+Joinville,SC,13,1,1,2,0,10,1,Joinville
+Varginha,MG,13,5,2,4,5,2,1,Varginha
+Ponta Grossa,PR,11,2,0,0,5,6,1,Ponta Grossa
+Contagem,MG,11,2,1,1,1,8,1,Contagem
+Santa Maria,RS,11,0,1,3,0,7,1,Santa Maria
+Uberlândia,MG,11,3,0,2,3,6,1,Uberlândia
+Atibaia,SP,11,2,1,2,6,2,2,Atibaia | Itibaia
+São Caetano do Sul,SP,11,0,0,2,3,6,3,S. Caetano do Sul | S.Caetano do Sul | São Caetano do Sul
+Blumenau,SC,10,4,0,4,5,1,1,Blumenau
+Araçatuba,SP,10,0,0,0,3,7,1,Araçatuba
+Franca,SP,10,7,0,0,3,7,2,Franca | França
+Carapicuíba,SP,10,0,5,2,2,1,2,Carapicuiba | Carapicuíba
+Santos,SP,10,0,0,1,1,8,1,Santos
+Sobral,CE,10,0,1,0,3,6,1,Sobral
+Bastos,SP,10,0,1,4,3,2,1,Bastos
+Encantado,RS,10,4,2,1,2,5,1,Encantado
+Cuiabá,MT,10,0,0,2,2,6,2,Cuiaba | Cuiabá
+Canoas,RS,9,0,3,0,2,4,1,Canoas
+Cotia,SP,9,1,4,0,4,1,1,Cotia
+Urupês,SP,8,3,2,3,2,1,2,Urupés | Urupês
+Araraquara,SP,8,2,0,1,0,7,1,Araraquara
+Amparo,SP,8,0,1,2,2,3,1,Amparo
+Andaraí,BA,8,6,0,1,5,2,2,Andarai | Andaraí
+Santa Isabel,SP,8,0,1,3,1,3,1,Santa Isabel
+Anápolis,GO,8,0,0,0,2,6,1,Anápolis
+Cocal dos Alves,PI,7,0,0,2,1,4,1,Cocal dos Alves
+Barueri,SP,7,0,1,0,2,4,1,Barueri
+Frederico Westphalen,RS,7,0,1,0,3,3,2,F. Westphalen | Frederico Westphalen
+Duque de Caxias,RJ,7,2,0,1,3,3,1,Duque de Caxias
+Feira de Santana,BA,7,3,0,1,2,4,1,Feira de Santana
+Lauro de Freitas,BA,7,0,0,1,1,5,1,Lauro de Freitas
+Pinhais,PR,7,0,1,2,2,2,1,Pinhais
+Vassouras,RJ,7,0,1,0,0,6,1,Vassouras
+Aquiraz,CE,7,0,0,2,4,1,1,Aquiraz
+Suzano,SP,6,2,0,0,1,4,1,Suzano
+Ribeirão Pires,SP,6,1,0,1,2,3,1,Ribeirão Pires
+União dos Palmares,AL,6,4,0,2,2,2,2,U. dos Palmares | União dos Palmares
+Pirajuba,MG,6,1,3,1,1,1,1,Pirajuba
+São Gonçalo,RJ,6,2,0,0,3,3,1,São Gonçalo
+Nilópolis,RJ,6,5,0,3,3,0,1,Nilópolis
+Betim,MG,6,1,1,2,1,2,1,Betim
+Paulínia,SP,6,0,2,1,3,0,2,Paulinia | Paulínia
+Lins,SP,6,0,1,0,2,3,1,Lins
+Itú,SP,6,2,0,0,2,4,2,Itu | Itú
+Mineiros,GO,5,2,0,1,1,3,1,Mineiros
+Pilar do Sul,SP,5,1,1,1,1,2,1,Pilar do Sul
+Guaxupé,MG,5,2,0,1,3,1,1,Guaxupé
+Marília,SP,5,2,0,0,3,2,1,Marília
+Caxias do Sul,RS,5,0,0,0,2,3,1,Caxias do Sul
+Itatiaia,RJ,5,0,1,1,2,1,1,Itatiaia
+Maricá,RJ,5,2,2,1,0,2,1,Maricá
+Nova Friburgo,RJ,5,1,0,2,3,0,1,Nova Friburgo
+Santa Fé do Sul,SP,5,0,0,1,2,2,2,Santa Fe do Sul | Santa Fé do Sul
+Maracanaú,CE,5,0,0,1,2,2,1,Maracanaú
+Bauru,SP,5,0,0,1,1,3,1,Bauru
+Indaiatuba,SP,5,0,0,0,1,4,1,Indaiatuba
+Bariri,SP,5,0,0,0,1,4,1,Bariri
+Nova Lima,MG,5,2,0,1,0,4,1,Nova Lima
+Muribeca,SE,5,3,0,0,2,3,1,Muribeca
+Passa Tempo,MG,5,0,1,3,0,1,1,Passa Tempo
+Taboão da Serra,SP,5,0,0,1,0,4,1,Taboão da Serra
+Bom Jesus do Itabapoana,RJ,5,5,0,1,3,1,3,B. J. do Itabapoana | B.J. do Itabapoana | Bom Jesus do Itabapoana
+Mesquita,RJ,4,2,0,1,0,3,1,Mesquita
+Petrópolis,RJ,4,1,0,2,1,1,1,Petrópolis
+Uberaba,MG,4,0,0,0,1,3,1,Uberaba
+Viçosa,MG,4,1,0,1,0,3,1,Viçosa
+Parnamirim,RN,4,2,0,0,1,3,1,Parnamirim
+Angra dos Reis,RJ,4,0,0,0,3,1,1,Angra dos Reis
+São José dos Pinhais,PR,4,3,0,0,2,2,1,São José dos Pinhais
+Petrolina,PE,4,0,0,0,2,2,1,Petrolina
+São Cristóvão,SE,4,3,1,1,0,2,2,São Cristovão | São Cristóvão
+Criciúma,SC,4,0,0,1,0,3,1,Criciúma
+São Luís,MA,4,3,0,0,2,2,2,São Luis | São Luís
+Serra,ES,4,0,0,1,3,0,1,Serra
+Neves Paulista,SP,4,0,0,1,3,0,1,Neves Paulista
+Hidrolândia,GO,4,0,0,0,2,2,1,Hidrolândia
+Cariacica,ES,4,2,0,0,2,2,1,Cariacica
+Igarapé,MG,4,0,0,1,2,1,3,Igarape | Igarapi | Igarapé
+Jales,SP,4,0,0,1,0,3,1,Jales
+Lavras,MG,4,0,0,0,0,4,1,Lavras
+Ananindeua,PA,4,1,0,0,4,0,1,Ananindeua
+Pelotas,RS,4,0,0,0,2,2,1,Pelotas
+Paulista,PE,3,0,0,0,1,2,1,Paulista
+Pesqueira,PE,3,1,0,0,0,3,1,Pesqueira
+Paraty,RJ,3,3,0,0,0,3,2,Parati | Paraty
+Cascavel,PR,3,0,0,3,0,0,1,Cascavel
+Olinda,PE,3,1,0,0,0,3,1,Olinda
+São Raimundo Nonato,PI,3,0,0,2,0,1,2,S.R. Nonato | São Raimundo Nonato
+Santa Cruz do Rio Pardo,SP,3,0,1,1,1,0,3,S.C do Rio Pardo | S.C. do Rio Pardo | Santa Cruz do Rio Pardo
+Sobradinho,DF,3,0,0,1,0,2,1,Sobradinho
+Campo Belo,MG,3,0,0,1,2,0,1,Campo Belo
+Imperatriz,MA,3,1,0,0,1,2,1,Imperatriz
+Marechal Floriano,ES,3,0,0,0,0,3,1,Marechal Floriano
+Aparecida de Goiânia,GO,3,3,0,0,2,1,2,Ap. de Goiânia | Aparecida de Goiânia
+Pindamonhangaba,SP,3,0,1,0,2,0,1,Pindamonhangaba
+Pedreira,SP,3,0,0,2,0,1,1,Pedreira
+Bragança Paulista,SP,3,0,1,0,0,2,1,Bragança Paulista
+Diadema,SP,3,0,0,1,0,2,1,Diadema
+Leme,SP,3,0,1,0,1,1,1,Leme
+Jacareí,SP,3,0,0,0,0,3,1,Jacareí
+Caieiras,SP,3,0,0,0,3,0,1,Caieiras
+Vitória da Conquista,BA,3,2,0,2,1,0,1,Vitória da Conquista
+Taguatinga,DF,3,0,0,0,0,3,1,Taguatinga
+Arapiraca,AL,3,1,1,0,0,2,1,Arapiraca
+Campos dos Goytacazes,RJ,3,3,0,2,0,1,1,Campos dos Goytacazes
+Barreiras,BA,3,0,0,2,1,0,1,Barreiras
+Estância Velha,RS,3,3,1,0,2,0,1,Estância Velha
+Caruaru,PE,3,0,0,1,0,2,1,Caruaru
+Camaragibe,PE,3,2,0,0,1,2,1,Camaragibe
+Jaraguá do Sul,SC,3,0,0,0,1,2,1,Jaraguá do Sul
+Pirapora,MG,3,0,0,2,1,0,1,Pirapora
+Americana,SP,3,0,0,0,1,2,1,Americana
+Sete Lagoas,MG,3,0,0,0,1,2,1,Sete Lagoas
+Itajaí,SC,3,0,1,1,0,1,1,Itajaí
+Içara,SC,3,0,0,1,0,2,1,Içara
+Afogados da Ingazeira,PE,3,0,0,0,2,1,1,Afogados da Ingazeira
+Bodocó,PE,3,0,0,2,0,1,2,Bodoco | Bodocó
+Inhapim,MG,3,0,0,0,1,2,1,Inhapim
+Cláudio,MG,3,3,0,0,0,3,2,Claudio | Cláudio
+Montes Claros,MG,3,0,0,1,1,1,1,Montes Claros
+Toledo,PR,3,3,0,0,1,2,1,Toledo
+Piraquara,PR,3,0,0,0,1,2,1,Piraquara
+Belford Roxo,RJ,3,3,0,0,1,2,1,Belford Roxo
+Colombo,PR,3,0,0,0,1,2,1,Colombo
+Jaguari,RS,3,0,0,0,2,1,1,Jaguari
+Itapevi,SP,2,0,0,0,0,2,1,Itapevi
+Muriaé,MG,2,0,0,1,1,0,1,Muriaé
+Franco da Rocha,SP,2,2,0,0,0,2,1,Franco da Rocha
+Ourinhos,SP,2,0,0,0,1,1,1,Ourinhos
+Venda Nova do Imigrante,ES,2,0,0,2,0,0,2,Venda Nova do Imigrante | Venda do Imigrante
+Pirassununga,SP,2,0,0,0,0,2,1,Pirassununga
+Mauá,SP,2,0,0,0,2,0,1,Mauá
+Cachoeira de Minas,MG,2,0,0,0,0,2,1,Cachoeira de Minas
+Conselheiro Lafaiete,MG,2,0,0,0,2,0,2,C. Lafayete | Conselheiro Lafaiete
+Hortolândia,SP,2,0,0,0,0,2,1,Hortolândia
+Lorena,SP,2,0,0,0,1,1,1,Lorena
+Juazeiro do Norte,CE,2,0,0,0,0,2,1,Juazeiro do Norte
+Santa Bárbara d’Oeste,SP,2,0,0,1,1,0,2,Santa Barbara d’Oeste | Santa Bárbara d’Oeste
+Xambioá,TO,2,0,1,0,1,0,2,Xambioa | Xambioá
+Limoeiro de Anadia,AL,2,0,0,0,2,0,1,Limoeiro de Anadia
+Coruripe,AL,2,0,0,1,0,1,1,Coruripe
+Sumaré,SP,2,0,0,1,1,0,1,Sumaré
+Sertãozinho,SP,2,0,0,0,0,2,1,Sertãozinho
+Santa Rita do Passa Quatro,SP,2,0,0,0,1,1,2,S.R. do Passa Quatro | Sta. Rita do Passa Quatro
+Planaltina,DF,2,0,0,2,0,0,1,Planaltina
+São Paulo,CE,2,0,0,0,2,0,1,São Paulo
+Santana de Parnaíba,SP,2,1,0,1,0,1,1,Santana de Parnaíba
+Colatina,ES,2,0,0,1,1,0,1,Colatina
+São Gonçalo do Amarante,CE,2,0,0,0,2,0,2,S.G. do Amarante | São Gonçalo do Amarante
+Mairiporã,SP,2,0,0,0,2,0,2,Mairipora | Mairiporã
+Louveira,SP,2,0,1,0,0,1,2,Loureira | Louveira
+Salto,SP,2,0,0,0,2,0,1,Salto
+Caçapava,SP,2,2,0,0,0,2,1,Caçapava
+Caraguatatuba,SP,2,0,0,1,1,0,1,Caraguatatuba
+Sousa,PB,2,0,0,0,0,2,1,Sousa
+Santa Luzia,PB,2,0,0,0,1,1,1,Santa Luzia
+Lajeado,RS,2,0,0,1,0,1,1,Lajeado
+Morro Reuter,RS,2,0,0,0,1,1,1,Morro Reuter
+Barcarena,PA,2,1,0,0,0,2,1,Barcarena
+Três Lagoas,MS,2,0,0,0,1,1,1,Três Lagoas
+Santarém,PA,2,0,0,1,1,0,1,Santarém
+Portão,RS,2,0,0,1,1,0,1,Portão
+Chapecó,SC,2,0,0,0,1,1,1,Chapecó
+Roque Gonzales,RS,2,0,0,0,1,1,1,Roque Gonzales
+Marabá,PA,2,2,0,0,0,2,1,Marabá
+São José,SC,2,0,0,0,2,0,1,São José
+Aquidauana,MS,2,0,0,0,1,1,1,Aquidauana
+Timóteo,MG,2,0,0,0,1,1,1,Timóteo
+Adamantina,SP,2,0,0,0,1,1,1,Adamantina
+Pouso Alegre,MG,2,0,0,0,0,2,1,Pouso Alegre
+Osório,RS,2,2,0,0,0,2,1,Osório
+Pedro Osorio,RS,2,2,0,0,0,2,1,Pedro Osorio
+Rio das Ostras,RJ,2,0,0,0,0,2,1,Rio das Ostras
+Bom Princípio,RS,2,0,0,0,0,2,1,Bom Princípio
+Bento Gonçalves,RS,2,0,0,0,0,2,1,Bento Gonçalves
+Cachoeirinha,RS,2,0,0,1,0,1,1,Cachoeirinha
+Foz do Iguaçu,PR,2,0,0,0,2,0,1,Foz do Iguaçu
+Pato Branco,PR,2,0,0,1,0,1,1,Pato Branco
+Resende,RJ,2,0,0,0,1,1,2,Resende | Rezende
+Nova Iguaçu,RJ,2,0,0,0,2,0,1,Nova Iguaçu
+Barra Mansa,RJ,2,1,0,0,0,2,1,Barra Mansa
+Apucarana,PR,2,0,0,1,0,1,1,Apucarana
+São João da Boa Vista,SP,2,0,0,1,0,1,2,S. J. da Boa Vista | S.J. da Boa Vista
+Tremembé,SP,2,1,0,0,0,2,1,Tremembé
+Amélia Rodrigues,BA,1,0,0,0,0,1,1,Amélia Rodrigues
+Araci,BA,1,0,0,1,0,0,1,Araci
+Caetité,BA,1,1,0,0,0,1,1,Caetité
+Canápolis,BA,1,0,0,0,1,0,1,Canápolis
+Caém,BA,1,0,0,0,0,1,1,Caém
+Cordeiros,BA,1,0,0,0,0,1,1,Cordeiros
+Fortaleza,BA,1,0,0,0,0,1,1,Fortaleza
+Itabuna,BA,1,0,0,0,0,1,1,Itabuna
+Jequié,BA,1,0,0,0,1,0,1,Jequié
+São Gonçalo,SP,1,0,0,0,1,0,1,São Gonçalo
+São José do Rio Pardo,SP,1,0,0,0,1,0,1,S. J. do Rio Pardo
+São Sebastião,SP,1,0,0,0,0,1,1,São Sebastião
+Tabapuã,SP,1,0,0,1,0,0,1,Tabapuã
+Tietê,SP,1,0,0,0,1,0,1,Tietê
+Tupã,SP,1,1,0,0,1,0,1,Tupã
+São Miguel do Iguaçu,PR,1,0,0,0,0,1,1,São Miguel do Iguaçu
+Cabo Frio,RJ,1,0,0,0,0,1,1,Cabo Frio
+Casimiro de Abreu,RJ,1,0,0,0,0,1,1,Casimiro de Abreu
+Itaguaí,RJ,1,0,0,1,0,0,1,Itaguaí
+Itaperuna,RJ,1,0,0,0,0,1,1,Itaperuna
+Arapongas,PR,1,0,0,0,0,1,1,Arapongas
+Belém,PR,1,0,0,0,0,1,1,Belém
+Campo Bonito,PR,1,0,0,0,0,1,1,Campo Bonito
+Campo do Tenente,PR,1,0,0,0,0,1,1,Campo do Tenente
+Cianorte,PR,1,0,0,0,0,1,1,Cianorte
+Guarapuana,PR,1,0,0,0,0,1,1,Guarapuana
+Itaporã,PR,1,0,0,0,0,1,1,Itaporã
+Paraná,PR,1,0,0,0,1,0,1,Paraná
+Macaé,RJ,1,0,0,0,0,1,1,Macaé
+Piedade,RJ,1,1,0,0,1,0,1,Piedade
+São Pedro da Aldeia,RJ,1,0,0,0,1,0,1,São Pedro da Aldeia
+Paudalho,PE,1,0,0,0,1,0,1,Paudalho
+Piedade,PE,1,0,0,0,0,1,1,Piedade
+Salgueiro,PE,1,0,0,0,0,1,1,Salgueiro
+Toritama,PE,1,0,0,0,0,1,1,Toritama
+Altos,PI,1,1,0,0,0,1,1,Altos
+Capitão de Campos,PI,1,0,0,0,0,1,1,Capitão de Campos
+Luzilandia,PI,1,0,0,0,0,1,1,Luzilandia
+Teresópolis,RJ,1,0,0,0,0,1,1,Teresópolis
+Canguaretama,RN,1,0,0,0,0,1,1,Canguaretama
+Mossoro,RN,1,0,0,0,0,1,1,Mossoro
+Porto Velho,RO,1,0,0,0,0,1,1,Porto Velho
+Rolim de Moura,RO,1,0,0,0,0,1,1,Rolim de Moura
+Arroio do Meio,RS,1,0,0,0,0,1,1,Arroio do Meio
+Campo Bom,RS,1,0,0,0,0,1,1,Campo Bom
+Eldorado do Sul,RS,1,1,0,0,0,1,1,Eldorado do Sul
+Massaranduba,PB,1,0,0,0,0,1,1,Massaranduba
+Pombal,PB,1,0,0,1,0,0,1,Pombal
+Aracoiaba,PE,1,0,0,0,0,1,1,Aracoiaba
+Arcoverde,PE,1,1,0,0,0,1,1,Arcoverde
+Brejinho,PE,1,0,0,0,1,0,1,Brejinho
+Buíque,PE,1,0,0,0,0,1,1,Buíque
+Cabo de Santo Agostinho,PE,1,0,0,0,0,1,1,C. de Sto. Agostinho
+Gloria do Goitá,PE,1,0,1,0,0,0,1,Gloria do Goitá
+Itapissuma,PE,1,0,0,1,0,0,1,Itapissuma
+Jaboatão,PE,1,0,0,1,0,0,1,Jaboatão
+Garibaldi,RS,1,0,0,1,0,0,1,Garibaldi
+Gravataí,RS,1,1,0,0,0,1,1,Gravataí
+Ivoti,RS,1,0,0,0,1,0,1,Ivoti
+Nova Prata,RS,1,0,0,0,1,0,1,Nova Prata
+Picada Café,RS,1,0,0,0,0,1,1,Picada Café
+Pinheirinho do Vale,RS,1,0,0,0,0,1,1,Pinheirinho do Vale
+Ponta Porã,MS,1,0,0,0,0,1,1,Ponta Porã
+Colíder,MT,1,0,0,0,0,1,1,Colíder
+Lucas do Rio Verde,MT,1,0,0,0,0,1,1,Lucas do Rio Verde
+Rondonópolis,MT,1,0,0,0,0,1,1,Rondonópolis
+Barbacena,PA,1,1,0,0,0,1,1,Barbacena
+Ourilândia do Norte,PA,1,0,0,0,0,1,1,Ourilândia do Norte
+Redenção,PA,1,0,0,0,0,1,1,Redenção
+Rio Grande,RS,1,0,0,0,0,1,1,Rio Grande
+Serafina Correa,RS,1,0,0,0,0,1,1,Serafina Correa
+São Borja,RS,1,0,0,0,0,1,1,São Borja
+São Leopoldo,RS,1,0,0,0,0,1,1,São Leopoldo
+São Marcos,RS,1,0,0,0,0,1,1,São Marcos
+Tuparendi,RS,1,1,0,1,0,0,1,Tuparendi
+Uruguaiana,RS,1,0,0,0,0,1,1,Uruguaiana
+Braço do Norte,SC,1,1,0,0,0,1,1,Braço do Norte
+Capinzal,SC,1,0,0,0,1,0,1,Capinzal
+Santo Antonio,MG,1,0,1,0,0,0,1,Santo Antonio
+Santo Antonio do Monte,MG,1,0,0,0,1,0,1,Santo Antonio do Monte
+Santos Dumont,MG,1,0,0,0,0,1,1,Santos Dumont
+São Lourenço,MG,1,0,0,0,1,0,1,São Lourenço
+Unaí,MG,1,0,0,0,1,0,1,Unaí
+Vieiras,MG,1,0,0,0,0,1,1,Vieiras
+Laguna Carapã,MS,1,0,0,0,0,1,1,Laguna Carapã
+Miranda,MS,1,0,0,0,0,1,1,Miranda
+Fraiburgo,SC,1,0,0,0,1,0,1,Fraiburgo
+Itapema,SC,1,0,0,0,1,0,1,Itapema
+Maravilha,SC,1,0,0,0,1,0,1,Maravilha
+Vidal Ramos,SC,1,0,0,0,0,1,1,Vidal Ramos
+Videira,SC,1,0,0,0,0,1,1,Videira
+Barra dos Coqueiros,SE,1,0,1,0,0,0,1,Barra dos Coqueiros
+Itabaiana,SE,1,1,0,0,1,0,1,Itabaiana
+Lagarto,SE,1,1,0,0,1,0,1,Lagarto
+Malhados,SE,1,1,0,0,0,1,1,Malhados
+São Miguel do Aleixo,SE,1,0,0,0,0,1,1,São Miguel do Aleixo
+Alumínio,SP,1,0,0,0,1,0,1,Alumínio
+Araras,SP,1,0,0,0,1,0,1,Araras
+Assis,SP,1,0,0,0,0,1,1,Assis
+Avaré,SP,1,0,0,0,0,1,1,Avaré
+Batatais,SP,1,0,0,0,0,1,1,Batatais
+Ouro Fino,MG,1,0,0,0,1,0,1,Ouro Fino
+Patos de Minas,MG,1,0,0,0,0,1,1,Patos de Minas
+Pedro Leopoldo,MG,1,0,1,0,0,0,1,Pedro Leopoldo
+Pequi,MG,1,0,0,0,0,1,1,Pequi
+Piraúba,MG,1,0,0,0,1,0,1,Piraúba
+Ponte Nova,MG,1,0,0,0,0,1,1,Ponte Nova
+Ribeirão das Neves,MG,1,0,0,0,0,1,1,Ribeirão das Neves
+Rio Paranaiba,MG,1,0,0,0,0,1,1,Rio Paranaiba
+Santa Margarida,MG,1,0,0,0,1,0,1,Santa Margarida
+Santa Vitória,MG,1,0,0,0,0,1,1,Santa Vitória
+Santana de Pirapama,MG,1,0,0,0,0,1,1,Santana de Pirapama
+Birigüi,SP,1,0,0,1,0,0,1,Birigüi
+Boituba,SP,1,0,0,0,0,1,1,Boituba
+Botucatu,SP,1,0,0,0,0,1,1,Botucatu
+Botuporanga,SP,1,0,0,0,0,1,1,Botuporanga
+Cachoeira Paulista,SP,1,0,0,0,0,1,1,Cachoeira Paulista
+Colômbia,SP,1,0,0,0,0,1,1,Colômbia
+Cordeirópolis,SP,1,0,0,0,1,0,1,Cordeirópolis
+Itabirinha,MG,1,0,0,0,1,0,1,Itabirinha
+Itabiriro,MG,1,0,0,1,0,0,1,Itabiriro
+Itamogi,MG,1,0,0,0,0,1,1,Itamogi
+Itaúna,MG,1,0,0,0,0,1,1,Itaúna
+Iturama,MG,1,0,0,0,0,1,1,Iturama
+Janaúba,MG,1,1,0,0,1,0,1,Janaúba
+Juruaia,MG,1,0,0,0,0,1,1,Juruaia
+Manhuaçu,MG,1,0,0,0,1,0,1,Manhuaçu
+Mar de Espanha,MG,1,0,0,0,0,1,1,Mar de Espanha
+Martins Campos,MG,1,0,0,0,0,1,1,Martins Campos
+Nanuque,MG,1,0,0,0,0,1,1,Nanuque
+Nova Belém,MG,1,0,0,0,0,1,1,Nova Belém
+Duque de Caxias,SP,1,0,0,0,0,1,1,Duque de Caxias
+Embu,SP,1,0,0,1,0,0,1,Embu
+Fernandópolis,SP,1,0,0,1,0,0,1,Fernandópolis
+Fortaleza – CE,SP,1,0,0,1,0,0,1,Fortaleza – CE
+Guararapes,SP,1,0,0,0,0,1,1,Guararapes
+Guaíra,SP,1,0,0,0,0,1,1,Guaíra
+Ibirarema,SP,1,0,0,0,0,1,1,Ibirarema
+Itajobi,SP,1,0,0,0,0,1,1,Itajobi
+Itapira,SP,1,1,0,0,1,0,1,Itapira
+Itararé,SP,1,0,0,0,0,1,1,Itararé
+Caratinga,MG,1,0,0,0,0,1,1,Caratinga
+Carvalhos,MG,1,1,0,0,0,1,1,Carvalhos
+Cataguases,MG,1,0,0,0,0,1,1,Cataguases
+Coimbra,MG,1,0,0,0,1,0,1,Coimbra
+Conselheiro Pena,MG,1,0,0,0,1,0,1,Conselheiro Pena
+Dores de Campos,MG,1,0,0,0,0,1,1,Dores de Campos
+Extrema,MG,1,1,0,0,0,1,1,Extrema
+Flores de Campo,MG,1,0,0,1,0,0,1,Flores de Campo
+Governador Valadares,MG,1,1,0,0,0,1,1,Governador Valadares
+Itatiba,SP,1,0,0,0,1,0,1,Itatiba
+Jaboatão dos Guararapes,SP,1,0,0,1,0,0,1,Jaboatão dos Guararapes
+Jacaré,SP,1,0,0,0,0,1,1,Jacaré
+Jandira,SP,1,0,0,0,0,1,1,Jandira
+Jardinópolis,SP,1,0,0,0,1,0,1,Jardinópolis
+Laranjal Paulista,SP,1,0,0,0,0,1,1,Laranjal Paulista
+Limeira,SP,1,0,0,0,1,0,1,Limeira
+Luiz Antônio,SP,1,0,0,0,0,1,1,Luiz Antônio
+São Luís de Montes Belos,GO,1,0,0,0,0,1,1,S.L. de Montes Belos
+Valparaíso de Goiás,GO,1,0,0,0,1,0,1,Valparaíso de Goiás
+Açailândia,MA,1,0,0,0,1,0,1,Açailândia
+São José dos Campos,MA,1,1,0,0,1,0,1,São José dos Campos
+Alpinópolis,MG,1,0,0,0,0,1,1,Alpinópolis
+Bueno Brandão,MG,1,0,0,0,0,1,1,Bueno Brandão
+Capelinha,MG,1,0,0,0,0,1,1,Capelinha
+Matão,SP,1,0,0,0,0,1,1,Matão
+Mendonça,SP,1,0,0,1,0,0,1,Mendonça
+Mogi Mirim,SP,1,0,0,0,0,1,1,Mogi Mirim
+Nova Europa,SP,1,1,0,0,0,1,1,Nova Europa
+Paraguaçu Paulista,SP,1,0,0,0,1,0,1,Paraguaçu Paulista
+Domingos Martins,ES,1,0,0,0,0,1,1,Domingos Martins
+Guarapari,ES,1,0,0,0,0,1,1,Guarapari
+Iuna,ES,1,0,0,0,0,1,1,Iuna
+Jaguré,ES,1,0,0,0,0,1,1,Jaguré
+Mimoso do Sul,ES,1,0,1,0,0,0,1,Mimoso do Sul
+Montanha,ES,1,0,0,0,0,1,1,Montanha
+Nova Venécia,ES,1,0,0,0,0,1,1,Nova Venécia
+São Mateus,ES,1,0,0,0,1,0,1,São Mateus
+Goianápolis,GO,1,0,0,0,0,1,1,Goianápolis
+Pinheiros,SP,1,1,0,0,1,0,1,Pinheiros
+Praia Grande,SP,1,0,0,0,0,1,1,Praia Grande
+Presidente Bernardes,SP,1,0,0,0,0,1,1,Presidente Bernardes
+Ribeira,SP,1,0,0,0,1,0,1,Ribeira
+Rinópolis,SP,1,0,0,0,0,1,1,Rinópolis
+Rio Pardo,SP,1,0,1,0,0,0,1,Rio Pardo
+Roseira,SP,1,0,0,0,0,1,1,Roseira
+Sales,SP,1,0,0,1,0,0,1,Sales
+Santa Branca,SP,1,0,0,0,0,1,1,Santa Branca
+Gama,DF,1,0,0,0,0,1,1,Gama
+Guará,DF,1,0,0,1,0,0,1,Guará
+Guará 2,DF,1,1,0,0,0,1,1,Guará 2
+Jardim Botânico,DF,1,0,0,0,1,0,1,Jardim Botânico
+Santa Maria,DF,1,0,0,0,1,0,1,Santa Maria
+São Sebastião,DF,1,0,0,0,0,1,1,São Sebastião
+Taguatinga Sul,DF,1,0,0,1,0,0,1,Taguatinga Sul
+Barreira,CE,1,0,0,1,0,0,1,Barreira
+Ceará,CE,1,0,1,0,0,0,1,Ceará
+Cedro,CE,1,0,0,0,1,0,1,Cedro
+Deputado Irapuan Pinheiro,CE,1,0,0,0,0,1,1,Deputado Irapuan Pinheiro
+Forquilha,CE,1,1,0,0,0,1,1,Forquilha
+Itapipoca,CE,1,0,0,0,0,1,1,Itapipoca
+Jucás,CE,1,0,0,0,0,1,1,Jucás
+Lagarto,CE,1,1,0,0,1,0,1,Lagarto
+Pacajus,CE,1,0,0,0,0,1,1,Pacajus
+Serra Negra,SP,1,0,0,0,0,1,1,Serra Negra
+Sta. B. D’Oeste,SP,1,0,0,0,0,1,1,Sta. B. D’Oeste
+São Caetano,SP,1,0,0,0,0,1,1,São Caetano
+São Miguel dos Campos,AL,1,0,0,0,0,1,1,São Miguel dos Campos
+Campo ALegre,AL,1,0,0,0,0,1,1,Campo ALegre
+Palmas,TO,1,0,0,1,0,0,1,Palmas
+Porto Nacional,TO,1,0,0,0,1,0,1,Porto Nacional
+Atalaia,AL,1,1,0,0,0,1,1,Atalaia

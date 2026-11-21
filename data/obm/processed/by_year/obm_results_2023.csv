@@ -1,0 +1,326 @@
+Year,Edition,Level,Level_raw,Rank_in_level,Full name,City,State,City_State_raw,Points,Prize,Prize_raw
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),1,Davi Lima Maia,Fortaleza,CE,Fortaleza – CE,230,Ouro,Ouro
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),2,Luiz Efraim Cavalcante Basílio,Fortaleza,CE,Fortaleza – CE,200,Ouro,Ouro
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),3,Arthur Yuuki Mota Fukuoka,Maringá,PR,Maringá – PR,195,Ouro,Ouro
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),4,João Victor Benício Cândido,Brasília,DF,Brasília – DF,185,Ouro,Ouro
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),5,Pedro Moisés Nobre Fonsêca,Fortaleza,CE,Fortaleza – CE,175,Ouro,Ouro
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),6,Arthur de Carvalho Costa,Campinas,SP,Campinas – SP,170,Ouro,Ouro
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),7,André dos Santos Honorato da Silva,Rio de Janeiro,RJ,Rio de Janeiro – RJ,170,Ouro,Ouro
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),8,Leticia Frota Barreto,Fortaleza,CE,Fortaleza – CE,160,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),9,Mateus Baena Candeia,Taguatinga Sul,DF,Taguatinga Sul – DF,160,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),10,Natanael Barros Bertin,Cachoeirinha,RS,Cachoeirinha – RS,160,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),11,Thiago Ricardo Borges,Rio de Janeiro,RJ,Rio de Janeiro – RJ,160,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),12,Juliana dos Reis Pinheiro Rodrigues,Brasília,DF,Brasília – DF,160,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),13,Rafael Pereira Koshimizu,São Paulo,SP,São Paulo – SP,160,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),14,Felipe Martins Andersen,Rio de Janeiro,RJ,Rio de Janeiro – RJ,155,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),15,Bruno Magalhães Mendes,Ipatinga,MG,Ipatinga – MG,155,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),16,Guilherme Matarazo Vital,Santa Barbara d’Oeste,SP,Santa Barbara d’Oeste – SP,150,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),17,Miguel Martins Cordovil da Matta,Brasília,DF,Brasília – DF,150,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),18,Lorenzo do Prado Oliveira,São Bernardo do Campo,SP,São Bernardo do Campo – SP,145,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),19,Marcos Filipe Marques de Freitas,Fortaleza,CE,Fortaleza – CE,145,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),20,Isabel Lagemann Chilanti,Lajeado,RS,Lajeado – RS,145,Prata,Prata
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),21,Daniel Leite Mendes,Fortaleza,CE,Fortaleza – CE,140,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),22,Isabella Ferronato Costa,Porto Alegre,RS,Porto Alegre – RS,140,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),23,Manoela Assunção da Câmara Fassini,Recife,PE,Recife – PE,140,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),24,Marina Nogueira D’Emidio,Cotia,SP,Cotia – SP,140,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),25,Rafael Navarro da Silva Secco,São Paulo,SP,São Paulo – SP,140,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),26,Luana Morais Barros,Fortaleza,CE,Fortaleza – CE,140,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),27,Gabriel Mourão da Silva,Fortaleza,CE,Fortaleza – CE,140,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),28,Júlia Aleixo Melo,Recife,PE,Recife – PE,140,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),29,Francisco Abner Gomes da Silva,Fortaleza,CE,Fortaleza – CE,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),30,Gabriel Carvalho Dornelles,Porto Alegre,RS,Porto Alegre – RS,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),31,Letícia Nicoletti Capriles,Rio de Janeiro,RJ,Rio de Janeiro – RJ,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),32,Marcelino Pinto Favilla Nunes,Rio de Janeiro,RJ,Rio de Janeiro – RJ,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),33,Rafael Castro Maia da Cunha,Aracaju,SE,Aracaju – SE,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),34,Leonardo Paiva Lima,Fortaleza,CE,Fortaleza – CE,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),35,Lorenzo Godoy Petraccone,Brasília,DF,Brasília – DF,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),36,Manuela Farias dos Santos,Natal,RN,Natal – RN,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),37,Maria Teresa Pedrosa Portela,Brasília,DF,Brasília – DF,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),38,Gabriel Germiniani,Ouro Fino,MG,Ouro Fino – MG,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),39,Giovanna Pereira Ramos,Fortaleza,CE,Fortaleza – CE,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),40,Diogo Andrade Acioli,Recife,PE,Recife – PE,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),41,Ruy Medeiros de Lima Figueiredo,Santa Luzia,PB,Santa Luzia – PB,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),42,Samuel Soares Cruz,São Paulo,SP,São Paulo – SP,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),43,Rafael Cerqueira de Lima,Recife,PE,Recife – PE,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),44,Claudio Caramico Steffen Mariani,Campinas,SP,Campinas – SP,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),45,Pedro Ferreira Lima,São Bernardo do Campo,SP,São Bernardo do Campo – SP,135,Bronze,Bronze
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),46,João Marcelo Barreto de Oliveira,Salvador,BA,Salvador – BA,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),47,Murilo Alves Reis Neves,Fortaleza,CE,Fortaleza – CE,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),48,Lucas Pires Marques,Brasília,DF,Brasília – DF,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),49,Pedro Virgili Alves Calvano,Brasília,DF,Brasília – DF,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),50,Arthur Muniz Reis,Rio de Janeiro,RJ,Rio de Janeiro – RJ,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),51,Davi Lobo Fernandes,Fortaleza,CE,Fortaleza – CE,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),52,Vinícius Abbatepietro Ribeiro,Juruaia,MG,Juruaia – MG,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),53,Eduardo Augusto Marcussi de Vasconcelos,Goiânia,GO,Goiânia – GO,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),54,Guilherme Reis dos Santos,Manaus,AM,Manaus – AM,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),55,Isabella Titionic Froes,Barueri,SP,Barueri – SP,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),56,Rafael Costa de Morais,Recife,PE,Recife – PE,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),57,Renan Augusto Estevo de Almeida,Manaus,AM,Manaus – AM,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),58,Yuri Crisostomo de Oliveira,São Paulo,SP,São Paulo – SP,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),59,Vicente Mendes Borba Braune,Rio de Janeiro,RJ,Rio de Janeiro – RJ,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),60,Pablo Pinto Benevides Filho,Fortaleza,CE,Fortaleza – CE,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),61,Bernardo Tonelli de Melo,Rio de Janeiro,RJ,Rio de Janeiro – RJ,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),62,Matheus Silva de Arruda,Fortaleza,CE,Fortaleza – CE,130,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),63,Anthony Gabriel de Oliveira,Jaboatão dos Guararapes,PE,Jaboatão dos Guararapes – PE,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),64,Luísa Batista Mesquita,Brasília,DF,Brasília – DF,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),65,Pablo Vinícius Venceslau Dias,São Miguel dos Campos,AL,São Miguel dos Campos – AL,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),66,Rafael Martins Farias Maia,Fortaleza,CE,Fortaleza – CE,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),67,Eriton Boniatti Portela,Campo do Tenente,PR,Campo do Tenente – PR,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),68,Pedro Pereira da Costa,Curitiba,PR,Curitiba – PR,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),69,Davi Figueirêdo Pereira França de Miranda,João Pessoa,PB,João Pessoa – PB,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),70,Arthur Henrique do Amaral,Maringá,PR,Maringá – PR,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),71,Isaac Andrade Costa,Curitiba,PR,Curitiba – PR,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),72,Maria Clara Tenório Braga Holanda,Maceió,AL,Maceió – AL,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),73,Paulo Henrique Pinheiro Tavares,Fortaleza,CE,Fortaleza – CE,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),74,Theo Takada Higa Nomura,São Paulo,SP,São Paulo – SP,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),75,Vitor Ribeiro Peres Thomaz,São José do Rio Preto,SP,São José do Rio Preto – SP,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 1,Nível 1 (6º e 7º Anos),76,João Lucas Vitorino Arruda do Prado,Recife,PE,Recife – PE,125,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),1,Bruno Machado Feltran,São Paulo,SP,São Paulo – SP,280,Ouro,Ouro
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),2,Erick Akira Koga,Guarulhos,SP,Guarulhos – SP,245,Ouro,Ouro
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),3,Nicolas Stabenow das Neves Pereira,Paulínia,SP,Paulínia – SP,220,Ouro,Ouro
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),4,Kenzo Rocha Kawaguchi,São Paulo,SP,São Paulo – SP,200,Ouro,Ouro
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),5,Enzo Holanda Sampaio,Fortaleza,CE,Fortaleza – CE,190,Ouro,Ouro
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),6,Paulo Jônatas de Oliveira Pimentel Leite,Recife,PE,Recife – PE,175,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),7,Rafael Alves Amiune,Rio de Janeiro,RJ,Rio de Janeiro – RJ,175,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),8,Samuel Nogueira Santiago,Fortaleza,CE,Fortaleza – CE,170,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),9,Lucas Maeda Kataoka,São Paulo,SP,São Paulo – SP,165,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),10,Maria Clara Fontes Silva,Aracaju,SE,Aracaju – SE,155,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),11,Albert Davi Benoliel Tirapelle,Santarém,PA,Santarém – PA,155,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),12,Guilherme Souza Galindo,Recife,PE,Recife – PE,150,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),13,Vinícius Reis Souza de Oliveira,Belo Horizonte,MG,Belo Horizonte – MG,150,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),14,Arthur Alencar Spuri,Aquiraz,CE,Aquiraz – CE,135,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),15,Pedro Henrique Tomás da Rocha,Rio de Janeiro,RJ,Rio de Janeiro – RJ,135,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),16,João Pedro de Almeida da Silva,Caruaru,PE,Caruaru – PE,130,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),17,João Vitor Ansanelli de Almeida,São Paulo,SP,São Paulo – SP,130,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),18,Julia de Paula Pessoa Leguiza,Fortaleza,CE,Fortaleza – CE,130,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),19,Enzo Ivamoto Hirota,São Paulo,SP,São Paulo – SP,125,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),20,Artur Angelo Sartore,Fernandópolis,SP,Fernandópolis – SP,120,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),21,Heloísa Guedes de Azevedo Oliveira Mysczak,Curitiba,PR,Curitiba – PR,120,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),22,Raul Saraiva Cavalcante,Fortaleza,CE,Fortaleza – CE,120,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),23,Miguel Figueredo Dias,Porto Alegre,RS,Porto Alegre – RS,115,Prata,Prata
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),24,Manuella Autran do Nascimento Magalhães,Fortaleza,CE,Fortaleza – CE,110,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),25,Theo Taveira Pazelli,São Carlos,SP,São Carlos – SP,110,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),26,Marcos Vinicius Alves dos Santos,Salvador,BA,Salvador – BA,105,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),27,Marcos Ye,São Paulo,SP,São Paulo – SP,105,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),28,Mateus Salazar Costa,Manaus,AM,Manaus – AM,105,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),29,Tiago Popovic Giavina-Bianchi,São Paulo,SP,São Paulo – SP,105,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),30,Jakson Emanuel Santos de Souza,Jaboatão dos Guararapes,PE,Jaboatão dos Guararapes – PE,100,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),31,Sophia Li Ci Liu,São Paulo,SP,São Paulo – SP,100,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),32,Arthur Giovani Cavalcante da Ponte,Fortaleza,CE,Fortaleza – CE,95,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),33,Henrique Galvan Calçada,Ponta Grossa,PR,Ponta Grossa – PR,95,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),34,Mateus Nogueira Cavalcanti Cajado,Salvador,BA,Salvador – BA,95,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),35,Mayara Sampaio Martins,Brasília,DF,Brasília – DF,95,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),36,Gabriel Frozi Matuella,Porto Alegre,RS,Porto Alegre – RS,90,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),37,Alefe Ryan Correia da Silva,Maracanaú,CE,Maracanaú – CE,90,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),38,José Elias Padovan Britto,Brasília,DF,Brasília – DF,90,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),39,Juan Pedro Ribeiro Hora,Aracaju,SE,Aracaju – SE,90,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),40,Victor Garret de Abreu e Lima,Brasília,DF,Brasília – DF,90,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),41,Andre Souza Alberti,Cariacica,ES,Cariacica – ES,85,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),42,Thiago Hiroshi Hara Ida,Rio de Janeiro,RJ,Rio de Janeiro – RJ,85,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),43,Isabella Fernandes Walker,Ipatinga,MG,Ipatinga – MG,85,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),44,Valter da Silva Novais Neto,Salvador,BA,Salvador – BA,85,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),45,Vinicius Martins Ribeiro,Fortaleza,CE,Fortaleza – CE,85,Bronze,Bronze
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),46,Isabela Dalva Guedes Tavares de Albuquerque,Recife,PE,Recife – PE,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),47,Julia Galdino Tiosso Lopez,São Paulo,SP,São Paulo – SP,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),48,Sofia Costa Lima Pinheiro,Fortaleza,CE,Fortaleza – CE,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),49,Felipe de Freitas Parreira,Rio de Janeiro,RJ,Rio de Janeiro – RJ,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),50,Gabriel Amorim Santiago,Fortaleza,CE,Fortaleza – CE,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),51,Lucas Yukio Closs Ono,Curitiba,PR,Curitiba – PR,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),52,Luiza Calligaro Peterlongo Lorenzini Menegotto,Porto Alegre,RS,Porto Alegre – RS,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),53,Matheus Silveira Wyant,Rio de Janeiro,RJ,Rio de Janeiro – RJ,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),54,Miguel Winter Matos,Brasília,DF,Brasília – DF,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),55,Rodrigo Chagas Tenório Levino,Maceió,AL,Maceió – AL,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),56,Caio Augusto Bivar Novaes,Rio de Janeiro,RJ,Rio de Janeiro – RJ,75,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),57,Elisa Moura de Sousa Brasil,Fortaleza,CE,Fortaleza – CE,75,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),58,Laura Oliveira Mota,Fortaleza,CE,Fortaleza – CE,75,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),59,Alan Pinheiro de Oliveira,Fortaleza,CE,Fortaleza – CE,75,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),60,Arisha Ying Hai,São Carlos,SP,São Carlos – SP,75,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),61,Matheus Dowsley Arcoverde de Mello,Brasília,DF,Brasília – DF,75,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),62,Raimundo Wellington Araruna Santana Filho,Recife,PE,Recife – PE,70,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),63,Ana Clara Sawiski,Curitiba,PR,Curitiba – PR,70,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),64,Miguel Ferreira Ferrazza,Jaraguá do Sul,SC,Jaraguá do Sul – SC,70,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),65,Daniel Agi Pigini,Anápolis,GO,Anápolis – GO,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),66,Gabriel Henrique Torres de Santana,Recife,PE,Recife – PE,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),67,Matheus Bezerra Walraven de Almeida,Fortaleza,CE,Fortaleza – CE,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),68,Natália Kummer Grimm,Curitiba,PR,Curitiba – PR,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),69,Amanda Carvallo Losso,Curitiba,PR,Curitiba – PR,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),70,Caio Gomes Guerra Oliveira,Fortaleza,CE,Fortaleza – CE,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),71,João Paulo Martins de Faria,Brasília,DF,Brasília – DF,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),72,João Santos Pereira,Belo Horizonte,MG,Belo Horizonte – MG,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),73,Renan Andrade de Menezes,Fortaleza,CE,Fortaleza – CE,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),74,Ricardo Gago de Moura Fernandes,Porto Alegre,RS,Porto Alegre – RS,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),75,Amanda Seillier Navai,Brasília,DF,Brasília – DF,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),76,Arthur Antunes Petuba,Brasília,DF,Brasília – DF,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),77,Francisco Cortarelli Mançano,Marília,SP,Marília – SP,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),78,Gabriel Marques Martins Gomide,Ipatinga,MG,Ipatinga – MG,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),79,Guilherme Carvalho Costa,Brasília,DF,Brasília – DF,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),80,Ian Callou do Nascimento,Juazeiro do Norte,CE,Juazeiro do Norte – CE,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),81,Letícia Alves Costa Cabral,Brasília,DF,Brasília – DF,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),82,Isabel Santos Costa,Maceió,AL,Maceió – AL,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),83,Josué Busetti,Fortaleza,CE,Fortaleza – CE,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),84,Laura Beltrão Ramos,Recife,PE,Recife – PE,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),85,Lina Yamawaki Fachin,Curitiba,PR,Curitiba – PR,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),86,Lucas D’Alessandro Antunes,Rio de Janeiro,RJ,Rio de Janeiro – RJ,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),87,Luiza Amaral Pennewaert,São Paulo,SP,São Paulo – SP,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 2,Nível 2 (8º e 9º Anos),88,Max Augusto Castagnoli Matzenbacher,Curitiba,PR,Curitiba – PR,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),1,Pedro Henrique de Almeida Ursino,Fortaleza,CE,Fortaleza – CE,270,Ouro,Ouro
+2023,45,Nível 3,Nível 3 (Ensino Médio),2,Matheus Alencar de Moraes,Fortaleza,CE,Fortaleza – CE,270,Ouro,Ouro
+2023,45,Nível 3,Nível 3 (Ensino Médio),3,Felipe Makoto Shimamura Silva,Carapicuíba,SP,Carapicuíba – SP,250,Ouro,Ouro
+2023,45,Nível 3,Nível 3 (Ensino Médio),4,Levi Magalhães Pereira Castello Branco,Fortaleza,CE,Fortaleza – CE,235,Ouro,Ouro
+2023,45,Nível 3,Nível 3 (Ensino Médio),5,Gabriel Bastos Vasconcelos Duarte,Recife,PE,Recife – PE,200,Ouro,Ouro
+2023,45,Nível 3,Nível 3 (Ensino Médio),6,Marco Aurélio Nogueira D’Emidio,Cotia,SP,Cotia – SP,185,Ouro,Ouro
+2023,45,Nível 3,Nível 3 (Ensino Médio),7,Pedro Duarte Borges,Fortaleza,CE,Fortaleza – CE,180,Ouro,Ouro
+2023,45,Nível 3,Nível 3 (Ensino Médio),8,Levi Félix Barbosa,Caucaia,CE,Caucaia – CE,165,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),9,Leonardo Carvalho de Luca,Florianópolis,SC,Florianópolis – SC,160,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),10,João Pedro Bandeira Lemos,Recife,PE,Recife – PE,155,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),11,Arthur Henrique Paixão Santos,Guarulhos,SP,Guarulhos – SP,155,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),12,Leonardo Henrique Fakhreddine Maldonado,Sorocaba,SP,Sorocaba – SP,155,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),13,Rodrigo Fontenele de Oliveira Linhares,Fortaleza,CE,Fortaleza – CE,150,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),14,Darlan Vitor Albuquerque França,Fortaleza,CE,Fortaleza – CE,150,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),15,Henrique Quirino de Oliveira,Brasília,DF,Brasília – DF,150,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),16,João Vitor Tomaz Alves Ferreira,São Paulo,SP,São Paulo – SP,150,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),17,Bilhana Plamenova Kochloukova,Fortaleza,CE,Fortaleza – CE,145,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),18,Lucas Batista Mesquita,São Paulo,SP,São Paulo – SP,145,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),19,Murilo de Andrade Porfirio,Guarulhos,SP,Guarulhos – SP,140,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),20,Vladimir Arauzo Huisa,São Paulo,SP,São Paulo – SP,140,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),21,Samuel Teodoro Braga Martins,Belo Horizonte,MG,Belo Horizonte – MG,135,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),22,Vinícius Pimentel Nunes Portella de Macêdo,Recife,PE,Recife -PE,135,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),23,Guilherme Capristo Gonçalves,São Paulo,SP,São Paulo – SP,135,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),24,Gabriel Falcão Martinez,Salvador,BA,Salvador – BA,130,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),25,João Gilberti Alves Tavares,Fortaleza,CE,Fortaleza – CE,130,Prata,Prata
+2023,45,Nível 3,Nível 3 (Ensino Médio),26,Gabriel Delai Onzi Ramalho,São José,SC,São José – SC,120,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),27,Mateus Scheffer Mendes Maziviero Dolce,Caieiras,SP,Caieiras – SP,120,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),28,Eduardo Akira Shimamura Silva,Carapicuíba,SP,Carapicuíba – SP,120,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),29,Guilherme Rene Cristiano Nome,Valinhos,SP,Valinhos – SP,120,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),30,Miguel Chianca Evangelista,Fortaleza,CE,Fortaleza – CE,115,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),31,Fábio Medeiros Ferraz de Campos,São Paulo,SP,São Paulo – SP,115,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),32,Felipe Golin Nogueira,São Paulo,SP,São Paulo – SP,115,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),33,Lucas Kenji Fujibayashi,São Paulo,SP,São Paulo – SP,115,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),34,Gustavo Mesquita França,Fortaleza,CE,Fortaleza – CE,110,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),35,João Victor Silva dos Santos,Fortaleza,CE,Fortaleza – CE,110,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),36,David Icheng Wang Chou,São Paulo,SP,São Paulo – SP,105,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),37,Alice Ella Schneider,Fortaleza,CE,Fortaleza – CE,105,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),38,Érico Alencar Brilhante,Fortaleza,CE,Fortaleza – CE,100,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),39,Gabriel William Nascimento de Souza Ferreira,Recife,PE,Recife – PE,100,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),40,Paulo Vitor Correia de Oliveira,Aquidauana,MS,Aquidauana – MS,100,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),41,Alessandro Mathias Machado,Fortaleza,CE,Fortaleza – CE,100,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),42,Andrea Quintanilla Torrez,Fortaleza,CE,Fortaleza – CE,95,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),43,Nina Leão Fonseca,Belo Horizonte,MG,Belo Horizonte – MG,95,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),44,Rodrigo Jamundá Melo,Capinzal,SC,Capinzal – SC,95,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),45,José Thevez Gomes Guedes,Brejinho,PE,Brejinho – PE,95,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),46,Gustavo Ruas Sarmento de Almeida,Brasília,DF,Brasília – DF,90,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),47,Gabriel Porto Muylaert,Rio de Janeiro,RJ,Rio de Janeiro – RJ,90,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),48,Lucas Fraga Damasceno,Belo Horizonte,MG,Belo Horizonte – MG,90,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),49,Mateus Maeda Shida,São Paulo,SP,São Paulo – SP,90,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),50,Rafael Olandoski de Oliveira,Curitiba,PR,Curitiba – PR,90,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),51,Felipe Becker Frohlich,Morro Reuter,RS,Morro Reuter – RS,90,Bronze,Bronze
+2023,45,Nível 3,Nível 3 (Ensino Médio),52,Ahmed Ehab Fahmy El Tabey,Rio de Janeiro,RJ,Rio de Janeiro – RJ,85,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),53,Tiago Sánchez Ribeiro,Porto Alegre,RS,Porto Alegre – RS,85,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),54,Ítalo Abatemarco Munaier Serravite,Belo Horizonte,MG,Belo Horizonte – MG,85,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),55,João Paulo Pereira da Silva,Fortaleza,CE,Fortaleza – CE,85,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),56,Murilo Vichinsky Schmidt,Campinas,SP,Campinas – SP,85,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),57,Luiz Claudio de Sá Cavalcante Generoso,Fortaleza,CE,Fortaleza – CE,85,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),58,Bruno Sagui José,Rio de Janeiro,RJ,Rio de Janeiro – RJ,85,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),59,Marcelo Gonda Stangler,Porto Alegre,RS,Porto Alegre – RS,85,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),60,Arthur Rampazio Siqueira,Rio de Janeiro,RJ,Rio de Janeiro – RJ,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),61,Cecília Mileski de Paula,Fortaleza,CE,Fortaleza – CE,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),62,Guilherme Ryuji Osato,São Paulo,SP,São Paulo – SP,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),63,Gustavo Felicio de Siqueira,Hortolândia,SP,Hortolândia – SP,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),64,Gabriel Rolin Blanco Lopes,Barra Mansa,RJ,Barra Mansa – RJ,80,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),65,Bernardo Elias Esposito,Rio de Janeiro,RJ,Rio de Janeiro – RJ,75,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),66,Evandro Ichiro Fuse Sakai,Curitiba,PR,Curitiba – PR,75,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),67,Carolina Mallmann,Fortaleza,CE,Fortaleza – CE,75,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),68,Ian Vasconcelos Lotufo,Goiânia,GO,Goiânia – GO,75,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),69,David Li Chiun Liu,São Paulo,SP,São Paulo – SP,75,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),70,Daniel Yugo Sesoko,São Paulo,SP,São Paulo – SP,70,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),71,Davi Bezerra Leal Guimarães,Pesqueira,PE,Pesqueira – PE,70,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),72,Fernando Yuji Távora Pacheco,Brasília,DF,Brasília – DF,70,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),73,Jônatas Augusto de Paula,Fortaleza,CE,Fortaleza – CE,70,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),74,Patrick Avelar Santos Silva,Vila Velha,ES,Vila Velha – ES,70,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),75,Isabela Ruthner Dorn,Fortaleza,CE,Fortaleza – CE,70,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),76,Caique Paiva,Eusebio,CE,Eusebio – CE,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),77,Gustavo Vidigal Schulgin,Uberlândia,MG,Uberlândia – MG,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),78,Camila Maeda Shida,São Paulo,SP,São Paulo – SP,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),79,Enzo Villani Tonus,São José dos Campos,SP,São José dos Campos – SP,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),80,Fernando Luís Campelo dos Anjos,Recife,PE,Recife – PE,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),81,Paulo Gustavo Fonteles Silva,Fortaleza,CE,Fortaleza – CE,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),82,Bernardo Paixão da Silva Borges,Belém,PA,Belém – PA,65,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),83,André Issao Nakagawa,São José dos Campos,SP,São José dos Campos – SP,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),84,João Vitor Carvalho Almeida,Teresina,PI,Teresina – PI,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),85,Davi Braga Garcia Amaral,Rio de Janeiro,RJ,Rio de Janeiro – RJ,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),86,Felipe Osternes da Silva,Fortaleza,CE,Fortaleza – CE,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),87,Matheus Henrique Pereira Borba,Fortaleza,CE,Fortaleza – CE,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),88,Murilo Maeda Kataoka,São Paulo,SP,São Paulo – SP,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),89,Nailton Gama de Castro,Fortaleza,CE,Fortaleza – CE,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),90,Vitor Takashi Hideshima,São Paulo,SP,São Paulo – SP,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),91,Maria Júlia Akemi Kogure Monfredini Bessa,Ribeirão Preto,SP,Ribeirão Preto – SP,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),92,Henry Asakura Huang,São Paulo,SP,São Paulo – SP,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível 3,Nível 3 (Ensino Médio),93,Walter Barreto Thiel Costa,Rio de Janeiro,RJ,Rio de Janeiro – RJ,60,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,1,Marcelo Machado Lage,São Paulo,SP,São Paulo – SP,263,Ouro,Ouro
+2023,45,Nível Universitário,Nível Universitário,2,Pablo Andrade Carvalho Barros,Rio de Janeiro,RJ,Rio de Janeiro – RJ,197,Ouro,Ouro
+2023,45,Nível Universitário,Nível Universitário,3,João Guilherme Costa Viana,Fortaleza,CE,Fortaleza – CE,191,Ouro,Ouro
+2023,45,Nível Universitário,Nível Universitário,4,Gabriel Ribeiro Paiva,Fortaleza,CE,Fortaleza – CE,175,Ouro,Ouro
+2023,45,Nível Universitário,Nível Universitário,5,Rodrigo Salgado Domingos Porto,Rio de Janeiro,RJ,Rio de Janeiro – RJ,175,Ouro,Ouro
+2023,45,Nível Universitário,Nível Universitário,6,Miguel dos Anjos Batista,Rio de Janeiro,RJ,Rio de Janeiro – RJ,172,Ouro,Ouro
+2023,45,Nível Universitário,Nível Universitário,7,Arthur Queiroz Moura,São Carlos,SP,São Carlos – SP,169,Prata,Prata
+2023,45,Nível Universitário,Nível Universitário,8,Luís Felipe Pestana Giglio,Fortaleza,CE,Fortaleza – CE,161,Prata,Prata
+2023,45,Nível Universitário,Nível Universitário,9,Gustavo Neves da Cruz,Belo Horizonte,MG,Belo Horizonte – MG,154,Prata,Prata
+2023,45,Nível Universitário,Nível Universitário,10,Yvens Ian Prado Porto,Fortaleza,CE,Fortaleza – CE,153,Prata,Prata
+2023,45,Nível Universitário,Nível Universitário,11,João Arthur Marques Linhares,Rio de Janeiro,RJ,Rio de Janeiro – RJ,148,Prata,Prata
+2023,45,Nível Universitário,Nível Universitário,12,Gabriel Franceschi Libardi,São Carlos,SP,São Carlos – SP,143,Prata,Prata
+2023,45,Nível Universitário,Nível Universitário,13,Gabriel Cruz Vitale Torkomian,Campinas,SP,Campinas – SP,143,Prata,Prata
+2023,45,Nível Universitário,Nível Universitário,14,Sebastião Fróes Nachtergaele Gomes Navarro,São Paulo,SP,São Paulo – SP,142,Prata,Prata
+2023,45,Nível Universitário,Nível Universitário,15,Rafael Fernandes Moura,Fortaleza,CE,Fortaleza – CE,137,Prata,Prata
+2023,45,Nível Universitário,Nível Universitário,16,João Rafael Silva de Azeredo,Maceió,AL,Maceió – AL,137,Prata,Prata
+2023,45,Nível Universitário,Nível Universitário,17,Eduardo Malacarne Soeiro de Souza,Belo Horizonte,MG,Belo Horizonte – MG,122,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,18,Renan Almeida Ferreira,Rio de Janeiro,RJ,Rio de Janeiro – RJ,121,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,19,Guilherme Bernardo da Silva,Rio de Janeiro,RJ,Rio de Janeiro – RJ,120,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,20,Luan Arjuna Fraga Ramires,Andaraí,BA,Andaraí – BA,113,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,21,Tárik Ponte e Sá,Campinas,SP,Campinas – SP,112,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,22,Geovanne Dias Zuppo Moraes,Belo Horizonte,MG,Belo Horizonte – MG,112,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,23,João Victor de Oliveira Maldonado,Marília,SP,Marília – SP,111,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,24,Matheus Henrique Lima e Silva,São Carlos,SP,São Carlos – SP,110,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,25,João Marcelo Ribeiro Monteiro de Carvalho,Rio de Janeiro,RJ,Rio de Janeiro – RJ,109,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,26,Rafael Martins Ruas,Campinas,SP,Campinas – SP,107,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,27,Luca Zanardi Lamardo,Camaragibe,PE,Camaragibe – PE,107,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,28,Douglas Massahiro Kotsubo,São José dos Campos,SP,São José dos Campos – SP,107,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,29,Iuri Antônio Nunes De Almeida,Recife,PE,Recife – PE,106,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,30,Luca Silveira Escopelli,Rio de Janeiro,RJ,Rio de Janeiro – RJ,106,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,31,Levy Pereira Ribeiro,Rio de Janeiro,RJ,Rio de Janeiro – RJ,102,Bronze,Bronze
+2023,45,Nível Universitário,Nível Universitário,32,Mateus Blanco de Sousa,Franca,SP,Franca – SP,97,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,33,Cleyton Vinicius Prado dos Santos,Rio de Janeiro,RJ,Rio de Janeiro – RJ,90,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,34,Johannes Elias Joseph Salomão,Rio de Janeiro,RJ,Rio de Janeiro – RJ,87,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,35,Muriel Salimon Pinto,São José do Rio Preto,SP,São José do Rio Preto – SP,87,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,36,Ramyro Corrêa Aquines,Rio de Janeiro,RJ,Rio de Janeiro – RJ,87,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,37,Leonardo Ferreira Bielinski,Ponta Grossa,PR,Ponta Grossa – PR,87,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,38,José Ronaldo Silva Henrique Filho,São José dos Campos,SP,São José dos Campos – SP,87,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,39,Matheus Militão da Silva Sulzbacher,São José dos Campos,SP,São José dos Campos – SP,85,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,40,Luis Mateus Costa da Mota,Rio de Janeiro,RJ,Rio de Janeiro – RJ,81,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,41,Ângelo de Carvalho Nunes,São José dos Campos,SP,São José dos Campos – SP,79,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,42,Ebert Henrique Vieira Melo,Rio de Janeiro,RJ,Rio de Janeiro – RJ,77,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,43,Juan Pablo Lins Tavares de Melo,Recife,PE,Recife – PE,77,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,44,Anderson Davi Fernandes Moreira,Rio de Janeiro,RJ,Rio de Janeiro – RJ,74,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,45,Vitor de Oliveira da Silva,Campinas,SP,Campinas – SP,73,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,46,Marco Antonio Dourado,São Paulo,SP,São Paulo – SP,72,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,47,Renan Romariz Pinto de Miranda,Rio de Janeiro,RJ,Rio de Janeiro – RJ,72,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,48,Matheus Oliveira Alves Werner Martins,Nova Lima,MG,Nova Lima – MG,71,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,49,Thiago Galante Pereira,Niterói,RJ,Niterói – RJ,71,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,50,Gabriel Carneiro Bomfim,São José dos Campos,SP,São José dos Campos – SP,69,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,51,Matheus Franco Siqueira,Rio de Janeiro,RJ,Rio de Janeiro – RJ,69,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,52,Matheus Marchesi Hopka,São Paulo,SP,São Paulo – SP,69,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,53,Lael Viana Lima,Campinas,SP,Campinas – SP,68,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,54,Gabriella Santana Morgado,Rio de Janeiro,RJ,Rio de Janeiro – RJ,67,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,55,Davi Gabriel Bandeira Coutinho,Campinas,SP,Campinas – SP,67,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,56,Vinícius de Oliveira Raimundo,Caçapava,SP,Caçapava – SP,64,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,57,Dimitri Daniel Allan Leskow,São José dos Campos,SP,São José dos Campos – SP,64,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,58,Lenilson Costa Alves,Marabá,PA,Marabá – PA,64,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,59,Lucas Malacrida Dias,São Carlos,SP,São Carlos – SP,63,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,60,Henrique Galizzi Faé,Rio de Janeiro,RJ,Rio de Janeiro – RJ,63,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,61,Rafael Morais Bueno de Camargo,São Paulo,SP,São Paulo – SP,63,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,62,Pedro Vieira Rocha,Rio de Janeiro,RJ,Rio de Janeiro – RJ,63,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,63,Gustavo de Mendonça Freire,Rio de Janeiro,RJ,Rio de Janeiro – RJ,62,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,64,Maurício Rossetto Corrêa,São Paulo,SP,São Paulo – SP,62,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,65,Carlos Eduardo Pereira Sampaio,São José dos Campos,SP,São José dos Campos – SP,62,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,66,Mahmud Mohamad Hussein Ali Neto,São José dos Campos,SP,São José dos Campos – SP,61,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,67,Lucas Wu Jiajun,São Paulo,SP,São Paulo – SP,61,Menção Honrosa,Menção Honrosa
+2023,45,Nível Universitário,Nível Universitário,68,Pedro Arthur Dorta Montenegro,Rio de Janeiro,RJ,Rio de Janeiro – RJ,61,Menção Honrosa,Menção Honrosa

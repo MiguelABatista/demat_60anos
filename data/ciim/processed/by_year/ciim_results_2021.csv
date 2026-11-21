@@ -1,0 +1,84 @@
+Year,Pos,First name,Family name,Full name,University,Country,Code,P1,P2,P3,P4,P5,P6,Total,Prize,Prize_raw
+2021,1,Gabriel,Tostes Messias Pereira,Gabriel Tostes Messias Pereira,obm,Brasil,,8,10,10,10,10,3,51,Gold,Oro
+2021,2,Andrey Jhen Shan,Chen,Andrey Jhen Shan Chen,OBM,Brasil,,10,10,1,9,10,6,46,Gold,Oro
+2021,3,George,Lucas,George Lucas,Obm,Brasil,,10,10,10,10,3,1,44,Gold,Oro
+2021,4,Gregorio,Salazar,Gregorio Salazar,Olimpiadas,Colombia,,10,2,10,10,8,3,43,Gold,Oro
+2021,5,Miguel,dos Anjos Batista,Miguel dos Anjos Batista,PUC RIO,Brasil,,10,5,10,3,10,0,38,Gold,Oro
+2021,6,,,Matheus Andrade Barreto,IME,Brasil,,10,10,0,10,3,1,34,Gold,Oro
+2021,7,Eduardo Alexis,Llamoca Palomino,Eduardo Alexis Llamoca Palomino,Pontifica Universidad Católica del Perú,Perú,,10,10,1,10,2,0,33,Gold,Oro
+2021,8,Christopher Edgado,Padilla Sandoval,Christopher Edgado Padilla Sandoval,Universidad de El Salvador,El Salvador,,10,0,9,10,0,0,29,Silver,Plata
+2021,9,Caio Augusto,de Carvalho Costa,Caio Augusto de Carvalho Costa,ITA - Instituto Tecnológico de Aeronáutica,Brasil,,1,10,10,3,5,0,29,Silver,Plata
+2021,10,Audrick Raúl,Veliz Hernández,Audrick Raúl Veliz Hernández,Universidad de San Carlos de Guatemala,Guatemala,,10,10,0,8,0,0,28,Silver,Plata
+2021,11,Santiago,Rodríguez,Santiago Rodríguez,OLIMPIADAS,Colombia,,10,2,2,10,1,0,25,Silver,Plata
+2021,12,Anthony Enrique,Huarcaya Palomino,Anthony Enrique Huarcaya Palomino,PUCP,Perú,,8,2,0,10,4,0,24,Silver,Plata
+2021,13,Maria Clara,de Lacerda Werneck,Maria Clara de Lacerda Werneck,PUC-Rio,Brasil,,10,2,1,10,0,0,23,Silver,Plata
+2021,14,Juan David,Restrepo Rojas,Juan David Restrepo Rojas,OLIMPIADAS,Colombia,,8,1,1,10,3,0,23,Silver,Plata
+2021,15,Isaías Fernando,De la Fuente Jiménez,Isaías Fernando De la Fuente Jiménez,Olimpiada Mexicana de Matemáticas,México,,10,1,2,10,0,0,23,Silver,Plata
+2021,16,Anthony Dante,Yataco Torres,Anthony Dante Yataco Torres,Pontificia Universidad Católica del Perú,Perú,,10,1,1,10,0,0,22,Silver,Plata
+2021,17,Gabriel,Collado Valverde,Gabriel Collado Valverde,Universidad de Costa Rica,Costa Rica,,10,1,0,10,0,0,21,Silver,Plata
+2021,18,Lael,Lima,Lael Lima,Universidade Estadual de Campinas (Unicamp),Brasil,,10,0,0,10,0,0,20,Silver,Plata
+2021,19,José de Jesús,Liceaga Martínez,José de Jesús Liceaga Martínez,Olimpiada Mexicana de Matemáticas,México,,10,0,0,10,0,0,20,Silver,Plata
+2021,20,Ingrid Verónica,Salazar Picado,Ingrid Verónica Salazar Picado,Instituto Tecnológico de Costa Rica,Costa Rica,,10,1,2,6,0,0,19,Silver,Plata
+2021,21,Sampaio Lacerda,Sofia,Sampaio Lacerda Sofia,USP,Brasil,,9,0,0,3,7,0,19,Silver,Plata
+2021,22,Fraga Ramires,Luan Arjuna,Fraga Ramires Luan Arjuna,Universidade de São Paulo,Brasil,,10,1,0,5,1,0,17,Bronze,Bronce
+2021,23,Gustavo,Ewbank Rodrigues Danon,Gustavo Ewbank Rodrigues Danon,Instituto Militar de Engenharia (IME),Brasil,,10,0,3,2,1,0,16,Bronze,Bronce
+2021,24,Alejandro,Pallais Garcia,Alejandro Pallais Garcia,Universidad de San Carlos de Guatemala,Guatemala,,10,2,0,4,0,0,16,Bronze,Bronce
+2021,25,Julián Alberto,Alzate Cárdenas,Julián Alberto Alzate Cárdenas,Universidad Industrial de Santander,Colombia,,10,2,1,2,0,0,15,Bronze,Bronce
+2021,26,André Yuji,Hisatsuga,André Yuji Hisatsuga,IME-USP,Brasil,,2,0,10,2,0,0,14,Bronze,Bronce
+2021,27,Daniel Estuardo,Tobar López,Daniel Estuardo Tobar López,Guatemala,Guatemala,,10,1,1,2,0,0,14,Bronze,Bronce
+2021,28,Armando Benjamín,Cruz Hinojosa,Armando Benjamín Cruz Hinojosa,Olimpiada Mexicana de Matemáticas,México,,1,0,4,1,8,0,14,Bronze,Bronce
+2021,29,Jesús Antonio,Martínez Miranda,Jesús Antonio Martínez Miranda,CIMAT-UNIVERSIDAD DE GUANAJUATO,México,,10,1,0,3,0,0,14,Bronze,Bronce
+2021,30,Mateus,Lima Silveira,Mateus Lima Silveira,Instituto Militar de Engenharia,Brasil,,10,2,0,1,0,0,13,Bronze,Bronce
+2021,31,Gabriel,Franceschi Libardi,Gabriel Franceschi Libardi,Universidade de São Paulo - São Carlos,Brasil,,10,0,0,0,3,0,13,Bronze,Bronce
+2021,32,Jorge Isaac,Rubiano Murcia,Jorge Isaac Rubiano Murcia,Universidad Nacional Bogotá,Colombia,,4,2,1,5,1,0,13,Bronze,Bronce
+2021,33,Breno,Marot,Breno Marot,PUC-Rio,Brasil,,10,1,0,1,0,0,12,Bronze,Bronce
+2021,34,Carlos Andrés,Granada Palacio,Carlos Andrés Granada Palacio,Universidad de Antioquia,Colombia,,10,1,0,1,0,0,12,Bronze,Bronce
+2021,35,David Andrés,Montalván Poppe,David Andrés Montalván Poppe,espol,Ecuador,,5,1,3,3,0,0,12,Bronze,Bronce
+2021,36,Ariel,Silva Claudino,Ariel Silva Claudino,Instituto Tecnológico de Aeronáutica (ITA),Brasil,,10,1,0,0,0,0,11,Bronze,Bronce
+2021,37,Daniel,Pinedo González,Daniel Pinedo González,Olimpiadas Colombianas,Colombia,,2,1,0,8,0,0,11,Bronze,Bronce
+2021,38,Josué Alejandro,Pérez Lara,Josué Alejandro Pérez Lara,Universidad de Guanajuato,México,,1,1,0,8,0,0,10,Bronze,Bronce
+2021,39,Alexandre,Raulik Neto,Alexandre Raulik Neto,Instituto Tecnológico de Aeronáutica,Brasil,,1,1,0,2,5,,9,Bronze,Bronce
+2021,40,Felipe,Knöller Nunes,Felipe Knöller Nunes,Instituto Militar de Engenharia (IME),Brasil,,2,4,0,2,0,0,8,Bronze,Bronce
+2021,41,Antonio,Caravaca Lopez,Antonio Caravaca Lopez,Universidad de Costa Rica,Costa Rica,,8,0,0,0,0,0,8,Bronze,Bronce
+2021,42,Walter Carvilio,Meza Amaya,Walter Carvilio Meza Amaya,Universidad de El Salvador,El Salvador,,4,0,0,4,0,0,8,Bronze,Bronce
+2021,43,Luis,Zegarra,Luis Zegarra,Pontificia Universidad Catolica del Peru,Perú,,2,0,0,3,0,3,8,Bronze,Bronce
+2021,44,Jose Alfredo,Urrea Moreno,Jose Alfredo Urrea Moreno,Universidad Nacional Bogotá,Colombia,,2,0,0,5,0,0,7,,
+2021,45,César,Herrera Garro,César Herrera Garro,Universidad de Costa Rica,Costa Rica,,1,1,0,5,0,0,7,,
+2021,46,Kevyn Djhonatha,Dias de Lacerda,Kevyn Djhonatha Dias de Lacerda,Universidade Estadual de Campinas,Brasil,,1,0,0,5,0,0,6,,
+2021,47,Omar Steven,Gutiérrez Rojas,Omar Steven Gutiérrez Rojas,Universidad Nacional de Colombia sede Manizales,Colombia,,4,1,0,1,0,0,6,,
+2021,48,Yan Victor,Souza Guimarães,Yan Victor Souza Guimarães,UNICAMP,Brasil,,0,0,0,5,0,0,5,,
+2021,49,Igor,Caldeira Magalhães,Igor Caldeira Magalhães,Instituto Tecnologico de Aeronautica - ITA,Brasil,,3,0,0,2,0,0,5,,
+2021,50,Jean Carlos,Villegas Morales,Jean Carlos Villegas Morales,Universidad de Costa Rica,Costa Rica,,1,1,0,3,,0,5,,
+2021,51,Andrei Esteban,Oses Amaya,Andrei Esteban Oses Amaya,Instituto Tecnológico de Costa Rica,Costa Rica,,1,0,0,4,0,0,5,,
+2021,52,Hopkins Agustin,Herbas Chaverro,Hopkins Agustin Herbas Chaverro,ESPOL,Ecuador,,4,0,0,1,,0,5,,
+2021,53,Juan Pablo,Pirir Montenegro,Juan Pablo Pirir Montenegro,Universidad de San Carlos de Guatemala,Guatemala,,1,0,0,3,1,0,5,,
+2021,54,Luis Estuardo,Ayapan Canel,Luis Estuardo Ayapan Canel,Universidad Galileo,Guatemala,,4,0,0,1,0,0,5,,
+2021,55,Héctor de Jesús,García Escamilla,Héctor de Jesús García Escamilla,Universidad Autónoma de Querétaro,México,,4,1,0,0,0,0,5,,
+2021,56,Hazael,Soledade de Araujo Jumonji,Hazael Soledade de Araujo Jumonji,Universidade de São Paulo,Brasil,,3,1,0,,,,4,,
+2021,57,Juan Esteban,Londono Velasquez,Juan Esteban Londono Velasquez,Universidad de Antioquia,Colombia,,1,0,0,3,0,0,4,,
+2021,58,Javier Fernando,González,Javier Fernando González,Universidad Nacional Bogotá,Colombia,,1,1,0,2,0,0,4,,
+2021,59,Johan Fernando,Guillén Meza,Johan Fernando Guillén Meza,Instituto Tecnológico de Costa Rica,Costa Rica,,2,0,0,2,0,0,4,,
+2021,60,Alejandro Sebastián,Rueda Manosalvas,Alejandro Sebastián Rueda Manosalvas,USFQ,Ecuador,,2,1,0,1,0,0,4,,
+2021,61,Kevin Ronaldo,Ventura Olla,Kevin Ronaldo Ventura Olla,Universidad de El Salvador,El Salvador,,1,0,0,3,0,0,4,,
+2021,62,Teresa Isabel,Trejo Avila,Teresa Isabel Trejo Avila,Universidad Autónoma de Querétaro,México,,1,1,0,2,0,0,4,,
+2021,63,Vitória,Ferreira,Vitória Ferreira,UNICAMP,Brasil,,2,1,0,0,0,0,3,,
+2021,64,Ana Paulina,Castillo Velasquez,Ana Paulina Castillo Velasquez,Universidad Nacional Bogotá,Colombia,,1,1,0,1,0,0,3,,
+2021,65,Cristian David,Villada Garzón,Cristian David Villada Garzón,Universidad Nacional de Colombia - Manizales,Colombia,,2,0,0,1,0,0,3,,
+2021,66,Pablo José,Padilla Ortiz,Pablo José Padilla Ortiz,Universidad San Francisco de Quito,Ecuador,,1,0,0,2,0,0,3,,
+2021,67,Mateo,Martínez Mejía,Mateo Martínez Mejía,Universidad San Francisco de Quito,Ecuador,,1,0,0,2,0,0,3,,
+2021,68,José Gabriel,Castillo Flores,José Gabriel Castillo Flores,Universidad San Francisco de Quito,Ecuador,,2,0,0,0,1,0,3,,
+2021,69,Cristhyan Bryan,Cayetano Tumbaco,Cristhyan Bryan Cayetano Tumbaco,ESPOL,Ecuador,,2,1,0,0,0,0,3,,
+2021,70,Sergio,Esteban Muñoz,Sergio Esteban Muñoz,Universidad de Buenos Aires,Argentina,,1,1,0,,,,2,,
+2021,71,Elkin Duvan,Eraso Riascos,Elkin Duvan Eraso Riascos,Universidad Nacional de Colombia Sede Manizales,Colombia,,1,0,0,1,0,0,2,,
+2021,72,Axel Arturo,Aveiga Defaz,Axel Arturo Aveiga Defaz,Escuela Superior Politécnica del Litoral,Ecuador,,1,0,0,1,0,0,2,,
+2021,73,Byron Abel Raul,Hernández Pacay,Byron Abel Raul Hernández Pacay,Guatemala,Guatemala,,2,0,0,0,0,0,2,,
+2021,74,Victor,de Andrade Marques Lourenço,Victor de Andrade Marques Lourenço,USP - São Carlos,Brasil,,1,0,0,0,0,0,1,,
+2021,75,Soares Sousa,Felipi Adenildo,Soares Sousa Felipi Adenildo,USP,Brasil,,1,0,0,0,0,0,1,,
+2021,76,Carlos Santiago,Rodríguez Sarmiento,Carlos Santiago Rodríguez Sarmiento,Universidad Industrial de Santander,Colombia,,1,0,0,0,0,0,1,,
+2021,77,Steven,González Manzanares,Steven González Manzanares,Universidad de Costa Rica,Costa Rica,,1,0,0,0,0,0,1,,
+2021,78,Julio Andrés,Castro Granados,Julio Andrés Castro Granados,UCR,Costa Rica,,1,0,0,0,0,0,1,,
+2021,79,Kevin Alejandro,Mojica Alas,Kevin Alejandro Mojica Alas,Universidad de El Salvador,El Salvador,,1,0,0,0,0,0,1,,
+2021,80,Mariajosé,Chinchilla Morán,Mariajosé Chinchilla Morán,Guatemala,Guatemala,,1,0,0,,,,1,,
+2021,81,Pedro Pablo,Rubio González,Pedro Pablo Rubio González,Guatemala,Guatemala,,1,0,0,0,0,0,1,,
+2021,82,Joshua Sebastián,González Torres,Joshua Sebastián González Torres,Universidad de Guanajuato - CIMAT,México,,1,0,0,0,0,0,1,,
+2021,83,Diego José,Izaguirre Cutzal,Diego José Izaguirre Cutzal,Universidad de San Carlos de Guatemala,Guatemala,,0,0,0,0,0,0,0,,

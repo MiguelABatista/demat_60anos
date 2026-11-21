@@ -5,5 +5,7 @@ __pycache__/
 .env
 .~lock.*
 
-# PDFs oficiais baixados (~52 MB) — re-baixáveis com scripts/download_imc_pdfs.py
+# PDFs e imagens oficiais baixados — re-baixáveis com scripts/download_imc_pdfs.py e scripts/download_ciim.py
 data/raw/pdf/
+data/ciim/raw/pdf/
+data/ciim/raw/img/

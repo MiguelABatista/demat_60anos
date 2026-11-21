@@ -1,0 +1,65 @@
+Year,Pos,First name,Family name,Full name,University,Country,Code,P1,P2,P3,P4,P5,P6,Total,Prize,Prize_raw
+2026,1,,,Luis Felipe Pestana Giglio,,Brasil,CDE345,10,10,10,10,10,4,54,Gold,ORO
+2026,2,,,David José Galarza Bermúdez,,Colombia,VWX234,10,10,5,8,10,10,53,Gold,ORO
+2026,3,,,Rafael Martins Ruas,,Brasil,VWX123,10,10,10,10,9,1,50,Gold,ORO
+2026,4,,,Emiliano Fernández Almazán,,México,PQR456,8,10,10,10,10,0,48,Gold,ORO
+2026,5,,,Leonardo Carvalho De Luca,,Brasil,TUV456,10,10,9,10,7,0,46,Gold,ORO
+2026,6,,,Juan Felipe Vázquez Balderas,,México,NOP890,10,10,0,8,10,4,42,Silver,PLATA
+2026,7,,,João Marcelo Ribeiro Monteiro de Car,,Brasil,OPQ567,3,7,10,10,10,0,40,Silver,PLATA
+2026,8,,,José Andrés Zamora Moncada,,México,HIJ234,10,2,10,10,5,1,38,Silver,PLATA
+2026,9,,,Dariam Samuel Aguilar García,,México,JKL890,10,10,0,7,7,2,36,Silver,PLATA
+2026,10,,,Carlos Andrés Pozo Vargas,,Bolivia,GHI567,6,7,0,10,10,0,33,Silver,PLATA
+2026,11,,,Sergio Manuel Baldares Arce,,Costa Rica,UVW345,10,1,0,10,9,0,30,Silver,PLATA
+2026,12,,,Luis Eduardo Martínez Aguirre,,México,ZAB012,10,7,0,2,10,0,29,Silver,PLATA
+2026,13,,,Jesús Tadeo Cruz Soto,,México,BCD678,10,1,0,7,10,0,28,Silver,PLATA
+2026,14,,,Miguel Ángel Aristizábal Mesa,,Colombia,LMN234,10,3,2,10,3,0,28,Silver,PLATA
+2026,15,,,Vinicius Arcanjo Fonseca de Oliveira,,Brasil,EFG012,4,10,0,8,0,5,27,Silver,PLATA
+2026,16,,,Adrián Camilo Cerda Morocho,,Ecuador,GHI789,6,6,0,5,10,0,27,Silver,PLATA
+2026,17,,,Isaac da Silva Mota,,Brasil,VWX012,7,9,0,8,3,0,27,Silver,PLATA
+2026,18,,,Juan Esteban Abarca Calderón,,Costa Rica,KLM789,8,4,0,8,4,2,26,Bronze,BRONCE
+2026,19,,,Sebastián Aguilar Pineda,,Costa Rica,RST012,10,1,0,8,7,0,26,Bronze,BRONCE
+2026,20,,,Emerson Franzua Aldana Navarrete,,Honduras,YZA567,10,2,0,10,4,0,26,Bronze,BRONCE
+2026,21,,,Arthur Henrique Paixão Santos,,Brasil,DEF234,10,1,0,10,1,2,24,Bronze,BRONCE
+2026,22,,,Eric Ransom Treviño,,México,STU789,10,4,0,4,6,0,24,Bronze,BRONCE
+2026,23,,,Mateus Sperandio Mendonça,,Brasil,FGH678,10,0,2,9,0,1,22,Bronze,BRONCE
+2026,24,,,Bryan Gabriel Hernández Siles,,Costa Rica,MNO345,10,6,0,5,1,0,22,Bronze,BRONCE
+2026,25,,,Isaac Fabian Villa Miranda,,Bolivia,YZA345,7,1,0,10,4,0,22,Bronze,BRONCE
+2026,26,,,João Vítor Tomaz Alves Ferreira,,Brasil,EFG901,4,2,0,5,7,3,21,Bronze,BRONCE
+2026,27,,,Felipe Abarca Amador,,Costa Rica,BCD890,0,10,0,0,10,0,20,Bronze,BRONCE
+2026,28,,,Diego Alfonso Villarreal Grimaldo,,México,MNO123,10,2,2,4,0,0,18,Bronze,BRONCE
+2026,29,,,Abner Alexander Méndez Celada,,Guatemala,DEF456,10,0,0,7,0,0,17,Bronze,BRONCE
+2026,30,,,Josué David Galán Mena,,Ecuador,HIJ456,7,1,0,6,0,1,15,Bronze,BRONCE
+2026,31,,,Matías Bohórquez Castañeda,,Colombia,IJK901,10,1,0,1,2,0,14,Bronze,BRONCE
+2026,32,,,Daniel Alejandro Miranda Acosta,,Honduras,STU901,3,0,0,10,0,0,13,Bronze,BRONCE
+2026,33,,,Leonidas Caetano Da Silva,,Brasil,WXY789,4,1,0,7,1,0,13,Bronze,BRONCE
+2026,34,,,Olman Josué Carranza Montero,,Costa Rica,IJK123,4,0,0,0,7,1,12,,
+2026,35,,,Alberto Antonio Velásquez Caballeros,,Guatemala,JKL012,10,1,0,0,1,0,12,Honourable Mention,MENCION HONORIFICA
+2026,36,,,Ronny Saúl Chalco Paucar,,Ecuador,OPQ789,4,0,0,3,5,0,12,,
+2026,37,,,Mateo Ríos,,Ecuador,CDE567,7,0,0,3,1,0,11,,
+2026,38,,,Pedro Henrique De Abreu Duailibe,,Brasil,STU890,3,0,0,3,1,4,11,,
+2026,39,,,Luis Diego Elizondo Fennell,,Costa Rica,TUV678,0,1,0,0,10,0,11,Honourable Mention,MENCION HONORIFICA
+2026,40,,,Beatriz Sancho Chaves,,Costa Rica,ABC123,7,2,0,1,0,0,10,,
+2026,41,,,Lester Iván Hernández Hernández,,Honduras,QRS345,0,0,0,2,8,0,10,,
+2026,42,,,Lykos López Rivera,,Colombia,WXY901,4,0,2,0,4,0,10,,
+2026,43,,,Sofía Soto Guerrero,,Colombia,XYZ678,8,0,0,2,0,0,10,,
+2026,44,,,Daniel David Serrano Hernández,,Colombia,ZAB123,0,0,0,0,10,0,10,Honourable Mention,MENCION HONORIFICA
+2026,45,,,Tomás Jara,,Colombia,BCD789,0,0,2,0,7,0,9,,
+2026,46,,,Kevin Santiago Triviño Vanegas,,Colombia,CDE456,5,0,0,0,1,0,6,,
+2026,47,,,Miguel Ángel Hernández Lora,,República Dominicana,FGH890,1,1,0,4,0,0,6,,
+2026,48,,,Juan Esteban Tarazona Carvajal,,Colombia,NOP012,0,0,0,6,0,0,6,,
+2026,49,,,Samuel Santiago Rondón Flores,,Colombia,YZA456,0,0,0,3,3,0,6,,
+2026,50,,,María De Los Ángeles Zepeda Arriola,,El Salvador,ZAB234,4,2,0,0,0,0,6,,
+2026,51,,,Camilo Betancur Betancur,,Colombia,ZAB456,0,0,0,6,0,0,6,,
+2026,52,,,Juan Pablo Alzate Atehortua,,Colombia,QRS123,0,0,0,5,0,0,5,,
+2026,53,,,Brandon Velásquez Jaramillo,,Colombia,WXY890,0,1,0,0,4,0,5,,
+2026,54,,,Jhon Fredy Aguirre García,,Colombia,HIJ345,0,1,0,3,0,0,4,,
+2026,55,,,Cristian Yecid Torres,,Colombia,PQR678,0,1,0,2,0,1,4,,
+2026,56,,,Antonio Francisco Batista Filho,,Brasil,ABC901,0,0,0,2,1,0,3,,
+2026,57,,,Juan Felipe Cruz Bernal,,Colombia,KLM567,0,0,0,2,0,0,2,,
+2026,58,,,Arturo Cabrera Vásquez,,México,ZAB345,0,0,0,1,1,0,2,,
+2026,59,,,Juan Manuel Poloche Ríos,,Colombia,KLM678,0,1,0,0,0,0,1,,
+2026,60,,,Luis David Sánchez Salazar,,Colombia,NOP901,0,0,0,0,1,0,1,,
+2026,61,,,Bamsi Méndez Posada,,Colombia,QRS234,0,0,0,0,1,0,1,,
+2026,62,,,Jared Fabricio Escobar Durón,,Honduras,EFG123,0,0,0,0,0,0,0,,
+2026,63,,,Pablo Juan Carlos Escobar Matzir,,Guatemala,LMN456,0,0,0,0,0,0,0,,
+2026,64,,,Sara Lizarazo Gómez,,Colombia,TUV567,0,0,0,0,0,0,0,,
