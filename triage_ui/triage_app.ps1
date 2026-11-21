@@ -93,7 +93,7 @@ function Open-InFirefox {
     }
 }
 
-# Carregar somente os 95 SEM_EVIDENCIA do CSV original (somente leitura)
+# Carregar somente os SEM_EVIDENCIA do CSV original (somente leitura)
 $allRows = @(Import-Csv -Path $InputCsv -Encoding UTF8)
 $script:Candidates = @($allRows | Where-Object { $_.Classification -eq "SEM_EVIDENCIA" })
 
@@ -143,9 +143,17 @@ if (Test-Path $OutputCsv) {
 
 function Save-AllToCsv {
     $ordered = New-Object System.Collections.ArrayList
+    $seenIds = @{}
     foreach ($c in $script:Candidates) {
         if ($script:SavedById.ContainsKey($c.OBM_Person_id)) {
             [void]$ordered.Add($script:SavedById[$c.OBM_Person_id])
+            $seenIds[$c.OBM_Person_id] = $true
+        }
+    }
+    # Preserva registros salvos anteriormente de pessoas que já foram resolvidas em outra etapa (ex.: IME)
+    foreach ($id in ($script:SavedById.Keys | Sort-Object)) {
+        if (-not $seenIds.ContainsKey($id)) {
+            [void]$ordered.Add($script:SavedById[$id])
         }
     }
     $tmpPath = "$OutputCsv.tmp"
@@ -168,7 +176,7 @@ $script:SuppressAutoClass = $false
 # Construção da Interface
 # ========================
 $form = New-Object System.Windows.Forms.Form
-$form.Text = "Triagem OBM -> PUC-Rio (95 SEM_EVIDENCIA)"
+$form.Text = "Triagem OBM -> PUC-Rio ($($script:Candidates.Count) SEM_EVIDENCIA)"
 $form.Size = New-Object System.Drawing.Size(580, 740)
 $form.MinimumSize = New-Object System.Drawing.Size(540, 700)
 $form.StartPosition = "Manual"
@@ -611,15 +619,19 @@ function Get-CurrentCandidate {
 
 function Update-ProgressUI {
     $total = $script:Candidates.Count
-    $done = $script:SavedById.Count
+    $done = 0
     $pucCount = 0
     $posCount = 0
     $otherCount = 0
-    foreach ($v in $script:SavedById.Values) {
-        switch ($v.Classification) {
-            "CONFIRMADO_PUC"    { $pucCount++ }
-            "POSSIVEL"          { $posCount++ }
-            "OUTRA_INSTITUICAO" { $otherCount++ }
+    foreach ($c in $script:Candidates) {
+        if ($script:SavedById.ContainsKey($c.OBM_Person_id)) {
+            $done++
+            $v = $script:SavedById[$c.OBM_Person_id]
+            switch ($v.Classification) {
+                "CONFIRMADO_PUC"    { $pucCount++ }
+                "POSSIVEL"          { $posCount++ }
+                "OUTRA_INSTITUICAO" { $otherCount++ }
+            }
         }
     }
     $lblProgress.Text = "Salvos: $done/$total  |  PUC: $pucCount  |  Possível: $posCount  |  Outra: $otherCount"
@@ -671,7 +683,7 @@ function Load-CurrentCandidateUI {
     $c = Get-CurrentCandidate
 
     if ($null -eq $c) {
-        $lblName.Text = "Todos os 95 candidatos concluídos!"
+        $lblName.Text = "Todos os $($script:Candidates.Count) candidatos concluídos!"
         $lblMeta.Text = "Arquivo salvo em: data\puc\obm_university_sem_evidencia_manual_triage.csv"
         $lblHint.Text = "Desmarque 'Só pendentes' acima se quiser revisar ou editar alguém."
         $lblStatusBadge.Text = "CONCLUÍDO"

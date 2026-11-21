@@ -5,7 +5,7 @@ Esta pasta (`triage_ui/`) é completamente separada do restante do projeto e pod
 ## Como usar
 
 1. Dê duplo clique em **`iniciar.bat`** (ou execute `triage_ui\iniciar.bat` pelo terminal).
-2. A janela abre no canto da tela (**Sempre no topo**) e abre automaticamente no **Firefox** a busca no Google pelo primeiro candidato pendente entre os 95 `SEM_EVIDENCIA`.
+2. A janela abre no canto da tela (**Sempre no topo**) e abre automaticamente no **Firefox** a busca no Google pelo primeiro candidato pendente entre os `SEM_EVIDENCIA`.
 3. Preencha os 2 passos rápidos:
    - **1. Faculdade / Instituição:** digite (ex.: `PUC-Rio`, `UFRJ`, `IME`, `FGV`, `UFF`) ou clique nos botões rápidos.
      - Se contiver `PUC` → classifica automaticamente como `CONFIRMADO_PUC`.
